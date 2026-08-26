@@ -2,14 +2,13 @@
   "title": "考研英语二2011年真题及答案解析（整卷）",
   "paragraphs": [
     {
-      "paragraph_id": "p2",
-      "label": "Paragraph 2",
+      "paragraph_id": "p_1",
+      "label": "Paragraph 1 (P2)",
       "sentences": [
         {
-          "id": "s2_1",
+          "id": "s_1",
           "text": "Outside directors are supposed to serve as helpful, yet less biased, advisers on a firm's board.",
           "translation": "外部董事应当在公司董事会中充当有益但较少偏见的顾问。由于他们的财富和声誉是在其他地方建立的，他们大概有足够的独立性来反对首席执行官的提议。如果股价和天空一起下跌，外部董事应该能够基于自己经历过的危机提供建议。",
-          "analysis": {},
           "tokens": [
             {
               "word": "Outside",
@@ -154,10 +153,9 @@
           ]
         },
         {
-          "id": "s2_2",
+          "id": "s_2",
           "text": "Having made their wealth and their reputations elsewhere, they presumably have enough independence to disagree with the chief executive's proposals.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Having",
@@ -323,10 +321,9 @@
           ]
         },
         {
-          "id": "s2_3",
+          "id": "s_3",
           "text": "If the sky and the share price are falling, outside directors should be able to give advice based on having weathered their own crises.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "If",
@@ -515,14 +512,13 @@
       ]
     },
     {
-      "paragraph_id": "p3",
-      "label": "Paragraph 3",
+      "paragraph_id": "p_2",
+      "label": "Paragraph 2 (P3)",
       "sentences": [
         {
-          "id": "s3_1",
+          "id": "s_1",
           "text": "The researchers from Ohio University used a database that covered more than 10,000 firms and more than 64,000 different directors between 1989 and 2004.",
           "translation": "懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好found that after a surprise departure, the probability that the company will subsequently have to restateearnings increases by nearly 20%. The likelihood of being named in a federal class-action lawsuit alsoincreases, and the stock is likely to perform worse. The effect tended to be larger for larger firms.Although a correlation between them leaving and subsequent bad performance at the firm is suggestive,it does not mean that such directors are always jumping off a sinking ship. Often they \"trade up,\"leaving riskier, smaller firms for larger and more stable firms.Ohio University的研究人员使用了一个涵盖1989年至2004年间超过10,000家公司和超过64,000名不同董事的数据库。然后他们只是简单地检查哪些董事从一份委托声明留任到下一份。离开董事会最可能的原因是年龄，因此研究人员将注意力集中在70岁以下董事的那些\"意外\"离职上。他们发现，在意外离职后，公司随后必须重述收益的概率增加了近20%。被列入联邦集体诉讼的可能性也会增加，股票表现可能会更差。这种影响对于规模更大的公司往往更明显。尽管他们离职与公司随后的糟糕表现之间的相关性具有暗示性，但这并不意味着这些董事总是在弃船逃跑。他们往往是\"向上跳槽\"，离开风险较高的小公司，转投规模更大、更稳定的公司。",
-          "analysis": {},
           "tokens": [
             {
               "word": "The",
@@ -702,10 +698,9 @@
           ]
         },
         {
-          "id": "s3_2",
+          "id": "s_2",
           "text": "Then they simply checked which directors stayed from one proxy statement to the next.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Then",
@@ -815,10 +810,9 @@
           ]
         },
         {
-          "id": "s3_3",
+          "id": "s_3",
           "text": "The most likely reason for departing a board was age, so the researchers concentrated on those \"surprise\" disappearances by directors under the age of 70.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "The",
@@ -1026,10 +1020,9 @@
           ]
         },
         {
-          "id": "s3_4",
+          "id": "s_4",
           "text": "They",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "They",
@@ -1043,14 +1036,13 @@
       ]
     },
     {
-      "paragraph_id": "p4",
-      "label": "Paragraph 4",
+      "paragraph_id": "p_3",
+      "label": "Paragraph 3 (P4)",
       "sentences": [
         {
-          "id": "s4_1",
+          "id": "s_1",
           "text": "But the researchers believe that outside directors have an easier time of avoiding a blow to their reputations if they leave a firm before bad news breaks, even if a review of history shows they were on the board at the time any wrongdoing occurred.",
           "translation": "但研究人员认为，如果外部董事在坏消息曝光之前离开公司，他们更容易避免声誉受损，即使历史回顾显示在任何不当行为发生时他们就在董事会任职。希望在困难时期留住外部董事的公司可能必须创造激励措施。否则，外部董事将效仿Simmons女士的做法，再次在校园里大受欢迎。",
-          "analysis": {},
           "tokens": [
             {
               "word": "But",
@@ -1384,10 +1376,9 @@
           ]
         },
         {
-          "id": "s4_2",
+          "id": "s_2",
           "text": "Firms who want to keep their outside directors through tough times may have to create incentives.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Firms",
@@ -1511,10 +1502,9 @@
           ]
         },
         {
-          "id": "s4_3",
+          "id": "s_3",
           "text": "Otherwise outside directors will follow the example of Ms. Simmons, once again very popular on campus.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Otherwise",
@@ -1647,14 +1637,516 @@
       ]
     },
     {
-      "paragraph_id": "p3",
-      "label": "Paragraph 3",
+      "paragraph_id": "p_4",
+      "label": "Paragraph 4 (P2)",
       "sentences": [
         {
-          "id": "s3_1",
+          "id": "s_1",
+          "text": "In much of the world there is little sign of crisis.",
+          "translation": "在世界大部分地区几乎没有危机的迹象。德国和巴西的报纸摆脱了经济衰退的影响。即使是身处全球报业最困难角落的美国报纸,不仅生存了下来,而且往往恢复了盈利。虽然不是几年前常规的20%利润率,但毕竟还是盈利。",
+          "tokens": [
+            {
+              "word": "In",
+              "lemma": "in",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "much",
+              "lemma": "much",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "world",
+              "lemma": "world",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "there",
+              "lemma": "there",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "is",
+              "lemma": "be",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "little",
+              "lemma": "little",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "sign",
+              "lemma": "sign",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "crisis",
+              "lemma": "crisis",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_2",
+          "text": "German and Brazilian papers have shrugged off the recession.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "German",
+              "lemma": "german",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "and",
+              "lemma": "and",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "Brazilian",
+              "lemma": "brazilian",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "papers",
+              "lemma": "paper",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "have",
+              "lemma": "have",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "shrugged",
+              "lemma": "shrug",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "off",
+              "lemma": "off",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "recession",
+              "lemma": "recession",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_3",
+          "text": "Even American newspapers, which inhabit the most troubled corner of the global industry, have not only survived but often returned to profit.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "Even",
+              "lemma": "even",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "American",
+              "lemma": "american",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "newspapers",
+              "lemma": "newspaper",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "which",
+              "lemma": "which",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "inhabit",
+              "lemma": "inhabit",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "most",
+              "lemma": "most",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "troubled",
+              "lemma": "troubled",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "corner",
+              "lemma": "corner",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "global",
+              "lemma": "global",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "industry",
+              "lemma": "industry",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "have",
+              "lemma": "have",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "not",
+              "lemma": "not",
+              "pos": "PART",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "only",
+              "lemma": "only",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "survived",
+              "lemma": "survive",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "but",
+              "lemma": "but",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "often",
+              "lemma": "often",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "returned",
+              "lemma": "return",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "to",
+              "lemma": "to",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "profit",
+              "lemma": "profit",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_4",
+          "text": "Not the 20% profit margins that were routine a few years ago, but profit all the same.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "Not",
+              "lemma": "not",
+              "pos": "PART",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "20",
+              "lemma": "20",
+              "pos": "NUM",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "%",
+              "lemma": "%",
+              "pos": "NOUN",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "profit",
+              "lemma": "profit",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "margins",
+              "lemma": "margin",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "that",
+              "lemma": "that",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "were",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "routine",
+              "lemma": "routine",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "a",
+              "lemma": "a",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "few",
+              "lemma": "few",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "years",
+              "lemma": "year",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "ago",
+              "lemma": "ago",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "but",
+              "lemma": "but",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "profit",
+              "lemma": "profit",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "all",
+              "lemma": "all",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "same",
+              "lemma": "same",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p_5",
+      "label": "Paragraph 5 (P3)",
+      "sentences": [
+        {
+          "id": "s_1",
           "text": "It has not been much fun.",
           "translation": "懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好suburbs. Yet these desperate measures have proved the right ones and, sadly for many journalists, theycan be pushed further.这个过程并不怎么愉快。许多报纸通过把记者推下船来维持生存。美国新闻编辑协会估计,自2007年以来已经失去了13500个新闻编辑室的工作岗位。读者正在为更薄的产品支付更多费用。一些报纸甚至敢于拒绝向偏远郊区投递。然而这些绝望的措施被证明是正确的,而且令许多记者遗憾的是,这些措施还可以进一步推行。",
-          "analysis": {},
           "tokens": [
             {
               "word": "It",
@@ -1708,10 +2200,9 @@
           ]
         },
         {
-          "id": "s3_2",
+          "id": "s_2",
           "text": "Many papers stayed afloat by pushing journalists overboard.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Many",
@@ -1779,10 +2270,9 @@
           ]
         },
         {
-          "id": "s3_3",
+          "id": "s_3",
           "text": "The American Society of News Editors reckons that 13,500 newsroom jobs have gone since 2007.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "The",
@@ -1899,10 +2389,9 @@
           ]
         },
         {
-          "id": "s3_4",
+          "id": "s_4",
           "text": "Readers are paying more for slimmer products.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Readers",
@@ -1963,10 +2452,9 @@
           ]
         },
         {
-          "id": "s3_5",
+          "id": "s_5",
           "text": "Some papers even had the nerve to refuse delivery to distant",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Some",
@@ -2050,14 +2538,13 @@
       ]
     },
     {
-      "paragraph_id": "p5",
-      "label": "Paragraph 5",
+      "paragraph_id": "p_6",
+      "label": "Paragraph 6 (P5)",
       "sentences": [
         {
-          "id": "s5_1",
+          "id": "s_1",
           "text": "The whirlwind that swept through newsrooms harmed everybody, but much of the damage has been concentrated in areas where newspapers are least distinctive.",
           "translation": "席卷新闻编辑室的旋风伤害了所有人,但大部分损害集中在报纸最不具特色的领域。汽车和电影评论员已经消失了。科学和综合商业记者也是如此。驻外记者站被大幅削减。报纸因此变得不那么完整了。但完整性在报业中不再是一种美德。",
-          "analysis": {},
           "tokens": [
             {
               "word": "The",
@@ -2237,10 +2724,9 @@
           ]
         },
         {
-          "id": "s5_2",
+          "id": "s_2",
           "text": "Car and film reviewers have gone.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Car",
@@ -2294,10 +2780,9 @@
           ]
         },
         {
-          "id": "s5_3",
+          "id": "s_3",
           "text": "So have science and general business reporters.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "So",
@@ -2358,10 +2843,9 @@
           ]
         },
         {
-          "id": "s5_4",
+          "id": "s_4",
           "text": "Foreign bureaus have been savagely cut off.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Foreign",
@@ -2422,10 +2906,9 @@
           ]
         },
         {
-          "id": "s5_5",
+          "id": "s_5",
           "text": "Newspapers are less complete as a result.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Newspapers",
@@ -2486,10 +2969,9 @@
           ]
         },
         {
-          "id": "s5_6",
+          "id": "s_6",
           "text": "But completeness is no longer a virtue in the newspaper business.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "But",
@@ -2580,14 +3062,13 @@
       ]
     },
     {
-      "paragraph_id": "p1",
-      "label": "Paragraph 1",
+      "paragraph_id": "p_7",
+      "label": "Paragraph 7 (P1)",
       "sentences": [
         {
-          "id": "s1_1",
+          "id": "s_1",
           "text": "We tend to think of the decades immediately following World War II as a time of prosperity and growth, with soldiers returning home by the millions, going off to college on the G. I. Bill and lining up at the marriage bureaus.",
           "translation": "我们倾向于认为二战后的几十年是一个繁荣和增长的时期，数百万士兵返回家园，依靠《退伍军人权利法案》上大学，并在婚姻登记处排队。",
-          "analysis": {},
           "tokens": [
             {
               "word": "We",
@@ -2909,14 +3390,13 @@
       ]
     },
     {
-      "paragraph_id": "p2",
-      "label": "Paragraph 2",
+      "paragraph_id": "p_8",
+      "label": "Paragraph 8 (P2)",
       "sentences": [
         {
-          "id": "s2_1",
+          "id": "s_1",
           "text": "But when it came to their houses, it was a time of common sense and a belief that less could truly be more.",
           "translation": "但就住房而言,那是一个崇尚常识、相信少即是多的时代。在大萧条和战争期间,美国人学会了简朴生活,这种克制与战后对未来的信心相结合,使小型高效住宅成为一种时尚。",
-          "analysis": {},
           "tokens": [
             {
               "word": "But",
@@ -3096,10 +3576,9 @@
           ]
         },
         {
-          "id": "s2_2",
+          "id": "s_2",
           "text": "During the Depression and the war, Americans had learned to live with less, and that restraint, in combination with the postwar confidence in the future, made small, efficient housing positively stylish.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "During",
@@ -3365,14 +3844,13 @@
       ]
     },
     {
-      "paragraph_id": "p3",
-      "label": "Paragraph 3",
+      "paragraph_id": "p_9",
+      "label": "Paragraph 9 (P3)",
       "sentences": [
         {
-          "id": "s3_1",
+          "id": "s_1",
           "text": "Economic condition was only a stimulus for the trend toward efficient living.",
           "translation": "经济状况只是高效生活趋势的一个刺激因素。\"少即是多\"这句话实际上最早是由一位德国人、建筑师Ludwig Mies van der Rohe推广的,他像其他与包豪斯设计学院有关的人一样,在二战前移民到美国并在美国建筑学院任职。这些设计师对美国建筑的发展产生了巨大影响,但没有人比Mies的影响更大。懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好",
-          "analysis": {},
           "tokens": [
             {
               "word": "Economic",
@@ -3468,10 +3946,9 @@
           ]
         },
         {
-          "id": "s3_2",
+          "id": "s_2",
           "text": "The phrase \"less is more\" was actually first popularized by a German, the architect Ludwig Mies van der Rohe, who like other people associated with the Bauhaus, a school of design, emigrated to the United States before World War II and took up posts at American architecture schools.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "The",
@@ -3861,10 +4338,9 @@
           ]
         },
         {
-          "id": "s3_3",
+          "id": "s_3",
           "text": "These designers came to exert enormous influence on the course of American architecture, but none more so than Mies.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "These",
@@ -4018,14 +4494,607 @@
       ]
     },
     {
-      "paragraph_id": "p2",
-      "label": "Paragraph 2",
+      "paragraph_id": "p_10",
+      "label": "Paragraph 10 (P5)",
       "sentences": [
         {
-          "id": "s2_1",
+          "id": "s_1",
+          "text": "The apartments in the elegant towers Mies built on Chicago's Lake Shore Drive, for example, were smaller – two-bedroom units under 1,000 square feet – than those in their older neighbors along the city's Gold Coast.",
+          "translation": "例如,Mies在芝加哥Lake Shore Drive建造的优雅高层公寓——面积不足1000平方英尺的两居室单元——比沿城市Gold Coast的老建筑更小。但它们很受欢迎,因为有通透的玻璃墙、所提供的景观,以及建筑细节和比例的优雅,这是当时流行的抽象艺术在建筑上的对应物。",
+          "tokens": [
+            {
+              "word": "The",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "apartments",
+              "lemma": "apartment",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "in",
+              "lemma": "in",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "elegant",
+              "lemma": "elegant",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "towers",
+              "lemma": "tower",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "Mies",
+              "lemma": "mie",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "built",
+              "lemma": "build",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "on",
+              "lemma": "on",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "Chicago",
+              "lemma": "Chicago",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "'s",
+              "lemma": "'s",
+              "pos": "PART",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "Lake",
+              "lemma": "Lake",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "Shore",
+              "lemma": "Shore",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "Drive",
+              "lemma": "Drive",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "for",
+              "lemma": "for",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "example",
+              "lemma": "example",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "were",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "smaller",
+              "lemma": "small",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "two",
+              "lemma": "two",
+              "pos": "NUM",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "-",
+              "lemma": "-",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            },
+            {
+              "word": "bedroom",
+              "lemma": "bedroom",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "units",
+              "lemma": "unit",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "under",
+              "lemma": "under",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "1,000",
+              "lemma": "1,000",
+              "pos": "NUM",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "square",
+              "lemma": "square",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "feet",
+              "lemma": "foot",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "than",
+              "lemma": "than",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "those",
+              "lemma": "those",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "in",
+              "lemma": "in",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "their",
+              "lemma": "their",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "older",
+              "lemma": "old",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "neighbors",
+              "lemma": "neighbor",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "along",
+              "lemma": "along",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "city",
+              "lemma": "city",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "'s",
+              "lemma": "'s",
+              "pos": "PART",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "Gold",
+              "lemma": "Gold",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "Coast",
+              "lemma": "Coast",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_2",
+          "text": "But they were popular because of their airy glass walls, the views they afforded and the elegance of the buildings' details and proportions, the architectural equivalent of the abstract art so popular at the time.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "But",
+              "lemma": "but",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "they",
+              "lemma": "they",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "were",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "popular",
+              "lemma": "popular",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "because",
+              "lemma": "because",
+              "pos": "SCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "their",
+              "lemma": "their",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "airy",
+              "lemma": "airy",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "glass",
+              "lemma": "glass",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "walls",
+              "lemma": "wall",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "views",
+              "lemma": "view",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "they",
+              "lemma": "they",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "afforded",
+              "lemma": "afford",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "and",
+              "lemma": "and",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "elegance",
+              "lemma": "elegance",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "buildings",
+              "lemma": "building",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "'",
+              "lemma": "'",
+              "pos": "PART",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "details",
+              "lemma": "detail",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "and",
+              "lemma": "and",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "proportions",
+              "lemma": "proportion",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "architectural",
+              "lemma": "architectural",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "equivalent",
+              "lemma": "equivalent",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "abstract",
+              "lemma": "abstract",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "art",
+              "lemma": "art",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "so",
+              "lemma": "so",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "popular",
+              "lemma": "popular",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "at",
+              "lemma": "at",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "time",
+              "lemma": "time",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p_11",
+      "label": "Paragraph 11 (P2)",
+      "sentences": [
+        {
+          "id": "s_1",
           "text": "As well as those chronic problems, the EU faces an acute crisis in its economic core, the 16 countries that use the single currency.",
           "translation": "除了这些长期问题，欧盟在其经济核心——使用单一货币的16个国家——还面临着一场严重危机。市场已不再相信欧元区经济体，无论强弱，会因共享单一货币的约束而终有一天趋于一致，而单一货币使缺乏竞争力的成员国无法采取货币贬值这一权宜之计。",
-          "analysis": {},
           "tokens": [
             {
               "word": "As",
@@ -4219,10 +5288,9 @@
           ]
         },
         {
-          "id": "s2_2",
+          "id": "s_2",
           "text": "Markets have lost faith that the euro zone's economies, weaker or stronger, will one day converge thanks to the discipline of sharing a single currency, which denies uncompetitive members the quick fix of devaluation.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Markets",
@@ -4502,14 +5570,13 @@
       ]
     },
     {
-      "paragraph_id": "p3",
-      "label": "Paragraph 3",
+      "paragraph_id": "p_12",
+      "label": "Paragraph 12 (P3)",
       "sentences": [
         {
-          "id": "s3_1",
+          "id": "s_1",
           "text": "Yet the debate about how to save Europe's single currency from disintegration is stuck.",
           "translation": "然而，关于如何拯救欧洲单一货币免于分崩离析的辩论陷入了僵局。之所以陷入僵局,是因为欧元区的主导力量法国和德国在欧元区内需要加强协调一致方面意见相同，但在协调什么方面存在分歧。",
-          "analysis": {},
           "tokens": [
             {
               "word": "Yet",
@@ -4626,10 +5693,9 @@
           ]
         },
         {
-          "id": "s3_2",
+          "id": "s_2",
           "text": "It is stuck because the euro zone's dominant powers, France and Germany, agree on the need for greater harmonisation within the euro zone, but disagree about what to harmonise.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "It",
@@ -4874,14 +5940,13 @@
       ]
     },
     {
-      "paragraph_id": "p4",
-      "label": "Paragraph 4",
+      "paragraph_id": "p_13",
+      "label": "Paragraph 13 (P4)",
       "sentences": [
         {
-          "id": "s4_1",
+          "id": "s_1",
           "text": "Germany thinks the euro must be saved by stricter rules on borrowing, spending and competitiveness, backed by quasi-automatic sanctions for governments that do not obey.",
           "translation": "懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好a country's voting rights in EU ministerial councils. It insists that economic co-ordination should involveall 27 members of the EU club, among whom there is a small majority for free-market liberalism andeconomic rigour; in the inner core alone, Germany fears, a small majority favour French interference.德国认为必须通过更严格的借贷、支出和竞争力规则来拯救欧元，并对不遵守的政府实施准自动制裁。这些制裁可能包括威胁冻结面向贫困地区的欧盟基金和欧盟大型项目，甚至暂停一国在欧盟部长理事会中的投票权。德国坚持认为经济协调应涉及欧盟俱乐部的全部27个成员国，其中支持自由市场自由主义和经济严谨的占微弱多数；德国担心，仅在核心圈内，支持法国式干预的会占微弱多数。",
-          "analysis": {},
           "tokens": [
             {
               "word": "Germany",
@@ -5096,10 +6161,9 @@
           ]
         },
         {
-          "id": "s4_2",
+          "id": "s_2",
           "text": "These might include threats to freeze EU funds for poorer regions and EU mega-projects, and even the suspension of",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "These",
@@ -5260,14 +6324,13 @@
       ]
     },
     {
-      "paragraph_id": "p5",
-      "label": "Paragraph 5",
+      "paragraph_id": "p_14",
+      "label": "Paragraph 14 (P5)",
       "sentences": [
         {
-          "id": "s5_1",
+          "id": "s_1",
           "text": "A \"southern\" camp headed by France wants something different: \"European economic government\" within an inner core of euro-zone members.",
           "translation": "以法国为首的\"南方\"阵营想要的是不同的东西：在欧元区成员国核心圈内建立\"欧洲经济政府\"。换句话说，这意味着政治家干预货币政策，以及通过共同欧洲债券或完全的财政转移支付来降低政府借贷成本，从而建立一个从富裕成员国向贫困成员国再分配的体系。最后，接近法国政府的人士私下表示，欧元区成员国应就某些财政和社会协调达成一致：例如，限制企业税率或劳动力成本方面的竞争。",
-          "analysis": {},
           "tokens": [
             {
               "word": "A",
@@ -5461,10 +6524,9 @@
           ]
         },
         {
-          "id": "s5_2",
+          "id": "s_2",
           "text": "Translated, that means politicians intervening in monetary policy and a system of redistribution from richer to poorer members, via cheaper borrowing for governments through common Eurobonds or complete fiscal transfers.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Translated",
@@ -5700,10 +6762,9 @@
           ]
         },
         {
-          "id": "s5_3",
+          "id": "s_3",
           "text": "Finally, figures close to the French government have murmured, euro-zone members should agree to some fiscal and social harmonisation:",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Finally",
@@ -5876,10 +6937,9 @@
           ]
         },
         {
-          "id": "s5_4",
+          "id": "s_4",
           "text": "e.g., curbing competition in corporate-tax rates or labour costs.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "e.g.",
@@ -5977,14 +7037,13 @@
       ]
     },
     {
-      "paragraph_id": "p6",
-      "label": "Paragraph 6",
+      "paragraph_id": "p_15",
+      "label": "Paragraph 15 (P6)",
       "sentences": [
         {
-          "id": "s6_1",
+          "id": "s_1",
           "text": "It is too soon to write off the EU.",
           "translation": "现在就对欧盟下定论还为时过早。它仍然是世界上最大的贸易集团。在最好的状态下，欧洲计划是非常自由的：围绕一个由27个富国和穷国组成的单一市场建立，其内部边界对商品、资本和劳动力的开放程度远超任何可比的贸易区。这是一次雄心勃勃的尝试，旨在削弱全球化最尖锐的锋芒，使资本主义变得温和。",
-          "analysis": {},
           "tokens": [
             {
               "word": "It",
@@ -6059,10 +7118,9 @@
           ]
         },
         {
-          "id": "s6_2",
+          "id": "s_2",
           "text": "It remains the world's largest trading block.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "It",
@@ -6130,10 +7188,9 @@
           ]
         },
         {
-          "id": "s6_3",
+          "id": "s_3",
           "text": "At its best, the European project is remarkably liberal: built around a single market of 27 rich and poor countries, its internal borders are far more open to goods, capital and labour than any comparable trading area.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "At",
@@ -6432,10 +7489,9 @@
           ]
         },
         {
-          "id": "s6_4",
+          "id": "s_4",
           "text": "It is an ambitious attempt to blunt the sharpest edges of globalisation, and make capitalism benign.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "It",
@@ -6568,14 +7624,13 @@
       ]
     },
     {
-      "paragraph_id": "p2",
-      "label": "Paragraph 2",
+      "paragraph_id": "p_16",
+      "label": "Paragraph 16 (P2)",
       "sentences": [
         {
-          "id": "s2_1",
+          "id": "s_1",
           "text": "Many everyday tasks take a surprising toll on the environment.",
           "translation": "参考译文按段定稿的整篇参考译文是复盘资产，考卷上只印英文原文——英语二英译汉满分 15 分，按「理解准确、表达通顺连贯、无错译漏译」整篇四档评分。",
-          "analysis": {},
           "tokens": [
             {
               "word": "Many",
@@ -6657,10 +7712,9 @@
           ]
         },
         {
-          "id": "s2_2",
+          "id": "s_2",
           "text": "A Google search can leak between 0.2 and 7.0 grams of CO2, depending on how many attempts are needed to get the \"right\" answer.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "A",
@@ -6861,10 +7915,9 @@
           ]
         },
         {
-          "id": "s2_3",
+          "id": "s_3",
           "text": "To deliver results to its users quickly, then, Google has to maintain vast data centres around the world, packed with powerful computers.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "To",
@@ -7051,10 +8104,9 @@
           ]
         },
         {
-          "id": "s2_4",
+          "id": "s_4",
           "text": "While producing large quantities of CO2, these computers emit a great deal of heat, so the centres need to be well air-conditioned, which uses even more energy.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "While",
@@ -7290,10 +8342,9 @@
           ]
         },
         {
-          "id": "s2_5",
+          "id": "s_5",
           "text": "P3 However, Google and other big tech providers monitor their efficiency closely and make improvements.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "P3",
@@ -7417,10 +8468,9 @@
           ]
         },
         {
-          "id": "s2_6",
+          "id": "s_6",
           "text": "Monitoring is the first step on the road to reduction, but there is much more to be done, and not just by big companies.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Monitoring",
@@ -7615,5 +8665,15 @@
         }
       ]
     }
-  ]
+  ],
+  "all_questions": [],
+  "translation": {
+    "content": "P1 Who would have thought that, globally, the IT industry produces about the same volume of\ngreenhouse gases as the world's airlines do – roughly 2 percent of all CO2 emissions?\nP2 Many everyday tasks take a surprising toll on the environment. A Google search can leak\nbetween 0.2 and 7.0 grams of CO2, depending on how many attempts are needed to get the \"right\"\nanswer. To deliver results to its users quickly, then, Google has to maintain vast data centres around the\nworld, packed with powerful computers. While producing large quantities of CO2, these computers emit\na great deal of heat, so the centres need to be well air-conditioned, which uses even more energy.\nP3 However, Google and other big tech providers monitor their efficiency closely and make\nimprovements. Monitoring is the first step on the road to reduction, but there is much more to be done,\nand not just by big companies.\n参考译文\n按段定稿的整篇参考译文是复盘资产，考卷上只印英文原文——英语二英译汉满分 15 分，按「理解准确、表达通\n顺连贯、无错译漏译」整篇四档评分。\nP1 谁能想到，在全球范围内，IT 业产生的温室气体竟然与全世界的航空公司差不多——约占全球\n二氧化碳排放总量的 2%？\nP2 许多日常活动都在对环境造成惊人的损害。一次谷歌搜索可能释放 0.2 至 7.0 克二氧化碳，具\n体数量取决于为了得到「正确」答案需要尝试多少次。因此，为了快速向用户呈现搜索结果，谷歌不\n得不在全球各地运营大量数据中心，这些中心里装满了高性能电脑。这些电脑在排放大量二氧化碳的\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section3/?f=p · 在线使⽤效果更好\n同时，还会散发大量热量，所以这些数据中心需要良好的空调系统进行降温，而这又会消耗更多能\n源。\nP3 不过，谷歌等大型科技公司也在密切监测自身的能效并不断加以改进。监测只是迈向减排的第\n一步，但还有许多工作要做，而且这并不只是大公司的事。"
+  },
+  "writing": {
+    "part_a": {
+      "directions": "Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark\nyour answers on the ANSWER SHEET. (40 points)\nText 1\nP1 Ruth Simmons joined Goldman Sachs's board as an outside director in January 2000; a year\nlater she became president of Brown University. For the rest of the decade she apparently managed both\nroles without attracting much criticism. But by the end of 2009 Ms. Simmons was under fire for having\nsat on Goldman's compensation committee; how could she have let those enormous bonus payouts pass\nunremarked? By February the next year Ms. Simmons had left the board. The position was just taking\nup too much time, she said.\nRuth Simmons于2000年1月作为外部董事加入Goldman Sachs董事会；一年后她成为Brown\nUniversity校长。在接下来的十年里，她显然同时管理着这两个职务，并未招致太多批评。但到2009年\n底，Simmons女士因担任Goldman薪酬委员会成员而受到抨击；她怎么能对那些巨额奖金发放视而不见\n呢？到次年2月，Simmons女士已离开董事会。她说，这个职位占用了太多时间。\nP2 Outside directors are supposed to serve as helpful, yet less biased, advisers on a firm's board.\nHaving made their wealth and their reputations elsewhere, they presumably have enough independence to\ndisagree with the chief executive's proposals. If the sky and the share price are falling, outside directors\nshould be able to give advice based on having weathered their own crises.\n外部董事应当在公司董事会中充当有益但较少偏见的顾问。由于他们的财富和声誉是在其他地方建立的，\n他们大概有足够的独立性来反对首席执行官的提议。如果股价和天空一起下跌，外部董事应该能够基于自\n己经历过的危机提供建议。\nP3 The researchers from Ohio University used a database that covered more than 10,000 firms and\nmore than 64,000 different directors between 1989 and 2004. Then they simply checked which directors\nstayed from one proxy statement to the next. The most likely reason for departing a board was age, so\nthe researchers concentrated on those \"surprise\" disappearances by directors under the age of 70. They\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\nfound that after a surprise departure, the probability that the company will subsequently have to restate\nearnings increases by nearly 20%. The likelihood of being named in a federal class-action lawsuit also\nincreases, and the stock is likely to perform worse. The effect tended to be larger for larger firms.\nAlthough a correlation between them leaving and subsequent bad performance at the firm is suggestive,\nit does not mean that such directors are always jumping off a sinking ship. Often they \"trade up,\"\nleaving riskier, smaller firms for larger and more stable firms.\nOhio University的研究人员使用了一个涵盖1989年至2004年间超过10,000家公司和超过64,000名不同\n董事的数据库。然后他们只是简单地检查哪些董事从一份委托声明留任到下一份。离开董事会最可能的原\n因是年龄，因此研究人员将注意力集中在70岁以下董事的那些\"意外\"离职上。他们发现，在意外离职后，\n公司随后必须重述收益的概率增加了近20%。被列入联邦集体诉讼的可能性也会增加，股票表现可能会更\n差。这种影响对于规模更大的公司往往更明显。尽管他们离职与公司随后的糟糕表现之间的相关性具有暗\n示性，但这并不意味着这些董事总是在弃船逃跑。他们往往是\"向上跳槽\"，离开风险较高的小公司，转投\n规模更大、更稳定的公司。\nP4 But the researchers believe that outside directors have an easier time of avoiding a blow to their\nreputations if they leave a firm before bad news breaks, even if a review of history shows they were on\nthe board at the time any wrongdoing occurred. Firms who want to keep their outside directors through\ntough times may have to create incentives. Otherwise outside directors will follow the example of Ms.\nSimmons, once again very popular on campus.\n但研究人员认为，如果外部董事在坏消息曝光之前离开公司，他们更容易避免声誉受损，即使历史回顾显\n示在任何不当行为发生时他们就在董事会任职。希望在困难时期留住外部董事的公司可能必须创造激励措\n施。否则，外部董事将效仿Simmons女士的做法，再次在校园里大受欢迎。\n题目与逐题解析\n21.According to Paragraph 1, Ms. Simmons was criticized for____.\n[ A ]gaining excessive profits\n[ B ]failing to fulfill her duty\n[ C ]refusing to make compromises\n[ D ]leaving the board in tough times\n根据第1段,Simmons女士受到批评是因为____。\nA) 获取过多利润 B) 未能履行职责 C) 拒绝做出妥协 D) 在困难时期离开董事会\n【答案】B （细节题）\n【判型】题干 According to Paragraph 1, Ms. Simmons was criticized for____ 只问第 1 段对一个\n具体人物的具体行为评价，无 infer/imply/mainly 等推断或主旨信号。\n【拆句】Ms. Simmons was criticized for____ 是被动语态填空句，空格由介词 for 引出，需要填一\n个名词性成分（动名词或名词短语），表示她被批评的原因；句子本身无陷阱。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\n【定位】But by the end of 2009 Ms. Simmons was under fire for having sat on Goldman's\ncompensation committee; how could she have let those enormous bonus payouts\npass unremarked?\n但到 2009 年底，Simmons 女士因坐在 Goldman 的薪酬委员会上而受到指责——她怎么\n能让那些巨额奖金支付不被质疑就通过呢？\n【选项】A) 张冠李戴\ngaining excessive profits 把「放行别人的巨额奖金」偷换成「她自己赚取过多利\n润」，主体错位——Simmons 是审批者不是受益者。\nB) ✓ 正确\nhow could she have let those enormous bonus payouts pass unremarked ↔\nfailing to fulfill her duty\n预判的「未质疑巨额奖金=失职」与 B 的 failing to fulfill her duty 完全对应，B 是\nunremarked 反问句的上位概括。\nC) 无中生有\nrefusing to make compromises 在第 1 段无任何对应——她不是因为「不肯妥协」而\n被批，而是因为「过于配合」才被批。\nD) 与原文相反\n她在 2010 年 2 月才离任，被批评发生在 2009 年底；离任本身是被批之后的结果，不\n是被批的原因。原文也未把「离任」评为批评对象。\n22.We learn from Paragraph 2 that outside directors are supposed to be____.\n[ A ]generous investors\n[ B ]unbiased executives\n[ C ]share price forecasters\n[ D ]independent advisers\n我们从第2段了解到,外部董事应该是____。\nA) 慷慨的投资者 B) 公正的高管 C) 股价预测者 D) 独立的顾问\n【答案】D （细节题）\n【判型】We learn from Paragraph 2 that outside directors are supposed to be____ 直接抓第 2\n段对 outside directors 应然角色的定义，是典型细节题。\n【拆句】题干为陈述句改填空，are supposed to be 后面跟表语，空格应填名词短语作表语；结构\n平铺直叙、无陷阱。\n【定位】Outside directors are supposed to serve as helpful, yet less biased, advisers on a firm's board.\n外部董事被期望成为公司董事会上有用、但偏见较少的顾问。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\n【选项】A) 无中生有\ngenerous investors 的「投资者」「慷慨」皆非外部董事的角色——他们是顾问\nadvisers，不是 investors。\nB) 偷换概念\nunbiased executives 把「顾问」换成了「高管 executives」。第 1 段明确批评对象是\nCEO/管理层，外部董事是「监督者」而非「执行者」，身份偷换。\nC) 偷换概念\nshare price forecasters「股价预测者」——原文只说股价下跌时外部董事可以基于自\n己经历过的危机给建议（If the sky and the share price are falling, outside directors\nshould be able to give advice based on having weathered their own crises），并\n未说他们「预测股价」。\nD) ✓ 正确\nhelpful, yet less biased, advisers ↔ independent advisers\nthey presumably have enough independence to disagree with the chief executive's proposals ↔\nindependent advisers\n原文两次（first 句 less biased、second 句 independence）强调独立性，且本身用了\nadvisers 一词，与 D 完美对应。\n23.According to the researchers from Ohio University, after an outside director's surprise departure, the\nfirm is likely to____.\n[ A ]become more stable\n[ B ]report increased earnings\n[ C ]do less well in the stock market\n[ D ]perform worse in lawsuits\n根据Ohio University的研究人员所述,在外部董事意外离职后,公司可能会____。\nA) 变得更加稳定 B) 报告收益增加 C) 在股票市场表现不佳 D) 在诉讼中表现更差\n【答案】C （细节题）\n【判型】According to the researchers from Ohio University, after an outside director's\nsurprise departure, the firm is likely to____ 问研究者所述客观事实，无推断信号词。\n【拆句】复杂介词短语 after an outside director's surprise departure 是状语，主句 the firm is\nlikely to ____ 空格处补动词短语；逻辑链条是「董事突然离职 → 公司会……」。\n【定位】They found that after a surprise departure, the probability that the company will subsequently\nhave to restate earnings increases by nearly 20%. The likelihood of being named in a federal\nclass-action lawsuit also increases, and the stock is likely to perform worse.\n他们发现，在意外离任之后，公司不得不重述财报的概率上升近 20%；被列入联邦集体诉\n讼名单的可能性也上升，股票表现可能更差。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\n【选项】A) 与原文相反\nbecome more stable说公司变得「更稳定」，与定位句三件坏事的方向完全相反；另\n外原文 trade up 指董事去更大更稳定的公司，主体是 directors 不是离任后的原公司。\nB) 偷换概念\nreport increased earnings 说「报告更高的盈利」——原文是 restate earnings（重\n述/修正财报），且重述常意味着先前数据有误，与「盈利上升」无关。\nC) ✓ 正确\nthe stock is likely to perform worse ↔ do less well in the stock market\nC 选项以「在股市表现更差」对应原文末项 the stock is likely to perform worse，是\n逐字可对的同义替换。\nD) 偷换概念\n原文是公司被卷入集体诉讼的概率上升，并非「公司在诉讼中表现更差」；perform\nworse in lawsuits 把「被起诉的概率」偷换成「打官司表现差」。\n24.It can be inferred from the last paragraph that outside directors____.\n[ A ]may stay for the attractive offers from the firm\n[ B ]have often had records of wrongdoings in the firm\n[ C ]are accustomed to stress-free work in the firm\n[ D ]will decline incentives from the firm\n从最后一段可以推断出外部董事____。\nA) 可能因公司提供的诱人条件而留任 B) 在公司中经常有不当行为记录\nC) 习惯于在公司中从事无压力的工作 D) 会拒绝公司提供的激励\n【答案】A （推断题）\n【判型】题干 It can be inferred from the last paragraph that outside directors____ 的 inferred\n直接判定为推断题。\n【拆句】It can be inferred from the last paragraph that ... 是形式主语 It + 被动 + that 引导真主\n语从句的标准结构，that 后是空格句；从句主语 outside directors，空格补谓语，要填整\n段后半句对 outside directors 状态/动机的推断。\n【定位】Firms who want to keep their outside directors through tough times may have to create\nincentives. Otherwise outside directors will follow the example of Ms. Simmons, once again\nvery popular on campus.\n想要在艰难时期留住外部董事的公司，恐怕得设计激励措施；否则外部董事就会效仿\nSimmons 女士的做法（再次回到校园里大受欢迎）。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\n【选项】A) ✓ 正确\nFirms who want to keep their outside directors through tough times may have to create\nincentives\n↔ may stay for the attractive offers from the firm\n正确项 A 把根句从公司视角等价转写为外部董事视角，是教科书级的推断式同义替换。\nB) 过度推断\nhave often had records of wrongdoings in the firm说外部董事「常常有不当行为记\n录」——原文只说 they were on the board at the time any wrongdoing occurred\n（不当行为发生时他们正在董事会上），是「在场」不是「实施」；且 often 程度词无\n原文支撑。\nC) 与原文相反\n原文反复出现 tough times、crises、wrongdoing，说明外部董事面对的远非「无压力\n工作」；are accustomed to stress-free work in the firm 与原文情境直接对立。\nD) 与原文相反\nwill decline incentives from the firm 说他们会拒绝激励——但原文逻辑恰相反：公司\n「给激励」才可能「留住」他们；他们不接受激励就不会留下，不存在「会拒绝激励」\n的推断。\n25.The author's attitude toward the role of outside directors is____.\n[ A ]permissive\n[ B ]positive\n[ C ]scornful\n[ D ]critical\n作者对外部董事作用的态度是____。\nA) 宽容的 B) 积极的 C) 轻蔑的 D) 批判的\n【答案】B （态度题）\n【判型】题干 The author's attitude toward the role of outside directors is____ 用 attitude 一\n词，且对象是全文话题，按态度题路径处理。\n【拆句】题干结构简单：主语 The author's attitude toward the role of outside directors，系动\n词 is，空格补形容词作表语。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\n【选项】A) 偷换概念\npermissive「放任、纵容」含贬义，暗示作者放手不管；但作者明确给出激励方案，是\n有规范期望的，不是放任。\nB) ✓ 正确\nhelpful, yet less biased, advisers on a firm's board ↔ positive\nFirms who want to keep their outside directors through tough times may have to create\nincentives\n↔ positive\n首段铺案例、二段下正向定义、四段给建设性建议，整体落到 positive。\nC) 与原文相反\nscornful「轻蔑、嘲弄」是强烈负向词；作者并未轻蔑外部董事，反而把 Simmons 离\n任称为 once again very popular on campus，是轻微调侃语气而非轻蔑全体外部\n董事。\nD) 以偏概全\ncritical「批判性」是中度负面；作者对 Simmons 个案的轻批，不能等同于对外部董事\n这一制度的批判。第 2 段还为之正名、第 4 段为之建言，整体不构成 critical。\nSENTENCE INSIGHTS · 句子精讲\n句真题句逐层精讲\n6\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\nThe position was just taking up too much time, she said.\n第1段，第5句\n过去进行时在四六级和考研阅读中较为常见，表示过去背景或原因时常用此时态。简单句结构也是\n基础句式。但本句无从句、无复杂修饰，作为真题句式的代表性一般，学习后可部分迁移到类似的\n时态表达场景。\nHaving made their wealth and their reputations elsewhere, they presumably have\nenough independence to disagree with the chief executive's proposals.\n第2段，第2句\n句首分词短语作状语、宾语后接不定式短语作定语，以及副词插入修饰谓语，这些都是四六级和考\n研阅读中高频出现的典型结构。掌握后可迁移到大量同类句式的理解中。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\nThey found that after a surprise departure, the probability that the company will\nsubsequently have to restate earnings increases by nearly 20%.\n第3段，第4句\n本句结构高度典型:主句加宾语从句是四六级和考研阅读中的常见句式,宾语从句内部嵌套同位语从\n句解释抽象名词也是学术文本的标准写法,且同位语从句插在主谓之间造成分隔也是真题中反复考\n查的难点。掌握本句的分析方法可直接迁移到大量类似长难句。\nAlthough a correlation between them leaving and subsequent bad performance at\nthe firm is suggestive, it does not mean that such directors are always jumping off\na sinking ship.\n第3段，第7句\n让步状语从句(Although...)加主句否定推论的结构,是四六级和考研阅读中常见的论证句式;形式主\n语、宾语从句、复杂名词短语主语均为高频考点;整体句式具有很强的可迁移性,掌握后可应用于大\n量学术或议论文本。\nBut the researchers believe that outside directors have an easier time of avoiding a\nblow to their reputations if they leave a firm before bad news breaks, even if a\nreview of history shows they were on the board at the time any wrongdoing\noccurred.\n第4段，第1句\n该句结构复杂但不偏门，非常适合用来训练学生对长难句层级关系的梳理能力。\nOtherwise outside directors will follow the example of Ms. Simmons, once again\nvery popular on campus.\n第4段，第3句\n简单句结构在真题中常见，状语前置和非限制性定语补充说明的组合也是典型用法，但句子整体较\n短、修饰层次单一，作为代表性句式的复用价值中等，不如包含复杂从句或特殊句式的长难句更具\n考试针对性\nHIGH-FREQUENCY · 真题高频词\n本篇出现的 个考研英语二真题高频词\n48\n下列单词既在本篇真题中出现，又是 考研英语二 历年真题的高频词（在该考试真题中出\n现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查看该\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\n词的释义、音标、词形与真题例句。\nfirm B1 researcher B2\nadj. 坚固的 n. 研究人员\n本篇13 次 · 真题 66 句 本篇4 次 · 真题 112 句\nlikely A2 accord C1\nadj. 很可能的 n. （国家、团体间的）协议\n本篇3 次 · 真题 89 句 本篇2 次 · 真题 172 句\nless A1 executive B2\ndet. 较少的 n. 主管;经理;管理人员\n本篇2 次 · 真题 150 句 本篇2 次 · 真题 39 句\nstock B1 tough B1\nn. 库存 adj. 困难的\n本篇2 次 · 真题 22 句 本篇2 次 · 真题 20 句\nperform B1 incentive B2\nv. 执行 n. 激励\n本篇2 次 · 真题 19 句 本篇2 次 · 真题 16 句\nreputation B2 stable B1\nn. 名声 adj. 稳定的\n本篇2 次 · 真题 16 句 本篇2 次 · 真题 14 句\nauthor A2 federal B2\nn. 作者 adj. 联邦（制）的\n本篇1 次 · 真题 209 句 本篇1 次 · 真题 81 句\neffect A2 tend B1\nn. 影响 v. 倾向于，往往会\n本篇1 次 · 真题 80 句 本篇1 次 · 真题 71 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\ndecade B1 decline B2\nn. 十年 v. 下降\n本篇1 次 · 真题 61 句 本篇1 次 · 真题 56 句\nbase A2 gain B1\nn. 基础 v. 获得;赢得\n本篇1 次 · 真题 43 句 本篇1 次 · 真题 43 句\nsimply B1 later A1\nadv. 仅仅，只不过 adv. 以后，later\n本篇1 次 · 真题 43 句 本篇1 次 · 真题 38 句\nprofit B1 crisis B2\nn. 利润，盈利 n. 危机\n本篇1 次 · 真题 34 句 本篇1 次 · 真题 33 句\nattract B1 performance B1\nv. 吸引（注意力、兴趣） n. 表演\n本篇1 次 · 真题 30 句 本篇1 次 · 真题 30 句\ncriticism B2 positive B1\nn. 批评 adj. 积极的\n本篇1 次 · 真题 27 句 本篇1 次 · 真题 27 句\ncritical B2 statement B1\nadj. 批评的 n. 声明\n本篇1 次 · 真题 26 句 本篇1 次 · 真题 25 句\nchief B1 database B2\nn. 首领 n. 数据库\n本篇1 次 · 真题 20 句 本篇1 次 · 真题 18 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\noccur B1 otherwise B2\nv. 发生，出现 adv. 否则，不然\n本篇1 次 · 真题 18 句 本篇1 次 · 真题 16 句\nelsewhere B1 disagree A2\nadv. 在别处 v. 不同意\n本篇1 次 · 真题 15 句 本篇1 次 · 真题 14 句\nbiased B2 attractive B1\nadj. 有偏见的 adj. 有吸引力的\n本篇1 次 · 真题 13 句 本篇1 次 · 真题 12 句\nenormous B1 fulfill B2\nadj. 巨大的 v. 履行、执行（承诺、义务、职责等）\n本篇1 次 · 真题 12 句 本篇1 次 · 真题 12 句\napparently B2 excessive B2\nadv. 显然，看来（根据外表或所见所闻判断） adj. 过多的\n本篇1 次 · 真题 11 句 本篇1 次 · 真题 11 句\nproposal B2 concentrate B1\nn. 提议 v. 集中注意力\n本篇1 次 · 真题 11 句 本篇1 次 · 真题 10 句\ncompromise B2 generous B1\nn. 妥协 adj. 慷慨的，大方的\n本篇1 次 · 真题 9 句 本篇1 次 · 真题 9 句\nindependence B2 investor B2\nn. 独立;自主 n. 投资者\n本篇1 次 · 真题 9 句 本篇1 次 · 真题 9 句\nVOCABULARY · 词汇难度分布\n全文 词按 难度累积覆盖\n196 CEFR\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\n全文去重后共 196 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」的累积\n占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 5 个 · 约 3%。\n40% 58% 78% 97% 100% 100%\nA1 A2 B1 B2 C1 C2\n及以下 及以下 及以下 及以下 及以下 及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 196 个 · 末柱为 100%\n去重总词数 B2 以上难词 B1 及以下覆盖\n196 3 78\n% %\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\n考研英语二\n2011年 · 全卷构成\nSection I 完形填空（四选一） 题目解析 →\nSection II Part A (1) 阅读理解（四选一） 本题\nSection II Part A (2) 阅读理解（四选一） 题目解析 →\nSection II Part A (3) 阅读理解（四选一） 题目解析 →\nSection II Part A (4) 阅读理解（四选一） 题目解析 →\nSection II Part B 多项对应（信息匹配） 题目解析 →\nSection III 英译汉（段落翻译） 题目解析 →\nSection IV Part A 写作 题目解析 →\nSection IV Part B 写作 题目解析 →\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\n2011年 考研英语二阅读理解（四选一） 第 2 篇 · 26–30 题答案与解\n析\nQUESTIONS & ANALYSIS · 阅读理解题和解析\n阅读理解题和解析 题\n· 26–30\n本页 26–30 题的答案与逐题解析由懒笔记基于2011年 考研英语二阅读理解（四选一）原\n卷逐题核对整理。与试卷排版同一卷面：先是 Directions 与 5 段原文（段首标 P1–P5 段\n号、逐段附中文翻译）；之后 5 道题逐题排列，每题英文题干与选项后紧接本题解析\n——题干与选项中译、答案、题型判定、题干拆句、定位句中英对照与逐选项对错归因。\n英语二真题(2011)\nSection II Part A (2)\nDirections:\nRead the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark\nyour answers on the ANSWER SHEET. (40 points)\nText 2\nP1 Whatever happened to the death of newspapers? A year ago the end seemed near. The recession\nthreatened to remove the advertising and readers that had not already fled to the internet. Newspapers\nlike the San Francisco Chronicle were chronicling their own doom. America's Federal Trade Commission\nlaunched a round of talks about how to save newspapers. Should they become charitable corporations?\nShould the state subsidize them? It will hold another meeting soon. But the discussions now seem out of\ndate.\n报纸的消亡究竟怎么样了?一年前,终结似乎近在眼前。经济衰退威胁要夺走尚未逃往互联网的广告和读\n者。像旧金山纪事报这样的报纸正在记录它们自己的末日。美国联邦贸易委员会发起了一轮关于如何拯救\n报纸的讨论。它们应该成为慈善公司吗?国家应该补贴它们吗?委员会很快将再举行一次会议。但这些讨论\n现在似乎已经过时了。\nP2 In much of the world there is little sign of crisis. German and Brazilian papers have shrugged\noff the recession. Even American newspapers, which inhabit the most troubled corner of the global\nindustry, have not only survived but often returned to profit. Not the 20% profit margins that were\nroutine a few years ago, but profit all the same.\n在世界大部分地区几乎没有危机的迹象。德国和巴西的报纸摆脱了经济衰退的影响。即使是身处全球报业\n最困难角落的美国报纸,不仅生存了下来,而且往往恢复了盈利。虽然不是几年前常规的20%利润率,但毕竟\n还是盈利。\nP3 It has not been much fun. Many papers stayed afloat by pushing journalists overboard. The\nAmerican Society of News Editors reckons that 13,500 newsroom jobs have gone since 2007. Readers\nare paying more for slimmer products. Some papers even had the nerve to refuse delivery to distant\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\nsuburbs. Yet these desperate measures have proved the right ones and, sadly for many journalists, they\ncan be pushed further.\n这个过程并不怎么愉快。许多报纸通过把记者推下船来维持生存。美国新闻编辑协会估计,自2007年以来\n已经失去了13500个新闻编辑室的工作岗位。读者正在为更薄的产品支付更多费用。一些报纸甚至敢于拒\n绝向偏远郊区投递。然而这些绝望的措施被证明是正确的,而且令许多记者遗憾的是,这些措施还可以进一\n步推行。\nP4 Newspapers are becoming more balanced businesses, with a healthier mix of revenues from\nreaders and advertisers. American papers have long been highly unusual in their reliance on ads. Fully\n87% of their revenues came from advertising in 2008, according to the Organization for Economic\nCooperation & Development (OECD). In Japan the proportion is 35%. Not surprisingly, Japanese\nnewspapers are much more stable.\n报纸正在成为更加平衡的企业,来自读者和广告商的收入组合更加健康。美国报纸长期以来在对广告的依赖\n方面一直非常不寻常。根据经济合作与发展组织的数据,2008年它们87%的收入来自广告。在日本这一比\n例是35%。毫不奇怪,日本报纸要稳定得多。\nP5 The whirlwind that swept through newsrooms harmed everybody, but much of the damage has\nbeen concentrated in areas where newspapers are least distinctive. Car and film reviewers have gone. So\nhave science and general business reporters. Foreign bureaus have been savagely cut off. Newspapers are\nless complete as a result. But completeness is no longer a virtue in the newspaper business.\n席卷新闻编辑室的旋风伤害了所有人,但大部分损害集中在报纸最不具特色的领域。汽车和电影评论员已经\n消失了。科学和综合商业记者也是如此。驻外记者站被大幅削减。报纸因此变得不那么完整了。但完整性\n在报业中不再是一种美德。\n题目与逐题解析\n26.By saying \"Newspapers like … their own doom\" (Lines3-4, Para. 1), the author indicates that\nnewspapers____.\n[ A ]neglected the sign of crisis\n[ B ]failed to get state subsidies\n[ C ]were not charitable corporations\n[ D ]were in a desperate situation\n作者说\"像……这样的报纸正在加速自己的末日\"(第1段第3-4行)，意在表明报纸____。\nA) 忽视了危机的征兆 B) 未能获得国家补贴 C) 不是慈善机构 D) 处于绝望的境地\n【答案】D （词义句意题）\n【判型】题干 By saying \"Newspapers like … their own doom\" \\(Lines3-4, Para. 1\\), the author\nindicates that newspapers 用 By saying … the author indicates 的句式，问的是这句话\n所传达的意思，是典型的句意理解题。\n【拆句】题干主干是 the author indicates that newspapers____，that 引导宾语从句、空在从句谓\n语位置；前半句 By saying \"…\" 是介词短语状语，圈定要解释的引文。结构平铺直叙，无陷\n阱，只需把 indicates 理解为\"暗示/表明\"。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\n【定位】Whatever happened to the death of newspapers? A year ago the end seemed near. The\nrecession threatened to remove the advertising and readers that had not already fled to the\ninternet. Newspapers like the San Francisco Chronicle were chronicling their own doom.\n报业之死后来怎么样了？一年前末日似乎近在眼前。经济衰退眼看就要带走那些尚未逃向互\n联网的广告和读者。像《旧金山纪事报》这样的报纸正在记录它们自身的厄运。\n【选项】A) 无中生有\n选项 neglected the sign of crisis（忽视危机征兆）在第一段找不到任何对应——原文\n里报纸不是忽视，而是\"正在记录自己的末日\"，主体的态度恰恰相反。\nB) 答非所问\n选项 failed to get state subsidies（未获得政府补贴）说的是结果，而原文 Should\nthe state subsidize them? 只是 FTC 抛出的讨论问题，从未说\"已经申请且失败\"；且\nQ26 问的是引文 \"chronicling their own doom\" 的所指，不是补贴结果。\nC) 答非所问\n选项 were not charitable corporations（不是慈善公司）只是 FTC 一系列讨论方案之\n一 Should they become charitable corporations?，是\"未来可能性\"，不是\n\"chronicling their own doom\" 引文要传达的当下处境。\nD) ✓ 正确\nchronicling their own doom ↔ were in a desperate situation\nthe end seemed near ↔ were in a desperate situation\n预判\"形势危急、孤立无援\"与 were in a desperate situation\"处于绝望境地\"是直接对\n应——doom 即 desperate 的状态体现，无需任何额外推理，逻辑最短即正确。\n27.Some newspapers refused delivery to distant suburbs probably because____.\n[ A ]readers threatened to pay less\n[ B ]newspapers wanted to reduce costs\n[ C ]journalists reported little about these areas\n[ D ]subscribers complained about slimmer products\n一些报纸拒绝向远郊配送可能是因为____。\nA) 读者威胁要少付费 B) 报纸想要降低成本 C) 记者很少报道这些地区 D) 订户抱怨产品变薄\n【答案】B （细节题）\n【判型】题干 Some newspapers refused delivery to distant suburbs probably because____ 问\n的是\"为什么做某件具体的事\"，属于因果型细节题，答案应来自原文同一句或紧邻句子。\n【拆句】Some newspapers refused delivery to distant suburbs probably because____：主干是\nSome newspapers refused delivery，to distant suburbs 是 delivery 的修饰，probably\nbecause 引导原因状语，空格在 because 之后填一个原因小句。结构清晰，无陷阱。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\n【定位】Many papers stayed afloat by pushing journalists overboard. The American Society of News\nEditors reckons that 13,500 newsroom jobs have gone since 2007. Readers are paying more\nfor slimmer products. Some papers even had the nerve to refuse delivery to distant suburbs.\n许多报纸靠把记者推下船（裁员）来维持生存。美国新闻编辑协会估算自 2007 年以来已有\n13,500 个新闻编辑室岗位消失。读者花更多钱却只能买到更薄的产品。一些报纸甚至有胆\n子拒绝向偏远郊区投递。\n【选项】A) 与原文相反\n选项 readers threatened to pay less 说\"读者威胁要少付钱\"，而原文 Readers are\npaying more for slimmer products. 明确说读者\"付得更多\"，方向相反。\nB) ✓ 正确\nstayed afloat ↔ wanted to reduce costs\nrefuse delivery to distant suburbs ↔ wanted to reduce costs\n预判\"为了省钱、维持生存\"与 wanted to reduce costs 在语义上完全对应——前者强调\n动机，后者把动机用 reduce costs 这个商业术语概括，逻辑链最短。\nC) 无中生有\n选项 journalists reported little about these areas（记者很少报道这些区域）在原文\n找不到任何依据——原文只说裁了记者、没说记者对偏远郊区报道少；而\"停送报\n纸\"与\"是否报道该地区\"是两件事。\nD) 答非所问\n选项 subscribers complained about slimmer products（订户抱怨产品变薄）借用了\n原文 slimmer products 这个表述，但原文只说\"读者付更多钱买更薄产品\"这一事实，\n从未提订户抱怨，且抱怨与\"停送偏远郊区\"之间也无因果。\n28.Compared with their American counterparts, Japanese newspapers are much more stable because\nthey____.\n[ A ]have more sources of revenue\n[ B ]have more balanced newsrooms\n[ C ]are less dependent on advertising\n[ D ]are less affected by readership\n与美国同行相比,日本报纸要稳定得多,因为它们____。\nA) 有更多收入来源 B) 有更均衡的新闻编辑部 C) 对广告的依赖程度较低 D) 受读者群影响较小\n【答案】C （细节题）\n【判型】题干 Compared with their American counterparts, Japanese newspapers are much\nmore stable because they____ 给出对比对象并问 because，是典型的细节比较题。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\n【拆句】Compared with their American counterparts, Japanese newspapers are much more\nstable because they____：Compared with their American counterparts 是过去分词短\n语作状语，逻辑主语是 Japanese newspapers；much more stable 是 are 的表语，much\n修饰比较级；because 引导原因状语从句。their American counterparts = 美国的同行\n（美国报纸）。\n【定位】American papers have long been highly unusual in their reliance on ads. Fully 87% of their\nrevenues came from advertising in 2008, according to the Organization for Economic\nCooperation & Development (OECD). In Japan the proportion is 35%. Not surprisingly,\nJapanese newspapers are much more stable.\n美国报纸长期以来在依赖广告这一点上非常不寻常。根据经济合作与发展组织（OECD）数\n据，2008 年它们 87% 的收入来自广告。在日本这一比例是 35%。不出意外，日本报纸要\n稳定得多。\n【选项】A) 无中生有\n选项 have more sources of revenue（有更多收入来源）在原文找不到——原文只对\n比了广告占比（87% vs 35%），没说日本报纸有更多种类的收入来源；占比低不等于种\n类多，二者不同维度。\nB) 偷换概念\n选项 have more balanced newsrooms（有更均衡的新闻编辑室）在原文找不到——\n原文说的是 more balanced businesses（更均衡的生意），balanced 修饰的是收入结\n构而非新闻编辑室。\nC) ✓ 正确\nIn Japan the proportion is 35%. ↔ are less dependent on advertising\nAmerican papers have long been highly unusual in their reliance on ads. ↔\nare less dependent on advertising\n预判\"日本对广告依赖低\"与 are less dependent on advertising 直接对应，less\ndependent on advertising 是 35% vs 87% 这一数字差的客观转述，逻辑链最短。\nD) 无中生有\n选项 are less affected by readership（受读者数量影响更小）在原文找不到——原文\n只对比广告依赖度，未谈日本报纸对读者数量的依赖；且\"更均衡\"恰恰意味着读者收入\n占比相对上升，并非受读者影响小。\n29.What can be inferred from the last paragraph about the current newspaper business?\n[ A ]Distinctiveness is an essential feature of newspapers.\n[ B ]Completeness is to blame for the failure of newspaper.\n[ C ]Foreign bureaus play a crucial role in the newspaper business.\n[ D ]Readers have lost their interest in car and film reviews.\n从最后一段可以推断出当前报业的什么情况?\nA) 独特性是报纸的一个基本特征。 B) 完整性应为报纸的失败负责。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\nC) 驻外记者站在报业中起着关键作用。 D) 读者已经对汽车和电影评论失去了兴趣。\n【答案】A （推断题）\n【判型】题干 What can be inferred from the last paragraph about the current newspaper\nbusiness? 用 can be inferred 明确要求推断，且取材限定在最后一段，是段内推断题。\n【拆句】What can be inferred from the last paragraph about the current newspaper\nbusiness?：主干是 What can be inferred；from the last paragraph 是地点状语指明取\n材段；about the current newspaper business 是 inferred 的论域限定，提示答案要落\n在\"报业现状\"这一话题上，不能跑题到别处。\n【定位】The whirlwind that swept through newsrooms harmed everybody, but much of the damage\nhas been concentrated in areas where newspapers are least distinctive. Car and film reviewers\nhave gone. So have science and general business reporters. Foreign bureaus have been\nsavagely cut off. Newspapers are less complete as a result. But completeness is no longer a\nvirtue in the newspaper business.\n横扫新闻编辑室的风暴伤害了所有人，但大部分伤害集中在报纸最缺乏独特性的领域。汽车\n和电影评论员走了。科技和综合商业记者也是。驻外机构被狠狠裁掉。结果报纸变得不完\n整。但在报业里，完整性不再是一种美德。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\n【选项】A) ✓ 正确\nareas where newspapers are least distinctive ↔\nDistinctiveness is an essential feature of newspapers.\nBut completeness is no longer a virtue in the newspaper business. ↔\nDistinctiveness is an essential feature of newspapers.\n预判\"独特性是报业核心特征\"与 Distinctiveness is an essential feature of\nnewspapers. 直接对应——它是\"砍的是不独特+完整不再是美德\"这一对照的最短、最\n稳延伸，符合\"推一步、不推两步\"的推断纪律。\nB) 与原文相反\n选项 Completeness is to blame for the failure of newspaper.（完整性应为报纸的失\n败负责）把\"完整性不再是美德\"夸大成\"完整性是失败的原因\"，且原文全篇都说报业\nhave not only survived but often returned to profit，根本不是 failure；方向与程度\n都被夸大反转。\nC) 与原文相反\n选项 Foreign bureaus play a crucial role in the newspaper business.（驻外机构\n起关键作用）与原文 Foreign bureaus have been savagely cut off.（驻外机构被狠\n裁）方向相反——被狠裁的恰恰是\"least distinctive\"的领域，属于\"该砍的\"，根本\n不 crucial。\nD) 过度推断\n选项 Readers have lost their interest in car and film reviews.（读者已失去对汽车和\n电影评论的兴趣）从\"汽车影评作者被裁\"推到\"读者失去兴趣\"，原文只是说该领域\"least\ndistinctive\"（不独特，到处都有），不是\"读者不感兴趣\"——领域不独特≠读者不感兴\n趣，过度推断。\n30.The most appropriate title for this text would be____.\n[ A ]American Newspapers: Struggling for Survival\n[ B ]American Newspapers: Gone with the Wind\n[ C ]American Newspapers: A Thriving Business\n[ D ]American Newspapers: A Hopeless Story\n这篇文章最合适的标题是____。\nA) 美国报纸:为生存而挣扎 B) 美国报纸:随风而逝 C) 美国报纸:蓬勃发展的行业\nD) 美国报纸:无望的故事\n【答案】A （主旨题）\n【判型】题干 The most appropriate title for this text would be____ 的 most appropriate title\n是主旨题的强标志，答案必须覆盖全文而非某段。\n【拆句】The most appropriate title for this text would be____：主干是 The most appropriate\ntitle … would be ____，would be 是虚拟语气表婉转，相当于 is，空在表语位置填一个名\n词短语。结构平铺直叙，无陷阱。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\n【选项】A) ✓ 正确\nthese desperate measures have proved the right ones ↔\nAmerican Newspapers: Struggling for Survival\nEven American newspapers, which inhabit the most troubled corner of the global industry, have\nnot only survived but often returned to profit.\n↔ American Newspapers: Struggling for Survival\nmuch of the damage has been concentrated in areas where newspapers are least distinctive ↔\nAmerican Newspapers: Struggling for Survival\n预判\"在挣扎中求生\"与 Struggling for Survival 字面对应——Struggling 覆盖了\"末日\n威胁/裁员/绝望措施/砍部门\"等困境侧；Survival 覆盖了\"幸存/回到盈利/收入更均衡\"等\n转机侧；标题不偏向任何单一侧，正是最大公约数。\nB) 与原文相反\n选项 American Newspapers: Gone with the Wind（随风而逝）暗示报纸已经消亡，\n但全文核心 have not only survived but often returned to profit 明确否定了\"消亡\"，\n方向相反。\nC) 过度推断\n选项 American Newspapers: A Thriving Business（一个蓬勃发展的生意）把\"幸存且\n小有盈利\"夸大成\"蓬勃发展\"——原文明确说 Not the 20% profit margins that were\nroutine a few years ago, but profit all the same.，利润早已不复当年，只是\"有利\n润\"而已，远谈不上 thriving。\nD) 与原文相反\n选项 American Newspapers: A Hopeless Story（无望的故事）与全文论调相反——\n首段就用 But 把\"末日论\"判为 out of date，第二段直接说\"幸存且回到盈利\"，全文证据\n都在反证\"无望\"。\nSENTENCE INSIGHTS · 句子精讲\n句真题句逐层精讲\n7\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\nWhatever happened to the death of newspapers?\n第1段，第1句\n简单句结构在考试阅读中常见，但本句的主语 \"Whatever\" 用法和反问语气属于中等典型性，既不\n是罕见特例也非高频考点句式，学习后可在理解类似反问句时有一定迁移价值。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\nShould they become charitable corporations?\n第1段，第6句\n疑问句和情态动词结构在四六级、考研阅读和写作中较为常见，掌握后可迁移到类似句式。但本句\n结构过于简单，没有从句或复杂修饰成分，代表性中等。\nShould the state subsidize them?\n第1段，第7句\n情态动词构成的一般疑问句是四六级和考研阅读中常见的句式，具有一定代表性；掌握后可迁移至\n其他情态动词疑问句的理解，但句子过于简短，未体现更复杂的典型考点，典型性中等偏上。\nEven American newspapers, which inhabit the most troubled corner of the global\nindustry, have not only survived but often returned to profit.\n第2段，第3句\n非限制性定语从句插入主语和谓语之间，以及 \"not only...but (also)\" 并列结构，都是四六级和考研\n阅读中的高频句式。掌握这类句式后可以直接迁移到大量真题长难句的理解，代表性很强。\nThe whirlwind that swept through newsrooms harmed everybody, but much of the\ndamage has been concentrated in areas where newspapers are least distinctive.\n第5段，第1句\n并列句 + 定语从句的组合是四六级和考研阅读中的高频句式,且定语从句分别修饰主语和介词宾语\n的配置非常典型,掌握后可直接迁移到大量真题句\nSo have science and general business reporters.\n第5段，第3句\n本句是练习倒装结构和成分识别的优质例句。倒装导致主语和谓语位置互换，学习者需要掌握\"助\n动词提前时如何还原主谓\"的技巧。同时涉及并列主语和完成时态的省略用法，成分识别训练价值\n较高。\nForeign bureaus play a crucial role in the newspaper business.\n第29题，C\n虽然是简单句,但包含了主谓宾三大核心成分、两个前置定语和一个地点状语,成分种类基本齐全,适\n合作为成分划分的入门练习句,但缺少定语从句、状语从句等复杂成分,训练价值中等偏下\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\nHIGH-FREQUENCY · 真题高频词\n本篇出现的 个考研英语二真题高频词\n59\n下列单词既在本篇真题中出现，又是 考研英语二 历年真题的高频词（在该考试真题中出\n现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查看该\n词的释义、音标、词形与真题例句。\nreader A2 less A1\nn. 读者 det. 较少的\n本篇5 次 · 真题 37 句 本篇4 次 · 真题 150 句\nprofit B1 revenue B2\nn. 利润，盈利 n. （公司、组织的）收入，收益\n本篇3 次 · 真题 34 句 本篇3 次 · 真题 31 句\njournalist B1 advertising B1\nn. 记者，新闻工作者 n. 广告业\n本篇3 次 · 真题 25 句 本篇3 次 · 真题 20 句\nproduct A2 sign A1\nn. 产品 n. 标志\n本篇2 次 · 真题 77 句 本篇2 次 · 真题 42 句\ncrisis B2 threaten B1\nn. 危机 v. 威胁;恐吓\n本篇2 次 · 真题 33 句 本篇2 次 · 真题 24 句\ncorporation B2 recession C1\nn. 公司，企业（尤指大型的、有限责任的） n. 经济衰退\n本篇2 次 · 真题 19 句 本篇2 次 · 真题 19 句\nstable B1 desperate B2\nadj. 稳定的 adj. 绝望的\n本篇2 次 · 真题 14 句 本篇2 次 · 真题 11 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\nwould A1 author A2\naux. （will 的过去式）将要，会 n. 作者\n本篇1 次 · 真题 304 句 本篇1 次 · 真题 209 句\naccord C1 economic B2\nn. （国家、团体间的）协议 adj. 经济的\n本篇1 次 · 真题 172 句 本篇1 次 · 真题 98 句\nfederal B2 reduce B1\nadj. 联邦（制）的 v. 减少，降低（数量、大小、程度等）\n本篇1 次 · 真题 81 句 本篇1 次 · 真题 75 句\nmeasure B1 least A2\nv. 测量 det. 最少的\n本篇1 次 · 真题 65 句 本篇1 次 · 真题 63 句\ninternet A2 global B2\nn. 互联网 adj. 全球的\n本篇1 次 · 真题 53 句 本篇1 次 · 真题 44 句\ncurrent B1 source B1\nadj. 现在的 n. 来源\n本篇1 次 · 真题 41 句 本篇1 次 · 真题 36 句\nfurther B1 commission B2\nadv. 更远地 n. 佣金\n本篇1 次 · 真题 34 句 本篇1 次 · 真题 32 句\nstruggle B1 feature B1\nv. 奋斗 n. 特征\n本篇1 次 · 真题 32 句 本篇1 次 · 真题 30 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\nhighly B1 organization B1\nadv. 非常 n. 组织\n本篇1 次 · 真题 28 句 本篇1 次 · 真题 28 句\nessential B1 remove A2\nadj. 必不可少的 v. 移开\n本篇1 次 · 真题 27 句 本篇1 次 · 真题 25 句\nfailure B1 indicate B2\nn. 失败 v. 表明\n本篇1 次 · 真题 24 句 本篇1 次 · 真题 23 句\ndamage B1 harm B1\nn. 损害 n. 伤害\n本篇1 次 · 真题 20 句 本篇1 次 · 真题 20 句\nsurvive B1 ad A2\nv. 幸存 n. 广告\n本篇1 次 · 真题 19 句 本篇1 次 · 真题 18 句\nfully B1 blame B1\nadv. 完全地 v. 责备\n本篇1 次 · 真题 18 句 本篇1 次 · 真题 17 句\ncrucial B2 appropriate B2\nadj. 至关重要的 adj. 合适的\n本篇1 次 · 真题 17 句 本篇1 次 · 真题 16 句\neditor B1 neglect B2\nn. 编辑 v. 忽视;疏忽\n本篇1 次 · 真题 16 句 本篇1 次 · 真题 16 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\ncomplain A2 cooperation B2\nv. 抱怨 n. 合作\n本篇1 次 · 真题 15 句 本篇1 次 · 真题 15 句\nadvertiser B2 routine B1\nn. 广告商 n. 常规\n本篇1 次 · 真题 14 句 本篇1 次 · 真题 12 句\ncounterpart C1 mix A2\nn. 对应的人或物 v. 混合\n本篇1 次 · 真题 11 句 本篇1 次 · 真题 11 句\nconcentrate B1 launch B1\nv. 集中注意力 v. 推出\n本篇1 次 · 真题 10 句 本篇1 次 · 真题 10 句\ndependent B2 reliance B2\nadj. 依靠的 n. 依赖\n本篇1 次 · 真题 9 句 本篇1 次 · 真题 9 句\nsubscriber B2 margin B2\nn. 订阅者 n. 页边空白\n本篇1 次 · 真题 9 句 本篇1 次 · 真题 8 句\nreviewer B2\nn. 评论者\n本篇1 次 · 真题 8 句\nVOCABULARY · 词汇难度分布\n全文 词按 难度累积覆盖\n199 CEFR\n全文去重后共 199 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」的累积\n占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 6 个 · 约 3%。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\n39% 56% 79% 97% 100% 100%\nA1 A2 B1 B2 C1 C2\n及以下 及以下 及以下 及以下 及以下 及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 199 个 · 末柱为 100%\n去重总词数 B2 以上难词 B1 及以下覆盖\n199 3 79\n% %\n考研英语二\n2011年 · 全卷构成\nSection I 完形填空（四选一） 题目解析 →\nSection II Part A (1) 阅读理解（四选一） 题目解析 →\nSection II Part A (2) 阅读理解（四选一） 本题\nSection II Part A (3) 阅读理解（四选一） 题目解析 →\nSection II Part A (4) 阅读理解（四选一） 题目解析 →\nSection II Part B 多项对应（信息匹配） 题目解析 →\nSection III 英译汉（段落翻译） 题目解析 →\nSection IV Part A 写作 题目解析 →\nSection IV Part B 写作 题目解析 →\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\n2011年 考研英语二阅读理解（四选一） 第 3 篇 · 31–35 题答案与解\n析\nQUESTIONS & ANALYSIS · 阅读理解题和解析\n阅读理解题和解析 题\n· 31–35\n本页 31–35 题的答案与逐题解析由懒笔记基于2011年 考研英语二阅读理解（四选一）原\n卷逐题核对整理。与试卷排版同一卷面：先是 Directions 与 7 段原文（段首标 P1–P7 段\n号、逐段附中文翻译）；之后 5 道题逐题排列，每题英文题干与选项后紧接本题解析\n——题干与选项中译、答案、题型判定、题干拆句、定位句中英对照与逐选项对错归因。\n英语二真题(2011)\nSection II Part A (3)\nDirections:\nRead the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark\nyour answers on the ANSWER SHEET. (40 points)\nText 3\nP1 We tend to think of the decades immediately following World War II as a time of prosperity and\ngrowth, with soldiers returning home by the millions, going off to college on the G. I. Bill and lining up\nat the marriage bureaus.\n我们倾向于认为二战后的几十年是一个繁荣和增长的时期，数百万士兵返回家园，依靠《退伍军人权利法\n案》上大学，并在婚姻登记处排队。\nP2 But when it came to their houses, it was a time of common sense and a belief that less could\ntruly be more. During the Depression and the war, Americans had learned to live with less, and that\nrestraint, in combination with the postwar confidence in the future, made small, efficient housing\npositively stylish.\n但就住房而言,那是一个崇尚常识、相信少即是多的时代。在大萧条和战争期间,美国人学会了简朴生活,这\n种克制与战后对未来的信心相结合,使小型高效住宅成为一种时尚。\nP3 Economic condition was only a stimulus for the trend toward efficient living. The phrase \"less is\nmore\" was actually first popularized by a German, the architect Ludwig Mies van der Rohe, who like\nother people associated with the Bauhaus, a school of design, emigrated to the United States before\nWorld War II and took up posts at American architecture schools. These designers came to exert\nenormous influence on the course of American architecture, but none more so than Mies.\n经济状况只是高效生活趋势的一个刺激因素。\"少即是多\"这句话实际上最早是由一位德国人、建筑师\nLudwig Mies van der Rohe推广的,他像其他与包豪斯设计学院有关的人一样,在二战前移民到美国并在美\n国建筑学院任职。这些设计师对美国建筑的发展产生了巨大影响,但没有人比Mies的影响更大。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\nP4 Mies's signature phrase means that less decoration, properly organized, has more impact than a\nlot. Elegance, he believed, did not derive from abundance. Like other modern architects, he employed\nmetal, glass and laminated wood – materials that we take for granted today but that in the 1940s\nsymbolized the future. Mies's sophisticated presentation masked the fact that the spaces he designed were\nsmall and efficient, rather than big and often empty.\nMies的标志性语句意味着,适当组织的少量装饰比大量装饰更有冲击力。他认为,优雅并非源于丰富。像其\n他现代建筑师一样,他使用金属、玻璃和层压木材——这些材料在今天我们认为理所当然,但在20世纪40年\n代却象征着未来。Mies精致的呈现掩盖了一个事实,即他设计的空间是小而高效的,而非大而常常空荡的。\nP5 The apartments in the elegant towers Mies built on Chicago's Lake Shore Drive, for example,\nwere smaller – two-bedroom units under 1,000 square feet – than those in their older neighbors along\nthe city's Gold Coast. But they were popular because of their airy glass walls, the views they afforded\nand the elegance of the buildings' details and proportions, the architectural equivalent of the abstract art\nso popular at the time.\n例如,Mies在芝加哥Lake Shore Drive建造的优雅高层公寓——面积不足1000平方英尺的两居室单元——\n比沿城市Gold Coast的老建筑更小。但它们很受欢迎,因为有通透的玻璃墙、所提供的景观,以及建筑细节\n和比例的优雅,这是当时流行的抽象艺术在建筑上的对应物。\nP6 The trend toward \"less\" was not entirely foreign. In the 1930s Frank Lloyd Wright started\nbuilding more modest and efficient houses – usually around 1,200 square feet – than the spreading two-\nstory ones he had designed in the 1890s and the early 20th century.\n\"少\"的趋势并非完全来自国外。20世纪30年代,Frank Lloyd Wright开始建造更简朴高效的住宅——通常\n在1200平方英尺左右——比他在19世纪90年代和20世纪初设计的开阔的两层住宅要小。\nP7 The \"Case Study Houses\" commissioned from talented modern architects by California Arts &\nArchitecture magazine between 1945 and 1962 were yet another homegrown influence on the \"less is\nmore\" trend. Aesthetic effect came from the landscape, new materials and forthright detailing. In his\nCase Study House, Ralph Rapson may have mispredicted just how the mechanical revolution would\nimpact everyday life – few American families acquired helicopters, though most eventually got clothes\ndryers – but his belief that self-sufficiency was both desirable and inevitable was widely shared.\n1945年至1962年间由加州《艺术与建筑》杂志委托才华横溢的现代建筑师设计的\"案例研究住宅\"是\"少即\n是多\"趋势的另一个本土影响因素。美学效果来自景观、新材料和直白的细节处理。在他的案例研究住宅\n中,Ralph Rapson可能错误预测了机械革命将如何影响日常生活——很少有美国家庭拥有直升机,尽管大多\n数家庭最终都有了干衣机——但他认为自给自足既可取又不可避免的信念得到了广泛认同。\n题目与逐题解析\n31.The postwar American housing style largely reflected the Americans'____.\n[ A ]prosperity and growth\n[ B ]efficiency and practicality\n[ C ]restraint and confidence\n[ D ]pride and faithfulness\n战后美国的住宅风格在很大程度上反映了美国人的____。\nA) 繁荣与增长 B) 效率与实用性 C) 克制与自信 D) 自豪与忠诚\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\n【答案】C （细节题）\n【判型】题干 The postwar American housing style largely reflected the Americans' 要求填出原\n文已经明确陈述的国民品质，选项之间是并列具体名词，不涉及推断或主旨。\n【拆句】题干 The postwar American housing style largely reflected the Americans' 是一个待补\n全的陈述句，主语 The postwar American housing style，谓语 reflected，宾语缺失需用\n选项补齐；副词 largely 提示\"主要反映\"，意味着正确项只需对应原文主要论断，不必覆盖\n所有细节。\n【定位】During the Depression and the war, Americans had learned to live with less, and that restraint,\nin combination with the postwar confidence in the future, made small, efficient housing\npositively stylish.\n在大萧条与战争时期，美国人已学会节俭度日；这种克制，加上战后对未来的信心，让小巧\n而高效的住宅蔚然成风。\n【选项】A) 张冠李戴\nprosperity and growth 直接搬自 a time of prosperity and growth，但该短语描述的\n是\"战后整体社会图景\"，而非\"住宅风格\"所反映的国民品质；P2 用 But 转折后才进入住\n宅话题。\nB) 答非所问\nefficiency and practicality 描述的是住宅本身的物理属性 small, efficient housing，而\n题干问的是住宅风格\"反映\"什么国民品质——属性 ≠ 它所反映的品质。\nC) ✓ 正确\nthat restraint, in combination with the postwar confidence in the future ↔\nrestraint and confidence\n预判中\"克制\"与\"对未来的信心\"两个并列名词在 C 项中以 restraint and confidence 形\n式完整复现，是定位句的标准同义替换。\nD) 无中生有\npride and faithfulness 在全文无任何对应表述，restraint 不是 pride，confidence in\nthe future 也不是 faithfulness（忠诚/笃信）。\n32.Which of the following can be inferred from Paragraph 3 about the Bauhaus?\n[ A ]It was founded by Ludwig Mies van der Rohe.\n[ B ]Its designing concept was affected by World War II.\n[ C ]Most American architects used to be associated with it.\n[ D ]It had a great influence upon American architecture.\n关于Bauhaus,从第3段可以推断出下列哪一项?\nA) 它由Ludwig Mies van der Rohe创立。 B) 它的设计理念受到了第二次世界大战的影响。\nC) 大多数美国建筑师曾与它有关联。 D) 它对美国建筑产生了巨大影响。\n【答案】D （推断题）\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\n【判型】题干 Which of the following can be inferred from Paragraph 3 about the Bauhaus 含\n有 inferred，明确要求基于原文一步逻辑延伸得出结论。\n【拆句】题干主干 Which of the following can be inferred from Paragraph 3 about the\nBauhaus，can be inferred 为被动结构，逻辑主语是答题者；about the Bauhaus 是\ninferred 的对象，提醒考生选项中描述的都必须指向 Bauhaus 本身而不是别的对象。\n【定位】These designers came to exert enormous influence on the course of American architecture,\nbut none more so than Mies.\n这些设计师对美国建筑的发展进程产生了巨大影响，其中尤以 Mies 为最。\n【选项】A) 与原文相反\n原文只说 Mies 是\"与 Bauhaus 相关的人\"之一 like other people associated with\nthe Bauhaus，并未说 Mies 创立了 Bauhaus；事实上是他与 Bauhaus 同人一道移居\n美国。\nB) 偷换概念\n原文说 Bauhaus 同人是因二战 emigrated to the United States before World War II\n——是\"人因战争迁徙\"，并非\"设计理念被战争影响\"；理念本身的内容来自第 4 段 Mies\n的阐述，与战争无关。\nC) 过度推断\n原文只说 Bauhaus 同人 took up posts at American architecture schools（在美国建\n筑学院任职），并未说\"大多数美国建筑师都曾与 Bauhaus 有关联\"；C 把单\n向\"Bauhaus 人到美国\"扩大成\"美国大多数建筑师属于 Bauhaus\"。\nD) ✓ 正确\nThese designers came to exert enormous influence on the course of American architecture ↔\nIt had a great influence upon American architecture.\non the course of American architecture ↔ upon American architecture\n由 These designers 指代 Bauhaus 学派的人，一步推出 Bauhaus 作为学派对美国建筑\n有巨大影响，正是 D 项的表述。\n33.Mies held that elegance of architectural design____.\n[ A ]was related to large space\n[ B ]was identified with emptiness\n[ C ]was not reliant on abundant decoration\n[ D ]was not associated with efficiency\nMies认为建筑设计的优雅____。\nA) 与大空间有关 B) 等同于空旷 C) 不依赖于丰富的装饰 D) 与效率无关\n【答案】C （细节题）\n【判型】题干 Mies held that elegance of architectural design 直接问 Mies 已经表达过的看法，\n选项是对该看法的并列复述，属典型观点细节题。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\n【拆句】题干 Mies held that elegance of architectural design 是宾语从句的开头部分，held that\n后接选项构成完整 that-从句；考生需把选项与 elegance 主语连成一句完整观点，再回到\n原文找对应同义表述。\n【定位】Elegance, he believed, did not derive from abundance.\n他认为，优雅并非源自堆砌（即丰盛的装饰）。\n【选项】A) 与原文相反\n原文 P4 末句 Mies's sophisticated presentation masked the fact that the spaces\nhe designed were small and efficient, rather than big and often empty 表明 Mies\n设计的空间小而高效，并不与\"大空间\"挂钩；A 项把优雅与大空间绑定，与原文相反。\nB) 与原文相反\n原文 rather than big and often empty 明确指出 Mies 的空间不是空的，强调高效不\n空；B 项却说优雅\"等同于空\"，与原文截然相反。\nC) ✓ 正确\ndid not derive from abundance ↔ was not reliant on abundant decoration\n预判\"优雅不依赖大量装饰\"中的否定、依赖关系、大量装饰三要素，在 C 项中分别由\nnot、reliant on、abundant decoration 完整对应。\nD) 与原文相反\n原文 the spaces he designed were small and efficient 直接把 Mies 的设计与\"高\n效\"绑定；P2 也强调 small, efficient housing——优雅与高效相关，而非不相关。\n34.What is true about the apartments Mies built on Chicago's Lake Shore Drive?\n[ A ]They ignored details and proportions.\n[ B ]They were built with materials popular at that time.\n[ C ]They were more spacious than neighboring buildings.\n[ D ]They shared some characteristics of abstract art.\n关于Mies在芝加哥Lake Shore Drive建造的公寓,下列哪一项是正确的?\nA) 它们忽视了细节和比例。 B) 它们使用了当时流行的材料建造。 C) 它们比邻近建筑更加宽敞。\nD) 它们具有抽象艺术的某些特征。\n【答案】D （细节题）\n【判型】题干 What is true about the apartments Mies built on Chicago's Lake Shore Drive\n问\"以下关于这些公寓的说法哪一项为真\"，选项是并列事实陈述，无推断信号。\n【拆句】题干 What is true about the apartments Mies built on Chicago's Lake Shore Drive\n中，Mies built on Chicago's Lake Shore Drive 是省略 that/which 的定语从句，修饰\napartments，把题目对象锁定为芝加哥湖滨大道上的那批公寓，无陷阱。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\n【定位】But they were popular because of their airy glass walls, the views they afforded and the\nelegance of the buildings' details and proportions, the architectural equivalent of the abstract\nart so popular at the time.\n但它们之所以广受欢迎，是因为通透的玻璃幕墙、所拥有的视野以及建筑细节与比例的优雅\n——这些堪称当时盛行的抽象艺术在建筑领域的对应物。\n【选项】A) 与原文相反\n原文 P5 末句明确说公寓受欢迎的原因正是 the elegance of the buildings' details\nand proportions，A 项却说公寓\"忽略细节和比例\"，与原文截然相反。\nB) 偷换概念\n原文 P4 说这些材料 in the 1940s symbolized the future，是\"在 1940 年代象征未\n来\"——属于前卫材料，而非\"当时已流行\"；B 项把 symbolized the future 偷换成\npopular at that time。\nC) 与原文相反\n原文 two-bedroom units under 1,000 square feet 明确说这些公寓 smaller … than\nthose in their older neighbors along the city's Gold Coast——比邻居小，而非\"更\n宽敞\"。\nD) ✓ 正确\nthe architectural equivalent of the abstract art so popular at the time ↔\nThey shared some characteristics of abstract art.\n既然这些公寓是抽象艺术在建筑领域的等同物，必然与抽象艺术共享某些核心特征（如\n对细节、比例、抽象美感的强调），D 项是定位句最稳妥的下位替换。\n35.What can we learn about the design of the \"Case Study Houses\"?\n[ A ]Mechanical devices were widely used.\n[ B ]Natural scenes were taken into consideration.\n[ C ]Details were sacrificed for the overall effect.\n[ D ]Eco-friendly materials were employed.\n关于\"Case Study Houses\"的设计,我们能了解到什么?\nA) 机械装置被广泛使用。 B) 自然景观被纳入考虑。 C) 为整体效果牺牲了细节。\nD) 采用了环保材料。\n【答案】B （细节题）\n【判型】题干 What can we learn about the design of the \"Case Study Houses\" 问的是关于该项\n目设计的事实信息，选项均为并列陈述句，不涉及推断或主旨。\n【拆句】题干 What can we learn about the design of the \"Case Study Houses\" 主干是 What\n引导的特殊疑问句，about the design of the \"Case Study Houses\" 介词短语限定考察范\n围；引号是项目专名，无陷阱。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\n【定位】Aesthetic effect came from the landscape, new materials and forthright detailing.\n美学效果来自景观、新材料和朴实的细节处理。\n【选项】A) 无中生有\n原文 P7 接着指出 Rapson may have mispredicted just how the mechanical\nrevolution would impact everyday life – few American families acquired\nhelicopters——机械革命的预测并未实现，机械设备并未被\"广泛应用\"在 Case Study\nHouses 上；A 项把单一建筑师的失败预测当成项目的实际设计特征。\nB) ✓ 正确\nAesthetic effect came from the landscape ↔ Natural scenes were taken into consideration.\n三要素中的 landscape 在 B 项以 Natural scenes 形式呈现，且 were taken into\nconsideration 与 came from 在逻辑上等价（既然美学源自它，必然被考虑了），是定\n位句的安全下位替换。\nC) 与原文相反\n原文 forthright detailing 明确说\"朴实/直率的细节处理\"是 Case Study Houses 美学的\n来源之一，细节不仅未被牺牲，反而是亮点；C 项把细节说成\"为整体效果而牺牲\"，与\n原文相反。\nD) 无中生有\n原文只说 new materials（新材料），并未说这些材料是\"生态友好的（eco-\nfriendly）\"；eco-friendly 是现代语境下的常识投射，文中无任何关于环保属性的\n描述。\nSENTENCE INSIGHTS · 句子精讲\n句真题句逐层精讲\n6\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\nWe tend to think of the decades immediately following World War II as a time of\nprosperity and growth, with soldiers returning home by the millions, going off to\ncollege on the G. I. Bill and lining up at the marriage bureaus.\n第1段，第1句\n本句涵盖主语、谓语、宾语、宾语补足语、定语、状语等多种成分,其中\"think of...as...\"结构的宾语\n补足语、后置定语\"immediately following World War II\"以及\"with + 名词 + 现在分词\"构成的伴随\n状语,都是学生容易混淆或划分错误的典型结构,练习价值较高。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\nThe phrase \"less is more\" was actually first popularized by a German, the architect\nLudwig Mies van der Rohe, who like other people associated with the Bauhaus, a\nschool of design, emigrated to the United States before World War II and took up\nposts at American architecture schools.\n第3段，第2句\n\"主句 + 非限制性定语从句\" 结构在四六级和考研阅读中极为常见，且从句内含并列谓语、多种状\n语和插入成分，高度符合真题长句特征。同位语、后置定语、介词短语状语的组合也是典型考点，\n掌握后可大量迁移到类似句子。\nElegance, he believed, did not derive from abundance.\n第4段，第2句\n覆盖主句的主谓宾和从句的主谓状,且主句插入从句中间的结构是值得练习的易错点,能帮助学生识\n别插入成分和宾语从句的省略连接词,训练价值中等偏上。\nIn his Case Study House, Ralph Rapson may have mispredicted just how the\nmechanical revolution would impact everyday life – few American families\nacquired helicopters, though most eventually got clothes dryers – but his belief\nthat self-sufficiency was both desirable and inevitable was widely shared.\n第7段，第3句\n并列句加从句嵌套、插入成分打断主干、同位语从句说明抽象名词，这些都是考研和四六级阅读中\n的高频句式，学习后可迁移到大量类似长难句。\nMost American architects used to be associated with it.\n第32题，C\n简单句中使用被动语态和 \"used to\" 结构较为常见，是英语阅读中的基础句式，具有一定代表性，\n但结构过于简单，无复杂从句或特殊句式，典型性中等。\nNatural scenes were taken into consideration.\n第35题，B\n被动语态的简单句在四六级和考研阅读中较为常见，尤其在学术或正式语境中频繁出现，掌握后\n可迁移到类似结构（如 \"Measures were adopted\"），但本句过于简短、缺少修饰成分，代表性\n中等。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\nHIGH-FREQUENCY · 真题高频词\n本篇出现的 个考研英语二真题高频词\n57\n下列单词既在本篇真题中出现，又是 考研英语二 历年真题的高频词（在该考试真题中出\n现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查看该\n词的释义、音标、词形与真题例句。\nless A1 design B1\ndet. 较少的 n. 设计\n本篇6 次 · 真题 150 句 本篇6 次 · 真题 52 句\nmaterial B1 efficient B2\nn. 材料 adj. 效率高的\n本篇4 次 · 真题 41 句 本篇4 次 · 真题 15 句\ncase A2 trend B1\nn. 情况 n. 趋势\n本篇3 次 · 真题 75 句 本篇3 次 · 真题 40 句\nassociate B2 detail B1\nv. 联系 n. 细节\n本篇3 次 · 真题 26 句 本篇3 次 · 真题 19 句\neffect A2 growth B1\nn. 影响 n. 增长\n本篇2 次 · 真题 80 句 本篇2 次 · 真题 80 句\nimpact B2 housing B1\nn. 影响 n. 住房\n本篇2 次 · 真题 53 句 本篇2 次 · 真题 41 句\nbelief B1 widely B1\nn. 相信 adv. 广泛地\n本篇2 次 · 真题 25 句 本篇2 次 · 真题 21 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\nefficiency B2 employ B1\nn. 效率 v. 雇用\n本篇2 次 · 真题 20 句 本篇2 次 · 真题 17 句\nphrase B1 confidence B1\nn. 短语 n. 信心\n本篇2 次 · 真题 17 句 本篇2 次 · 真题 16 句\nmechanical B2 prosperity C1\nadj. 机械的 n. 繁荣\n本篇2 次 · 真题 11 句 本篇2 次 · 真题 11 句\nwould A1 economic B2\naux. （will 的过去式）将要，会 adj. 经济的\n本篇1 次 · 真题 304 句 本篇1 次 · 真题 98 句\nfollowing B1 view A2\nadj. 接下来的 n. 观点，看法\n本篇1 次 · 真题 91 句 本篇1 次 · 真题 91 句\ntend B1 decade B1\nv. 倾向于，往往会 n. 十年\n本篇1 次 · 真题 71 句 本篇1 次 · 真题 61 句\nmillion A2 united B1\nnum. 一百万 adj. 联合的\n本篇1 次 · 真题 57 句 本篇1 次 · 真题 52 句\nactually A2 states A1\nadv. 实际上，事实上（用于纠正或补充信息） n. 国家\n本篇1 次 · 真题 42 句 本篇1 次 · 真题 42 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\naffect B1 identify B1\nv. 影响 v. 识别\n本篇1 次 · 真题 39 句 本篇1 次 · 真题 37 句\ncommission B2 overall B1\nn. 佣金 adj. 总体的\n本篇1 次 · 真题 32 句 本篇1 次 · 真题 32 句\nlargely B2 concept B2\nadv. 主要地 n. 概念\n本篇1 次 · 真题 30 句 本篇1 次 · 真题 29 句\nlandscape B1 reflect B1\nn. 风景 v. 反映，显示\n本篇1 次 · 真题 29 句 本篇1 次 · 真题 25 句\nrelated B1 style A2\nadj. 相关的 n. 方式\n本篇1 次 · 真题 23 句 本篇1 次 · 真题 23 句\nignore B1 eventually B1\nv. 忽视;不理睬 adv. 最终\n本篇1 次 · 真题 22 句 本篇1 次 · 真题 20 句\ninevitable B2 device B1\nadj. 必然发生的 n. 设备\n本篇1 次 · 真题 19 句 本篇1 次 · 真题 16 句\ncharacteristic B2 entirely B1\nn. 特征 adv. 完全地\n本篇1 次 · 真题 15 句 本篇1 次 · 真题 15 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\nrevolution B2 acquire B2\nn. 革命 v. 获得\n本篇1 次 · 真题 15 句 本篇1 次 · 真题 13 句\nenormous B1 properly B1\nadj. 巨大的 adv. 正确地\n本篇1 次 · 真题 12 句 本篇1 次 · 真题 11 句\ndepression B2 scene A2\nn. 抑郁症 n. 场景\n本篇1 次 · 真题 10 句 本篇1 次 · 真题 10 句\ndesirable B2 modest B2\nadj. 令人向往的 adj. 谦虚的，谦逊的\n本篇1 次 · 真题 9 句 本篇1 次 · 真题 8 句\norganize B1 positively B2\nv. 组织，安排（活动、会议等） adv. 积极地\n本篇1 次 · 真题 8 句 本篇1 次 · 真题 8 句\ntruly B1\nadv. 真正地\n本篇1 次 · 真题 8 句\nVOCABULARY · 词汇难度分布\n全文 词按 难度累积覆盖\n221 CEFR\n全文去重后共 221 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」的累积\n占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 5 个 · 约 2%。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\n39% 57% 77% 98% 100% 100%\nA1 A2 B1 B2 C1 C2\n及以下 及以下 及以下 及以下 及以下 及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 221 个 · 末柱为 100%\n去重总词数 B2 以上难词 B1 及以下覆盖\n221 2 77\n% %\n考研英语二\n2011年 · 全卷构成\nSection I 完形填空（四选一） 题目解析 →\nSection II Part A (1) 阅读理解（四选一） 题目解析 →\nSection II Part A (2) 阅读理解（四选一） 题目解析 →\nSection II Part A (3) 阅读理解（四选一） 本题\nSection II Part A (4) 阅读理解（四选一） 题目解析 →\nSection II Part B 多项对应（信息匹配） 题目解析 →\nSection III 英译汉（段落翻译） 题目解析 →\nSection IV Part A 写作 题目解析 →\nSection IV Part B 写作 题目解析 →\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\n2011年 考研英语二阅读理解（四选一） 第 4 篇 · 36–40 题答案与解\n析\nQUESTIONS & ANALYSIS · 阅读理解题和解析\n阅读理解题和解析 题\n· 36–40\n本页 36–40 题的答案与逐题解析由懒笔记基于2011年 考研英语二阅读理解（四选一）原\n卷逐题核对整理。与试卷排版同一卷面：先是 Directions 与 6 段原文（段首标 P1–P6 段\n号、逐段附中文翻译）；之后 5 道题逐题排列，每题英文题干与选项后紧接本题解析\n——题干与选项中译、答案、题型判定、题干拆句、定位句中英对照与逐选项对错归因。\n英语二真题(2011)\nSection II Part A (4)\nDirections:\nRead the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark\nyour answers on the ANSWER SHEET. (40 points)\nText 4\nP1 Will the European Union make it? The question would have sounded strange not long ago. Now\neven the project's greatest cheerleaders talk of a continent facing a \"Bermuda triangle\" of debt,\npopulation decline and lower growth.\n欧盟能否挺过去？这个问题在不久前听起来还很奇怪。如今，即便是该计划最热情的支持者也在谈论一个\n面临债务、人口下降和增长放缓这一\"百慕大三角\"的大陆。\nP2 As well as those chronic problems, the EU faces an acute crisis in its economic core, the 16\ncountries that use the single currency. Markets have lost faith that the euro zone's economies, weaker or\nstronger, will one day converge thanks to the discipline of sharing a single currency, which denies\nuncompetitive members the quick fix of devaluation.\n除了这些长期问题，欧盟在其经济核心——使用单一货币的16个国家——还面临着一场严重危机。市场\n已不再相信欧元区经济体，无论强弱，会因共享单一货币的约束而终有一天趋于一致，而单一货币使缺乏\n竞争力的成员国无法采取货币贬值这一权宜之计。\nP3 Yet the debate about how to save Europe's single currency from disintegration is stuck. It is\nstuck because the euro zone's dominant powers, France and Germany, agree on the need for greater\nharmonisation within the euro zone, but disagree about what to harmonise.\n然而，关于如何拯救欧洲单一货币免于分崩离析的辩论陷入了僵局。之所以陷入僵局,是因为欧元区的主导\n力量法国和德国在欧元区内需要加强协调一致方面意见相同，但在协调什么方面存在分歧。\nP4 Germany thinks the euro must be saved by stricter rules on borrowing, spending and\ncompetitiveness, backed by quasi-automatic sanctions for governments that do not obey. These might\ninclude threats to freeze EU funds for poorer regions and EU mega-projects, and even the suspension of\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\na country's voting rights in EU ministerial councils. It insists that economic co-ordination should involve\nall 27 members of the EU club, among whom there is a small majority for free-market liberalism and\neconomic rigour; in the inner core alone, Germany fears, a small majority favour French interference.\n德国认为必须通过更严格的借贷、支出和竞争力规则来拯救欧元，并对不遵守的政府实施准自动制裁。这\n些制裁可能包括威胁冻结面向贫困地区的欧盟基金和欧盟大型项目，甚至暂停一国在欧盟部长理事会中的\n投票权。德国坚持认为经济协调应涉及欧盟俱乐部的全部27个成员国，其中支持自由市场自由主义和经济\n严谨的占微弱多数；德国担心，仅在核心圈内，支持法国式干预的会占微弱多数。\nP5 A \"southern\" camp headed by France wants something different: \"European economic\ngovernment\" within an inner core of euro-zone members. Translated, that means politicians intervening in\nmonetary policy and a system of redistribution from richer to poorer members, via cheaper borrowing for\ngovernments through common Eurobonds or complete fiscal transfers. Finally, figures close to the French\ngovernment have murmured, euro-zone members should agree to some fiscal and social harmonisation:\ne.g., curbing competition in corporate-tax rates or labour costs.\n以法国为首的\"南方\"阵营想要的是不同的东西：在欧元区成员国核心圈内建立\"欧洲经济政府\"。换句话\n说，这意味着政治家干预货币政策，以及通过共同欧洲债券或完全的财政转移支付来降低政府借贷成本，\n从而建立一个从富裕成员国向贫困成员国再分配的体系。最后，接近法国政府的人士私下表示，欧元区成\n员国应就某些财政和社会协调达成一致：例如，限制企业税率或劳动力成本方面的竞争。\nP6 It is too soon to write off the EU. It remains the world's largest trading block. At its best, the\nEuropean project is remarkably liberal: built around a single market of 27 rich and poor countries, its\ninternal borders are far more open to goods, capital and labour than any comparable trading area. It is an\nambitious attempt to blunt the sharpest edges of globalisation, and make capitalism benign.\n现在就对欧盟下定论还为时过早。它仍然是世界上最大的贸易集团。在最好的状态下，欧洲计划是非常自\n由的：围绕一个由27个富国和穷国组成的单一市场建立，其内部边界对商品、资本和劳动力的开放程度远\n超任何可比的贸易区。这是一次雄心勃勃的尝试，旨在削弱全球化最尖锐的锋芒，使资本主义变得温和。\n题目与逐题解析\n36.The EU is faced with so many problems that____.\n[ A ]it has more or less lost faith in markets\n[ B ]even its supporters begin to feel concerned\n[ C ]some of its member countries plan to abandon euro\n[ D ]it intends to deny the possibility of devaluation\n欧盟面临如此多的问题，以至于____。\nA) 它或多或少对市场失去了信心 B) 即使其支持者也开始感到担忧 C) 它的一些成员国计划放弃欧元\nD) 它打算否认贬值的可能性\n【答案】B （细节题）\n【判型】题干 The EU is faced with so many problems that____ 是一个待补全的事实陈述句，要求\n回原文找与多重困境对应的客观后果，属于细节题。\n【拆句】The EU is faced with so many problems that____ 是 so...that 结果状语从句，空格处补\n的是「问题多到什么程度」的客观结果，并非主观评价，结构平铺直叙，无陷阱。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\n【定位】Now even the project's greatest cheerleaders talk of a continent facing a \"Bermuda triangle\"\nof debt, population decline and lower growth.\n如今，连这个项目最热心的支持者都说，欧洲大陆正面临一个由债务、人口下降和低增长构\n成的「百慕大三角」。\n【选项】A) 张冠李戴\n原文 Markets have lost faith that the euro zone's economies, weaker or stronger,\nwill one day converge 是「市场对欧元区前景失去信心」，并非 it has more or less\nlost faith in markets 所说的「欧盟对市场失去信心」，主体与客体被颠倒。\nB) ✓ 正确\neven the project's greatest cheerleaders ↔ even its supporters\ntalk of a continent facing a \"Bermuda triangle\" of debt, population decline and lower growth ↔\nbegin to feel concerned\neven its supporters begin to feel concerned 同时复现了 even 加 supporters 的让步\n主语和 cheerleaders 把现状称为险境所隐含的担忧情绪，与预判完全吻合。\nC) 无中生有\n原文只讨论了如何 save Europe's single currency from disintegration、各方分歧，并\n未出现任何成员国「计划放弃欧元」的内容。\nD) 偷换概念\n原文 sharing a single currency, which denies uncompetitive members the quick\nfix of devaluation 是说「共用单一货币这一安排本身」剥夺了贬值这条捷径，是欧元机\n制的客观后果，并非选项 it intends to deny the possibility of devaluation 所说的欧\n盟主观意图。\n37.The debate over the EU's single currency is stuck because the dominant powers ____.\n[ A ]are competing for the leading position\n[ B ]are busy handling their own crises\n[ C ]fail to reach an agreement on harmonisation\n[ D ]disagree on the steps towards disintegration\n关于欧盟单一货币的辩论陷入僵局，因为占主导地位的国家____。\nA) 正在争夺主导地位 B) 正忙于处理自己的危机 C) 未能就协调一致达成协议\nD) 在走向解体的步骤上存在分歧\n【答案】C （细节题）\n【判型】题干 because the dominant powers ____ 直接问「因为主导国怎么了」，要的是原文的因\n果事实，属细节题。\n【拆句】The debate over the EU's single currency is stuck because the dominant powers ____\n主句是 the debate is stuck，because 引导原因从句，空格补 dominant powers 的谓\n语，结构清晰、无陷阱。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\n【定位】It is stuck because the euro zone's dominant powers, France and Germany, agree on the need\nfor greater harmonisation within the euro zone, but disagree about what to harmonise.\n之所以陷入僵局，是因为欧元区的主导力量法国和德国都同意需要在欧元区内部进行更大程\n度的协调，但在该协调什么上意见相左。\n【选项】A) 无中生有\n原文只说法德是 dominant powers 且对协调内容有分歧，并未出现任何「争夺主导地\n位」的描写。\nB) 无中生有\n原文未涉及法德正在处理各自国内危机，are busy handling their own crises 是凭「欧\n债危机」话题想象的内容。\nC) ✓ 正确\ndisagree about what to harmonise ↔ fail to reach an agreement on harmonisation\n选项 fail to reach an agreement on harmonisation 与预判「在协调内容上谈不拢」\n完全同值，逻辑链严丝合缝。\nD) 偷换概念\n原文 disagree about what to harmonise 的分歧对象是「该协调什么」，disagree on\nthe steps towards disintegration 把分歧对象偷换成「迈向解体的步骤」，与原文相反\n——他们讨论的恰恰是如何避免解体。\n38.To solve the euro problem, Germany proposed that ____.\n[ A ]EU funds for poor regions be increased\n[ B ]stricter regulations be imposed\n[ C ]only core members be involved in economic co-ordination\n[ D ]voting rights of the EU members be guaranteed\n为了解决欧元问题，德国提议____。\nA) 增加用于贫困地区的欧盟资金 B) 实施更严格的监管 C) 只有核心成员参与经济协调\nD) 保障欧盟成员的投票权\n【答案】B （细节题）\n【判型】题干 Germany proposed that ____ 问德国具体提出了什么主张，要求回原文找客观主张内\n容，属细节题。\n【拆句】Germany proposed that ____ 是动词 proposed 接 that 宾语从句的结构，宾语从句使用\n虚拟语气（动词原形），考生需识别选项中的 be increased、be imposed、be\ninvolved、be guaranteed 都是虚拟原形，不影响理解。\n【定位】Germany thinks the euro must be saved by stricter rules on borrowing, spending and\ncompetitiveness, backed by quasi-automatic sanctions for governments that do not obey.\n德国认为，必须通过对借贷、支出和竞争力的更严格规则来拯救欧元，并辅以对不服从政府\n的准自动制裁。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\n【选项】A) 与原文相反\n原文 These might include threats to freeze EU funds for poorer regions 说德国主\n张「威胁冻结给穷困地区的欧盟资金」作为制裁手段，EU funds for poor regions be\nincreased 说「增加给穷困地区的资金」，方向完全相反。\nB) ✓ 正确\nstricter rules on borrowing, spending and competitiveness ↔ stricter regulations be imposed\nstricter regulations be imposed 既保留 stricter 这一程度词，又用 regulations 同义\n替换 rules，与预判完全一致。\nC) 张冠李戴\n原文 economic co-ordination should involve all 27 members of the EU club 明说\n德国主张「27 国全员协调」，only core members be involved in economic co-\nordination 说「只有核心成员参与」，方向相反；这一主张恰恰是法方立场。\nD) 与原文相反\n原文 the suspension of a country's voting rights in EU ministerial councils 把「暂\n停投票权」列为德国主张的制裁手段之一，voting rights of the EU members be\nguaranteed 说「成员投票权应被保障」，正好反着。\n39.The French proposal of handling the crisis implies that____.\n[ A ]poor countries are more likely to get funds\n[ B ]strict monetary policy will be applied to poor countries\n[ C ]loans will be readily available to rich countries\n[ D ]rich countries will basically control Eurobonds\n法国关于处理危机的提议暗示____。\nA) 贫困国家更有可能获得资金 B) 严格的货币政策将适用于贫困国家 C) 富裕国家将很容易获得贷款\nD) 富裕国家将基本上控制欧元债券\n【答案】A （推断题）\n【判型】The French proposal of handling the crisis implies that____ 中 implies 是典型的推断信\n号词，要求基于法方主张做合理推断。\n【拆句】The French proposal of handling the crisis implies that____ 主语是 The French\nproposal，of handling the crisis 是后置 of 短语作定语，implies 是谓语，that 引导宾语\n从句，结构清晰、无陷阱。\n【定位】Translated, that means politicians intervening in monetary policy and a system of\nredistribution from richer to poorer members, via cheaper borrowing for governments through\ncommon Eurobonds or complete fiscal transfers.\n翻译过来，就是政客介入货币政策、以及通过共同 Eurobonds 让政府以更便宜的成本借\n款、或通过完全的财政转移，建立一种从富国向穷国再分配的体系。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\n【选项】A) ✓ 正确\na system of redistribution from richer to poorer members, via cheaper borrowing for\ngovernments through common Eurobonds or complete fiscal transfers\n↔ poor countries are more likely to get funds\n选项保留「钱流向穷国」的方向，并以 more likely 体现推断而非断言，与定位句、与\nimplies 的推断要求完美吻合。\nB) 张冠李戴\n原文从未说要对穷国实施 strict monetary policy；严格规则的论述属于德国方案\nstricter rules on borrowing, spending and competitiveness，且对象是所有不服从\n的政府，并非专门针对穷国。\nC) 与原文相反\n原文 cheaper borrowing for governments through common Eurobonds 的受益对\n象是欧元区内核成员国政府整体（尤其是穷国），选项 loans will be readily available\nto rich countries 把受益对象偷换为「富国」，与原文「从富向穷」方向相反。\nD) 过度推断\n原文只说 Eurobonds 是 common（共同的）借贷工具，未说其控制权归属富国；rich\ncountries will basically control Eurobonds 是凭「富国出资多到应有控制权」的常识\n想象，超出定位句一步以上。\n40.Regarding the future of the EU, the author seems to feel____.\n[ A ]pessimistic\n[ B ]desperate\n[ C ]conceited\n[ D ]hopeful\n关于欧盟的未来，作者似乎感到____。\nA) 悲观 B) 绝望 C) 自负 D) 充满希望\n【答案】D （态度题）\n【判型】题干 Regarding the future of the EU, the author seems to feel____ 直接问作者情感倾\n向，且选项均为情感形容词（pessimistic、desperate、conceited、hopeful），态度题确\n凿无疑。\n【拆句】Regarding the future of the EU, the author seems to feel____ 句首 Regarding... 是介词\n短语作话题状语，主句是 the author seems to feel ___，seem to do 是「似乎」，弱化语\n气，提示选项极性不必走极端，结构无陷阱。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\n【选项】A) 与原文相反\npessimistic 与作者 too soon to write off 表达的「仍有希望」方向相反；考生若被前\n五段的困境铺陈先入为主，便会忽视尾段的转折。\nB) 与原文相反\ndesperate（绝望的）比 pessimistic 更负向、更极端，远超原文情感强度，且方向与作\n者表态相反。\nC) 无中生有\nconceited（自负的）是描述「骄傲、自以为是」的负向人格评价，与作者对欧盟的客观\n分析与温和肯定毫无关联，原文不存在任何「自夸」迹象。\nD) ✓ 正确\nIt is too soon to write off the EU ↔ hopeful\nIt is an ambitious attempt to blunt the sharpest edges of globalisation, and make capitalism\nbenign\n↔ hopeful\nhopeful 是温和的正向情感词，与作者使用 too soon to write off 这种克制肯定相符\n——既未走极端 optimistic，也不悲观，体现了 the author seems to feel 中 seems\n的语气弱化要求。\nSENTENCE INSIGHTS · 句子精讲\n句真题句逐层精讲\n5\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\nThe question would have sounded strange not long ago.\n第1段，第2句\n谓语使用 \"would have + 过去分词\" 的过去将来完成时虚拟语气，这是时态与语气的双重叠加。对\n基础较弱的学习者来说，既要理解过去将来完成时的时间关系，又要掌握虚拟语气的假设含义，门\n槛较高。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\nIt is stuck because the euro zone's dominant powers, France and Germany, agree\non the need for greater harmonisation within the euro zone, but disagree about\nwhat to harmonise.\n第3段，第2句\n\"主句 + because 原因从句\" 是四六级阅读中的高频结构；从句内 \"agree... but disagree...\" 的并列转\n折句式也常见于议论文和新闻语境，典型性较强，掌握后可迁移应用。\nIt insists that economic co-ordination should involve all 27 members of the EU\nclub, among whom there is a small majority for free-market liberalism and\neconomic rigour; in the inner core alone, Germany fears, a small majority favour\nFrench interference.\n第4段，第3句\n分号连接的并列句、宾语从句嵌套定语从句、插入语分隔主谓等结构在四六级和考研真题中都非常\n常见，掌握本句的结构分析方法可以广泛应用于其他长难句的解析。\nFinally, figures close to the French government have murmured, euro-zone\nmembers should agree to some fiscal and social harmonisation: e.g., curbing\ncompetition in corporate-tax rates or labour costs.\n第5段，第3句\n本句的结构非常典型:主句带宾语从句(省略 that)、定语修饰主语、同位语解释说明,这些都是四六级\n和考研阅读中高频出现的句式。尤其是宾语从句省略引导词和用冒号引出同位语的写法,在新闻报\n道和学术文本中极为常见。掌握这个句子的分析方法可以迁移到大量类似句子上。\nIt is too soon to write off the EU.\n第6段，第1句\n\"It is + 形容词 + to do\" 是四六级和考研阅读中的高频句式,广泛用于评价、判断类表达。本句结构\n完整、用法标准,学会后可直接迁移到大量同类句子,代表性很强。\nHIGH-FREQUENCY · 真题高频词\n本篇出现的 个考研英语二真题高频词\n57\n下列单词既在本篇真题中出现，又是 考研英语二 历年真题的高频词（在该考试真题中出\n现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查看该\n词的释义、音标、词形与真题例句。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\neconomic B2 core B1\nadj. 经济的 n. 核心\n本篇5 次 · 真题 98 句 本篇4 次 · 真题 12 句\nfund B2 crisis B2\nn. 资金 n. 危机\n本篇3 次 · 真题 45 句 本篇3 次 · 真题 33 句\nzone B1 power A2\nn. 区域 n. 权力\n本篇3 次 · 真题 11 句 本篇2 次 · 真题 90 句\npolicy B1 involve B1\nn. 政策 v. 包含\n本篇2 次 · 真题 69 句 本篇2 次 · 真题 61 句\nproject A2 majority B2\nn. 项目 n. 大多数，大部分\n本篇2 次 · 真题 40 句 本篇2 次 · 真题 25 句\nhandle A2 debate B2\nv. 处理 n. 辩论\n本篇2 次 · 真题 19 句 本篇2 次 · 真题 16 句\nregion B1 deny B1\nn. 地区 v. 否认\n本篇2 次 · 真题 15 句 本篇2 次 · 真题 14 句\ndisagree A2 dominant C1\nv. 不同意 adj. 占主导地位的\n本篇2 次 · 真题 14 句 本篇2 次 · 真题 12 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\nfaith B1 would A1\nn. 信任 aux. （will 的过去式）将要，会\n本篇2 次 · 真题 8 句 本篇1 次 · 真题 304 句\nauthor A2 less A1\nn. 作者 det. 较少的\n本篇1 次 · 真题 209 句 本篇1 次 · 真题 150 句\nsystem A2 likely A2\nn. 系统 adj. 很可能的\n本篇1 次 · 真题 107 句 本篇1 次 · 真题 89 句\ngrowth B1 economy B1\nn. 增长 n. 经济\n本篇1 次 · 真题 80 句 本篇1 次 · 真题 73 句\nrate A2 decline B2\nn. 速度 v. 下降\n本篇1 次 · 真题 72 句 本篇1 次 · 真题 56 句\nfigure A2 available A2\nn. 数字 adj. 可获得的\n本篇1 次 · 真题 38 句 本篇1 次 · 真题 35 句\napply A2 attempt B1\nv. 申请 v. 试图\n本篇1 次 · 真题 33 句 本篇1 次 · 真题 32 句\nintend B1 threat B1\nv. 打算，计划 n. 威胁\n本篇1 次 · 真题 31 句 本篇1 次 · 真题 31 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\nunion B2 regulation B2\nn. 工会 n. 规则，条例\n本篇1 次 · 真题 29 句 本篇1 次 · 真题 28 句\npossibility B1 imply B2\nn. 可能性 v. 暗示，暗指\n本篇1 次 · 真题 25 句 本篇1 次 · 真题 24 句\nspending A2 impose B2\nn. 开支 v. 强制实行\n本篇1 次 · 真题 24 句 本篇1 次 · 真题 21 句\nconcerned B1 propose B1\nadj. 担心的 v. 提议\n本篇1 次 · 真题 20 句 本篇1 次 · 真题 20 句\nliberal C1 guarantee B2\nadj. 开明的 n. 保证\n本篇1 次 · 真题 19 句 本篇1 次 · 真题 17 句\nsolve A2 continent A2\nv. 解决（问题、困难） n. 大陆\n本篇1 次 · 真题 16 句 本篇1 次 · 真题 15 句\ndebt B1 finally A2\nn. 欠款 adv. 终于，最终\n本篇1 次 · 真题 15 句 本篇1 次 · 真题 15 句\ncouncil B1 curb B2\nn. 委员会 v. 抑制\n本篇1 次 · 真题 12 句 本篇1 次 · 真题 12 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\ndiscipline B2 leading B1\nn. 纪律 adj. 最重要的\n本篇1 次 · 真题 12 句 本篇1 次 · 真题 12 句\npolitician B2 supporter B1\nn. 政治家 n. 支持者\n本篇1 次 · 真题 12 句 本篇1 次 · 真题 12 句\ndesperate B2 proposal B2\nadj. 绝望的 n. 提议\n本篇1 次 · 真题 11 句 本篇1 次 · 真题 11 句\ncompete B1 abandon B2\nv. 竞争 v. 离弃\n本篇1 次 · 真题 10 句 本篇1 次 · 真题 9 句\ninternal B2\nadj. 内部的\n本篇1 次 · 真题 9 句\nVOCABULARY · 词汇难度分布\n全文 词按 难度累积覆盖\n219 CEFR\n全文去重后共 219 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」的累积\n占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 15 个 · 约 7%。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\n36% 57% 78% 93% 100% 100%\nA1 A2 B1 B2 C1 C2\n及以下 及以下 及以下 及以下 及以下 及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 219 个 · 末柱为 100%\n去重总词数 B2 以上难词 B1 及以下覆盖\n219 7 78\n% %\n考研英语二\n2011年 · 全卷构成\nSection I 完形填空（四选一） 题目解析 →\nSection II Part A (1) 阅读理解（四选一） 题目解析 →\nSection II Part A (2) 阅读理解（四选一） 题目解析 →\nSection II Part A (3) 阅读理解（四选一） 题目解析 →\nSection II Part A (4) 阅读理解（四选一） 本题\nSection II Part B 多项对应（信息匹配） 题目解析 →\nSection III 英译汉（段落翻译） 题目解析 →\nSection IV Part A 写作 题目解析 →\nSection IV Part B 写作 题目解析 →\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\n2011年 考研英语二多项对应（信息匹配） Section II Part B · 41–45\n题答案与解析\nMATCHING & ANALYSIS · 多项对应题和解析\n多项对应题和解析 题\n· 41–45\n本页 41–45 题的多项对应答案与逐题解析由懒笔记基于2011年 考研英语二多项对应（信\n息匹配）原卷逐题核对整理。与试卷排版同一卷面：Directions、12 段数字标号完整原文\n（逐段附中文翻译）与题项↔A~G 候选对照表连续排印；卷面之后逐题解析——正确候\n选项及其中译、答案段与定位句中英对照、锚点核心信息、原文与候选项的同义改写对\n照，以及易混诱选的辨析。\n英语二真题(2011)\nSection II Part B\nDirections:\nRead the following text and match each of the numbered items in the left column to its corresponding\ninformation in the right column. There are two extra choices in the right column. Mark your answers on\nthe ANSWER SHEET. (10 points)\nLeading doctors today weigh in on the debate over the government's role in promoting public health\nby demanding that ministers impose \"fat taxes\" on unhealthy food and introduce cigarette-style warnings\nto children about the dangers of a poor diet.\n当今的权威医生就政府在促进公共健康方面的作用展开辩论，要求部长们对不健康食品征收\"脂肪税\",并像\n香烟警示那样向儿童介绍不良饮食的危害。\nThe demands follow comments made last week by the health secretary, Andrew Lansley, who\ninsisted the government could not force people to make healthy choices and promised to free businesses\nfrom public health regulations.\n这些要求是在卫生大臣Andrew Lansley上周发表评论之后提出的,他坚称政府不能强迫人们做出健康的选\n择,并承诺让企业摆脱公共卫生法规的束缚。\nBut senior medical figures want to stop fast-food outlets opening near schools, restrict advertising of\nproducts high in fat, salt or sugar, and limit sponsorship of sports events by fast-food producers such as\nMcDonald's.\n但资深医学界人士希望阻止快餐店在学校附近开业,限制高脂肪、高盐或高糖产品的广告,并限制\nMcDonald's等快餐生产商对体育赛事的赞助。\nThey argue that government action is necessary to curb Britain's addiction to unhealthy food and\nhelp halt spiraling rates of obesity, diabetes and heart disease. Professor Terence Stephenson, president of\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-b/?f=p · 在线使⽤效果更好\nthe Royal College of Paediatrics and Child Health, said that the consumption of unhealthy food should\nbe seen to be just as damaging as smoking or excessive drinking.\n他们认为政府行动对于遏制英国对不健康食品的依赖以及帮助遏制肥胖症、糖尿病和心脏病螺旋式上升的\n发病率是必要的。英国皇家儿科与儿童健康学院院长Terence Stephenson教授表示,食用不健康食品应该\n被视为与吸烟或过度饮酒一样有害。\n\"Thirty years ago, it would have been inconceivable to have imagined a ban on smoking in the\nworkplace or in pubs, and yet that is what we have now. Are we willing to be just as courageous in\nrespect of obesity? I would suggest that we should be,\" said the leader of the UK's children's doctors.\n\"三十年前,禁止在工作场所或酒吧吸烟是不可想象的,但这正是我们现在所拥有的。我们是否愿意在肥胖问\n题上同样勇敢?我认为我们应该如此。\"这位英国儿科医生领袖说道。\nLansley has alarmed health campaigners by suggesting he wants industry rather than government to\ntake the lead. He said that manufacturers of crisps and candies could play a central role in the\nChange4Life campaign, the centrepiece of government efforts to boost healthy eating and fitness. He has\nalso criticised the celebrity chef Jamie Oliver's high-profile attempt to improve school lunches in England\nas an example of how \"lecturing\" people was not the best way to change their behaviour.\nLansley提出他希望由业界而非政府来主导,这令健康运动倡导者感到震惊。他表示,薯片和糖果制造商可以\n在Change4Life运动中发挥核心作用,该运动是政府促进健康饮食和健身努力的核心。他还批评名厨Jamie\nOliver改善英格兰学校午餐的高调尝试,认为这是\"说教\"式做法并非改变人们行为的最佳方式的例证。\nStephenson suggested potential restrictions could include banning TV advertisements for foods high\nin fat, salt or sugar before 9 p.m. and limiting them on billboards or in cinemas. \"If we were really\nbold, we might even begin to think of high-calorie fast food in the same way as cigarettes – by setting\nstrict limits on advertising, product placement and sponsorship of sports events,\" he said.\nStephenson建议潜在的限制措施可能包括禁止晚上9点前播放高脂肪、高盐或高糖食品的电视广告,并限\n制此类广告在广告牌或电影院出现。\"如果我们真的大胆,我们甚至可能开始像对待香烟那样对待高热量快\n餐——对广告、产品植入和体育赛事赞助设定严格限制。\"他说。\nSuch a move could affect firms such as McDonald's, which sponsors the youth coaching scheme run\nby the Football Association. Fast-food chains should also stop offering \"inducements\" such as toys, cute\nanimals and mobile phone credit to lure young customers, Stephenson said.\n这样的举措可能会影响McDonald's等公司,该公司赞助了由足球协会运营的青少年教练计划。\nStephenson表示,快餐连锁店还应停止提供玩具、可爱动物和手机话费等\"诱导物\"来吸引年轻顾客。\nProfessor Dinesh Bhugra, president of the Royal College of Psychiatrists, said: \"If children are\ntaught about the impact that food has on their growth, and that some things can harm, at least\ninformation is available up front.\"\n英国皇家精神科医学院院长Dinesh Bhugra教授说:\"如果孩子们了解到食物对其成长的影响,以及某些东西\n可能造成伤害,至少信息是预先提供的。\"\nHe also urged councils to impose \"fast-food-free zones\" around schools and hospitals – areas within\nwhich takeaways cannot open.\n他还敦促地方议会在学校和医院周围设立\"无快餐区\"——在这些区域内外卖店不能开业。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-b/?f=p · 在线使⽤效果更好\nA Department of Health spokesperson said: \"We need to create a new vision for public health where\nall of society works together to get healthy and live longer. This includes creating a new 'responsibility\ndeal' with business, built on social responsibility, not state regulation. Later this year, we will publish a\nwhite paper setting out exactly how we will achieve this.\"\n卫生部发言人表示:\"我们需要为公共健康创建一个新愿景,让全社会共同努力以获得健康并延长寿命。这包\n括与企业建立新的'责任协议',建立在社会责任而非国家监管的基础上。今年晚些时候,我们将发布一份白皮\n书,详细说明我们将如何实现这一目标。\"\nThe food industry will be alarmed that such senior doctors back such radical moves, especially the\ncall to use some of the tough tactics that have been deployed against smoking over the last decade.\n食品行业将对如此资深的医生支持这些激进举措感到震惊,尤其是呼吁使用过去十年中针对吸烟采用的一些\n强硬策略。\n[ A ]\"fat taxes\" should be imposed on fast-\nfood producers such as McDonald's.\n[ B ]the government should ban fast-food\n41.Andrew Lansley held that\noutlets in the neighborhood of schools.\n[ C ]\"lecturing\" was an effective way to\n42.Terence Stephenson agreed that\nimprove school lunches in England.\n[ D ]cigarette-style warnings should be\n43.Jamie Oliver seemed to believe that introduced to children about the dangers\nof a poor diet.\n[ E ]the producers of crisps and candies could\n44.Dinesh Bhugra suggested that contribute significantly to the\nChange4Life campaign.\n[ F ]parents should set good examples for\n45.A Department of Health spokesperson\ntheir children by keeping a healthy diet at\nproposed that\nhome.\n[ G ]the government should strengthen the\nsense of responsibility among businesses.\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-b/?f=p · 在线使⽤效果更好\n41. Andrew Lansley held that\n【答案】[ E ]\n信息在第 6 段\n【候选项】the producers of crisps and candies could contribute significantly to the\nChange4Life campaign.\n薯片和糖果生产商可以为Change4Life运动做出重大贡献。\n【定位】He said that manufacturers of crisps and candies could play a central role in the Change4Life\ncampaign, the centrepiece of government efforts to boost healthy eating and fitness.\n他（Lansley）说，薯片和糖果的生产商可以在 Change4Life 运动中扮演核心角色，而这项\n运动是政府推动健康饮食与健身的核心举措。\n【锚点】零食厂商能在健康运动里出大力\n【对照】manufacturers of crisps and candies ↔ the producers of crisps and candies\n同义词替换 manufacturers→producers\ncould play a central role in the Change4Life campaign ↔\ncould contribute significantly to the Change4Life campaign\nplay a central role≈contribute significantly\n【依据】主张句与 E 逐项对得上\n【辨邻】[ G ]\nthe government should strengthen the sense of responsibility among businesses\n听起来也像 Lansley「靠企业」的思路，很诱人；但「强化企业责任意识」对应的是第 11 段卫\n生部发言人提出的 a new 'responsibility deal' with business，是第 45 题的答案，不是\nLansley 在第 6 段说的具体内容。\na new 'responsibility deal' with business\n[ A ]\n\"fat taxes\" should be imposed on fast-food producers such as McDonald's 借了全文\n开头医生呼吁 impose \"fat taxes\" on unhealthy food 的眼熟点；但征税是「政府强制」，\n恰与 Lansley the government could not force people to make healthy choices 的立\n场相反，绝非他的主张。\nthe government could not force people to make healthy choices\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-b/?f=p · 在线使⽤效果更好\n42. Terence Stephenson agreed that\n【答案】[ D ]\n信息在第 4 段\n【候选项】cigarette-style warnings should be introduced to children about the dangers of a poor diet.\n应该向儿童引入香烟式警告,告知不良饮食的危害。\n【定位】Professor Terence Stephenson, president of the Royal College of Paediatrics and Child Health,\nsaid that the consumption of unhealthy food should be seen to be just as damaging as smoking or\nexcessive drinking.\n皇家儿科与儿童健康学院院长 Terence Stephenson 教授说，吃不健康食品应被视为与吸烟\n或酗酒一样有害。\n【锚点】应像对待香烟那样警示垃圾食品危害\n【对照】the consumption of unhealthy food should be seen to be just as damaging as smoking ↔\nabout the dangers of a poor diet\nunhealthy food 的危害=a poor diet 的 dangers\nthink of high-calorie fast food in the same way as cigarettes ↔\ncigarette-style warnings should be introduced to children\n把食品「当香烟看」=对食品用「香烟式警告」\n【依据】类比香烟＋警示儿童＝D\n【辨邻】[ A ]\nStephenson 第 8 段确实提到 firms such as McDonald's，A 借此眼熟点很像；但他在那儿\n谈的是限制赞助、停止用玩具等「诱饵」拉拢顾客，从未主张对麦当劳征 \"fat taxes\"。征税的\n呼吁见于第 1 段医生群体的总诉求，并非他个人此处的主张。\nfirms such as McDonald's, which sponsors the youth coaching scheme\n[ B ]\nban fast-food outlets in the neighborhood of schools 与本文「限制垃圾食品」大方向\n一致，易误认作 Stephenson；但「学校周边禁快餐」对应第 10 段 Bhugra 的 fast-food-\nfree zones around schools，是第 44 题答案，非 Stephenson 主张。\n'fast-food-free zones' around schools and hospitals\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-b/?f=p · 在线使⽤效果更好\n43. Jamie Oliver seemed to believe that\n【答案】[ C ]\n信息在第 6 段\n【候选项】\"lecturing\" was an effective way to improve school lunches in England.\n\"说教\"是改善英格兰学校午餐的有效方式。\n【定位】He has also criticised the celebrity chef Jamie Oliver's high-profile attempt to improve school\nlunches in England as an example of how \"lecturing\" people was not the best way to change\ntheir behaviour.\n他（Lansley）还批评名厨 Jamie Oliver 高调改善英格兰校园午餐的举措，认为这是「说\n教」并非改变人们行为最佳方式的一个例子。\n【锚点】Oliver 相信「说教式」做法能改善校园午餐\n【对照】Jamie Oliver's high-profile attempt to improve school lunches in England ↔\nto improve school lunches in England\n改善校园午餐这一目标原词照搬\n\"lecturing\" people was not the best way to change their behaviour ↔\n\"lecturing\" was an effective way\n评价者的否定→锚点本人的肯定，立场翻转\n【依据】从 Oliver 坚持的做法倒推其信念＝C\n【辨邻】[ B ]\nban fast-food outlets in the neighborhood of schools 出现了 schools 一词，与本题\nschool lunches 词面沾边而显得像；但 Oliver 关注的是改善校园午餐的方式（说教是否有\n效），与「禁止学校周边快餐店」是两回事，后者是 Bhugra 的主张。\n'fast-food-free zones' around schools and hospitals\n[ F ]\nparents should set good examples for their children by keeping a healthy diet at\nhome 谈的是家庭饮食榜样，话题贴近「儿童＋饮食」很像；但 Oliver 的事是校园午餐、且文\n中无任何人谈「父母在家树榜样」，属凭空增设。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-b/?f=p · 在线使⽤效果更好\n44. Dinesh Bhugra suggested that\n【答案】[ B ]\n信息在第 10 段\n【候选项】the government should ban fast-food outlets in the neighborhood of schools.\n政府应该禁止在学校周边开设快餐店。\n【定位】He also urged councils to impose \"fast-food-free zones\" around schools and hospitals – areas\nwithin which takeaways cannot open.\n他（Bhugra）还敦促地方议会在学校和医院周边设立「无快餐区」——即外卖店不得开业\n的区域。\n【锚点】学校周边设禁区不许开快餐店\n【对照】'fast-food-free zones' around schools ↔ in the neighborhood of schools\naround schools=in the neighborhood of schools\nareas within which takeaways cannot open ↔ the government should ban fast-food outlets\ntakeaways cannot open=ban fast-food outlets\n【依据】学校周边＋禁快餐＝B\n【辨邻】[ D ]\nBhugra 第 9 段确实谈到 If children are taught about the impact that food has on\ntheir growth——给孩子普及饮食知识，与「警告儿童」气味相近，故 D 很像；但\n「cigarette-style warnings（香烟式警告）」对应 Stephenson（第 42 题），Bhugra 谈\n的是「让信息公开（information is available up front）」而非「香烟式警告」。\nat least information is available up front\n[ F ]\nparents should set good examples for their children 与 Bhugra 第 9 段「教孩子认识食\n物影响」都涉及「孩子＋饮食教育」而显得像；但 Bhugra 说的是在学校层面教孩子、让信息\n公开，全文无人主张「父母在家树榜样」，F 属凭空增设。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-b/?f=p · 在线使⽤效果更好\n45. A Department of Health spokesperson proposed that\n【答案】[ G ]\n信息在第 11 段\n【候选项】the government should strengthen the sense of responsibility among businesses.\n政府应该加强企业的责任意识。\n【定位】This includes creating a new 'responsibility deal' with business, built on social responsibility, not\nstate regulation.\n这（新公共卫生愿景）包括与企业达成一项新的「责任协定」，其基础是社会责任，而非国\n家监管。\n【锚点】靠企业承担社会责任而非政府立法\n【对照】a new 'responsibility deal' with business, built on social responsibility ↔\nstrengthen the sense of responsibility among businesses\nresponsibility deal/social responsibility→sense of responsibility\nnot state regulation ↔ the government should strengthen the sense of responsibility\n「不靠监管」的正面落点＝靠政府促企业自律\n【依据】责任协定＝强化企业责任意识＝G\n【辨邻】[ E ]\nthe producers of crisps and candies could contribute significantly to the\nChange4Life campaign 同样是「靠企业」思路，与发言人立场气味相投而显得像；但它逐字\n对应第 6 段 Lansley 的 manufacturers of crisps and candies could play a central role\nin the Change4Life campaign，是第 41 题答案，并非发言人在第 11 段说的。\nmanufacturers of crisps and candies could play a central role in the Change4Life campaign\n[ A ]\n\"fat taxes\" should be imposed 是政府强制立法手段，与发言人 not state regulation（不\n靠国家监管）的明确表态方向相反，故不可能是其主张。\nbuilt on social responsibility, not state regulation\nCHOICES · 候选池地图\n共 个候选项各自在说什么\nA~G 7\n候选项是经同义改写的句子，比题目多 2 个。下面逐条给出候选句原文、「它到底主张\n什么」的中文压缩，并标注它对应哪道题——始终无人对应的就是多余干扰项。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-b/?f=p · 在线使⽤效果更好\n[ A ] \"fat taxes\" should be imposed on fast-food producers such as McDonald's.\n应当对麦当劳这类快餐生产商征收「肥胖税」。\n多余项 · 无人对应\n[ B ] the government should ban fast-food outlets in the neighborhood of schools.\n政府应禁止学校周边开设快餐店。\n对应第 44 题\n[ C ] \"lecturing\" was an effective way to improve school lunches in England.\n「说教」是改善英格兰校园午餐的有效办法。\n对应第 43 题\n[ D ] cigarette-style warnings should be introduced to children about the dangers of a\npoor diet.\n应当像对香烟那样，就不良饮食的危害向儿童发出警告。\n对应第 42 题\n[ E ] the producers of crisps and candies could contribute significantly to the\nChange4Life campaign.\n薯片和糖果的生产商能为 Change4Life 运动出大力。\n对应第 41 题\n[ F ] parents should set good examples for their children by keeping a healthy diet\nat home.\n父母应在家保持健康饮食，为孩子树立榜样。\n多余项 · 无人对应\n[ G ] the government should strengthen the sense of responsibility among businesses.\n政府应强化企业的责任意识。\n对应第 45 题\nEXTRA CHOICES · 多余项交代\n这 个候选项始终无人对应\n2\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-b/?f=p · 在线使⽤效果更好\n多项对应必有 2 个候选项无人认领——往往最像文中某个没被问到的人/事物，或是对某\n段的片面概括。下面逐条剖析它们「像在哪、差在哪、为何无人认领」，读透多余项才算\n读透全局。\n[ A ] \"fat taxes\" should be imposed on fast-food producers such as McDonald's.\n\"fat taxes\" should be imposed on fast-food producers such as McDonald's 借了第 1 段医生\n群体 impose \"fat taxes\" on unhealthy food 的标志性呼吁，又带上人尽皆知的 McDonald's，\n在 41、42、45 三题反复诱人；但「征税」是 the government could not force people 所反对\n的强制监管，无任何被点名个人单独提出过征税，故无人认领。\n[ F ] parents should set good examples for their children by keeping a healthy diet\nat home.\nparents should set good examples for their children by keeping a healthy diet at home 顺着\n全文「儿童＋健康饮食」的话题编出「父母在家树榜样」，气味很正、读着合理，在 43、44\n题诱人；但通篇没有任何人谈到父母或家庭榜样，属彻头彻尾的无中生有，故落空。\nSENTENCE INSIGHTS · 句子精讲\n句真题句逐层精讲\n12\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\nLeading doctors today weigh in on the debate over the government's role in\npromoting public health by demanding that ministers impose \"fat taxes\" on\nunhealthy food and introduce cigarette-style warnings to children about the\ndangers of a poor diet.\n第1段，第1句\n本句的结构非常典型:主句 + 嵌套在介词短语中的宾语从句 + 虚拟语气的使用,是四六级和考研阅读\n中常见的句式。特别是 \"by doing... that...\" 的结构以及 \"demand/suggest/insist\" 类动词后接虚拟语\n气从句,是高频考点,掌握后可以大量复用到同类句子的理解中\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-b/?f=p · 在线使⽤效果更好\nThe demands follow comments made last week by the health secretary, Andrew\nLansley, who insisted the government could not force people to make healthy\nchoices and promised to free businesses from public health regulations.\n第2段，第1句\n非限制性定语从句、宾语从句、复合宾语结构（force sb to do）都是四六级和考研阅读中的高频句\n式。同位语和后置定语也是常见的修饰手段。本句的结构组合在真题中非常典型，掌握后可复用于\n大量类似长难句的分析。\n\"Thirty years ago, it would have been inconceivable to have imagined a ban on\nsmoking in the workplace or in pubs, and yet that is what we have now. Are we\nwilling to be just as courageous in respect of obesity? I would suggest that we\nshould be,\" said the leader of the UK's children's doctors.\n第5段，第1句\n结构高度典型。虚拟语气对比现实、疑问句引导论证、suggest 后接宾语从句表建议、倒装引述结\n构,均是四六级和考研阅读中的高频句式。直接引语包含多句、内部逻辑递进,也是议论文常见结\n构。掌握后可大量复用于真题理解和写作。\nLansley has alarmed health campaigners by suggesting he wants industry rather\nthan government to take the lead.\n第6段，第1句\n本句覆盖主语、谓语、宾语、方式状语、宾语从句、宾语补足语等多种成分，尤其方式状语内嵌宾\n语从句的结构具有较高训练价值。从句中 rather than 连接的对比结构和 want sb to do sth 句型也\n是常见易错点。\nHe said that manufacturers of crisps and candies could play a central role in the\nChange4Life campaign, the centrepiece of government efforts to boost healthy\neating and fitness.\n第6段，第2句\n宾语从句是四六级和考研阅读中的高频句式，said that 引导宾语从句的结构非常典型；同位语用于\n补充说明名词的用法也常见于学术和新闻语体，本句结构具有较强的代表性和迁移价值。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-b/?f=p · 在线使⽤效果更好\n\"If we were really bold, we might even begin to think of high-calorie fast food in\nthe same way as cigarettes – by setting strict limits on advertising, product\nplacement and sponsorship of sports events,\" he said.\n第7段，第2句\n虚拟条件句（If + 过去式 + 主句情态动词）、比较状语从句（the same way as）、直接引语结构\n（he said）都是四六级和考研阅读中的高频句式；破折号补充说明、方式状语修饰谓语也常见。掌\n握本句的拆解方法后，可以迁移到大量类似真题句子上，典型性很高。\nFast-food chains should also stop offering \"inducements\" such as toys, cute\nanimals and mobile phone credit to lure young customers, Stephenson said.\n第8段，第2句\n\"主句 + 引述主句\" 的并列结构在新闻英语和学术写作中非常典型。情态动词 \"should\" 提建议的用\n法也是四六级和考研常考句式。动名词作宾语、不定式作目的状语都是高频结构。整体句式具有较\n强的代表性和迁移价值。\nProfessor Dinesh Bhugra, president of the Royal College of Psychiatrists, said: \"If\nchildren are taught about the impact that food has on their growth, and that some\nthings can harm, at least information is available up front.\"\n第9段，第1句\n引述动词加宾语从句、条件状语从句、定语从句修饰抽象名词、并列宾语结构，都是四六级和考研\n阅读中的高频句式。尤其是条件从句嵌套在宾语从句内部、定语从句与宾语从句并列的组合，具有\n很强的典型性和可迁移性，掌握后能复用到大量真题句。\nHe also urged councils to impose \"fast-food-free zones\" around schools and\nhospitals – areas within which takeaways cannot open.\n第10段，第1句\n涵盖主谓宾、宾语补足语、同位语、定语从句、地点状语等多种成分,且\"urge sb to do\"结构、\"介\n词+关系代词\"引导定语从句、破折号引出同位语都是常考易混点,训练价值较高。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-b/?f=p · 在线使⽤效果更好\nA Department of Health spokesperson said: \"We need to create a new vision for\npublic health where all of society works together to get healthy and live longer.\nThis includes creating a new 'responsibility deal' with business, built on social\nresponsibility, not state regulation. Later this year, we will publish a white paper\nsetting out exactly how we will achieve this.\"\n第11段，第1句\n引述框架加并列主句的结构在新闻报道和政策文件中极为常见,定语从句修饰抽象名词、分词短语\n作后置定语、宾语从句嵌套在分词短语中,这些都是四六级和考研阅读的高频句式,典型性强,掌握后\n可大量复用。\nThe food industry will be alarmed that such senior doctors back such radical\nmoves, especially the call to use some of the tough tactics that have been deployed\nagainst smoking over the last decade.\n第12段，第1句\n句子结构高度典型，符合四六级和考研真题的常见句式：主句 + 宾语从句 + 定语从句的嵌套组\n合，以及同位语对核心名词的补充说明，这些都是考试中频繁出现的结构。掌握本句的分析方法可\n以直接迁移到大量类似句子中，实用性强。\nthe government should strengthen the sense of responsibility among businesses.\n选项G\n本句为典型的 \"主语 + 情态动词 + 动词原形 + 宾语\" 结构，情态动词加动词原形的用法在四六级和\n考研真题中频繁出现，宾语带后置定语的形式也较为常见，具有一定代表性，掌握后可迁移到类似\n句式，但整体结构较为基础，未涉及更复杂的从句或特殊句式。\nHIGH-FREQUENCY · 真题高频词\n本篇出现的 个考研英语二真题高频词\n72\n下列单词既在本篇长文中出现，又是 考研英语二 历年真题的高频词（在该考试真题中出\n现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查看该\n词的释义、音标、词形与真题例句。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-b/?f=p · 在线使⽤效果更好\nlimit B1 responsibility B1\nn. 限度 n. 责任\n本篇3 次 · 真题 42 句 本篇3 次 · 真题 32 句\nban B2 impose B2\nv. 禁止 v. 强制实行\n本篇3 次 · 真题 25 句 本篇3 次 · 真题 21 句\ndiet A2 producer B2\nn. 日常饮食 n. 生产者\n本篇3 次 · 真题 12 句 本篇3 次 · 真题 10 句\nsmoking A2 unhealthy B1\nn. 吸烟，抽烟 adj. 有害健康的;不健康的\n本篇3 次 · 真题 10 句 本篇3 次 · 真题 8 句\nwould A1 product A2\naux. （will 的过去式）将要，会 n. 产品\n本篇2 次 · 真题 304 句 本篇2 次 · 真题 77 句\ndemand B1 tax A2\nv. 坚决要求 n. 税\n本篇2 次 · 真题 63 句 本篇2 次 · 真题 54 句\nprofessor B1 event A2\nn. 教授（大学教师的最高职称） n. 事件\n本篇2 次 · 真题 38 句 本篇2 次 · 真题 36 句\ndepartment A2 regulation B2\nn. 部门 n. 规则，条例\n本篇2 次 · 真题 35 句 本篇2 次 · 真题 28 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-b/?f=p · 在线使⽤效果更好\nsenior B1 advertising B1\nadj. 级别高的 n. 广告业\n本篇2 次 · 真题 21 句 本篇2 次 · 真题 20 句\ncampaign B2 royal B1\nn. 运动 adj. 王室的\n本篇2 次 · 真题 20 句 本篇2 次 · 真题 17 句\nwarning A2 obesity B2\nn. 警告 n. 肥胖（症）\n本篇2 次 · 真题 17 句 本篇2 次 · 真题 11 句\ngrowth B1 customer A2\nn. 增长 n. 顾客，客户\n本篇1 次 · 真题 80 句 本篇1 次 · 真题 79 句\nrate A2 firm B1\nn. 速度 adj. 坚固的\n本篇1 次 · 真题 72 句 本篇1 次 · 真题 66 句\nargue B1 least A2\nv. 争论 det. 最少的\n本篇1 次 · 真题 63 句 本篇1 次 · 真题 63 句\ndecade B1 impact B2\nn. 十年 n. 影响\n本篇1 次 · 真题 61 句 本篇1 次 · 真题 53 句\npublish B1 potential B2\nv. 出版，发行（书籍、杂志等） adj. 潜在的\n本篇1 次 · 真题 52 句 本篇1 次 · 真题 43 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-b/?f=p · 在线使⽤效果更好\naffect B1 figure A2\nv. 影响 n. 数字\n本篇1 次 · 真题 39 句 本篇1 次 · 真题 38 句\nlater A1 promote B2\nadv. 以后，later v. 促进\n本篇1 次 · 真题 38 句 本篇1 次 · 真题 38 句\navailable A2 contribute B1\nadj. 可获得的 v. 捐献\n本篇1 次 · 真题 35 句 本篇1 次 · 真题 34 句\nattempt B1 boost B2\nv. 试图 v. 提高\n本篇1 次 · 真题 32 句 本篇1 次 · 真题 28 句\nassociation B2 willing B1\nn. 协会 adj. 愿意的，乐意的\n本篇1 次 · 真题 27 句 本篇1 次 · 真题 23 句\neffective B1 harm B1\nadj. 有效的，起作用的 n. 伤害\n本篇1 次 · 真题 20 句 本篇1 次 · 真题 20 句\npropose B1 tough B1\nv. 提议 adj. 困难的\n本篇1 次 · 真题 20 句 本篇1 次 · 真题 20 句\ncomment B1 consumption B2\nn. 评论 n. 消费\n本篇1 次 · 真题 18 句 本篇1 次 · 真题 17 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-b/?f=p · 在线使⽤效果更好\ndebate B2 exactly B1\nn. 辩论 adv. 精确地\n本篇1 次 · 真题 16 句 本篇1 次 · 真题 15 句\nstrengthen B2 workplace B1\nv. 加强 n. 工作场所\n本篇1 次 · 真题 15 句 本篇1 次 · 真题 15 句\ncelebrity B2 neighborhood B1\nn. 名人，名流 n. 街区\n本篇1 次 · 真题 14 句 本篇1 次 · 真题 14 句\ncouncil B1 curb B2\nn. 委员会 v. 抑制\n本篇1 次 · 真题 12 句 本篇1 次 · 真题 12 句\nmanufacturer B2 radical B2\nn. 制造商 adj. 根本的\n本篇1 次 · 真题 12 句 本篇1 次 · 真题 12 句\nurge B2 vision B2\nv. 敦促 n. 视力\n本篇1 次 · 真题 12 句 本篇1 次 · 真题 12 句\ncredit B1 excessive B2\nn. 赊购，赊账 adj. 过多的\n本篇1 次 · 真题 11 句 本篇1 次 · 真题 11 句\nminister B2 zone B1\nn. 部长 n. 区域\n本篇1 次 · 真题 11 句 本篇1 次 · 真题 11 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-b/?f=p · 在线使⽤效果更好\nchain B1 restriction B2\nn. 链条 n. 限制\n本篇1 次 · 真题 10 句 本篇1 次 · 真题 10 句\ncentral B1 restrict B2\nadj. 主要的 v. 限制\n本篇1 次 · 真题 9 句 本篇1 次 · 真题 9 句\nscheme B2 sponsor B2\nn. 计划 n. 赞助商\n本篇1 次 · 真题 9 句 本篇1 次 · 真题 9 句\nlecture B1 mobile B1\nn. 讲座 adj. 可移动的\n本篇1 次 · 真题 8 句 本篇1 次 · 真题 8 句\nVOCABULARY · 词汇难度分布\n全文 词按 难度累积覆盖\n246 CEFR\n数字标号长文去重后共 246 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以\n下」的累积占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 4 个\n· 约 2%。\n38% 64% 82% 98% 100% 100%\nA1 A2 B1 B2 C1 C2\n及以下 及以下 及以下 及以下 及以下 及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 246 个 · 末柱为 100%\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-b/?f=p · 在线使⽤效果更好\n去重总词数 B2 以上难词 B1 及以下覆盖\n246 2 82\n% %\n考研英语二\n2011年 · 全卷构成\nSection I 完形填空（四选一） 题目解析 →\nSection II Part A (1) 阅读理解（四选一） 题目解析 →\nSection II Part A (2) 阅读理解（四选一） 题目解析 →\nSection II Part A (3) 阅读理解（四选一） 题目解析 →\nSection II Part A (4) 阅读理解（四选一） 题目解析 →\nSection II Part B 多项对应（信息匹配） 本题\nSection III 英译汉（段落翻译） 题目解析 →\nSection IV Part A 写作 题目解析 →\nSection IV Part B 写作 题目解析 →\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section2-part-b/?f=p · 在线使⽤效果更好\n2011年考研英语二 英译汉（段落翻译） Section III · 参考译文与逐\n句解析\nPASSAGE & TRANSLATION · 题和解析\n英译汉真题、参考译文与逐句解析\n本页整篇参考译文与逐句解析由懒笔记基于2011年 考研英语二英译汉（段落翻译）原卷\n逐句译审整理。与试卷排版同一卷面：Directions 与整段英文原文连续排印——整段连\n排、无题号无划线，把它切成一句句翻译单元本身就是解题动作。卷面之后先给按段定稿\n的整篇参考译文，再按自切句序逐句拆分：意群直译、难点点破、语序调整、句内定稿中\n译，答案直显。\n英语二真题(2011)\nSection III\nDirections:\nTranslate the following text into Chinese. Write your translation on the ANSWER SHEET. (15 points)\nP1 Who would have thought that, globally, the IT industry produces about the same volume of\ngreenhouse gases as the world's airlines do – roughly 2 percent of all CO2 emissions?\nP2 Many everyday tasks take a surprising toll on the environment. A Google search can leak\nbetween 0.2 and 7.0 grams of CO2, depending on how many attempts are needed to get the \"right\"\nanswer. To deliver results to its users quickly, then, Google has to maintain vast data centres around the\nworld, packed with powerful computers. While producing large quantities of CO2, these computers emit\na great deal of heat, so the centres need to be well air-conditioned, which uses even more energy.\nP3 However, Google and other big tech providers monitor their efficiency closely and make\nimprovements. Monitoring is the first step on the road to reduction, but there is much more to be done,\nand not just by big companies.\n参考译文\n按段定稿的整篇参考译文是复盘资产，考卷上只印英文原文——英语二英译汉满分 15 分，按「理解准确、表达通\n顺连贯、无错译漏译」整篇四档评分。\nP1 谁能想到，在全球范围内，IT 业产生的温室气体竟然与全世界的航空公司差不多——约占全球\n二氧化碳排放总量的 2%？\nP2 许多日常活动都在对环境造成惊人的损害。一次谷歌搜索可能释放 0.2 至 7.0 克二氧化碳，具\n体数量取决于为了得到「正确」答案需要尝试多少次。因此，为了快速向用户呈现搜索结果，谷歌不\n得不在全球各地运营大量数据中心，这些中心里装满了高性能电脑。这些电脑在排放大量二氧化碳的\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section3/?f=p · 在线使⽤效果更好\n同时，还会散发大量热量，所以这些数据中心需要良好的空调系统进行降温，而这又会消耗更多能\n源。\nP3 不过，谷歌等大型科技公司也在密切监测自身的能效并不断加以改进。监测只是迈向减排的第\n一步，但还有许多工作要做，而且这并不只是大公司的事。\n【衔接】P1 与 P2 衔接：从「全行业数据」过渡到「日常活动举例」\n第一段抛出 roughly 2 percent of all CO2 emissions 的全行业数据，第二段开头 Many\neveryday tasks take a surprising toll on the environment 顺势把镜头从「行业」拉到「日常活\n动」。译文段间不必加额外连接词，但第二段首句的「日常活动」要译得有「举例承接」的感觉\n（如「许多日常活动都在……」），让读者意识到下面要展开例子。\nP2 内部：搜索→数据中心→电脑→空调，因果链要用「因此／而这」串起来\nTo deliver results to its users quickly, then, Google has to maintain vast data centres 里的\nthen 译为「因此」，承接前句搜索耗能；so the centres need to be well air-conditioned,\nwhich uses even more energy 里的 which 拆成「而这又会消耗更多能源」。整段四句之间的\n「搜索 → 数据中心 → 电脑发热 → 空调耗能」四级因果链，要靠「因此／所以／而这」一路串下\n来。\nP2 与 P3 衔接：「问题严重」转向「正在改进」，让 However 担纲\n第二段结尾是问题严重的论调，第三段以 However 起手转到正面动作。译文里这个「然而／不\n过」必须保留并放段首，让读者一眼看出段间的转折。\nP3 内部：「监测→第一步→还远不够→不止大公司」的递进\nMonitoring is the first step on the road to reduction 与上一句的「监测能效」一脉相承，译时\n把「监测」二字与前一句的「监测自身能效」对应起来，避免读者以为这是新概念；末句的 not\njust by big companies 收束全文，译文用「而且这并不只是大公司的事」点出主旨。\n全篇主体：Google 的多次出现避免重复\nP1 的「IT 业」、Google、Google and other big tech providers 是同一议题下逐级展开的主\n体；译文里前两段用「谷歌」即可，第三段为体现「不止谷歌」用「谷歌等大型科技公司」展开，\n再到末句「大公司」收尾，话题主体顺着扩散开。\n逐句解析\n整段连排、无题号无划线——把原文切成一句句翻译单元本身就是解题动作，句前 N. 为逐句解析自切的句序号\n（非考卷题号），与卷面原文逐字对应。\n【来源】New Statesmen(《新政治家》)2010年6月10日一篇题为The Green IT Myth(绿色IT的神\n话)的文章。选文话题通俗,语言直白,但考生应注意长句的处理。\n【主旨】IT 业碳排惊人，谷歌等巨头正在监测改进，但减排不止靠大公司\n开篇用反问点出全球 IT 业的温室气体排放量与航空业相当，约占全球 CO2 排放的 2%，见 the IT\nindustry produces about the same volume of greenhouse gases as the world's airlines do –\nroughly 2 percent of all CO2 emissions；第二段以谷歌搜索为例展开 IT 业耗能与排放的细节；\n末段定调为「监测是减排起点、但远远不够，也不止是大公司的事」，见 Monitoring is the first\nstep on the road to reduction, but there is much more to be done, and not just by big\ncompanies。全文是中性偏警示的科普议论，作者态度是「问题被低估，需要更广泛行动」。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section3/?f=p · 在线使⽤效果更好\n【术语】CO2 / greenhouse gases 译法统一\ngreenhouse gases 与 CO2 emissions 全篇反复出现，统一译作「温室气体」与「二氧化碳\n（CO2）排放」；large quantities of CO2 同样译「大量二氧化碳」，避免一会儿「碳」一会儿\n「二氧化碳」前后不一。\ndata centres / centres / computers 的指代链\nvast data centres around the world 在下一句被简称为 the centres，再下一句的 these\ncomputers 指的正是这些数据中心里 packed with powerful computers 的那批电脑；翻译时把\nthe centres 还原为「这些数据中心」，these computers 还原为「这些（大功率）电脑」，指代\n链才不会断。\nGoogle / big tech providers / big companies 的指称承接\nGoogle and other big tech providers 与末句 big companies 是同一拨主体的不同说法，译文里\n统一处理为「谷歌等大型科技公司／这些大公司」，让第三段两句之间的话题连得上。\n1. Who would have thought that, globally, the IT industry produces about the same volume of\ngreenhouse gases as the world's airlines do – roughly 2 percent of all CO2 emissions?\n【意群】Who would have thought that,（主句（反问式引导从句））★采分→谁能想到……\n难点：反问语气＋虚拟过去完成\nWho would have thought that 不是真的在问「谁想过」，而是英语里典型的反问式感叹，意\n思是「谁能想到／没人会想到」。考研英语二常用它开篇引出反常事实，译成「谁能想到」或\n「真没想到」即可，别死译成「谁会想过」。\nglobally,（插入语（范围状语））→在全球范围内\n难点：插入语位置要挪\nglobally 用逗号隔开夹在中间，是限定后面整个比较的「范围」，译文里要提到主语前，译作\n「在全球范围内」。\nthe IT industry produces about the same volume of greenhouse gases as the world's airlines\ndo –（that 引导的宾语从句主干（the same … as 比较结构））★采分→IT 业产生的温室气体体量\n与世界航空业产生的差不多\n难点：the same X as Y 比较结构\nthe same volume of greenhouse gases as the world's airlines do 是「A 产生的 X 量与 B 产\n生的一样多」的比较句，as 后面的 do 替代前面的 produces。主体考生容易把 as 当「作为」\n译错；记住公式：the same N as B do = 「与 B 一样多的 N」，译成「与航空业（产生的）一\n样多的温室气体」或「与航空业差不多」。\nroughly 2 percent of all CO2 emissions?（破折号后同位语（对前面数量的补充说明））★采分→\n——大约占全部二氧化碳排放的 2%\n难点：破折号 = 补充说明\n英语里破折号后的内容常是对前文数字／概念的进一步解释，相当于「也就是……」。这里是把\n「与航空业相当的那个量」具体化为「约占全球 CO2 排放的 2%」。译时保留破折号，或换成\n「——大约……」「，即……」。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section3/?f=p · 在线使⽤效果更好\n【调序】插入语前移、比较句合并、破折号保留\n① 把 globally 从逗号插入位置挪到句首，作「在全球范围内」；② the same … as … 比较结构在\n中文里拆成「IT 业产生的温室气体与航空业（产生的）相当」更地道；③ 破折号引出的 roughly 2\npercent of all CO2 emissions 保留破折号或换成「——」，作整句的补充。\n【译文】谁能想到，在全球范围内，IT 业产生的温室气体竟然与全世界的航空公司差不多——\n约占全球二氧化碳排放总量的 2%？\n2. Many everyday tasks take a surprising toll on the environment.\n【意群】Many everyday tasks（主语）★采分→许多日常任务／日常活动\n难点：tasks 译作「事务／活动」更自然\ntasks 在这里不是「任务」那种带工作色彩的词，而是泛指人每天都在做的小事（搜个网、发个\n邮件之类），译作「日常活动／日常操作」比生硬的「日常任务」更贴语境。\ntake a surprising toll on the environment.（谓语 + 宾语 + 介词短语）★采分→对环境造成了惊人\n的损害\n难点：短语 take a toll on = 对……造成损害\ntake a toll on sth 是固定搭配，意思是「对……造成（不小的）损害／代价」，不是字面的「拿\n走通行费」。surprising 修饰 toll，译成「惊人的（损害）／不容小觑的（代价）」。考研英语\n二外刊常用这个短语，记下来后面再见就不慌。\n【调序】短句基本可平铺\n本句是「主语＋谓语＋介词短语」标准结构，中文语序与英文基本一致，不必大动，只需把\nsurprising 这个形容词位置调顺即可。\n【译文】许多日常活动都在对环境造成惊人的损害。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section3/?f=p · 在线使⽤效果更好\n3. A Google search can leak between 0.2 and 7.0 grams of CO2, depending on how many attempts\nare needed to get the \"right\" answer.\n【意群】A Google search can leak between 0.2 and 7.0 grams of CO2,（主干）★采分→一次谷歌搜索\n可能排放出 0.2 到 7.0 克二氧化碳\n难点：leak 在此是「排放／释放」\nleak 常见义是「泄漏（液体、消息）」，但这里宾语是 CO2、语境是排放数据，应取「释放／\n排放出」的引申义。这是典型的熟词僻义：考研英语二里熟词不一定取最常见那个意思，要回到\n「这个词搭什么宾语、放在什么语境」里再定取义。\ndepending on how many attempts are needed（现在分词作状语（条件状语））★采分→这取决于\n需要尝试多少次\n难点：depending on = 「视……而定／取决于」\ndepending on 在句末是常见的「条件状语」表达，中文不说「依赖于」，要译成「具体取决于\n／视……而定」，并把它前提到结果之前更顺，但保留在句末也行。\nto get the \"right\" answer.（to 不定式作目的状语）★采分→才能得到「正确」答案\n难点：\"right\" 加引号的玄机\nright 上的引号不是装饰，而是作者对「真正想要的、合适的答案」的修饰性强调——意思是\n「合心意的、用户真正想找的那个答案」，不是绝对意义上的正确。中文里保留双引号，并译成\n「「合心意的」答案」或「「正确」答案」即可。这类标点细节是考研英语二外刊改写题常给的\n「态度信号」。\n【调序】条件状语前移／后置都行，但目的状语放回 attempts 后\n中文里「为了得到答案需要尝试几次」是自然顺序，所以把 to get the \"right\" answer 紧跟\nattempts 译，作「为了找到「合心意的」答案需要尝试几次」。整句可以采用「主干，具体取决\n于＋条件从句」的句式，把 depending on 放到主干之后用逗号引出。\n【译文】一次谷歌搜索可能释放 0.2 至 7.0 克二氧化碳，具体数量取决于为了得到「正确」答\n案需要尝试多少次。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section3/?f=p · 在线使⽤效果更好\n4. To deliver results to its users quickly, then, Google has to maintain vast data centres around the\nworld, packed with powerful computers.\n【意群】To deliver results to its users quickly, then,（目的状语（句首）＋承上插入语 then）★采分→因\n此，为了快速向用户提供结果\n难点：then 在此是「因此／那么」\nthen 在这里不是「然后」表时间，而是承接上一句「搜索会排放 CO2」、表「由此可见」的逻\n辑词，译成「因此／所以／那么」。这是考研英语二里典型的逻辑连接词陷阱：同一个 then，\n时间义和因果义都有，要看上下文。\nGoogle has to maintain vast data centres around the world,（主句）★采分→谷歌必须在世界\n各地维护庞大的数据中心\n难点：vast 与 maintain 的搭配语义\nvast 修饰 data centres，强调「规模庞大／数量众多」；maintain 在此不是「维持」那种抽象\n义，而是「运营／维护」实体设施的具体义，译作「在全球各地建设并运营庞大的数据中心」\n更贴。\npacked with powerful computers.（过去分词作后置定语（修饰 data centres））★采分→里面装满\n了大功率电脑\n难点：packed with = 「（里面）塞满／装满」\npacked with 是过去分词作后置定语，相当于一个被动定语从句 which are packed with；不译\n「被塞满」，可译为主动「里面装满了／塞满了……」。powerful computers 这里是技术语境\n的「高性能／大功率电脑」，不是「强大的电脑」这种空话。\n【调序】目的状语前置＋后置定语提前\n① To deliver results 这一目的状语本就在句首，中文直接译「为了……」放最前；② packed with\npowerful computers 是后置定语，按汉语习惯前移到 data centres 前面，译成「内部配备大量高\n性能电脑的庞大数据中心」也行，但更顺的处理是拆成两句：「在全球各地运营庞大的数据中心，\n里面装满了高性能电脑」。\n【译文】因此，为了快速向用户呈现搜索结果，谷歌不得不在全球各地运营大量数据中心，这\n些中心里装满了高性能电脑。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section3/?f=p · 在线使⽤效果更好\n5. While producing large quantities of CO2, these computers emit a great deal of heat, so the\ncentres need to be well air-conditioned, which uses even more energy.\n【意群】While producing large quantities of CO2,（while 引导的现在分词状语（让步／伴随））★采分→\n在产生大量二氧化碳的同时\n难点：while 在此是「在……同时」\nwhile 既能表「虽然」（让步），也能表「在……的同时」（伴随）；本句两个动作（产生 CO2\n/ 发出大量热量）并存且都是负面后果，所以取「在……的同时／一边……一边……」更贴。译成\n「虽然」也通，但语气过于转折。\nthese computers emit a great deal of heat,（主句）★采分→这些电脑还会散发出大量热量\n难点：these computers 指代回填\nthese computers 指的是上一句 packed with powerful computers 里那批高性能电脑，翻译\n时把指代关系译清楚——「这些电脑（指数据中心里那批高性能电脑）」，不要让读者不知道\n「这些」指谁。emit a great deal of heat 是「散发／发出大量热量」。\nso the centres need to be well air-conditioned,（so 引导结果状语从句（被动语态））★采分→所\n以这些（数据）中心需要良好的空调降温\n难点：被动语态汉化 + the centres 指代\nthe centres 承接上一句的 vast data centres around the world，译时还原为「这些数据中\n心」，指代链才不断。need to be well air-conditioned 是「需要被良好地空调降温」这种被动\n结构，中文不说「被空调」，要改成主动或无主句：「需要良好的空调系统降温／需要良好通风\n降温」。well 在这里不是「好」，而是「充分／良好地」修饰程度。\nwhich uses even more energy.（which 引导非限定性定语从句（修饰前一整句／air-conditioned 这件\n事））★采分→而这又消耗了更多的能源\n难点：which 指代前面一整件事\n这个 which 不是回指 the centres，而是指前面整件事「需要良好空调降温」。这是非限定性定\n语从句的常见用法：which = 「这（件事）」。译成「而这又会消耗更多能源」，并用「又」呼\n应递进。even more 是「更多」，强调在原有耗能基础上叠加。\n【调序】状语前置＋非限定从句拆成独立小句\n① While 引导的伴随状语放主句前，译成「在……的同时」；② so 结果句保留连接「因此／所\n以」；③ which 引导的非限定从句拆出来译作独立小句「而这又会消耗更多能源」，用「这」回指\n前文事件——这是非限定性定语从句最稳妥的汉化路。\n【译文】这些电脑在排放大量二氧化碳的同时，还会散发大量热量，因此这些数据中心需要良\n好的空调系统进行降温，而这又会消耗更多能源。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section3/?f=p · 在线使⽤效果更好\n6. However, Google and other big tech providers monitor their efficiency closely and\nmake improvements.\n【意群】However,（段首转折连接词）★采分→然而／不过\n难点：段首 However 暗示态度转向\n前两段都在讲「IT 业耗能、谷歌也是排放大户」，段首 However 标志作者要转到「正面动作」\n——谷歌等大公司在监测改进。这种段首转折词，是考研英语二外刊里非常典型的「态度信\n号」，译时一定要保留「然而／不过」。\nGoogle and other big tech providers（并列主语）★采分→谷歌和其他大型科技公司\n难点：big tech providers = 大型科技公司\nproviders 字面是「提供者」，在 big tech 语境里指「（科技服务的）提供商」，整体译作「大\n型科技公司／科技巨头」更地道，不要直译「大科技提供者」。\nmonitor their efficiency closely（并列谓语 1）★采分→密切监测自身效率\n难点：their 指代 + closely 程度\ntheir 回指 Google and other big tech providers，译成「自身的／自己的」效率即可。\nclosely 在这里是「密切地／严密地」，不是「靠近」。efficiency 在节能减排语境里指「（能源\n使用）效率」，可译为「能效／效率」。\nand make improvements.（并列谓语 2）→并不断改进\n难点：make improvements 抽象名词具体化\nimprovements 是抽象名词，直译「做出改进」也通，但更顺的是动词化「不断改进／加以\n改进」。\n【调序】汉语并列直译即可\n本句结构与中文几乎一一对应：「然而，主语 + 谓语1 + 并 + 谓语2」，无需大调，把 closely 这\n个程度副词译成「密切地」放谓语前即可。\n【译文】不过，谷歌等大型科技公司也在密切监测自身的能效并不断加以改进。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section3/?f=p · 在线使⽤效果更好\n7. Monitoring is the first step on the road to reduction, but there is much more to be done, and\nnot just by big companies.\n【意群】Monitoring is the first step on the road to reduction,（并列分句 1（主干））★采分→监测只是\n减排之路上的第一步\n难点：on the road to = 「通往……的道路上」\non the road to reduction 是常见比喻，「在通往减排（这一目标）的路上」；reduction 此处\n省略了宾语，根据语境补出「减排／减少（温室气体）」。把抽象名词 reduction 具体化为「减\n排」，是考研英语二翻译的常见处理。\nbut there is much more to be done,（but 引导的转折分句（there be 句型 + 不定式被动））★采分\n→但是还有许多事情要做\n难点：there is much more to be done 句型\nthere is + 比较级 + to be done 是英语的固定结构，意思「还有更多／还有许多要做」。to be\ndone 是被动不定式，中文转主动「还有很多事要做／需要去做」即可。much more 不是「更\n多」那种比较，而是「还有许多」的强调。\nand not just by big companies.（省略补充（and 引出 not just by … 作 done 的施动者））★采分→\n而且不只是大公司（要做）\n难点：省略 + by 短语回指被动\n这部分完整结构是 \"and (it is) not just (to be done) by big companies\"——省略了主句，by\n短语回指上一分句的被动 to be done，意思「要做的事不只是大公司去做」，或者说「不只是\n大公司的事」。这是考研英语二段落翻译的高频陷阱：英语里常用省略，中文要把意思补全。\n【调序】三分句保留原序，按汉语习惯做小调整\n中文里「A 是第一步，但 B 还有很多要做，而且不止 C」的语序顺。只需把 reduction 补出宾语\n「减排」、把 be done 转主动、把末句 not just by … 补出主语「这件事不只是大公司的事／不只\n是大公司要做」。\n【译文】监测只是迈向减排的第一步，但还有许多工作要做，而且这并不只是大公司的事。\nSENTENCE INSIGHTS · 句子精讲\n句真题句逐层精讲\n7\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section3/?f=p · 在线使⽤效果更好\nWho would have thought that, globally, the IT industry produces about the same\nvolume of greenhouse gases as the world's airlines do – roughly 2 percent of all\nCO2 emissions?\n第1段，第1句\n反问句配合宾语从句是英语学术和媒体文章中常见的修辞手法，用于引出令人意外的事实；宾语从\n句内嵌套比较结构 \"the same... as...\" 和同位语，也是考试中高频出现的复杂句式；整体结构具有很\n强的代表性，掌握后可以迁移到大量类似句子。\nMany everyday tasks take a surprising toll on the environment.\n第2段，第1句\n结构具有一定代表性但不算高频难点。主谓宾加状语的简单句是英语基本句型之一，在四六级和考\n研阅读中常见，但此类简单句通常不是考点重心，真题更侧重复杂句式（定语从句、状语从句、并\n列复合句等），本句作为句式代表性中等。\nA Google search can leak between 0.2 and 7.0 grams of CO2, depending on how\nmany attempts are needed to get the \"right\" answer.\n第2段，第2句\n句子结构在考试中较为常见:主句加条件或依据说明的从句,且从句使用被动语态和疑问词引导,这是\n典型的科技、说明文类句式。掌握这种结构后,可以迁移到大量类似的说明性、因果关系的句子中,\n实用性较强。\nTo deliver results to its users quickly, then, Google has to maintain vast data\ncentres around the world, packed with powerful computers.\n第2段，第3句\n简单句配合不定式目的状语和分词短语定语是四六级和考研阅读中的高频句式,\"has to\" 表示义务或\n必要性的用法也很常见,学生掌握这种结构后可以迁移到大量类似句子的分析中\nWhile producing large quantities of CO2, these computers emit a great deal of\nheat, so the centres need to be well air-conditioned, which uses even more energy.\n第2段，第4句\n\"While\" 引导的状语从句、\"so\" 连接的因果并列句、\"which\" 引导的非限制性定语从句都是四六级\n和考研阅读中的高频句式，本句将三者组合在一起，具有很强的代表性和复用价值。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section3/?f=p · 在线使⽤效果更好\nHowever, Google and other big tech providers monitor their efficiency closely and\nmake improvements.\n第3段，第1句\n简单句配合并列谓语是四六级和考研阅读中的常见句式,掌握后可以迁移到类似结构的句子,但本句\n结构过于简单,不涉及从句、复杂修饰或特殊句式,代表性一般。\nMonitoring is the first step on the road to reduction, but there is much more to be\ndone, and not just by big companies.\n第3段，第2句\n并列句 + there be 句型是四六级与考研常考句式;转折逻辑与不定式作定语的用法在真题中高频出\n现,学习后可广泛迁移\nHIGH-FREQUENCY · 真题高频词\n本篇出现的 个考研英语二真题高频词\n20\n下列单词既在本篇英文原文中出现，又是 考研英语二 历年真题的高频词（在该考试真题\n中出现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查\n看该词的释义、音标、词形与真题例句。\ncentre A2 would A1\nn. 中心;中央 aux. （will 的过去式）将要，会\n本篇2 次 · 真题 16 句 本篇1 次 · 真题 304 句\ndata B1 user A2\nn. 数据 n. 使用者\n本篇1 次 · 真题 80 句 本篇1 次 · 真题 52 句\ntech B1 quickly A2\nn. 技术 adv. 快速地\n本篇1 次 · 真题 38 句 本篇1 次 · 真题 33 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section3/?f=p · 在线使⽤效果更好\nattempt B1 maintain B1\nv. 试图 v. 维持\n本篇1 次 · 真题 32 句 本篇1 次 · 真题 31 句\npowerful B1 efficiency B2\nadj. 强大的 n. 效率\n本篇1 次 · 真题 22 句 本篇1 次 · 真题 20 句\nimprovement B1 provider B2\nn. 改进 n. 供应者\n本篇1 次 · 真题 20 句 本篇1 次 · 真题 17 句\nreduction B2 deliver B1\nn. 减少 v. 递送，运送（货物、信件等）\n本篇1 次 · 真题 15 句 本篇1 次 · 真题 14 句\nroughly B1 vast B2\nadv. 大约，大概 adj. 巨大的\n本篇1 次 · 真题 13 句 本篇1 次 · 真题 12 句\nemission B2 closely B1\nn. 排放物 adv. 紧密地\n本篇1 次 · 真题 11 句 本篇1 次 · 真题 10 句\nsurprising A2 volume B1\nadj. 令人惊讶的 n. 音量\n本篇1 次 · 真题 8 句 本篇1 次 · 真题 8 句\nVOCABULARY · 词汇难度分布\n英文原文 词按 难度累积覆盖\n79 CEFR\n英文原文去重后共 79 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」\n的累积占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 0 个 ·\n约 0%。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section3/?f=p · 在线使⽤效果更好\n53% 72% 94% 100% 100% 100%\nA1 A2 B1 B2 C1 C2\n及以下 及以下 及以下 及以下 及以下 及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为英文原文去重词 79 个 · 末柱为 100%\n去重总词数 B2 以上难词 B1 及以下覆盖\n79 0 94\n% %\n考研英语二\n2011年 · 全卷构成\nSection I 完形填空（四选一） 题目解析 →\nSection II Part A (1) 阅读理解（四选一） 题目解析 →\nSection II Part A (2) 阅读理解（四选一） 题目解析 →\nSection II Part A (3) 阅读理解（四选一） 题目解析 →\nSection II Part A (4) 阅读理解（四选一） 题目解析 →\nSection II Part B 多项对应（信息匹配） 题目解析 →\nSection III 英译汉（段落翻译） 本题\nSection IV Part A 写作 题目解析 →\nSection IV Part B 写作 题目解析 →\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2011-english-two/section3/?f=p · 在线使⽤效果更好\n2011年考研英语二写作（小作文） · 题目、范文与解析\nPROMPT & MODEL ESSAY · 写作题和范文\n写作题和范文\n本页写作题面、参考范文与逐段解析由懒笔记基于2011年 考研英语二写作原卷整理。与\n试卷排版同一卷面：完整写作要求（Directions，含主题、文体、词数与署名约束）连续\n排印。写作是生产性任务、无 ABCD 标准答案——题面即整道题；卷面下方直接给出满\n足全部硬约束的参考范文、整篇中译与逐段拆解。\n英语二真题(2011)\nSection IV Part A\nDirections:\nSuppose your cousin Li Ming has just been admitted to a university. Write him/her a letter to\n1)congratulate him/her, and\n2)give him/her suggestions on how to get prepared for university life. You should write about 100 words\non ANSWER SHEET 2.\nDo not sign your own name at the end of the letter. Use “Zhang Wei” instead.\nDo not write your address. (10 points)",
+      "sample": "写作无唯一标准答案，以下为达标示范\nDear Li Ming,\nI am delighted to learn that you have been admitted to your ideal university. Please accept my warmest\ncongratulations on this well-deserved achievement.\nAs you look forward to campus life, I would like to share some suggestions. First, you may read a few books\nrelated to your major in advance, so that you can adapt to your courses more easily. Besides, try to develop the\nability to live independently, such as managing your own time and money. What's more, it would be wise to\nmake a plan for both study and social activities. I am sure you will enjoy a wonderful university life.\nYours, Zhang Wei"
+    }
+  }
 }

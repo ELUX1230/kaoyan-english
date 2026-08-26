@@ -2,14 +2,13 @@
   "title": "考研英语二2025年真题及答案解析（整卷）",
   "paragraphs": [
     {
-      "paragraph_id": "p1",
-      "label": "Paragraph 1",
+      "paragraph_id": "p_1",
+      "label": "Paragraph 1 (P1)",
       "sentences": [
         {
-          "id": "s1_1",
+          "id": "s_1",
           "text": "U.S. customers historically tipped people they assumed were earning most of their income via tips, such as restaurant servers earning less than the minimum wage.",
           "translation": "美国顾客历来会给那些他们认为主要靠小费谋生的人支付小费,比如收入低于最低工资的餐厅服务员。2010年代初,各类商家开始使用iPad和其他数字支付系统处理交易。这些系统经常提示顾客为以前不需要支付小费的服务支付小费。",
-          "analysis": {},
           "tokens": [
             {
               "word": "U.S.",
@@ -203,10 +202,9 @@
           ]
         },
         {
-          "id": "s1_2",
+          "id": "s_2",
           "text": "In the early 2010s, a wide range of businesses started processing purchases with iPads and other digital payment systems.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "In",
@@ -358,10 +356,9 @@
           ]
         },
         {
-          "id": "s1_3",
+          "id": "s_3",
           "text": "These systems often prompted customers to tip for services that were not previously tipped.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "These",
@@ -473,14 +470,13 @@
       ]
     },
     {
-      "paragraph_id": "p2",
-      "label": "Paragraph 2",
+      "paragraph_id": "p_2",
+      "label": "Paragraph 2 (P2)",
       "sentences": [
         {
-          "id": "s2_1",
+          "id": "s_1",
           "text": "Today's tip requests are often not connected to the salary and service norms that used to determine when and how people tip.",
           "translation": "如今的小费要求往往与过去决定何时以及如何支付小费的薪资和服务规范脱节。过去顾客几乎总是在接受服务后支付小费,比如在用完餐后、理完发后或披萨送达后。这种时机可以奖励高质量的服务,并激励员工提供优质服务。",
-          "analysis": {},
           "tokens": [
             {
               "word": "Today",
@@ -653,10 +649,9 @@
           ]
         },
         {
-          "id": "s2_2",
+          "id": "s_2",
           "text": "Customers in the past nearly always paid tips after receiving a service, such as at the conclusion of a restaurant meal, after getting a haircut or once a pizza was delivered.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Customers",
@@ -899,10 +894,9 @@
           ]
         },
         {
-          "id": "s2_3",
+          "id": "s_3",
           "text": "That timing could reward high-quality service and give workers an incentive to provide it.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "That",
@@ -1028,14 +1022,13 @@
       ]
     },
     {
-      "paragraph_id": "p3",
-      "label": "Paragraph 3",
+      "paragraph_id": "p_3",
+      "label": "Paragraph 3 (P3)",
       "sentences": [
         {
-          "id": "s3_1",
+          "id": "s_1",
           "text": "It's becoming more common for tips to be requested beforehand.",
           "translation": "事先要求支付小费的情况正变得越来越普遍。而新的小费技术甚至可能自动添加小费。",
-          "analysis": {},
           "tokens": [
             {
               "word": "It",
@@ -1124,10 +1117,9 @@
           ]
         },
         {
-          "id": "s3_2",
+          "id": "s_2",
           "text": "And new tipping technology may even automatically add tips.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "And",
@@ -1204,14 +1196,816 @@
       ]
     },
     {
-      "paragraph_id": "p6",
-      "label": "Paragraph 6",
+      "paragraph_id": "p_4",
+      "label": "Paragraph 4 (P4)",
       "sentences": [
         {
-          "id": "s6_1",
+          "id": "s_1",
+          "text": "The prevalence of digital payment devices has made it easier to ask customers for a tip.",
+          "translation": "懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好from 10% or less in the 1950s to 15% around the year 2000 to 20% or higher today. This increase issometimes called tipflation—the expectation of ever-higher tip amounts.数字支付设备的普及使向顾客索要小费变得更加容易。这有助于解释为什么小费要求正在渗透到新的服务类型中。顾客现在经常看到建议的默认选项菜单——通常远高于其消费金额的20%。小费金额已从1950年代的10%或更低上升到2000年左右的15%,再到如今的20%或更高。这种增长有时被称为小费通胀——即对越来越高的小费金额的预期。",
+          "tokens": [
+            {
+              "word": "The",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "prevalence",
+              "lemma": "prevalence",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "digital",
+              "lemma": "digital",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "payment",
+              "lemma": "payment",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "devices",
+              "lemma": "device",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "has",
+              "lemma": "have",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "made",
+              "lemma": "make",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "it",
+              "lemma": "it",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "easier",
+              "lemma": "easy",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "to",
+              "lemma": "to",
+              "pos": "PART",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "ask",
+              "lemma": "ask",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "customers",
+              "lemma": "customer",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "for",
+              "lemma": "for",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "a",
+              "lemma": "a",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "tip",
+              "lemma": "tip",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_2",
+          "text": "That helps explain why tip requests are creeping into new kinds of services.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "That",
+              "lemma": "that",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "helps",
+              "lemma": "help",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "explain",
+              "lemma": "explain",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "why",
+              "lemma": "why",
+              "pos": "SCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "tip",
+              "lemma": "tip",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "requests",
+              "lemma": "request",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "are",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "creeping",
+              "lemma": "creep",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "into",
+              "lemma": "into",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "new",
+              "lemma": "new",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "kinds",
+              "lemma": "kind",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "services",
+              "lemma": "service",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_3",
+          "text": "Customers now routinely see menus of suggested default options—often well above 20% of what they owe.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "Customers",
+              "lemma": "customer",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "now",
+              "lemma": "now",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "routinely",
+              "lemma": "routinely",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "see",
+              "lemma": "see",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "menus",
+              "lemma": "menu",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "suggested",
+              "lemma": "suggest",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "default",
+              "lemma": "default",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "options",
+              "lemma": "option",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "—",
+              "lemma": "—",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            },
+            {
+              "word": "often",
+              "lemma": "often",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "well",
+              "lemma": "well",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "above",
+              "lemma": "above",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "20",
+              "lemma": "20",
+              "pos": "NUM",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "%",
+              "lemma": "%",
+              "pos": "NOUN",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "what",
+              "lemma": "what",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "they",
+              "lemma": "they",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "owe",
+              "lemma": "owe",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_4",
+          "text": "The amounts have risen",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "The",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "amounts",
+              "lemma": "amount",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "have",
+              "lemma": "have",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "risen",
+              "lemma": "rise",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p_5",
+      "label": "Paragraph 5 (P5)",
+      "sentences": [
+        {
+          "id": "s_1",
+          "text": "Tipping has always been a vital source of income for workers in historically tipped services, like restaurants, where the tipped minimum wage can be as low as US$2.13 an hour.",
+          "translation": "对于传统上依赖小费的服务行业员工,如餐厅员工,小费一直是重要的收入来源,这些行业的最低小费工资可低至每小时2.13美元。小费蔓延和小费通胀现在进一步补充了许多低薪服务业员工的收入。",
+          "tokens": [
+            {
+              "word": "Tipping",
+              "lemma": "tipping",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "has",
+              "lemma": "have",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "always",
+              "lemma": "always",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "been",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "a",
+              "lemma": "a",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "vital",
+              "lemma": "vital",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "source",
+              "lemma": "source",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "income",
+              "lemma": "income",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "for",
+              "lemma": "for",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "workers",
+              "lemma": "worker",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "in",
+              "lemma": "in",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "historically",
+              "lemma": "historically",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "tipped",
+              "lemma": "tip",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "services",
+              "lemma": "service",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "like",
+              "lemma": "like",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "restaurants",
+              "lemma": "restaurant",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "where",
+              "lemma": "where",
+              "pos": "SCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "tipped",
+              "lemma": "tip",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "minimum",
+              "lemma": "minimum",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "wage",
+              "lemma": "wage",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "can",
+              "lemma": "can",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "be",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "as",
+              "lemma": "as",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "low",
+              "lemma": "low",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "as",
+              "lemma": "as",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "US$",
+              "lemma": "us$",
+              "pos": "SYM",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "2.13",
+              "lemma": "2.13",
+              "pos": "NUM",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "an",
+              "lemma": "an",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "hour",
+              "lemma": "hour",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_2",
+          "text": "Tip creep and tipflation are now further supplementing the income of many low-wage service workers.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "Tip",
+              "lemma": "tip",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "creep",
+              "lemma": "creep",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "and",
+              "lemma": "and",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "tipflation",
+              "lemma": "tipflation",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "are",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "now",
+              "lemma": "now",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "further",
+              "lemma": "far",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "supplementing",
+              "lemma": "supplement",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "income",
+              "lemma": "income",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "many",
+              "lemma": "many",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "low",
+              "lemma": "low",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "-",
+              "lemma": "-",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            },
+            {
+              "word": "wage",
+              "lemma": "wage",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "service",
+              "lemma": "service",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "workers",
+              "lemma": "worker",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p_6",
+      "label": "Paragraph 6 (P6)",
+      "sentences": [
+        {
+          "id": "s_1",
           "text": "Notably, tipping primarily benefits some of these workers, such as waiters, but not others, such as cooks and dishwashers.",
           "translation": "值得注意的是,小费主要惠及其中一些员工,如服务员,但不惠及其他员工,如厨师和洗碗工。为确保所有员工获得公平工资,一些餐厅禁止收小费并提高了价格,但这种取消小费服务的运动基本上已经失败。",
-          "analysis": {},
           "tokens": [
             {
               "word": "Notably",
@@ -1384,10 +2178,9 @@
           ]
         },
         {
-          "id": "s6_2",
+          "id": "s_2",
           "text": "To ensure that all employees were paid fair wages, some restaurants banned tipping and increased prices, but this movement toward no-tipping services has largely fizzled out.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "To",
@@ -1611,14 +2404,13 @@
       ]
     },
     {
-      "paragraph_id": "p7",
-      "label": "Paragraph 7",
+      "paragraph_id": "p_7",
+      "label": "Paragraph 7 (P7)",
       "sentences": [
         {
-          "id": "s7_1",
+          "id": "s_1",
           "text": "So, to increase employee wages without raising prices, more employers are succumbing to the temptations of tip creep and tipflation.",
           "translation": "因此,为了在不提高价格的情况下增加员工工资,越来越多的雇主屈服于小费蔓延和小费通胀的诱惑。然而,许多顾客感到沮丧,因为他们觉得自己被要求支付过高的小费,而且频率过高。而且,正如我们的研究所强调的,小费现在似乎更具强制性、更缺乏慷慨性,并且往往与服务质量完全脱节。",
-          "analysis": {},
           "tokens": [
             {
               "word": "So",
@@ -1784,10 +2576,9 @@
           ]
         },
         {
-          "id": "s7_2",
+          "id": "s_2",
           "text": "However, many customers are frustrated because they feel they are being asked for too high of a tip, too often.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "However",
@@ -1953,10 +2744,9 @@
           ]
         },
         {
-          "id": "s7_3",
+          "id": "s_3",
           "text": "And, as our research emphasizes, tipping now seems to be more coercive, less generous and often completely dissociated from service quality.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "And",
@@ -2138,14 +2928,642 @@
       ]
     },
     {
-      "paragraph_id": "p3",
-      "label": "Paragraph 3",
+      "paragraph_id": "p_8",
+      "label": "Paragraph 8 (P2)",
       "sentences": [
         {
-          "id": "s3_1",
+          "id": "s_1",
+          "text": "From life expectancy to cancer and infant mortality rates, we are lagging behind many of our peers.",
+          "translation": "从预期寿命到癌症和婴儿死亡率,我们都落后于许多同类国家。超过680万人在候诊名单上,医疗服务对那些无力选择支付私人治疗费用的人来说越来越难以获得;提供医疗服务的成本也日益挤压其他公共服务的投资。随着医疗需求持续增长,本已接近崩溃边缘的医疗队伍所面临的压力只会变得更加严峻。",
+          "tokens": [
+            {
+              "word": "From",
+              "lemma": "from",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "life",
+              "lemma": "life",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "expectancy",
+              "lemma": "expectancy",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "to",
+              "lemma": "to",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "cancer",
+              "lemma": "cancer",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "and",
+              "lemma": "and",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "infant",
+              "lemma": "infant",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "mortality",
+              "lemma": "mortality",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "rates",
+              "lemma": "rate",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "we",
+              "lemma": "we",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "are",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "lagging",
+              "lemma": "lag",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "behind",
+              "lemma": "behind",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "many",
+              "lemma": "many",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "our",
+              "lemma": "our",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "peers",
+              "lemma": "peer",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_2",
+          "text": "With more than 6.8 million on waitlists, healthcare is becoming increasingly inaccessible for those who cannot opt to pay for private treatment; and the cost of providing healthcare is increasingly squeezing out investment in other public services.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "With",
+              "lemma": "with",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "more",
+              "lemma": "more",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "than",
+              "lemma": "than",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "6.8",
+              "lemma": "6.8",
+              "pos": "NUM",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "million",
+              "lemma": "million",
+              "pos": "NUM",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "on",
+              "lemma": "on",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "waitlists",
+              "lemma": "waitlist",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "healthcare",
+              "lemma": "healthcare",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "is",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "becoming",
+              "lemma": "become",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "increasingly",
+              "lemma": "increasingly",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "inaccessible",
+              "lemma": "inaccessible",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "for",
+              "lemma": "for",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "those",
+              "lemma": "those",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "who",
+              "lemma": "who",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "can",
+              "lemma": "can",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "not",
+              "lemma": "not",
+              "pos": "PART",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "opt",
+              "lemma": "opt",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "to",
+              "lemma": "to",
+              "pos": "PART",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "pay",
+              "lemma": "pay",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "for",
+              "lemma": "for",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "private",
+              "lemma": "private",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "treatment",
+              "lemma": "treatment",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ";",
+              "lemma": ";",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "and",
+              "lemma": "and",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "cost",
+              "lemma": "cost",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "providing",
+              "lemma": "provide",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "healthcare",
+              "lemma": "healthcare",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "is",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "increasingly",
+              "lemma": "increasingly",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "squeezing",
+              "lemma": "squeeze",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "out",
+              "lemma": "out",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "investment",
+              "lemma": "investment",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "in",
+              "lemma": "in",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "other",
+              "lemma": "other",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "public",
+              "lemma": "public",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "services",
+              "lemma": "service",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_3",
+          "text": "As demand for healthcare continues to grow, pressures on the workforce—which is already near breaking point—will only become more acute.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "As",
+              "lemma": "as",
+              "pos": "SCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "demand",
+              "lemma": "demand",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "for",
+              "lemma": "for",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "healthcare",
+              "lemma": "healthcare",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "continues",
+              "lemma": "continue",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "to",
+              "lemma": "to",
+              "pos": "PART",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "grow",
+              "lemma": "grow",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "pressures",
+              "lemma": "pressure",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "on",
+              "lemma": "on",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "workforce",
+              "lemma": "workforce",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "—",
+              "lemma": "—",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            },
+            {
+              "word": "which",
+              "lemma": "which",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "is",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "already",
+              "lemma": "already",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "near",
+              "lemma": "near",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "breaking",
+              "lemma": "break",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "point",
+              "lemma": "point",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "—",
+              "lemma": "—",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            },
+            {
+              "word": "will",
+              "lemma": "will",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "only",
+              "lemma": "only",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "become",
+              "lemma": "become",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "more",
+              "lemma": "more",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "acute",
+              "lemma": "acute",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p_9",
+      "label": "Paragraph 9 (P3)",
+      "sentences": [
+        {
+          "id": "s_1",
           "text": "Many of the answers to the crisis in health and care are well rehearsed.",
           "translation": "解决健康和护理危机的许多答案都已被反复讨论。我们需要在减少和分流医疗服务需求方面做得更好,而不是仅仅对其进行管理。需要在社区和基层医疗方面投入更多资金,以减少我们对医院的依赖。社会护理的能力需要更大,以支持日益增长的长期病患者数量。懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好",
-          "analysis": {},
           "tokens": [
             {
               "word": "Many",
@@ -2255,10 +3673,9 @@
           ]
         },
         {
-          "id": "s3_2",
+          "id": "s_2",
           "text": "We need to be much better at reducing and diverting demand on health services, rather than simply managing it.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "We",
@@ -2410,10 +3827,9 @@
           ]
         },
         {
-          "id": "s3_3",
+          "id": "s_3",
           "text": "Much more needs to be invested in communities and primary care to reduce our reliance on hospitals.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Much",
@@ -2544,10 +3960,9 @@
           ]
         },
         {
-          "id": "s3_4",
+          "id": "s_4",
           "text": "And capacity in social care needs to be greater, to support the growing number of people living with long-term conditions.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "And",
@@ -2722,14 +4137,13 @@
       ]
     },
     {
-      "paragraph_id": "p4",
-      "label": "Paragraph 4",
+      "paragraph_id": "p_10",
+      "label": "Paragraph 10 (P4)",
       "sentences": [
         {
-          "id": "s4_1",
+          "id": "s_1",
           "text": "Yet despite two decades of strategies and a number of major health reforms, we have failed to make meaningful progress on any of these aims.",
           "translation": "然而,尽管经历了二十年的战略规划和多次重大卫生改革,我们在任何这些目标上都未能取得实质性进展。这就是为什么Reform智库在十位前卫生大臣的支持下启动了一项名为\"重新构想健康\"的新工作计划。我们共同呼吁就英国健康的未来进行更加开放和诚实的对话,并\"紧急反思\"我们所保留的以医院为中心的模式。",
-          "analysis": {},
           "tokens": [
             {
               "word": "Yet",
@@ -2923,10 +4337,9 @@
           ]
         },
         {
-          "id": "s4_2",
+          "id": "s_2",
           "text": "That is why the Reform think tank is launching a new programme of work entitled \"Reimagining health\", supported by ten former health ministers.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "That",
@@ -3120,10 +4533,9 @@
           ]
         },
         {
-          "id": "s4_3",
+          "id": "s_3",
           "text": "Together, we are calling for a much more open and honest conversation about the future of health in the UK, and an \"urgent rethink\" of the hospital-centric model we retain.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Together",
@@ -3389,14 +4801,768 @@
       ]
     },
     {
-      "paragraph_id": "p1",
-      "label": "Paragraph 1",
+      "paragraph_id": "p_11",
+      "label": "Paragraph 11 (P5)",
       "sentences": [
         {
-          "id": "s1_1",
+          "id": "s_1",
+          "text": "This must begin with the question of how we maximise the health of the nation, rather than \"fix\" the NHS.",
+          "translation": "这必须从如何最大化国民健康这一问题开始,而不是\"修复\"NHS。例如,据估计,医疗服务仅占健康结果的约20%。更重要的是我们生活、工作和社交的场所——然而政府并没有明确的跨部门战略来改善这些健康的社会决定因素。更糟糕的是,当像国家肥胖战略这样的政策被废弃时,纳税人就要承担治疗由此导致的疾病(如糖尿病)的沉重代价。",
+          "tokens": [
+            {
+              "word": "This",
+              "lemma": "this",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "must",
+              "lemma": "must",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "begin",
+              "lemma": "begin",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "with",
+              "lemma": "with",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "question",
+              "lemma": "question",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "how",
+              "lemma": "how",
+              "pos": "SCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "we",
+              "lemma": "we",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "maximise",
+              "lemma": "maximise",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "health",
+              "lemma": "health",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "nation",
+              "lemma": "nation",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "rather",
+              "lemma": "rather",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "than",
+              "lemma": "than",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "\"",
+              "lemma": "\"",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            },
+            {
+              "word": "fix",
+              "lemma": "fix",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "\"",
+              "lemma": "\"",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "NHS",
+              "lemma": "NHS",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_2",
+          "text": "It is estimated, for example, that healthcare accounts for only about 20% of health outcomes.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "It",
+              "lemma": "it",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "is",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "estimated",
+              "lemma": "estimate",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "for",
+              "lemma": "for",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "example",
+              "lemma": "example",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "that",
+              "lemma": "that",
+              "pos": "SCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "healthcare",
+              "lemma": "healthcare",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "accounts",
+              "lemma": "account",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "for",
+              "lemma": "for",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "only",
+              "lemma": "only",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "about",
+              "lemma": "about",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "20",
+              "lemma": "20",
+              "pos": "NUM",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "%",
+              "lemma": "%",
+              "pos": "NOUN",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "health",
+              "lemma": "health",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "outcomes",
+              "lemma": "outcome",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_3",
+          "text": "Much more important are the places we live, work and socialise—yet there is no clear cross- government strategy for improving these social determinants of health.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "Much",
+              "lemma": "much",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "more",
+              "lemma": "more",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "important",
+              "lemma": "important",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "are",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "places",
+              "lemma": "place",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "we",
+              "lemma": "we",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "live",
+              "lemma": "live",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "work",
+              "lemma": "work",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "and",
+              "lemma": "and",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "socialise",
+              "lemma": "socialise",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "—",
+              "lemma": "—",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            },
+            {
+              "word": "yet",
+              "lemma": "yet",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "there",
+              "lemma": "there",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "is",
+              "lemma": "be",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "no",
+              "lemma": "no",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "clear",
+              "lemma": "clear",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "cross-",
+              "lemma": "cross-",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "government",
+              "lemma": "government",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "strategy",
+              "lemma": "strategy",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "for",
+              "lemma": "for",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "improving",
+              "lemma": "improve",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "these",
+              "lemma": "these",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "social",
+              "lemma": "social",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "determinants",
+              "lemma": "determinant",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "health",
+              "lemma": "health",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_4",
+          "text": "Worse, when policies like the national obesity strategy are scrapped, taxpayers are left with the heavy price tag of treating the illnesses, like diabetes, that result.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "Worse",
+              "lemma": "bad",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "when",
+              "lemma": "when",
+              "pos": "SCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "policies",
+              "lemma": "policy",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "like",
+              "lemma": "like",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "national",
+              "lemma": "national",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "obesity",
+              "lemma": "obesity",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "strategy",
+              "lemma": "strategy",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "are",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "scrapped",
+              "lemma": "scrap",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "taxpayers",
+              "lemma": "taxpayer",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "are",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "left",
+              "lemma": "leave",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "with",
+              "lemma": "with",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "heavy",
+              "lemma": "heavy",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "price",
+              "lemma": "price",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "tag",
+              "lemma": "tag",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "treating",
+              "lemma": "treat",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "illnesses",
+              "lemma": "illness",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "like",
+              "lemma": "like",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "diabetes",
+              "lemma": "diabetes",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "that",
+              "lemma": "that",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "result",
+              "lemma": "result",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p_12",
+      "label": "Paragraph 12 (P1)",
+      "sentences": [
+        {
+          "id": "s_1",
           "text": "Heat action plans, or HAPs, have been proliferating in India in the past few years.",
           "translation": "近年来，高温行动计划(HAPs)在印度迅速普及。一般来说，高温行动计划明确规定了官员应何时以及如何发布高温警报并提醒医院和其他机构。例如,那格浦尔的计划要求医院在夏季预留\"降温病房\"用于治疗中暑患者,并建议建筑商在酷热天气让建筑工人停工休息。",
-          "analysis": {},
           "tokens": [
             {
               "word": "Heat",
@@ -3527,10 +5693,9 @@
           ]
         },
         {
-          "id": "s1_2",
+          "id": "s_2",
           "text": "In general, an HAP spells out when and how officials should issue heat warnings and alert hospitals and other institutions.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "In",
@@ -3689,10 +5854,9 @@
           ]
         },
         {
-          "id": "s1_3",
+          "id": "s_3",
           "text": "Nagpur's plan, for instance, calls for hospitals to set aside \"cold wards\" in the summer for treating heatstroke patients, and advises builders to give construction laborers a break from work on very hot days.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Nagpur",
@@ -3986,14 +6150,13 @@
       ]
     },
     {
-      "paragraph_id": "p2",
-      "label": "Paragraph 2",
+      "paragraph_id": "p_13",
+      "label": "Paragraph 13 (P2)",
       "sentences": [
         {
-          "id": "s2_1",
+          "id": "s_1",
           "text": "But implementation of existing HAPs has been uneven, according to a report from the Centre for Policy Research.",
           "translation": "但根据政策研究中心的一份报告,现有高温行动计划的实施情况参差不齐。报告发现,许多计划缺乏充足的资金。而且它们的触发阈值往往没有根据当地气候进行定制。在某些地区,仅白天的高温就可以作为发布警报的充分触发条件。但在其他地方,夜间温度或湿度可能与白天高温一样,都是风险的重要衡量指标。",
-          "analysis": {},
           "tokens": [
             {
               "word": "But",
@@ -4138,10 +6301,9 @@
           ]
         },
         {
-          "id": "s2_2",
+          "id": "s_2",
           "text": "Many lack adequate funding, it found.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Many",
@@ -4202,10 +6364,9 @@
           ]
         },
         {
-          "id": "s2_3",
+          "id": "s_3",
           "text": "And their triggering thresholds often are not customized to the local climate.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "And",
@@ -4301,10 +6462,9 @@
           ]
         },
         {
-          "id": "s2_4",
+          "id": "s_4",
           "text": "In some areas, high daytime temperatures alone might serve as an adequate trigger for alerts.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "In",
@@ -4428,10 +6588,9 @@
           ]
         },
         {
-          "id": "s2_5",
+          "id": "s_5",
           "text": "But in other places, nighttime temperatures or humidity might be as important a gauge of risk as daytime highs.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "But",
@@ -4585,14 +6744,13 @@
       ]
     },
     {
-      "paragraph_id": "p4",
-      "label": "Paragraph 4",
+      "paragraph_id": "p_14",
+      "label": "Paragraph 14 (P4)",
       "sentences": [
         {
-          "id": "s4_1",
+          "id": "s_1",
           "text": "To help improve HAPs, urban planner Rajashree Kotharkar's team is working on a model plan that outlines best practices and could be adapted to local conditions.",
           "translation": "为了帮助改进高温行动计划,城市规划师Rajashree Kotharkar的团队正在制定一个示范计划,概述最佳实践并可根据当地条件进行调整。她说,除其他事项外,所有城市都应该绘制脆弱性地图,以帮助将应对措施集中在风险最高的人群上。",
-          "analysis": {},
           "tokens": [
             {
               "word": "To",
@@ -4800,10 +6958,9 @@
           ]
         },
         {
-          "id": "s4_2",
+          "id": "s_2",
           "text": "Among other things, she says, all cities should create a vulnerability map to help focus responses on the populations most at risk.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Among",
@@ -4985,14 +7142,13 @@
       ]
     },
     {
-      "paragraph_id": "p6",
-      "label": "Paragraph 6",
+      "paragraph_id": "p_15",
+      "label": "Paragraph 15 (P6)",
       "sentences": [
         {
-          "id": "s6_1",
+          "id": "s_1",
           "text": "HAPs shouldn't just include short-term emergency responses, researchers say, but also recommend medium- to long-term measures that could make communities cooler.",
           "translation": "研究人员表示,高温行动计划不应仅包括短期应急响应,还应推荐可使社区更凉爽的中长期措施。例如在那格浦尔,Kotharkar的团队已能够就在哪里种植树木以提供遮阴向市政官员提供建议。高温行动计划还可以指导房屋改造或修改建筑法规的工作。气候研究员Chandni Singh说:\"在紧急情况下减少死亡是一个值得追求的目标,但这是最低目标。",
-          "analysis": {},
           "tokens": [
             {
               "word": "HAPs",
@@ -5200,10 +7356,9 @@
           ]
         },
         {
-          "id": "s6_2",
+          "id": "s_2",
           "text": "In Nagpur, for example, Kotharkar's team has been able to advise city officials about where to plant trees to provide shade.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "In",
@@ -5383,10 +7538,9 @@
           ]
         },
         {
-          "id": "s6_3",
+          "id": "s_3",
           "text": "HAPs could also guide efforts to retrofit homes or modify building regulations.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "HAPs",
@@ -5482,10 +7636,9 @@
           ]
         },
         {
-          "id": "s6_4",
+          "id": "s_4",
           "text": "\"Reducing deaths in an emergency is a good target to have, but it's the lowest target,\" says climate researcher Chandni Singh.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "\"",
@@ -5681,14 +7834,13 @@
       ]
     },
     {
-      "paragraph_id": "p2",
-      "label": "Paragraph 2",
+      "paragraph_id": "p_16",
+      "label": "Paragraph 16 (P2)",
       "sentences": [
         {
-          "id": "s2_1",
+          "id": "s_1",
           "text": "Urban planners interpret desire paths as more than just convenient shortcuts; they offer valuable insights into the dynamics between planning and behaviour.",
           "translation": "城市规划者将欲望路径解读为不仅仅是便捷的捷径;它们提供了关于规划与行为之间动态关系的宝贵见解。俄亥俄州立大学允许其学生自由穿行校园中心的椭圆形草坪,然后铺设这些欲望路径,创建了学生已经建立的有效路线网络。",
-          "analysis": {},
           "tokens": [
             {
               "word": "Urban",
@@ -5861,10 +8013,9 @@
           ]
         },
         {
-          "id": "s2_2",
+          "id": "s_2",
           "text": "Ohio State University allowed its students to navigate the Oval, a lawn in the centre of campus, freely, then proceeded to pave the desire paths, creating a web of effective routes students had established.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Ohio",
@@ -6144,14 +8295,13 @@
       ]
     },
     {
-      "paragraph_id": "p3",
-      "label": "Paragraph 3",
+      "paragraph_id": "p_17",
+      "label": "Paragraph 17 (P3)",
       "sentences": [
         {
-          "id": "s3_1",
+          "id": "s_1",
           "text": "Yet, reluctance persists among other planners to integrate desire paths into formal plans, citing concerns about safety, environmental impact, or primarily, aesthetics.",
           "translation": "懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好user-driven evolution of public spaces and the desire for a visually curated and controlled urbanenvironment.然而,其他规划者仍然不愿将欲望路径纳入正式规划,理由是对安全、环境影响,或主要是美观的担忧。一个专门讨论这一现象的Reddit网页拥有近5万名成员,展示了当地欲望路径的图片,这些路径上装饰着指示行人遵守指定人行道的标志,凸显了这些人造小径固有的叛逆性质。这种冲突凸显了公共空间有机的、用户驱动的演变与对视觉上精心策划和控制的城市环境的渴望之间的持续斗争。",
-          "analysis": {},
           "tokens": [
             {
               "word": "Yet",
@@ -6352,10 +8502,9 @@
           ]
         },
         {
-          "id": "s3_2",
+          "id": "s_2",
           "text": "A Reddit webpage devoted to the phenomenon, boasting nearly 50,000 members, showcases images of local desire paths adorned with signs instructing pedestrians to adhere to designated walkways, underscoring the rebellious nature inherent in these human-made tracks.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "A",
@@ -6654,10 +8803,9 @@
           ]
         },
         {
-          "id": "s3_3",
+          "id": "s_3",
           "text": "This clash highlights an ongoing struggle between the organic,",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "This",
@@ -6734,14 +8882,13 @@
       ]
     },
     {
-      "paragraph_id": "p5",
-      "label": "Paragraph 5",
+      "paragraph_id": "p_18",
+      "label": "Paragraph 18 (P5)",
       "sentences": [
         {
-          "id": "s5_1",
+          "id": "s_1",
           "text": "In online spaces, desire paths have sparked a fascination that can approach obsession, with the Reddit page serving as a hub.",
           "translation": "在网络空间中,欲望路径激发了一种可能接近痴迷的迷恋,Reddit页面成为一个中心。贡献者提供了各种各样的故事,从鲜为人知的新捷径到长期存在的替代路线。",
-          "analysis": {},
           "tokens": [
             {
               "word": "In",
@@ -6914,10 +9061,9 @@
           ]
         },
         {
-          "id": "s5_2",
+          "id": "s_2",
           "text": "Contributors offer a wide array of stories, from little-known new shortcuts to long-established alternate routes.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Contributors",
@@ -7071,14 +9217,13 @@
       ]
     },
     {
-      "paragraph_id": "p6",
-      "label": "Paragraph 6",
+      "paragraph_id": "p_19",
+      "label": "Paragraph 19 (P6)",
       "sentences": [
         {
-          "id": "s6_1",
+          "id": "s_1",
           "text": "Animal desire paths, such as ducks forging trails through frozen ponds or dogs carving direct routes in gardens, highlight the adaptability of these trails in both human and animal experiences.",
           "translation": "动物欲望路径,如鸭子在结冰的池塘上开辟小径或狗在花园中开辟直接路线,突显了这些小径在人类和动物体验中的适应性。随着欲望路径在物理和虚拟景观中纵横交错,它们证明了集体坚持开辟非常规路线和拥抱共同选择精神的决心。",
-          "analysis": {},
           "tokens": [
             {
               "word": "Animal",
@@ -7314,10 +9459,9 @@
           ]
         },
         {
-          "id": "s6_2",
+          "id": "s_2",
           "text": "As desire paths criss-cross through both physical and virtual landscapes, they stand as a proof of the collective insistence on forging unconventional routes and embracing the spirit of communal choice.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "As",
@@ -7562,14 +9706,13 @@
       ]
     },
     {
-      "paragraph_id": "p2",
-      "label": "Paragraph 2",
+      "paragraph_id": "p_20",
+      "label": "Paragraph 20 (P2)",
       "sentences": [
         {
-          "id": "s2_1",
+          "id": "s_1",
           "text": "Researchers analysed the frequency and impact of gaps greater than 2 seconds during conversations, including an overview of previous studies which indicate that the fear of awkward silences can be so extreme that people avoid talking to strangers, even though doing so is likely to be an enjoyable experience.",
           "translation": "参考译文按段定稿的整篇参考译文是复盘资产，考卷上只印英文原文——英语二英译汉满分 15 分，按「理解准确、表达通顺连贯、无错译漏译」整篇四档评分。",
-          "analysis": {},
           "tokens": [
             {
               "word": "Researchers",
@@ -7938,10 +10081,9 @@
           ]
         },
         {
-          "id": "s2_2",
+          "id": "s_2",
           "text": "P3 During conversations with short gaps, people feel more connected to their conversation partners.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "P3",
@@ -8058,10 +10200,9 @@
           ]
         },
         {
-          "id": "s2_3",
+          "id": "s_3",
           "text": "But such feelings of connection markedly dip when entering a long gap.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "But",
@@ -8157,10 +10298,9 @@
           ]
         },
         {
-          "id": "s2_4",
+          "id": "s_4",
           "text": "Long gaps between strangers are likely to be followed by a change in topic.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Long",
@@ -8270,10 +10410,9 @@
           ]
         },
         {
-          "id": "s2_5",
+          "id": "s_5",
           "text": "P4",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "P4",
@@ -8285,10 +10424,9 @@
           ]
         },
         {
-          "id": "s2_6",
+          "id": "s_6",
           "text": "But the opposite seems to be true for conversations between friends.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "But",
@@ -8377,10 +10515,9 @@
           ]
         },
         {
-          "id": "s2_7",
+          "id": "s_7",
           "text": "Long gaps there saw increased connection.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Long",
@@ -8434,10 +10571,9 @@
           ]
         },
         {
-          "id": "s2_8",
+          "id": "s_8",
           "text": "Between friends, longer gaps seem to provide natural moments for reflection and expression.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Between",
@@ -8548,5 +10684,15 @@
         }
       ]
     }
-  ]
+  ],
+  "all_questions": [],
+  "translation": {
+    "content": "P1 You know the moment—the conversation slows, then there's a pause. It's awkward, and so\nawkward that some people will panic and say anything. Do we all find such silences so stressful?\nP2 Researchers analysed the frequency and impact of gaps greater than 2 seconds during\nconversations, including an overview of previous studies which indicate that the fear of awkward silences\ncan be so extreme that people avoid talking to strangers, even though doing so is likely to be an\nenjoyable experience.\nP3 During conversations with short gaps, people feel more connected to their conversation partners.\nBut such feelings of connection markedly dip when entering a long gap. Long gaps between strangers\nare likely to be followed by a change in topic.\nP4 But the opposite seems to be true for conversations between friends. Long gaps there saw\nincreased connection. Between friends, longer gaps seem to provide natural moments for reflection and\nexpression.\n参考译文\n按段定稿的整篇参考译文是复盘资产，考卷上只印英文原文——英语二英译汉满分 15 分，按「理解准确、表达通\n顺连贯、无错译漏译」整篇四档评分。\nP1 你一定遇到过这种情况——对话渐渐冷场，接着出现一阵停顿。这种停顿让人很尴尬，尴尬得\n有人会一下慌了神，随口乱说点什么。可是，我们真的都觉得这种沉默那么让人难受吗？\nP2 围绕这一问题，研究者分析了对话中超过 2 秒的停顿出现的频率和造成的影响，其中还包括对\n此前研究的综述：这些研究表明，人们对尴尬沉默的害怕可能极端到让他们干脆回避和陌生人交谈，\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section3/?f=p · 在线使⽤效果更好\n尽管和陌生人聊聊往往会是一段愉快的体验。\nP3 研究发现，在停顿较短的对话中，人们会觉得自己与对话对方更亲近。但是，一旦对话进入较\n长的停顿，这种亲近感就会明显减弱。陌生人之间一旦出现较长的停顿，接下来往往就会换个话题。\nP4 但在朋友之间的对话里，情况似乎正好相反——长停顿反而带来了更强的亲近感。在朋友之\n间，较长的停顿反而成了一种自然的契机，让彼此沉下来思考，也把想说的话表达出来。"
+  },
+  "writing": {
+    "part_a": {
+      "directions": "Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark\nyour answers on the ANSWER SHEET. (40 points)\nText 1\nP1 U.S. customers historically tipped people they assumed were earning most of their income via\ntips, such as restaurant servers earning less than the minimum wage. In the early 2010s, a wide range of\nbusinesses started processing purchases with iPads and other digital payment systems. These systems\noften prompted customers to tip for services that were not previously tipped.\n美国顾客历来会给那些他们认为主要靠小费谋生的人支付小费,比如收入低于最低工资的餐厅服务员。\n2010年代初,各类商家开始使用iPad和其他数字支付系统处理交易。这些系统经常提示顾客为以前不需要\n支付小费的服务支付小费。\nP2 Today's tip requests are often not connected to the salary and service norms that used to\ndetermine when and how people tip. Customers in the past nearly always paid tips after receiving a\nservice, such as at the conclusion of a restaurant meal, after getting a haircut or once a pizza was\ndelivered. That timing could reward high-quality service and give workers an incentive to provide it.\n如今的小费要求往往与过去决定何时以及如何支付小费的薪资和服务规范脱节。过去顾客几乎总是在接受\n服务后支付小费,比如在用完餐后、理完发后或披萨送达后。这种时机可以奖励高质量的服务,并激励员工\n提供优质服务。\nP3 It's becoming more common for tips to be requested beforehand. And new tipping technology\nmay even automatically add tips.\n事先要求支付小费的情况正变得越来越普遍。而新的小费技术甚至可能自动添加小费。\nP4 The prevalence of digital payment devices has made it easier to ask customers for a tip. That\nhelps explain why tip requests are creeping into new kinds of services. Customers now routinely see\nmenus of suggested default options—often well above 20% of what they owe. The amounts have risen\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\nfrom 10% or less in the 1950s to 15% around the year 2000 to 20% or higher today. This increase is\nsometimes called tipflation—the expectation of ever-higher tip amounts.\n数字支付设备的普及使向顾客索要小费变得更加容易。这有助于解释为什么小费要求正在渗透到新的服务\n类型中。顾客现在经常看到建议的默认选项菜单——通常远高于其消费金额的20%。小费金额已从1950\n年代的10%或更低上升到2000年左右的15%,再到如今的20%或更高。这种增长有时被称为小费通胀——\n即对越来越高的小费金额的预期。\nP5 Tipping has always been a vital source of income for workers in historically tipped services, like\nrestaurants, where the tipped minimum wage can be as low as US$2.13 an hour. Tip creep and tipflation\nare now further supplementing the income of many low-wage service workers.\n对于传统上依赖小费的服务行业员工,如餐厅员工,小费一直是重要的收入来源,这些行业的最低小费工资可\n低至每小时2.13美元。小费蔓延和小费通胀现在进一步补充了许多低薪服务业员工的收入。\nP6 Notably, tipping primarily benefits some of these workers, such as waiters, but not others, such\nas cooks and dishwashers. To ensure that all employees were paid fair wages, some restaurants banned\ntipping and increased prices, but this movement toward no-tipping services has largely fizzled out.\n值得注意的是,小费主要惠及其中一些员工,如服务员,但不惠及其他员工,如厨师和洗碗工。为确保所有员工\n获得公平工资,一些餐厅禁止收小费并提高了价格,但这种取消小费服务的运动基本上已经失败。\nP7 So, to increase employee wages without raising prices, more employers are succumbing to the\ntemptations of tip creep and tipflation. However, many customers are frustrated because they feel they\nare being asked for too high of a tip, too often. And, as our research emphasizes, tipping now seems to\nbe more coercive, less generous and often completely dissociated from service quality.\n因此,为了在不提高价格的情况下增加员工工资,越来越多的雇主屈服于小费蔓延和小费通胀的诱惑。然而,\n许多顾客感到沮丧,因为他们觉得自己被要求支付过高的小费,而且频率过高。而且,正如我们的研究所强调\n的,小费现在似乎更具强制性、更缺乏慷慨性,并且往往与服务质量完全脱节。\n题目与逐题解析\n21.According to Paragraph 1, the practice of tipping in the U.S. ________.\n[ A ]was regarded as a sign of generosity\n[ B ]was considered essential for waiters\n[ C ]was a way of rewarding diligence\n[ D ]was optional in most businesses\n根据第一段，美国的小费习俗________。\nA) 被视为慷慨的标志 B) 被认为对服务员至关重要 C) 是一种奖励勤奋的方式\nD) 在大多数商家是可选的\n【答案】B （细节题）\n【判型】题干According to Paragraph 1, the practice of tipping in the U.S.显式指段，问的是该\n段对小费做法的客观陈述，不带 infer / suggest / imply。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\n【拆句】According to Paragraph 1, the practice of tipping in the U.S. ________. 主句是 the\npractice of tipping in the U.S. + 空格谓语；According to Paragraph 1 是状语，限定信\n息来源；选项是对主语 the practice of tipping 的谓语补全，理解上无陷阱。\n【定位】U.S. customers historically tipped people they assumed were earning most of their income via\ntips, such as restaurant servers earning less than the minimum wage.\n美国顾客历来只给那些他们认为大部分收入来源于小费的人付小费，比如时薪低于最低工资\n的餐厅服务员。\n【选项】A) 无中生有\n原文从未把小费描述为a sign of generosity（慷慨的象征），段中只讲“付给以小费为\n主要收入者”的做法，与慷慨无关。\nB) ✓ 正确\nearning most of their income via tips ↔ was considered essential for waiters\nU.S. customers historically tipped ↔ was considered\n预判“小费对低薪服务员是必需收入”，四个选项中只有was considered essential for\nwaiters准确对应“essential（必需）+ waiters（服务员）”，故锁 B。\nC) 张冠李戴\nwas a way of rewarding diligence（奖励勤勉）对应的是reward high-quality\nservice（奖励优质服务）的概念，那是第 2 段对“过去事后小费”的描述，与 Q21 限定\n的Paragraph 1不符；且 diligence（勤勉）≠ high-quality service（优质服务）。\nD) 与原文相反\n原文说小费集中给“以小费为主要收入”的工种（如低于最低工资的服务员），暗示在那些\n工种里给小费几乎是惯例、并非可有可无；was optional in most businesses反过来说\n“在大多数行业里可给可不给”，与“传统上限定特定行业”的事实相反，且 most\nbusinesses 范围被放大。\n22.Compared with tips in the past, today's tips ________.\n[ A ]are paid much less frequently\n[ B ]are less often requested in advance\n[ C ]have less to do with service quality\n[ D ]contribute less to workers' income\n与过去的小费相比，如今的小费________。\nA) 支付频率大大降低 B) 较少被提前要求 C) 与服务质量的关系更小 D) 对员工收入的贡献更少\n【答案】C （细节题）\n【判型】题干Compared with tips in the past, today's tips要求找两个时点之间的差异，是对原文\n显式对比的复盘，非推断。\n【拆句】Compared with tips in the past, today's tips ________. Compared with tips in the past\n是过去分词短语作状语，逻辑主语是 today's tips；主语 today's tips 后接空缺谓语，由选\n项补全；无从句、无否定，结构平铺。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\n【定位】Today's tip requests are often not connected to the salary and service norms that used to\ndetermine when and how people tip. Customers in the past nearly always paid tips after\nreceiving a service, such as at the conclusion of a restaurant meal, after getting a haircut or\nonce a pizza was delivered. That timing could reward high-quality service and give workers\nan incentive to provide it.\n今天的小费请求往往已不再与过去决定何时及如何付小费的薪资和服务规范相挂钩。过去顾\n客几乎总是在享受完服务后才付小费，比如餐毕、剪完头发或披萨送达之后；这种时机本可\n奖励优质服务并激励工人提供优质服务。\n【选项】A) 无中生有\n原文没说今天小费“被支付的频次”比过去少；恰恰相反，第 4 段tip requests are\ncreeping into new kinds of services暗示场合更多了。are paid much less\nfrequently在频率维度上无原文支撑。\nB) 与原文相反\n原文It's becoming more common for tips to be requested beforehand明确说“事前\n请求小费越来越普遍”，所以今天 in advance 的小费请求是更多而非更少；are less\noften requested in advance恰好把方向写反。\nC) ✓ 正确\nToday's tip requests are often not connected to the salary and service norms ↔\nhave less to do with service quality\nThat timing could reward high-quality service ↔ service quality\n预判差异维度是“与服务质量挂钩程度下降”，四个选项中只有have less to do with\nservice quality精确命中这一维度，故锁 C。\nD) 与原文相反\n原文Tip creep and tipflation are now further supplementing the income of many\nlow-wage service workers明确说今天的小费正在“更多地”补贴低薪工人的收入；\ncontribute less to workers' income反向缩小其贡献，与原文相反。\n23.Tip requests are creeping into new kinds of services as a result of ________.\n[ A ]the advancement of technology\n[ B ]the desire for income increase\n[ C ]the diversification of business\n[ D ]the emergence of tipflation\n小费要求正在渗入新型服务领域，这是________的结果。\nA) 技术的进步 B) 增加收入的愿望 C) 业务的多元化 D) tipflation的出现\n【答案】A （细节题）\n【判型】题干as a result of问的是已被原文用 helps explain why 这类显式因果句写出的原因，属于\n事实定位，不是推断。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\n【拆句】Tip requests are creeping into new kinds of services as a result of ________. 主句 Tip\nrequests are creeping into new kinds of services 用现在进行时表趋势；as a result of\n引介动名词宾语（由选项补全），是固定因果短语；句式平铺无陷阱。\n【定位】The prevalence of digital payment devices has made it easier to ask customers for a tip. That\nhelps explain why tip requests are creeping into new kinds of services.\n数字支付设备的普及让向顾客索取小费变得更容易了。这有助于解释为什么小费请求正在蔓\n延到新型服务里。\n【选项】A) ✓ 正确\nThe prevalence of digital payment devices ↔ the advancement of technology\nhas made it easier to ask customers for a tip ↔ the advancement of technology\n预判原因为“数字支付普及”，A 选项以“technology 进步”作为更宽泛但精准包含原因的\n上位概念，与原文因果完全吻合，故锁 A。\nB) 张冠李戴\nthe desire for income increase（加薪诉求）对应的是第 7 段to increase employee\nwages without raising prices, more employers are succumbing to the\ntemptations of tip creep and tipflation，那是雇主“屈从于”小费蔓延的原因，而非小\n费蔓延到新型服务的直接原因；段位与因果链都不对。\nC) 无中生有\n原文从未提到“商业多元化 / 业态多元化”导致小费请求扩散；the diversification of\nbusiness是无中生有的因。\nD) 与原文相反\n原文This increase is sometimes called tipflation把 tipflation 定义为“小费比例不断上\n涨的预期”，是“小费蔓延”现象的结果或同伴现象，而非其原因；the emergence of\ntipflation把结果当原因，因果倒置。\n24.The movement toward no-tipping services was intended to ________.\n[ A ]promote consumption\n[ B ]enrich income sources\n[ C ]maintain reasonable prices\n[ D ]guarantee income fairness\n取消小费服务的运动旨在________。\nA) 促进消费 B) 丰富收入来源 C) 维持合理价格 D) 保障收入公平\n【答案】D （细节题）\n【判型】原文用 To ensure that ... 直接交代了该运动的目的，题干intended to问的就是这一显式目\n的，属细节定位。\n【拆句】The movement toward no-tipping services was intended to ________. 主语 The\nmovement toward no-tipping services 后接被动谓语 was intended to + 不定式（由选\n项补全 do 动词）；toward 介词短语作主语后置定语；结构平铺无陷阱。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\n【定位】To ensure that all employees were paid fair wages, some restaurants banned tipping and\nincreased prices, but this movement toward no-tipping services has largely fizzled out.\n为了确保所有员工都拿到公平的工资，一些餐厅禁止小费并提高了菜价，但这场无小费服务\n运动已大体熄火。\n【选项】A) 无中生有\n原文没说该运动旨在promote consumption（促进消费）；提价反而可能抑制消费，与\n原文意图不符。\nB) 答非所问\nenrich income sources（丰富收入来源）问的是收入“多样化”，但原文目的是“公平”而\n非“多样”——禁止小费、单一靠工资恰恰是减少而非丰富收入来源；与目的相反。\nC) 与原文相反\n原文明确说该运动选择了increased prices（提价），并不是为了维持合理价格；\nmaintain reasonable prices与原文做法相反。\nD) ✓ 正确\nTo ensure that all employees were paid fair wages ↔ guarantee income fairness\nall employees ↔ income fairness\n预判目的是“工资公平”，四选项中 D 直接用“guarantee income fairness”复刻原文\nensure...fair wages，是最直接的同义替换，故锁 D。\n25.It can be learned from the last paragraph that tipping ________.\n[ A ]is becoming a burden for customers\n[ B ]helps encourage quality service\n[ C ]is vital to business development\n[ D ]reflects the need to reduce prices\n从最后一段可以了解到，小费________。\nA) 正在成为顾客的负担 B) 有助于鼓励优质服务 C) 对业务发展至关重要 D) 反映了降低价格的需求\n【答案】A （推断题）\n【判型】题干It can be learned from the last paragraph that tipping含 It can be learned\nfrom，是典型推断题信号。\n【拆句】It can be learned from the last paragraph that tipping ________. It 为形式主语，that 引\n导真正主语从句 tipping ________；从句主语 tipping 后接空缺谓语（由选项补全）；can\nbe learned from 是被动情态结构，提示答案是引申而非原文照搬。\n【定位】However, many customers are frustrated because they feel they are being asked for too high\nof a tip, too often. And, as our research emphasizes, tipping now seems to be more coercive,\nless generous and often completely dissociated from service quality.\n然而许多顾客感到沮丧，因为他们觉得自己被要求支付太高的小费、还过于频繁。而且，正\n如我们的研究所强调的，小费如今似乎更具强制性、更少出于慷慨，且常常与服务质量完全\n脱钩。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\n【选项】A) ✓ 正确\nmany customers are frustrated because they feel they are being asked for too high of a tip, too\noften\n↔ is becoming a burden for customers\ntipping now seems to be more coercive, less generous ↔ is becoming a burden for customers\n预判方向是“小费成顾客负担”，四选项中只有 A 用“burden for customers”准确接住末\n段对顾客 frustrated + coercive 的情绪 / 评价聚合，故锁 A。\nB) 与原文相反\n原文often completely dissociated from service quality明确说小费“已与服务质量完\n全脱钩”，自然不再激励优质服务；helps encourage quality service与该结论相反。\nC) 无中生有\n末段没说小费对business development（商业发展）至关重要；段中讨论的是顾客感受\n与作者评价，与企业发展无关。\nD) 过度推断\n末段提的是“to increase employee wages without raising prices”——只是雇主不想\n涨价，并未上升到“需要降价”的结论；reflects the need to reduce prices在“不涨”基础\n上多走一步到“要降”，属过度推断。\nSENTENCE INSIGHTS · 句子精讲\n句真题句逐层精讲\n8\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\nU.S. customers historically tipped people they assumed were earning most of their\nincome via tips, such as restaurant servers earning less than the minimum wage.\n第1段，第1句\n本句涵盖主谓宾、时间状语、同位语、嵌套定语从句(省略关系代词)、嵌套宾语从句(省略 that)等\n多种成分,尤其是双重省略引导词的从句结构和 such as 同位语,是成分划分的高频易错点,练习价\n值高\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\nToday's tip requests are often not connected to the salary and service norms that\nused to determine when and how people tip.\n第2段，第1句\n覆盖主谓宾、被动结构、多个状语(频率、否定、方向)、定语从句、宾语从句等多种成分，且存在\n易错点：介词短语作状语、关系代词在从句中作主语、宾语从句嵌套。成分丰富且有练习价值。\nThe prevalence of digital payment devices has made it easier to ask customers for\na tip.\n第4段，第1句\nmake it + 形容词 + to do 结构在四六级和考研阅读中频繁出现，且本句将该结构置于现在完成时\n中，兼具时态和句型的典型性，掌握后可迁移到大量类似表达\nTipping has always been a vital source of income for workers in historically tipped\nservices, like restaurants, where the tipped minimum wage can be as low as\nUS$2.13 an hour.\n第5段，第1句\n主句采用主系表结构配长表语，从句为 where 引导的非限制性定语从句，都是四六级和考研真题\n中高频出现的句式。特别是非限制性定语从句对名词的补充说明用法，以及长表语中多层修饰的处\n理，具有较强的代表性和复用价值。\nNotably, tipping primarily benefits some of these workers, such as waiters, but not\nothers, such as cooks and dishwashers.\n第6段，第1句\n本句展示了 \"主语 + 谓语 + 并列宾语\" 的基本句型,以及 \"some ... but not others\" 的对比并列结构\n和 \"such as\" 的举例用法,这些都是四六级和考研阅读中高频出现的典型结构;掌握后可迁移到大量同\n类句式,具有较高代表性。\nSo, to increase employee wages without raising prices, more employers are\nsuccumbing to the temptations of tip creep and tipflation.\n第7段，第1句\n本句涉及主语、谓语、宾语、目的状语四种核心成分，且目的状语前置容易与主语混淆，宾语中包\n含后置定语修饰，对初学者有一定辨识训练价值。但成分种类不算丰富（无表语、补语、同位语\n等），坑点密集度中等。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\nHowever, many customers are frustrated because they feel they are being asked\nfor too high of a tip, too often.\n第7段，第2句\n主句加 because 原因状语从句是四六级和考研阅读中的高频结构。宾语从句省略 that 引导词，也\n是常见现象。现在进行时被动语态 are being asked 是考试中常考的时态语态组合。整体句式具有\n很强的代表性和可迁移性。\nAnd, as our research emphasizes, tipping now seems to be more coercive, less\ngenerous and often completely dissociated from service quality.\n第7段，第3句\n状语从句插入主句是四六级和考研阅读中的高频句式,系表结构加不定式表语也很常见。掌握这种\n插入结构的识别方法可以迁移到大量类似句子,具有较好的典型性。\nHIGH-FREQUENCY · 真题高频词\n本篇出现的 个考研英语二真题高频词\n54\n下列单词既在本篇真题中出现，又是 考研英语二 历年真题的高频词（在该考试真题中出\n现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查看该\n词的释义、音标、词形与真题例句。\ntip A2 customer A2\nn. 小费 n. 顾客，客户\n本篇20 次 · 真题 25 句 本篇7 次 · 真题 79 句\nincome B1 request B1\nn. 收入 n. 请求\n本篇5 次 · 真题 31 句 本篇5 次 · 真题 14 句\nwage B1 less A1\nn. 工资 det. 较少的\n本篇4 次 · 真题 16 句 本篇2 次 · 真题 150 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\nsystem A2 digital B1\nn. 系统 adj. 数字的\n本篇2 次 · 真题 107 句 本篇2 次 · 真题 72 句\nquality A2 earn A2\nn. 质量 v. 赚得，挣得（金钱）\n本篇2 次 · 真题 45 句 本篇2 次 · 真题 32 句\nemployee A2 amount A2\nn. 雇员，员工 n. 数量\n本篇2 次 · 真题 32 句 本篇2 次 · 真题 30 句\nreward B1 payment B1\nn. 报酬 n. 支付\n本篇2 次 · 真题 26 句 本篇2 次 · 真题 23 句\nmovement B1 vital B2\nn. 移动 adj. 极其重要的，必不可少的\n本篇2 次 · 真题 20 句 本篇2 次 · 真题 9 句\nminimum B2 benefit B1\nn. 最小值 n. 好处\n本篇2 次 · 真题 8 句 本篇1 次 · 真题 88 句\nprocess B1 reduce B1\nn. 过程 v. 减少，降低（数量、大小、程度等）\n本篇1 次 · 真题 80 句 本篇1 次 · 真题 75 句\nsign A1 desire B2\nn. 标志 n. 愿望\n本篇1 次 · 真题 42 句 本篇1 次 · 真题 37 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\nsource B1 according B1\nn. 来源 prep. 根据\n本篇1 次 · 真题 36 句 本篇1 次 · 真题 35 句\ncontribute B1 further B1\nv. 捐献 adv. 更远地\n本篇1 次 · 真题 34 句 本篇1 次 · 真题 34 句\nadvance B1 ensure B2\nv. 前进 v. 确保\n本篇1 次 · 真题 33 句 本篇1 次 · 真题 33 句\nintend B1 range B1\nv. 打算，计划 n. 范围\n本篇1 次 · 真题 31 句 本篇1 次 · 真题 31 句\nlargely B2 essential B1\nadv. 主要地 adj. 必不可少的\n本篇1 次 · 真题 30 句 本篇1 次 · 真题 27 句\npurchase B1 ban B2\nv. 购买 v. 禁止\n本篇1 次 · 真题 26 句 本篇1 次 · 真题 25 句\nreflect B1 employer B1\nv. 反映，显示 n. 雇主\n本篇1 次 · 真题 25 句 本篇1 次 · 真题 24 句\nassume B2 emphasize B2\nv. 假定 v. 强调\n本篇1 次 · 真题 23 句 本篇1 次 · 真题 22 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\ndetermine B2 option B1\nv. 决定 n. 选择\n本篇1 次 · 真题 21 句 本篇1 次 · 真题 19 句\nexpectation B2 frequently B1\nn. 期待;预期 adv. 频繁地\n本篇1 次 · 真题 17 句 本篇1 次 · 真题 17 句\ndevice B1 incentive B2\nn. 设备 n. 激励\n本篇1 次 · 真题 16 句 本篇1 次 · 真题 16 句\nburden B2 completely B1\nn. 负担 adv. 完全地\n本篇1 次 · 真题 15 句 本篇1 次 · 真题 15 句\ndeliver B1 norm B2\nv. 递送，运送（货物、信件等） n. 常态\n本篇1 次 · 真题 14 句 本篇1 次 · 真题 14 句\nprompt B2 previously B1\nv. 促使 adv. 以前，先前（指过去某个时间）\n本篇1 次 · 真题 13 句 本篇1 次 · 真题 11 句\nprimarily B2 owe B1\nadv. 主要地 v. 欠（债、钱、人情等）\n本篇1 次 · 真题 11 句 本篇1 次 · 真题 10 句\ngenerous B1 salary B1\nadj. 慷慨的，大方的 n. 薪水，工资（通常指按月发放的固定报酬）\n本篇1 次 · 真题 9 句 本篇1 次 · 真题 8 句\nVOCABULARY · 词汇难度分布\n全文 词按 难度累积覆盖\n169 CEFR\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\n全文去重后共 169 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」的累积\n占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 6 个 · 约 4%。\n42% 60% 82% 96% 100% 100%\nA1 A2 B1 B2 C1 C2\n及以下 及以下 及以下 及以下 及以下 及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 169 个 · 末柱为 100%\n去重总词数 B2 以上难词 B1 及以下覆盖\n169 4 82\n% %\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\n考研英语二\n2025年 · 全卷构成\nSection I 完形填空（四选一） 题目解析 →\nSection II Part A (1) 阅读理解（四选一） 本题\nSection II Part A (2) 阅读理解（四选一） 题目解析 →\nSection II Part A (3) 阅读理解（四选一） 题目解析 →\nSection II Part A (4) 阅读理解（四选一） 题目解析 →\nSection II Part B 段落小标题（7选5） 题目解析 →\nSection III 英译汉（段落翻译） 题目解析 →\nSection IV Part A 写作 题目解析 →\nSection IV Part B 写作 题目解析 →\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-1/?f=p · 在线使⽤效果更好\n2025年 考研英语二阅读理解（四选一） 第 2 篇 · 26–30 题答案与解\n析\nQUESTIONS & ANALYSIS · 阅读理解题和解析\n阅读理解题和解析 题\n· 26–30\n本页 26–30 题的答案与逐题解析由懒笔记基于2025年 考研英语二阅读理解（四选一）原\n卷逐题核对整理。与试卷排版同一卷面：先是 Directions 与 6 段原文（段首标 P1–P6 段\n号、逐段附中文翻译）；之后 5 道题逐题排列，每题英文题干与选项后紧接本题解析\n——题干与选项中译、答案、题型判定、题干拆句、定位句中英对照与逐选项对错归因。\n英语二真题(2025)\nSection II Part A (2)\nDirections:\nRead the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark\nyour answers on the ANSWER SHEET. (40 points)\nText 2\nP1 When it was established, the National Health Service (NHS) was visionary: offering high-quality,\ntimely care to meet the dominant needs of the population it served. Nearly 75 years on, with the UK\nfacing very different health challenges, it is clear that model is out of date.\n国民健康服务体系(NHS)建立之初颇具远见：提供高质量、及时的医疗服务以满足其所服务人群的主要需\n求。近75年过去了,英国面临着截然不同的健康挑战,这一模式显然已经过时。\nP2 From life expectancy to cancer and infant mortality rates, we are lagging behind many of our\npeers. With more than 6.8 million on waitlists, healthcare is becoming increasingly inaccessible for those\nwho cannot opt to pay for private treatment; and the cost of providing healthcare is increasingly\nsqueezing out investment in other public services. As demand for healthcare continues to grow, pressures\non the workforce—which is already near breaking point—will only become more acute.\n从预期寿命到癌症和婴儿死亡率,我们都落后于许多同类国家。超过680万人在候诊名单上,医疗服务对那些\n无力选择支付私人治疗费用的人来说越来越难以获得;提供医疗服务的成本也日益挤压其他公共服务的投\n资。随着医疗需求持续增长,本已接近崩溃边缘的医疗队伍所面临的压力只会变得更加严峻。\nP3 Many of the answers to the crisis in health and care are well rehearsed. We need to be much\nbetter at reducing and diverting demand on health services, rather than simply managing it. Much more\nneeds to be invested in communities and primary care to reduce our reliance on hospitals. And capacity\nin social care needs to be greater, to support the growing number of people living with long-term\nconditions.\n解决健康和护理危机的许多答案都已被反复讨论。我们需要在减少和分流医疗服务需求方面做得更好,而不\n是仅仅对其进行管理。需要在社区和基层医疗方面投入更多资金,以减少我们对医院的依赖。社会护理的能\n力需要更大,以支持日益增长的长期病患者数量。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\nP4 Yet despite two decades of strategies and a number of major health reforms, we have failed to\nmake meaningful progress on any of these aims. That is why the Reform think tank is launching a new\nprogramme of work entitled \"Reimagining health\", supported by ten former health ministers. Together,\nwe are calling for a much more open and honest conversation about the future of health in the UK, and\nan \"urgent rethink\" of the hospital-centric model we retain.\n然而,尽管经历了二十年的战略规划和多次重大卫生改革,我们在任何这些目标上都未能取得实质性进展。\n这就是为什么Reform智库在十位前卫生大臣的支持下启动了一项名为\"重新构想健康\"的新工作计划。\n我们共同呼吁就英国健康的未来进行更加开放和诚实的对话,并\"紧急反思\"我们所保留的以医院为中心的\n模式。\nP5 This must begin with the question of how we maximise the health of the nation, rather than\n\"fix\" the NHS. It is estimated, for example, that healthcare accounts for only about 20% of health\noutcomes. Much more important are the places we live, work and socialise—yet there is no clear cross-\ngovernment strategy for improving these social determinants of health. Worse, when policies like the\nnational obesity strategy are scrapped, taxpayers are left with the heavy price tag of treating the illnesses,\nlike diabetes, that result.\n这必须从如何最大化国民健康这一问题开始,而不是\"修复\"NHS。例如,据估计,医疗服务仅占健康结果的约\n20%。更重要的是我们生活、工作和社交的场所——然而政府并没有明确的跨部门战略来改善这些健康的\n社会决定因素。更糟糕的是,当像国家肥胖战略这样的政策被废弃时,纳税人就要承担治疗由此导致的疾病\n(如糖尿病)的沉重代价。\nP6 Reform wants to ask how power and resources should be distributed in our health system. What\nhealth functions should remain at the centre, and what should be given to local leaders, often responsible\nfor services that create health, and with a much better understanding of the needs of their populations?\nReform希望探讨权力和资源应该如何在我们的卫生系统中分配。哪些卫生职能应该保留在中央,哪些应该\n交给地方领导者——他们通常负责创造健康的服务,并且对其人群的需求有更好的了解?\n题目与逐题解析\n26.According to the first two paragraphs, the NHS ________.\n[ A ]is troubled by funding deficiencies\n[ B ]can hardly satisfy people's needs\n[ C ]can barely retain its current employees\n[ D ]is rivalled by private medical services\n根据前两段,NHS________。\nA) 受到资金不足的困扰 B) 难以满足人们的需求 C) 几乎无法留住现有员工\nD) 受到私营医疗服务的竞争\n【答案】B （细节题）\n【判型】题干 According to the first two paragraphs, the NHS ________ 要求依据指定段落补全对\nNHS 现状的客观描述，没有 infer/imply/mainly about，是典型段内细节归纳。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\n【拆句】According to the first two paragraphs, the NHS ________. 是 \"介词短语 + 主语 + 待补谓\n语\" 的不完整陈述结构，According to 引导信息来源状语，主句缺谓语，选项要接成对\nNHS 的判断；无否定、无比较，结构平铺，无陷阱。\n【定位】With more than 6.8 million on waitlists, healthcare is becoming increasingly inaccessible for\nthose who cannot opt to pay for private treatment; and the cost of providing healthcare is\nincreasingly squeezing out investment in other public services.\n在 680 多万人排队候诊的情况下，对于无法选择自费接受私人治疗的人来说，医疗服务正变\n得越来越难以获得；同时，提供医疗服务的成本正越来越多地挤压对其他公共服务的投入。\n【选项】A) 无中生有\nis troubled by funding deficiencies 用 funding deficiencies (资金短缺) 替换\"难以满\n足需求\"，前两段未把矛头指向资金不足，只说成本挤压其他公共服务投入。\nB) ✓ 正确\nhealthcare is becoming increasingly inaccessible ↔ can hardly satisfy people's needs\nmodel is out of date ↔ can hardly satisfy people's needs\n预判\"需求难被满足\"与 can hardly satisfy people's needs 完全同义，直接锁 B。\nC) 偷换概念\ncan barely retain its current employees 把 pressures on the workforce 偷换成\"留\n不住员工\"，原文只说人员压力大，并未谈\"留不住/流失\"。\nD) 过度推断\nis rivalled by private medical services 暗示 NHS 受私营医疗的竞争挑战，原文 pay\nfor private treatment 只是说没钱付私营治疗的人就医难，而非\"NHS 被私营对手\n击败\"。\n27.One answer to the crisis in health and care is to ________.\n[ A ]boost the efficiency of hospitals\n[ B ]lighten the burden on social care\n[ C ]increase resources for primary care\n[ D ]reduce the pressure on communities\n应对健康和护理危机的一个答案是________。\nA) 提高医院的效率 B) 减轻社会护理的负担 C) 增加初级医疗的资源 D) 减少社区的压力\n【答案】C （细节题）\n【判型】题干 One answer to the crisis in health and care is to ________ 是\"其中一个对策是…\"，\n要求从原文罗列的建议中挑出一条同义改写，属事实细节。\n【拆句】One answer to the crisis in health and care is to ________. 是 \"主语 + 系动词 + 不定式\n表语\" 结构，待补内容是不定式，因此选项均以动词原形开头，是\"做什么\"而非\"是什么\"，\n结构清楚无陷阱。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\n【定位】Much more needs to be invested in communities and primary care to reduce our reliance\non hospitals.\n我们必须在社区和初级医疗上加大投入，以减少对医院的依赖。\n【选项】A) 与原文相反\nboost the efficiency of hospitals 主张提升医院效率，而原文主张\"减少对医院的依\n赖\"，方向相反。\nB) 与原文相反\nlighten the burden on social care 说\"减轻社会照护负担\"，原文说\"capacity in social\ncare needs to be greater\"，即扩容、而非减轻其负担，方向被偷反。\nC) ✓ 正确\nMuch more needs to be invested in communities and primary care ↔\nincrease resources for primary care\n预判\"加大初级医疗投入\"与 increase resources for primary care 同向同对象，且\n\"resources\" 是 \"investment\" 的上位概括，直接锁 C。\nD) 偷换概念\nreduce the pressure on communities 把\"在社区加大投入\"偷换成\"给社区减压\"，原文\n是\"投资社区\"以减少对医院的依赖，不是给社区减压。\n28.\"Reimagining health\" is aimed to ________.\n[ A ]reinforce hospital management\n[ B ]readjust healthcare regulations\n[ C ]restructure the health system\n[ D ]resume suspended health reforms\n重新构想健康\"旨在________。\nA) 加强医院管理 B) 调整医疗保健法规 C) 重组健康系统 D) 恢复暂停的健康改革\n【答案】C （细节题）\n【判型】题干 Reimagining health is aimed to ________ 问该项目的目的，是对原文显性表述的指\n认，不需推断。\n【拆句】\"Reimagining health\" is aimed to ________. 主语是项目名，谓语 is aimed to 后接动词\n原形作目的，选项均以 \"re-\" 开头的动词，看似工整实则要靠原文区分，不被字形误导是\n关键。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\n【定位】That is why the Reform think tank is launching a new programme of work entitled\n\"Reimagining health\", supported by ten former health ministers. Together, we are calling for a\nmuch more open and honest conversation about the future of health in the UK, and an \"urgent\nrethink\" of the hospital-centric model we retain.\n正因如此，Reform 智库正在启动一项名为\"重新构想健康\"的新工作计划，由十位前卫生大\n臣支持。我们共同呼吁，就英国健康的未来进行一场更加开放和坦诚的对话，并对我们仍保\n留的以医院为中心的模式进行一次\"紧急重新思考\"。\n【选项】A) 与原文相反\nreinforce hospital management 主张\"强化医院管理\"，原文要质疑、要 rethink 的恰\n恰是\"以医院为中心\"的模式，方向相反。\nB) 无中生有\nreadjust healthcare regulations 把项目目的窄化为\"调整医疗法规\"，原文从未谈及法\n规调整，是无中生有。\nC) ✓ 正确\nan \"urgent rethink\" of the hospital-centric model we retain ↔ restructure the health system\n预判\"重构以医院为中心的体系\"与 restructure the health system 完全同义，锁 C。\nD) 过度推断\nresume suspended health reforms 说\"重启已搁置的改革\"，原文虽提 two decades\nof strategies and a number of major health reforms，但只是说\"未取得实质进展\"，\n并未说改革已被搁置、要 resume。\n29.To maximise the nation's health, the author suggests ________.\n[ A ]introducing relevant taxation policies\n[ B ]paying due attention to social factors\n[ C ]reevaluating major health outcomes\n[ D ]enhancing the quality of healthcare\n为了最大化国民健康,作者建议________。\nA) 引入相关税收政策 B) 对社会因素给予应有关注 C) 重新评估主要健康结果 D) 提升医疗保健质量\n【答案】B （细节题）\n【判型】题干 To maximise the nation's health, the author suggests ________ 问作者明确给出的\n对策，是显性主张的指认，不属于隐含推理。\n【拆句】To maximise the nation's health, the author suggests ________. To 不定式作目的状语前\n置，主句 the author suggests 后接动名词宾语，选项都以 -ing 形式开头。注意 suggests\n在此是\"建议\"而非\"暗示\"。\n【定位】Much more important are the places we live, work and socialise—yet there is no clear cross-\ngovernment strategy for improving these social determinants of health.\n更重要的是我们居住、工作和社交的场所——然而目前并没有清晰的跨政府战略来改善这些\n健康的社会决定因素。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\n【选项】A) 偷换概念\nintroducing relevant taxation policies 把原文 taxpayers are left with the heavy\nprice tag 中\"纳税人\"这个词放大为\"出台税收政策\"，原文是讲政策被废除导致纳税人买\n单，并未建议引入税收政策。\nB) ✓ 正确\nMuch more important are the places we live, work and socialise ↔\npaying due attention to social factors\nthese social determinants of health ↔ paying due attention to social factors\n预判\"重视社会决定因素\"与 paying due attention to social factors 完全同义，锁 B。\nC) 以偏概全\nreevaluating major health outcomes 抓住原文 about 20% of health outcomes 一\n处的 outcomes，把\"评估健康结果\"立为主张，但 20% 数据只是辅证作者论点，作者并\n未呼吁\"reevaluate outcomes\"。\nD) 与原文相反\nenhancing the quality of healthcare 主张\"提升医疗服务质量\"，正是作者在本段开头\n明确反对的\"fix the NHS\"路径，方向相反。\n30.It can be inferred that local leaders should ________.\n[ A ]exercise their power more reasonably\n[ B ]develop a stronger sense of responsibility\n[ C ]play a bigger role in the health system\n[ D ]understand people's health needs better\n可以推断,地方领导人应该________。\nA) 更合理地行使他们的权力 B) 培养更强的责任感 C) 在健康系统中发挥更大作用\nD) 更好地理解人们的健康需求\n【答案】C （推断题）\n【判型】题干 It can be inferred that local leaders should ________ 含 inferred，属推断题。\n【拆句】It can be inferred that local leaders should ________. 形式主语 It + can be inferred +\nthat 从句，that 从句中 local leaders 是真主语、should 是情态动词、待补谓语。结构常\n见无陷阱，关键是不被 inferred 吓住、仍以原文为根。\n【定位】What health functions should remain at the centre, and what should be given to local leaders,\noften responsible for services that create health, and with a much better understanding of the\nneeds of their populations?\n哪些卫生职能应当保留在中央，而哪些应当交给地方负责人——他们往往负责创造健康的相\n关服务，并对其所辖人群的需求有更为深入的理解？\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\n【选项】A) 过度推断\nexercise their power more reasonably 暗指地方负责人当前行权不合理、需改正，原\n文没有任何负面评价，反而给地方两条积极描述，方向被反推。\nB) 无中生有\ndevelop a stronger sense of responsibility 主张地方应增强责任感，原文是\"应不应该\n把更多职能给他们\"，与\"责任感强弱\"是两件事。\nC) ✓ 正确\nwhat should be given to local leaders ↔ play a bigger role in the health system\noften responsible for services that create health, and with a much better understanding of the\nneeds of their populations\n↔ play a bigger role in the health system\n预判\"地方角色应扩大\"与 play a bigger role in the health system 同义，符合推断\n题\"一步延伸\"约束，锁 C。\nD) 答非所问\nunderstand people's health needs better 直接复述原文 much better\nunderstanding of the needs of their populations，是原文已陈述的事实而非\"应该\n做\"的推断；题干问 should，D 项答 is/are，错位。\nSENTENCE INSIGHTS · 句子精讲\n句真题句逐层精讲\n12\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\nNearly 75 years on, with the UK facing very different health challenges, it is clear\nthat model is out of date.\n第1段，第2句\n本句时态不难，但结构上包含常见且高频的训练点，尤其适合练习主干定位、形式主语识别和背景\n状语剥离。对于结构训练来说，投入产出比较高。\nAs demand for healthcare continues to grow, pressures on the workforce—which is\nalready near breaking point—will only become more acute.\n第2段，第3句\n状语从句前置 + 主句 + 非限制性定语从句插入是四六级和考研阅读中的高频句式组合。这种结构\n在学术类文本和新闻报道中反复出现，掌握后可大量复用于同类长难句的解析。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\nWe need to be much better at reducing and diverting demand on health services,\nrather than simply managing it.\n第3段，第2句\n\"主语 + need to be + 形容词 + 介词短语\" 的主系表结构在四六级和考研阅读中较为常见，属于表\n达观点或建议的典型句式。\"rather than\" 引导的对比结构也是常考的逻辑连接手段。掌握本句结构\n后，学生可以迁移到类似的 \"be good at / be skilled in\" 等表达以及对比论证句式。不过，本句缺\n少从句嵌套和复杂修饰，代表性略逊于包含多层从句的长难句，因此典型性评为中等偏上。\nMuch more needs to be invested in communities and primary care to reduce our\nreliance on hospitals.\n第3段，第3句\n\"need to be + 过去分词\" 的被动结构在四六级和考研阅读中频繁出现，不定式作目的状语也是高频\n句式。本句结构清晰且实用性强，学会后可迁移至大量类似表达。\nAnd capacity in social care needs to be greater, to support the growing number of\npeople living with long-term conditions.\n第3段，第4句\n\"主语 + needs to be + 形容词 + 目的状语\" 是议论文和说明文中常见的论证句式，用于陈述必要性\n并说明原因；后置定语和分词短语修饰名词也是考试高频结构，具有较强的迁移性。\nYet despite two decades of strategies and a number of major health reforms, we\nhave failed to make meaningful progress on any of these aims.\n第4段，第1句\n\"尽管...但是...\" 的让步转折结构在四六级和考研阅读中高频出现，现在完成时表达持续未变的状态\n也是常考句式，本句结构具有较强的代表性和可迁移性。\nThat is why the Reform think tank is launching a new programme of work entitled\n\"Reimagining health\", supported by ten former health ministers.\n第4段，第2句\n主系表结构后接表语从句是考试中的常见句式，尤其是 why 引导的表语从句在解释原因类文本中\n频繁出现。本句结构具有较高的代表性，掌握后可迁移到同类句型。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\nTogether, we are calling for a much more open and honest conversation about the\nfuture of health in the UK, and an \"urgent rethink\" of the hospital-centric model\nwe retain.\n第4段，第3句\n主句使用现在进行时陈述当前行为，宾语带介词短语后置定语和定语从句修饰，这是四六级和考研\n阅读中较为常见的句式。定语从句省略关系代词的现象也较典型。但句子整体语义偏向特定话题\n（医疗政策讨论），结构本身虽典型但不算高频核心句式，迁移价值中等偏上。\nThis must begin with the question of how we maximise the health of the nation,\nrather than \"fix\" the NHS.\n第5段，第1句\n本句包含主语、情态动词谓语、方式状语、嵌入的宾语从句,从句内部又有主谓宾结构和方式状语,\n成分丰富;\"rather than\" 对比结构和间接疑问从句的处理是常见易错点,训练价值较高\nIt is estimated, for example, that healthcare accounts for only about 20% of health\noutcomes.\n第5段，第2句\n\"It is estimated that...\" 是学术写作、四六级阅读中极高频出现的句式，极具迁移价值。\nMuch more important are the places we live, work and socialise—yet there is no\nclear cross-government strategy for improving these social determinants of health.\n第5段，第3句\n本句包含倒装结构、There be 句型、并列定语从句、主语从句省略、关系副词省略等多种成分划分\n的重点和易错点，既覆盖了主系表和存在句两种基本句型，又涉及修饰成分的识别和省略成分的还\n原，是很好的综合练习句。\nWhat health functions should remain at the centre, and what should be given to\nlocal leaders, often responsible for services that create health, and with a much\nbetter understanding of the needs of their populations?\n第6段，第2句\n两个并列的特殊疑问句，一个主动一个被动，是考试中常见的对比性并列结构。定语从句修饰名\n词、介词短语作定语、情态动词的被动形式，这些都是四六级和考研阅读中的高频句式。句子整体\n结构具有很强的代表性，掌握后可迁移到大量类似长难句的分析中。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\nHIGH-FREQUENCY · 真题高频词\n本篇出现的 个考研英语二真题高频词\n63\n下列单词既在本篇真题中出现，又是 考研英语二 历年真题的高频词（在该考试真题中出\n现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查看该\n词的释义、音标、词形与真题例句。\nhealthcare B2 reduce B1\nn. 医疗保健 v. 减少，降低（数量、大小、程度等）\n本篇5 次 · 真题 9 句 本篇3 次 · 真题 75 句\nreform B2 strategy B2\nv. 改革 n. 策略\n本篇3 次 · 真题 37 句 本篇3 次 · 真题 28 句\nsystem A2 power A2\nn. 系统 n. 权力\n本篇2 次 · 真题 107 句 本篇2 次 · 真题 90 句\nsupport A2 community B1\nv. 支持 n. 社区\n本篇2 次 · 真题 87 句 本篇2 次 · 真题 71 句\nlocal A2 demand B1\nadj. 当地的 v. 坚决要求\n本篇2 次 · 真题 65 句 本篇2 次 · 真题 63 句\npressure B1 increasingly B2\nn. 心理压力 adv. 越来越;日益;不断增加地\n本篇2 次 · 真题 55 句 本篇2 次 · 真题 40 句\nnation B1 aim B1\nn. 国家 v. 瞄准\n本篇2 次 · 真题 39 句 本篇2 次 · 真题 35 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\ncrisis B2 resource B1\nn. 危机 n. 资源\n本篇2 次 · 真题 33 句 本篇2 次 · 真题 24 句\nretain B2 author A2\nv. 保留 n. 作者\n本篇2 次 · 真题 9 句 本篇1 次 · 真题 209 句\nrate A2 policy B1\nn. 速度 n. 政策\n本篇1 次 · 真题 72 句 本篇1 次 · 真题 69 句\ndecade B1 challenge B1\nn. 十年 n. 挑战\n本篇1 次 · 真题 61 句 本篇1 次 · 真题 57 句\nmillion A2 major B1\nnum. 一百万 adj. 主要的\n本篇1 次 · 真题 57 句 本篇1 次 · 真题 56 句\nfactor B1 quality A2\nn. 因素 n. 质量\n本篇1 次 · 真题 47 句 本篇1 次 · 真题 45 句\nsimply B1 account A2\nadv. 仅仅，只不过 n. 账户\n本篇1 次 · 真题 43 句 本篇1 次 · 真题 42 句\ncurrent B1 investment B1\nadj. 现在的 n. 投资\n本篇1 次 · 真题 41 句 本篇1 次 · 真题 38 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\naccording B1 despite B1\nprep. 根据 prep. 尽管\n本篇1 次 · 真题 35 句 本篇1 次 · 真题 32 句\nemployee A2 responsibility B1\nn. 雇员，员工 n. 责任\n本篇1 次 · 真题 32 句 本篇1 次 · 真题 32 句\ndue B1 funding B2\nadj. 预期的 n. 资金\n本篇1 次 · 真题 31 句 本篇1 次 · 真题 31 句\nboost B2 establish B2\nv. 提高 v. 建立，创立（组织、机构、关系等）\n本篇1 次 · 真题 28 句 本篇1 次 · 真题 27 句\npeer B2 capacity B2\nn. 同龄人 n. 容量\n本篇1 次 · 真题 27 句 本篇1 次 · 真题 26 句\nunderstanding B1 enhance B2\nn. 理解;领悟 v. 提高\n本篇1 次 · 真题 25 句 本篇1 次 · 真题 24 句\ninvest B2 function B1\nv. 投资（金钱、时间等以期获得回报） n. 功能\n本篇1 次 · 真题 24 句 本篇1 次 · 真题 23 句\nworkforce B2 efficiency B2\nn. （一国或一地区的）劳动力，劳动人口 n. 效率\n本篇1 次 · 真题 21 句 本篇1 次 · 真题 20 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\nestimate B2 responsible B1\nv. 估计 adj. 负责的\n本篇1 次 · 真题 19 句 本篇1 次 · 真题 19 句\nformer B1 outcome B2\nadj. 以前的，从前的 n. 结果\n本篇1 次 · 真题 18 句 本篇1 次 · 真题 17 句\ncentre A2 burden B2\nn. 中心;中央 n. 负担\n本篇1 次 · 真题 16 句 本篇1 次 · 真题 15 句\ndominant C1 infant B2\nadj. 占主导地位的 n. 婴儿\n本篇1 次 · 真题 12 句 本篇1 次 · 真题 12 句\nrival B2 minister B2\nn. 竞争对手 n. 部长\n本篇1 次 · 真题 12 句 本篇1 次 · 真题 11 句\nobesity B2 urgent B2\nn. 肥胖（症） adj. 紧急的，急迫的\n本篇1 次 · 真题 11 句 本篇1 次 · 真题 11 句\nbarely B1 launch B1\nadv. 几乎不 v. 推出\n本篇1 次 · 真题 10 句 本篇1 次 · 真题 10 句\nmeaningful B2 reliance B2\nadj. 有意义的 n. 依赖\n本篇1 次 · 真题 10 句 本篇1 次 · 真题 9 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\ndistribute B2\nv. 分发\n本篇1 次 · 真题 8 句\nVOCABULARY · 词汇难度分布\n全文 词按 难度累积覆盖\n209 CEFR\n全文去重后共 209 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」的累积\n占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 6 个 · 约 3%。\n35% 59% 80% 97% 100% 100%\nA1 A2 B1 B2 C1 C2\n及以下 及以下 及以下 及以下 及以下 及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 209 个 · 末柱为 100%\n去重总词数 B2 以上难词 B1 及以下覆盖\n209 3 80\n% %\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\n考研英语二\n2025年 · 全卷构成\nSection I 完形填空（四选一） 题目解析 →\nSection II Part A (1) 阅读理解（四选一） 题目解析 →\nSection II Part A (2) 阅读理解（四选一） 本题\nSection II Part A (3) 阅读理解（四选一） 题目解析 →\nSection II Part A (4) 阅读理解（四选一） 题目解析 →\nSection II Part B 段落小标题（7选5） 题目解析 →\nSection III 英译汉（段落翻译） 题目解析 →\nSection IV Part A 写作 题目解析 →\nSection IV Part B 写作 题目解析 →\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-2/?f=p · 在线使⽤效果更好\n2025年 考研英语二阅读理解（四选一） 第 3 篇 · 31–35 题答案与解\n析\nQUESTIONS & ANALYSIS · 阅读理解题和解析\n阅读理解题和解析 题\n· 31–35\n本页 31–35 题的答案与逐题解析由懒笔记基于2025年 考研英语二阅读理解（四选一）原\n卷逐题核对整理。与试卷排版同一卷面：先是 Directions 与 6 段原文（段首标 P1–P6 段\n号、逐段附中文翻译）；之后 5 道题逐题排列，每题英文题干与选项后紧接本题解析\n——题干与选项中译、答案、题型判定、题干拆句、定位句中英对照与逐选项对错归因。\n英语二真题(2025)\nSection II Part A (3)\nDirections:\nRead the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark\nyour answers on the ANSWER SHEET. (40 points)\nText 3\nP1 Heat action plans, or HAPs, have been proliferating in India in the past few years. In general,\nan HAP spells out when and how officials should issue heat warnings and alert hospitals and other\ninstitutions. Nagpur's plan, for instance, calls for hospitals to set aside \"cold wards\" in the summer for\ntreating heatstroke patients, and advises builders to give construction laborers a break from work on very\nhot days.\n近年来，高温行动计划(HAPs)在印度迅速普及。一般来说，高温行动计划明确规定了官员应何时以及如何\n发布高温警报并提醒医院和其他机构。例如,那格浦尔的计划要求医院在夏季预留\"降温病房\"用于治疗中暑\n患者,并建议建筑商在酷热天气让建筑工人停工休息。\nP2 But implementation of existing HAPs has been uneven, according to a report from the Centre\nfor Policy Research. Many lack adequate funding, it found. And their triggering thresholds often are not\ncustomized to the local climate. In some areas, high daytime temperatures alone might serve as an\nadequate trigger for alerts. But in other places, nighttime temperatures or humidity might be as important\na gauge of risk as daytime highs.\n但根据政策研究中心的一份报告,现有高温行动计划的实施情况参差不齐。报告发现,许多计划缺乏充足的\n资金。而且它们的触发阈值往往没有根据当地气候进行定制。在某些地区,仅白天的高温就可以作为发布警\n报的充分触发条件。但在其他地方,夜间温度或湿度可能与白天高温一样,都是风险的重要衡量指标。\nP3 Mumbai's April heatstroke deaths highlighted the need for more nuanced and localized warnings,\nresearchers say. That day's high temperature of roughly 36°C was 1°C shy of the heat wave alert\nthreshold for coastal cities set by national meteorological authorities. But the effects of the heat were\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\namplified by humidity—an often neglected factor in heat alert systems—and the lack of shade at the\nlate-morning outdoor ceremony.\n研究人员表示,孟买四月份的中暑死亡事件凸显了制定更细致和本地化预警的必要性。当天约36°C的最高\n气温比国家气象部门为沿海城市设定的热浪警报阈值低1°C。但高温的影响因湿度而被放大——这是高温\n警报系统中经常被忽视的因素——以及上午晚些时候户外仪式缺乏遮阴。\nP4 To help improve HAPs, urban planner Rajashree Kotharkar's team is working on a model plan\nthat outlines best practices and could be adapted to local conditions. Among other things, she says, all\ncities should create a vulnerability map to help focus responses on the populations most at risk.\n为了帮助改进高温行动计划,城市规划师Rajashree Kotharkar的团队正在制定一个示范计划,概述最佳实践\n并可根据当地条件进行调整。她说,除其他事项外,所有城市都应该绘制脆弱性地图,以帮助将应对措施集中\n在风险最高的人群上。\nP5 Such mapping doesn't need to be complex, Kotharkar says. \"A useful map can be created by\nlooking at even a few key parameters.\" For example, neighborhoods with a large elderly population or\ninformal dwellings that cope poorly with heat could get special warnings or be bolstered with cooling\ncenters. The Nagpur project has already created a risk and vulnerability map, which enabled Kotharkar to\ntell officials which neighborhoods to focus on in the event of a heat wave this summer.\nKotharkar说,这种地图绘制不需要很复杂。\"只需查看几个关键参数就可以创建一张有用的地图。\"例如,老\n年人口较多或非正式住所不能很好应对高温的社区可以获得特别警报或通过设立降温中心得到加强。那格\n浦尔项目已经创建了一张风险和脆弱性地图,这使Kotharkar能够告诉官员在今年夏季发生热浪时应关注哪\n些社区。\nP6 HAPs shouldn't just include short-term emergency responses, researchers say, but also\nrecommend medium- to long-term measures that could make communities cooler. In Nagpur, for\nexample, Kotharkar's team has been able to advise city officials about where to plant trees to provide\nshade. HAPs could also guide efforts to retrofit homes or modify building regulations. \"Reducing deaths\nin an emergency is a good target to have, but it's the lowest target,\" says climate researcher Chandni\nSingh.\n研究人员表示,高温行动计划不应仅包括短期应急响应,还应推荐可使社区更凉爽的中长期措施。例如在那\n格浦尔,Kotharkar的团队已能够就在哪里种植树木以提供遮阴向市政官员提供建议。高温行动计划还可以\n指导房屋改造或修改建筑法规的工作。气候研究员Chandni Singh说:\"在紧急情况下减少死亡是一个值得\n追求的目标,但这是最低目标。\n题目与逐题解析\n31.According to Paragraph 1, Nagpur's plan proposes measures to ________.\n[ A ]tackle extreme weather\n[ B ]ensure construction quality\n[ C ]monitor emergency warnings\n[ D ]address excessive workloads\n根据第一段,Nagpur的计划提出了哪些措施?\nA) 应对极端天气 B) 确保建筑质量 C) 监测紧急预警 D) 解决工作负荷过重问题\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\n【答案】A （细节题）\n【判型】According to Paragraph 1, Nagpur's plan proposes measures to ________ 既限定段落\n又问具体措施，是典型细节题。\n【拆句】According to Paragraph 1, Nagpur's plan proposes measures to ________ 主干\nNagpur's plan proposes measures，to 不定式接选项构成 propose measures to do\nsth.「提出做某事的措施」。无陷阱，难点只在「目的状语 to 后的动作」要与原文对应。\n【定位】Nagpur's plan, for instance, calls for hospitals to set aside \"cold wards\" in the summer for\ntreating heatstroke patients, and advises builders to give construction laborers a break from\nwork on very hot days.\n比如 Nagpur 的方案要求医院在夏天专门预留「冷病房」以救治中暑患者，并建议建筑商在\n极热天让建筑工人停工休息。\n【选项】A) ✓ 正确\non very hot days ↔ extreme weather\ntreating heatstroke patients ↔ tackle\n预判要的就是「应对高温」，tackle extreme weather 与两条措施全部对应，且选项里\n只有 A 命中「热」这一核心，可直接锁定。\nB) 偷换概念\n原文只让建筑工人「在极热天 break from work」，目的是保护工人，不是保证工程质\n量；ensure construction quality 把对工人的保护偷换成对工程质量的保证。\nC) 偷换概念\n原文是 HAP 在「发布」高温警报、提醒医院，monitor emergency warnings「监控应\n急警报」把发布者偷换成监控者，动作主体与对象颠倒。\nD) 无中生有\n原文让工人在「极热天」停工是为了抗热，并非因为工作量过大；address excessive\nworkloads 把「天气过热」偷换成「工作量过大」，原文未提及工作量问题。\n32.One problem with existing HAPs is that they ________.\n[ A ]prove too costly to be implemented\n[ B ]lack localized alert-issuing criteria\n[ C ]give delayed responses to heat waves\n[ D ]keep hospitals under great pressure\n现有高温行动计划存在的一个问题是\nA) 被证明成本过高而无法实施 B) 缺乏本地化的预警发布标准 C) 对热浪的响应延迟\nD) 使医院承受巨大压力\n【答案】B （细节题）\n【判型】One problem with existing HAPs is that they ________ 问一个具体问题，不带\ninfer/suggest，是细节题。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\n【拆句】One problem with existing HAPs is that they ________ 是 One problem is that... 的同位\n结构，that 从句的主语 they 指代 existing HAPs，选项内容直接做 they 的谓语部分。结\n构无陷阱。\n【定位】And their triggering thresholds often are not customized to the local climate.\n并且，它们的触发阈值常常没有根据当地气候进行定制。\n【选项】A) 偷换概念\n原文是「资金不足」（lack adequate funding），选项 prove too costly to be\nimplemented「实施成本太高」把方向倒过来：缺钱不等于成本太高，更不能推出「无\n法实施」。\nB) ✓ 正确\ntriggering thresholds ↔ alert-issuing criteria\nare not customized to the local climate ↔ lack localized\n预判要的「预警门槛没本地化」与 lack localized alert-issuing criteria 字面对位，\n可锁。\nC) 无中生有\n原文谈的是阈值不本地化、资金不够，从未谈到响应速度；give delayed responses to\nheat waves 凭空引入 delayed 这一时间维度。\nD) 张冠李戴\n原文从未说现有 HAPs 给医院造成压力；keep hospitals under great pressure 借第 1\n段 hospitals 的眼熟感骗考生。\n33.Mumbai's case shows that India's heat alert systems need to ________.\n[ A ]include other factors besides temperature\n[ B ]take subtle weather changes into account\n[ C ]prioritize potentially disastrous heat waves\n[ D ]draw further support from local authorities\nMumbai的案例表明印度的高温预警系统需要\nA) 纳入温度以外的其他因素 B) 将细微的天气变化考虑在内 C) 优先关注可能造成灾难的热浪\nD) 获得地方当局的进一步支持\n【答案】A （细节题）\n【判型】Mumbai's case shows that India's heat alert systems need to ________ 用一个具体案例\n追问系统的改进方向，案例和改进点都在原文里直接说出，是细节题。\n【拆句】Mumbai's case shows that India's heat alert systems need to ________ 主干 Mumbai's\ncase shows that...，宾语从句主语是 India's heat alert systems，need to 接选项形成不\n定式。结构平铺，无陷阱。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\n【定位】But the effects of the heat were amplified by humidity—an often neglected factor in heat alert\nsystems—and the lack of shade at the late-morning outdoor ceremony.\n但高温的影响被湿度（这是高温预警系统中常被忽视的一个因素）和上午晚些时候户外仪式\n上缺乏遮蔽放大了。\n【选项】A) ✓ 正确\nhumidity—an often neglected factor in heat alert systems ↔\nother factors besides temperature\noften neglected factor ↔ include\n预判「应当纳入温度以外的因素」与 include other factors besides temperature 字面\n对位，可锁定。\nB) 偷换概念\n原文说湿度等因素被忽视，并未谈天气是否「细微变化」；take subtle weather\nchanges into account 把 neglected factor 偷换为 subtle change，方向错位。\nC) 无中生有\n原文要的是把更多因素纳入考量，并非要在多场热浪里挑「最可能造成灾难」的那一\n场；prioritize potentially disastrous heat waves 凭空引入「排序」概念。\nD) 无中生有\n原文谈的是预警系统应纳入哪些气候因素，与地方政府支持无关；draw further\nsupport from local authorities 凭空引入「找地方政府要资源」的话题。\n34.Kotharkar holds that a vulnerability map can help ________.\n[ A ]prevent the harm of high humidity\n[ B ]target areas needing special attention\n[ C ]expand the Nagpur project's coverage\n[ D ]make relief plans for heat-stricken people\nKotharkar认为脆弱性地图能够帮助\nA) 预防高湿度的危害 B) 锁定需要特别关注的区域 C) 扩大Nagpur项目的覆盖范围\nD) 为受高温影响的人群制定救援计划\n【答案】B （细节题）\n【判型】Kotharkar holds that a vulnerability map can help ________ 直接问 vulnerability map\n能帮什么，是直问功能的细节题。\n【拆句】Kotharkar holds that a vulnerability map can help ________ 主干 Kotharkar holds\nthat...，that 从句中 a vulnerability map can help 接选项作宾语或不定式。无陷阱。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\n【定位】For example, neighborhoods with a large elderly population or informal dwellings that cope\npoorly with heat could get special warnings or be bolstered with cooling centers. The Nagpur\nproject has already created a risk and vulnerability map, which enabled Kotharkar to tell\nofficials which neighborhoods to focus on in the event of a heat wave this summer.\n比如，老年人口多或难以抵御高温的非正式住宅集中的社区，可获得专项预警或被加强配备\n冷却中心。Nagpur 项目已建立了一份风险与脆弱性地图，让 Kotharkar 能告诉官员热浪来\n临时应重点关注哪些社区。\n【选项】A) 张冠李戴\nprevent the harm of high humidity 把 P3 中 Mumbai 段的湿度问题嫁接到\nvulnerability map 的功能上；地图本身从不直接「防湿度伤害」。\nB) ✓ 正确\nwhich neighborhoods to focus on in the event of a heat wave ↔\ntarget areas needing special attention\nfocus responses on the populations most at risk ↔ areas needing special attention\n预判「锁定该重点关注的社区」与 target areas needing special attention 在动词、对\n象、限定语三处全部对位，可锁。\nC) 偷换概念\n原文 The Nagpur project has already created a risk and vulnerability map 只是说\nNagpur 项目已建好这张地图，并未说要靠这张地图去扩大 Nagpur 项目的覆盖范围；\nexpand the Nagpur project's coverage 把「项目里已有这张图」歪曲成「这张图去扩\n大项目」。\nD) 偷换概念\n原文说地图用于「告诉官员重点关注哪些社区」，并未说用于「为已中暑的人做救援计\n划」；make relief plans for heat-stricken people 把预防/聚焦的功能改成事后救援，\n对象与时序都偏了。\n35.According to the last paragraph, researchers believe that HAPs should ________.\n[ A ]focus more on heatstroke treatment\n[ B ]apply for more government grants\n[ C ]invite wider public participation\n[ D ]serve a broader range of purposes\n根据最后一段,研究人员认为高温行动计划应该\nA) 更多地关注中暑治疗 B) 申请更多政府拨款 C) 邀请更广泛的公众参与 D) 服务于更广泛的目的\n【答案】D （细节题）\n【判型】According to the last paragraph, researchers believe that HAPs should ________ 是\n「指定段 + 转述 + should」的标准细节题题干。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\n【拆句】According to the last paragraph, researchers believe that HAPs should ________ 主干\nresearchers believe that HAPs should ________，that 宾语从句的主语 HAPs 接情态动词\nshould，选项作动词原形短语补全 should 后内容。无陷阱。\n【定位】HAPs shouldn't just include short-term emergency responses, researchers say, but also\nrecommend medium- to long-term measures that could make communities cooler.\n研究人员表示，HAPs 不应只包含短期应急响应，还应推荐能让社区更凉爽的中长期措施。\n【选项】A) 与原文相反\n「治疗中暑」是 P1 提到的医院措施，末段恰恰说「减少急性死亡只是最低目标」，\nfocus more on heatstroke treatment 与末段方向相反。\nB) 张冠李戴\n末段未提 HAPs 应去申请政府拨款；apply for more government grants 把 P2 中的\n资金不足借过来，安到末段研究者的建议里。\nC) 无中生有\n末段谈的是种树、改造住宅、修订建筑法规等技术与规划措施，未提扩大公众参与；\ninvite wider public participation 凭空引入公众参与话题。\nD) ✓ 正确\nshouldn't just include short-term emergency responses, researchers say, but also recommend\nmedium- to long-term measures\n↔ serve a broader range of purposes\nReducing deaths in an emergency is a good target to have, but it's the lowest target ↔\na broader range of purposes\nserve a broader range of purposes 抓住「目标不止一种」的核心，与预判完全吻合。\nSENTENCE INSIGHTS · 句子精讲\n句真题句逐层精讲\n7\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\nIn general, an HAP spells out when and how officials should issue heat warnings\nand alert hospitals and other institutions.\n第1段，第2句\n宾语从句由疑问词引导、短语动词作谓语、从句内并列谓语结构,都是四六级和考研阅读中的常见\n句式,尤其是间接疑问句作宾语的结构出现频率高,学习后可广泛迁移到其他类似句子。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\nNagpur's plan, for instance, calls for hospitals to set aside \"cold wards\" in the\nsummer for treating heatstroke patients, and advises builders to give construction\nlaborers a break from work on very hot days.\n第1段，第3句\n“主语加并列谓语，后接较长补足结构”是说明文和新闻写作里很常见的句式。掌握这种句子后，处\n理同类的政策、计划、建议类表达会很有迁移性。\nBut in other places, nighttime temperatures or humidity might be as important a\ngauge of risk as daytime highs.\n第2段，第5句\n主系表结构配合比较状语从句是四六级和考研阅读中的常见句式，\"as ... as\" 比较结构及其省略用法\n是高频考点。并列主语和前置状语也是典型特征。句式简洁但代表性强，掌握后可迁移到大量类似\n比较句和主系表句的分析。\nTo help improve HAPs, urban planner Rajashree Kotharkar's team is working on a\nmodel plan that outlines best practices and could be adapted to local conditions.\n第4段，第1句\n本句体现了四六级和考研真题中的典型结构:主句包含定语从句修饰宾语,从句内使用并列谓语和情\n态被动结构。这种嵌套修饰和情态表达在学术文本和考试中极为常见,掌握后可广泛应用\nFor example, neighborhoods with a large elderly population or informal dwellings\nthat cope poorly with heat could get special warnings or be bolstered with cooling\ncenters.\n第5段，第3句\n本句主干识别有一定难度但不算极端,嵌套层级适中,时态语态涉及情态动词和主被动并列,成分丰富\n且包含常见易错点,结构在考试中高度典型。综合来看,这是一个难度适中、训练价值高、结构代表\n性强的优质练习句,值得优先用于结构和时态训练。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\nThe Nagpur project has already created a risk and vulnerability map, which\nenabled Kotharkar to tell officials which neighborhoods to focus on in the event of\na heat wave this summer.\n第5段，第4句\n非限制性定语从句补充说明、\"enable sb to do\" 结构、\"疑问词 + to do\" 作宾语从句,都是四六级和\n考研阅读中的高频句式,掌握后可大量复用于长难句分析\nIn Nagpur, for example, Kotharkar's team has been able to advise city officials\nabout where to plant trees to provide shade.\n第6段，第2句\n本句涵盖主语、谓语、宾语、地点状语、插入语和介词短语作状语，成分种类较为丰富；特别\n是\"about where to plant trees to provide shade\"这一多层嵌套的介词短语，可用于训练学生识别\n疑问词不定式结构和目的状语，具有一定练习价值。\nHIGH-FREQUENCY · 真题高频词\n本篇出现的 个考研英语二真题高频词\n61\n下列单词既在本篇真题中出现，又是 考研英语二 历年真题的高频词（在该考试真题中出\n现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查看该\n词的释义、音标、词形与真题例句。\nalert B2 researcher B2\nadj. 警觉的 n. 研究人员\n本篇5 次 · 真题 10 句 本篇4 次 · 真题 112 句\nwave A2 focus B1\nn. 波浪 n. 重点\n本篇4 次 · 真题 18 句 本篇3 次 · 真题 77 句\nlocal A2 risk A2\nadj. 当地的 n. 风险\n本篇3 次 · 真题 65 句 本篇3 次 · 真题 62 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\nofficial B1 response B1\nadj. 官方的 n. 回答\n本篇3 次 · 真题 42 句 本篇3 次 · 真题 37 句\naccording B1 target B1\nprep. 根据 n. 目标;靶子\n本篇3 次 · 真题 35 句 本篇3 次 · 真题 29 句\nwarning A2 system A2\nn. 警告 n. 系统\n本篇3 次 · 真题 17 句 本篇2 次 · 真题 107 句\nmeasure B1 climate B1\nv. 测量 n. 气候\n本篇2 次 · 真题 65 句 本篇2 次 · 真题 50 句\nfactor B1 lack B1\nn. 因素 v. 缺少\n本篇2 次 · 真题 47 句 本篇2 次 · 真题 41 句\nproject A2 authority B2\nn. 项目 n. 权力\n本篇2 次 · 真题 40 句 本篇2 次 · 真题 33 句\nneighborhood B1 existing B1\nn. 街区 adj. 现有的\n本篇2 次 · 真题 14 句 本篇2 次 · 真题 10 句\ntrigger B2 adequate B2\nv. 引发 adj. 足够的，充分的\n本篇2 次 · 真题 10 句 本篇2 次 · 真题 8 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\nissue B1 support A2\nn. 问题 v. 支持\n本篇1 次 · 真题 89 句 本篇1 次 · 真题 87 句\neffect A2 case A2\nn. 影响 n. 情况\n本篇1 次 · 真题 80 句 本篇1 次 · 真题 75 句\nreduce B1 community B1\nv. 减少，降低（数量、大小、程度等） n. 社区\n本篇1 次 · 真题 75 句 本篇1 次 · 真题 71 句\npolicy B1 pressure B1\nn. 政策 n. 心理压力\n本篇1 次 · 真题 69 句 本篇1 次 · 真题 55 句\naccount A2 institution B2\nn. 账户 n. 机构\n本篇1 次 · 真题 42 句 本篇1 次 · 真题 39 句\nevent A2 medium B1\nn. 事件 adj. 中等的\n本篇1 次 · 真题 36 句 本篇1 次 · 真题 35 句\nfurther B1 apply A2\nadv. 更远地 v. 申请\n本篇1 次 · 真题 34 句 本篇1 次 · 真题 33 句\ncomplex B2 funding B2\nadj. 复杂的，难懂的 n. 资金\n本篇1 次 · 真题 31 句 本篇1 次 · 真题 31 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\nrange B1 regulation B2\nn. 范围 n. 规则，条例\n本篇1 次 · 真题 31 句 本篇1 次 · 真题 28 句\nconstruction B1 broad B1\nn. 建造 adj. 宽阔的\n本篇1 次 · 真题 24 句 本篇1 次 · 真题 20 句\nharm B1 propose B1\nn. 伤害 v. 提议\n本篇1 次 · 真题 20 句 本篇1 次 · 真题 20 句\nexpand B2 recommend B1\nv. 扩大;扩展;增长 v. 推荐\n本篇1 次 · 真题 19 句 本篇1 次 · 真题 18 句\ngrant B2 instance B2\nv. 授予 n. 例子\n本篇1 次 · 真题 17 句 本篇1 次 · 真题 17 句\ncentre A2 highlight B2\nn. 中心;中央 n. 最精彩的部分\n本篇1 次 · 真题 16 句 本篇1 次 · 真题 16 句\nurban B2 enable B1\nadj. 城市的，都市的 v. 使能够\n本篇1 次 · 真题 16 句 本篇1 次 · 真题 15 句\ncope B2 guide A2\nv. 应对 n. 指南;手册\n本篇1 次 · 真题 13 句 本篇1 次 · 真题 13 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\nroughly B1 adapt B2\nadv. 大约，大概 v. 适应，适合（新环境、新情况）\n本篇1 次 · 真题 13 句 本篇1 次 · 真题 12 句\ncostly B2 subtle B2\nadj. 昂贵的，代价高的 adj. 微妙的\n本篇1 次 · 真题 12 句 本篇1 次 · 真题 10 句\nimplement B2 outline B2\nv. 实施 n. 概要\n本篇1 次 · 真题 8 句 本篇1 次 · 真题 8 句\nprioritize B2\nv. 优先处理\n本篇1 次 · 真题 8 句\nVOCABULARY · 词汇难度分布\n全文 词按 难度累积覆盖\n214 CEFR\n全文去重后共 214 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」的累积\n占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 13 个 · 约 6%。\n38% 59% 84% 94% 99% 100%\nA1 A2 B1 B2 C1 C2\n及以下 及以下 及以下 及以下 及以下 及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 214 个 · 末柱为 100%\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\n去重总词数 B2 以上难词 B1 及以下覆盖\n214 6 84\n% %\n考研英语二\n2025年 · 全卷构成\nSection I 完形填空（四选一） 题目解析 →\nSection II Part A (1) 阅读理解（四选一） 题目解析 →\nSection II Part A (2) 阅读理解（四选一） 题目解析 →\nSection II Part A (3) 阅读理解（四选一） 本题\nSection II Part A (4) 阅读理解（四选一） 题目解析 →\nSection II Part B 段落小标题（7选5） 题目解析 →\nSection III 英译汉（段落翻译） 题目解析 →\nSection IV Part A 写作 题目解析 →\nSection IV Part B 写作 题目解析 →\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-3/?f=p · 在线使⽤效果更好\n2025年 考研英语二阅读理解（四选一） 第 4 篇 · 36–40 题答案与解\n析\nQUESTIONS & ANALYSIS · 阅读理解题和解析\n阅读理解题和解析 题\n· 36–40\n本页 36–40 题的答案与逐题解析由懒笔记基于2025年 考研英语二阅读理解（四选一）原\n卷逐题核对整理。与试卷排版同一卷面：先是 Directions 与 6 段原文（段首标 P1–P6 段\n号、逐段附中文翻译）；之后 5 道题逐题排列，每题英文题干与选项后紧接本题解析\n——题干与选项中译、答案、题型判定、题干拆句、定位句中英对照与逐选项对错归因。\n英语二真题(2025)\nSection II Part A (4)\nDirections:\nRead the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark\nyour answers on the ANSWER SHEET. (40 points)\nText 4\nP1 Navigating beyond the organised pavements and parks of our urban spaces, desire paths are the\nunofficial footprints of a community, revealing the unspoken preferences, shared shortcuts and collective\nchoices of humans. Often appearing as trodden dirt tracks through otherwise neat green spaces, these\nroutes of collective disobedience cut corners, bisect lawns and cross hills, representing the natural\ncapability of people (and animals) to go from point A to point B most effectively.\n在我们城市空间中有序的人行道和公园之外，欲望路径是社区的非官方足迹,揭示了人类未言明的偏好、共\n同的捷径和集体的选择。这些路径常常表现为穿过整洁绿地的踩踏泥土小径,这些集体违规的路线抄近路、\n横穿草坪、翻越小山,代表了人类(和动物)从A点到B点最有效移动的自然能力。\nP2 Urban planners interpret desire paths as more than just convenient shortcuts; they offer valuable\ninsights into the dynamics between planning and behaviour. Ohio State University allowed its students to\nnavigate the Oval, a lawn in the centre of campus, freely, then proceeded to pave the desire paths,\ncreating a web of effective routes students had established.\n城市规划者将欲望路径解读为不仅仅是便捷的捷径;它们提供了关于规划与行为之间动态关系的宝贵见解。\n俄亥俄州立大学允许其学生自由穿行校园中心的椭圆形草坪,然后铺设这些欲望路径,创建了学生已经建立\n的有效路线网络。\nP3 Yet, reluctance persists among other planners to integrate desire paths into formal plans, citing\nconcerns about safety, environmental impact, or primarily, aesthetics. A Reddit webpage devoted to the\nphenomenon, boasting nearly 50,000 members, showcases images of local desire paths adorned with\nsigns instructing pedestrians to adhere to designated walkways, underscoring the rebellious nature\ninherent in these human-made tracks. This clash highlights an ongoing struggle between the organic,\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\nuser-driven evolution of public spaces and the desire for a visually curated and controlled urban\nenvironment.\n然而,其他规划者仍然不愿将欲望路径纳入正式规划,理由是对安全、环境影响,或主要是美观的担忧。一个\n专门讨论这一现象的Reddit网页拥有近5万名成员,展示了当地欲望路径的图片,这些路径上装饰着指示行人\n遵守指定人行道的标志,凸显了这些人造小径固有的叛逆性质。这种冲突凸显了公共空间有机的、用户驱动\n的演变与对视觉上精心策划和控制的城市环境的渴望之间的持续斗争。\nP4 The Wickquasgeck Trail is an example of a historical desire path, created by Native Americans\nto cross the forests of Manhattan and move between settlements quickly. This trail, when Dutch colonists\narrived, was widened and made into one of the main trade roads across the island, known at the time as\nde Heere Straat, or Gentlemen's Street. Following the British assumption of control in New York, the\nstreet was renamed Broadway. Notably, Broadway stands out as one of the few areas in NYC that defies\nthe grid-based system applied to the rest of the city, cutting a diagonal across parts of the city.\nWickquasgeck小径是历史欲望路径的一个例子,由美洲原住民创建,用于穿越曼哈顿的森林并在定居点之\n间快速移动。当荷兰殖民者到达时,这条小径被拓宽并建成横跨该岛的主要贸易道路之一,当时被称为de\nHeere Straat,即绅士街。在英国控制纽约后,这条街被重新命名为Broadway。值得注意的是,Broadway是\n纽约市少数几个违背应用于城市其他地区的网格系统的区域之一,在城市的部分地区斜穿而过。\nP5 In online spaces, desire paths have sparked a fascination that can approach obsession, with the\nReddit page serving as a hub. Contributors offer a wide array of stories, from little-known new shortcuts\nto long-established alternate routes.\n在网络空间中,欲望路径激发了一种可能接近痴迷的迷恋,Reddit页面成为一个中心。贡献者提供了各种各\n样的故事,从鲜为人知的新捷径到长期存在的替代路线。\nP6 Animal desire paths, such as ducks forging trails through frozen ponds or dogs carving direct\nroutes in gardens, highlight the adaptability of these trails in both human and animal experiences. As\ndesire paths criss-cross through both physical and virtual landscapes, they stand as a proof of the\ncollective insistence on forging unconventional routes and embracing the spirit of communal choice.\n动物欲望路径,如鸭子在结冰的池塘上开辟小径或狗在花园中开辟直接路线,突显了这些小径在人类和动物\n体验中的适应性。随着欲望路径在物理和虚拟景观中纵横交错,它们证明了集体坚持开辟非常规路线和拥抱\n共同选择精神的决心。\n题目与逐题解析\n36.According to Paragraph 1, desire paths are a result of ________.\n[ A ]the curiosity to explore surrounding hills\n[ B ]the necessity to preserve green spaces\n[ C ]the tendency to pursue convenience\n[ D ]the wish to find comfort in solitude\n根据第1段，欲望路径是什么的结果\nA) 探索周围山丘的好奇心 B) 保护绿色空间的必要性 C) 追求便利的倾向\nD) 在独处中寻找舒适的愿望\n【答案】C （细节题）\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\n【判型】According to Paragraph 1, desire paths are a result of ________要求基于第一段事实给出\ndesire paths 形成的原因，没有 infer/imply 等推断信号，属于细节题。\n【拆句】Q36主干是 desire paths are a result of ________，be a result of 表示\"是……的结果\"，空\n格里要填的是\"导致 desire paths 出现的原因\"，注意方向不是\"desire paths 导致了什么\"。\n【定位】these routes of collective disobedience cut corners, bisect lawns and cross hills, representing\nthe natural capability of people (and animals) to go from point A to point B most effectively.\n这些集体\"违规\"踩出的路径抄近路、横切草坪、翻越小山，体现了人（以及动物）从 A 点到\nB 点尽可能高效行走的天性。\n【选项】A) 偷换概念\n原文 cross hills 只是描述路径会\"翻山\"，并非出于curiosity to explore surrounding\nhills这种\"探山好奇\"的动机。\nB) 与原文相反\n原文说人们 bisect lawns 切草坪，正是不顾绿地保育的体现，与the necessity to\npreserve green spaces\"为保护绿地\"刚好相反。\nC) ✓ 正确\nto go from point A to point B most effectively ↔ the tendency to pursue convenience\nthe natural capability of people (and animals) ↔ the tendency to\nthe tendency to pursue convenience精确对应原文\"以最高效方式从 A 到 B 的天\n性\"，与预判完全一致。\nD) 无中生有\nthe wish to find comfort in solitude谈\"在独处中找慰藉\"，第一段完全没有\nsolitude/comfort 的相关表述。\n37.It can be inferred that Ohio State University ________.\n[ A ]intends to improve its desire paths\n[ B ]leads in the research on desire paths\n[ C ]guides the creation of its desire paths\n[ D ]takes a positive view of desire paths\n可以推断出Ohio State University\nA) 打算改善其欲望路径 B) 在欲望路径研究方面处于领先地位 C) 引导其欲望路径的创建\nD) 对欲望路径持积极看法\n【答案】D （推断题）\n【判型】It can be inferred that Ohio State University里的 inferred 直接亮明推断题身份，要求基\n于事实推态度。\n【拆句】Q37结构是 It can be inferred that + 主语 + 谓语，that 引导宾语从句，主语锁死在 Ohio\nState University，要补出的是\"学校对 desire paths 的态度或做法\"。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\n【定位】Ohio State University allowed its students to navigate the Oval, a lawn in the centre of\ncampus, freely, then proceeded to pave the desire paths, creating a web of effective routes\nstudents had established.\n俄亥俄州立大学先允许学生在校园中央草坪 Oval 上自由行走，然后把学生踩出的小径铺设\n固化，形成一张由学生确立的高效路径网。\n【选项】A) 过度推断\n原文只说学校已经把 desire paths 铺好，没说要去improve its desire paths\"再改良\"，\n方向被多推了一步。\nB) 无中生有\n原文只举学校处理 Oval 的一例做法，无任何\"在 desire paths 研究领域领先\"的信息，\nleads in the research on desire paths是无中生有。\nC) 与原文相反\n原文清楚说allowed its students to navigate...freely，路径是学生自由走出来的，不是\n学校guides the creation引导的。\nD) ✓ 正确\nproceeded to pave the desire paths, creating a web of effective routes students had established\n↔ takes a positive view of desire paths\nallowed its students to navigate the Oval...freely ↔ positive view\ntakes a positive view of desire paths恰好对应学校\"允许踩+主动铺路\"所暗含的认可态\n度，与预判一致。\n38.The images on the Reddit webpage reflect ________.\n[ A ]conflicting opinions on the use of desire paths\n[ B ]the call to upgrade the designing of public spaces\n[ C ]the demand for proper planning of desire paths\n[ D ]growing concerns over the loss of public spaces\nReddit网页上的图片反映了\nA) 关于欲望路径使用的矛盾观点 B) 升级公共空间设计的呼吁 C) 对欲望路径进行适当规划的需求\nD) 对公共空间丧失日益增长的担忧\n【答案】A （细节题）\n【判型】The images on the Reddit webpage reflect ________问的是图所反映的客观信息，需要回\n原文找作者就这些图给出的解读。\n【拆句】Q38主干是 The images...reflect ________，reflect 这里是\"反映/体现\"，宾语是要填的内\n容，介词短语 on the Reddit webpage 修饰 images。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\n【定位】A Reddit webpage devoted to the phenomenon, boasting nearly 50,000 members, showcases\nimages of local desire paths adorned with signs instructing pedestrians to adhere to\ndesignated walkways, underscoring the rebellious nature inherent in these human-made\ntracks. This clash highlights an ongoing struggle between the organic, user-driven evolution\nof public spaces and the desire for a visually curated and controlled urban environment.\n一个近五万成员的 Reddit 专题页展示了各地 desire paths 的照片，上面贴着\"请走指定步\n道\"的告示牌，凸显了这些自发路径的反叛特性。这种碰撞凸显了一种持续较量：公共空间\n里用户主导的自然演化 vs. 视觉规整、可控的城市环境的诉求。\n【选项】A) ✓ 正确\nThis clash highlights an ongoing struggle ↔ conflicting opinions on the use of desire paths\nbetween the organic, user-driven evolution of public spaces and the desire for a visually curated\nand controlled urban environment\n↔ on the use of desire paths\nconflicting opinions on the use of desire paths精准把段末总结句的双方对立概括出\n来，与预判一致。\nB) 无中生有\n原文谈的是\"该不该接纳踩径\"的对立，没有call to upgrade the designing of public\nspaces\"号召升级设计\"的语义。\nC) 偷换概念\n原文反对方甚至要instructing pedestrians to adhere to designated walkways禁止走\ndesire paths，更谈不上demand for proper planning of desire paths要\"正规规划\ndesire paths\"。\nD) 偷换概念\n原文焦点是\"踩径与禁令的冲突\"，并非growing concerns over the loss of public\nspaces担心公共空间\"流失\"。\n39.The example of the Wickquasgeck Trail illustrates ________.\n[ A ]the growth of New York City\n[ B ]the Dutch origin of desire paths\n[ C ]the importance of urban planning\n[ D ]the recognition of desire paths\nWickquasgeck Trail的例子说明了\nA) 纽约市的发展 B) 欲望路径的荷兰起源 C) 城市规划的重要性 D) 对欲望路径的认可\n【答案】D （例证目的题）\n【判型】illustrates直接亮明例证题身份，问的是 Wickquasgeck Trail 这个例子在说明什么观点。\n【拆句】Q39结构是 The example of X illustrates ________，主语是\"X 这个例子\"，谓语 illustrate\n后接\"被说明的对象\"，要避开把例子内容当答案。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\n【定位】The Wickquasgeck Trail is an example of a historical desire path, created by Native\nAmericans to cross the forests of Manhattan and move between settlements quickly.\nWickquasgeck Trail 是一条历史上的 desire path，由美洲原住民开辟，用以穿越曼哈顿森\n林、在聚居点之间快速往返。\n【选项】A) 答非所问\n原文确实顺带提到Broadway演变史，但作者举例不是为了说the growth of New York\nCity\"纽约市的成长\"，纽约只是 desire path 留下的副产品。\nB) 与原文相反\n原文明说这条路径created by Native Americans，是原住民开辟的，荷兰人只是后来拓\n宽，the Dutch origin of desire paths把起源颠倒了。\nC) 与原文相反\n整段是讲 desire paths 反过来塑造了城市的街道，恰好defies the grid-based system\n违反了规划，而非证明the importance of urban planning规划的重要性。\nD) ✓ 正确\nThe Wickquasgeck Trail is an example of a historical desire path ↔\nthe recognition of desire paths\nBroadway stands out as one of the few areas in NYC that defies the grid-based system ↔\nrecognition\nthe recognition of desire paths恰是这条历史 desire path 被一代代沿用、保留至今的\n论点概括，与预判一致。\n40.It can be learned from the last paragraph that desire paths ________.\n[ A ]reveal humans' deep respect for nature\n[ B ]are crucial to humans' mental wellbeing\n[ C ]are a human imitation of animal behaviour\n[ D ]show a shared trait in humans and animals\n从最后一段可以得知欲望路径\nA) 揭示了人类对自然的深刻尊重 B) 对人类的心理健康至关重要 C) 是人类对动物行为的模仿\nD) 显示了人类和动物的共同特征\n【答案】D （推断题）\n【判型】It can be learned from the last paragraph that desire paths ________里的 learned 等价\n于 inferred，是末段推断题。\n【拆句】Q40主干 It can be learned...that desire paths ________，that 后是宾语从句，主语锁死\ndesire paths，要补出的是它在末段被赋予的性质或意义。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\n【定位】Animal desire paths, such as ducks forging trails through frozen ponds or dogs carving direct\nroutes in gardens, highlight the adaptability of these trails in both human and animal\nexperiences. As desire paths criss-cross through both physical and virtual landscapes, they\nstand as a proof of the collective insistence on forging unconventional routes and embracing\nthe spirit of communal choice.\n鸭子在冰面踩径、狗在花园走直线这类\"动物 desire paths\"凸显了它们对人和动物都同样适\n配；当 desire paths 穿行于物理与虚拟空间，它们都是对\"集体执意走非常规路线、推崇共\n同选择精神\"的明证。\n【选项】A) 无中生有\n原文反复强调的是 desire paths 体现\"非常规路线\"，并未涉及humans' deep respect\nfor nature\"对自然的深切尊重\"。\nB) 无中生有\n末段没有任何crucial to humans' mental wellbeing\"对心理健康至关重要\"的表述，话\n题完全在共性而非健康。\nC) 与原文相反\n原文并列谈人和动物都会踩径，并未说人是在imitation of animal behaviour\"模仿\n动物\"。\nD) ✓ 正确\nthe adaptability of these trails in both human and animal experiences ↔\nshow a shared trait in humans and animals\nthe collective insistence on forging unconventional routes and embracing the spirit of communal\nchoice\n↔ shared trait\nshow a shared trait in humans and animals恰好把末段\"both human and animal\"的\n并列加上\"collective insistence\"的总收概括成一种共有特性，与预判一致。\nSENTENCE INSIGHTS · 句子精讲\n句真题句逐层精讲\n11\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\nOften appearing as trodden dirt tracks through otherwise neat green spaces, these\nroutes of collective disobedience cut corners, bisect lawns and cross hills,\nrepresenting the natural capability of people (and animals) to go from point A to\npoint B most effectively.\n第1段，第2句\n本句包含并列谓语结构、前置和后置分词短语作状语、介词短语作后置定语等多种成分类型,覆盖\n面较广;句首和句末的分词短语容易被误判为独立分句或谓语,是练习区分谓语与非谓语、理解分词\n短语作状语的良好材料;同时并列谓语各自带宾语的结构也值得练习。\nUrban planners interpret desire paths as more than just convenient shortcuts;\nthey offer valuable insights into the dynamics between planning and behaviour.\n第2段，第1句\n“分号连接两个完整陈述 + 一般现在时讲普遍事实”是较常见的说明文句式。第一个分句中的“动词\n+ 宾语 + 补足语”也属于常见、值得迁移的结构。\nOhio State University allowed its students to navigate the Oval, a lawn in the\ncentre of campus, freely, then proceeded to pave the desire paths, creating a web\nof effective routes students had established.\n第2段，第2句\n主句包含并列谓语、宾语、宾语补足语、同位语、方式状语、时间状语、伴随状语等多种成分,成\n分种类丰富;定语从句省略关系代词,是常见易错点;不定式 to navigate 和 to pave 分别作宾语补足语\n和动词宾语,to do 的多重用法值得练习。整体覆盖面广,训练价值较高。\nYet, reluctance persists among other planners to integrate desire paths into formal\nplans, citing concerns about safety, environmental impact, or primarily, aesthetics.\n第3段，第1句\n本句时态不难，但结构上很适合练主干识别和非谓语辨认，训练收益较稳定。对于需要巩固“一个\n谓语配多个后置补充”的学习者，优先度较高。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\nA Reddit webpage devoted to the phenomenon, boasting nearly 50,000 members,\nshowcases images of local desire paths adorned with signs instructing pedestrians\nto adhere to designated walkways, underscoring the rebellious nature inherent in\nthese human-made tracks.\n第3段，第2句\n本句时态不难，但结构拆解价值很高，尤其适合训练如何从长修饰中抓住真正主干。对句子结构学\n习而言，值得优先练习。\nThis clash highlights an ongoing struggle between the organic, user-driven\nevolution of public spaces and the desire for a visually curated and controlled\nurban environment.\n第3段，第3句\n本句包含主语、谓语、宾语、前置定语、后置定语（介词短语），成分种类中等丰富。后置定语内\n部存在 \"between A and B\" 并列结构，A 和 B 各自又含多层修饰（\"organic, user-driven evolution\nof public spaces\" 和 \"desire for a visually curated and controlled urban environment\"），适合练\n习识别复杂名词短语内部的修饰层次，有一定训练价值。\nThe Wickquasgeck Trail is an example of a historical desire path, created by Native\nAmericans to cross the forests of Manhattan and move between settlements\nquickly.\n第4段，第1句\n主系表结构加后置定语是常见句式，后置定语由过去分词引导也较为典型，在阅读理解中频繁出\n现。但整体难度偏低，缺少考试中常见的从句嵌套或复杂修饰，代表性中等。\nThis trail, when Dutch colonists arrived, was widened and made into one of the\nmain trade roads across the island, known at the time as de Heere Straat, or\nGentlemen's Street.\n第4段，第2句\n本句结构不至于过难，但包含插入从句、被动并列谓语和句尾补充说明，训练收益高而挫败感不\n强。作为结构与时态练习材料，值得优先学习。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\nNotably, Broadway stands out as one of the few areas in NYC that defies the grid-\nbased system applied to the rest of the city, cutting a diagonal across parts of the\ncity.\n第4段，第4句\n本句结构在考研和四六级阅读中较为常见：主句 + 限制性定语从句 + 分词短语伴随状语的组合，\n是典型的复杂句模式。句首插入语、不及物动词短语、后置定语等都是常考结构。掌握本句的分析\n方法可以迁移到大量类似长句，具有较高的典型性和复用价值。\nIn online spaces, desire paths have sparked a fascination that can approach\nobsession, with the Reddit page serving as a hub.\n第5段，第1句\n“主句主干 + 名词后定语从句 + 句首介词状语 + 句尾补充结构”是阅读里很常见的组合。掌握这类\n句子后，处理同类长句的迁移价值很高。\nAs desire paths criss-cross through both physical and virtual landscapes, they\nstand as a proof of the collective insistence on forging unconventional routes and\nembracing the spirit of communal choice.\n第6段，第2句\n\"状语从句前置 + 主句\" 是四六级和考研阅读中的高频句式，\"As\" 引导的状语从句尤其常见。主句\n中介词短语作状语修饰动词的结构也是典型搭配。学习者掌握本句结构后可迁移至大量类似长句。\nHIGH-FREQUENCY · 真题高频词\n本篇出现的 个考研英语二真题高频词\n79\n下列单词既在本篇真题中出现，又是 考研英语二 历年真题的高频词（在该考试真题中出\n现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查看该\n词的释义、音标、词形与真题例句。\ndesire B2 route B1\nn. 愿望 n. 路线\n本篇20 次 · 真题 37 句 本篇5 次 · 真题 16 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\ntrail B1 urban B2\nn. 小路，小径 adj. 城市的，都市的\n本篇5 次 · 真题 10 句 本篇4 次 · 真题 16 句\ncollective B2 planning B1\nadj. 集体的 n. 规划\n本篇3 次 · 真题 14 句 本篇3 次 · 真题 12 句\nconcern B1 image A2\nv. 涉及 n. 形象，印象\n本篇2 次 · 真题 60 句 本篇2 次 · 真题 45 句\nreveal B2 track A2\nv. 揭示 n. 小路\n本篇2 次 · 真题 35 句 本篇2 次 · 真题 24 句\nhighlight B2 shared A2\nn. 最精彩的部分 adj. 共享的\n本篇2 次 · 真题 16 句 本篇2 次 · 真题 9 句\nnavigate B2 system A2\nv. 导航 n. 系统\n本篇2 次 · 真题 8 句 本篇1 次 · 真题 107 句\nview A2 growth B1\nn. 观点，看法 n. 增长\n本篇1 次 · 真题 91 句 本篇1 次 · 真题 80 句\ncommunity B1 local A2\nn. 社区 adj. 当地的\n本篇1 次 · 真题 71 句 本篇1 次 · 真题 65 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\ndemand B1 online A2\nv. 坚决要求 adj. 在线的\n本篇1 次 · 真题 63 句 本篇1 次 · 真题 63 句\nimpact B2 design B1\nn. 影响 n. 设计\n本篇1 次 · 真题 53 句 本篇1 次 · 真题 52 句\napproach B1 opinion A2\nv. 靠近，接近（在空间或时间上） n. 观点\n本篇1 次 · 真题 51 句 本篇1 次 · 真题 44 句\nloss B1 sign A1\nn. 丧失 n. 标志\n本篇1 次 · 真题 43 句 本篇1 次 · 真题 42 句\nphysical B1 mental B1\nadj. 身体的 adj. 精神的\n本篇1 次 · 真题 40 句 本篇1 次 · 真题 37 句\naccording B1 apply A2\nprep. 根据 v. 申请\n本篇1 次 · 真题 35 句 本篇1 次 · 真题 33 句\nquickly A2 struggle B1\nadv. 快速地 v. 奋斗\n本篇1 次 · 真题 33 句 本篇1 次 · 真题 32 句\nimportance B1 intend B1\nn. 重要性 v. 打算，计划\n本篇1 次 · 真题 31 句 本篇1 次 · 真题 31 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\npreserve B2 landscape B1\nv. 保护 n. 风景\n本篇1 次 · 真题 30 句 本篇1 次 · 真题 29 句\nexplore B1 establish B2\nv. 探索 v. 建立，创立（组织、机构、关系等）\n本篇1 次 · 真题 28 句 本篇1 次 · 真题 27 句\npositive B1 web A2\nadj. 积极的 n. 网站\n本篇1 次 · 真题 27 句 本篇1 次 · 真题 27 句\nhistorical B2 reflect B1\nadj. 历史的 v. 反映，显示\n本篇1 次 · 真题 26 句 本篇1 次 · 真题 25 句\nrepresent B1 cite B2\nv. 代表 v. 引用，引证\n本篇1 次 · 真题 25 句 本篇1 次 · 真题 24 句\nenvironmental B1 illustrate B2\nadj. 环境的 v. 说明\n本篇1 次 · 真题 23 句 本篇1 次 · 真题 23 句\nevolution B2 effective B1\nn. 进化 adj. 有效的，起作用的\n本篇1 次 · 真题 22 句 本篇1 次 · 真题 20 句\norigin B2 valuable B1\nn. 起源 adj. 贵重的\n本篇1 次 · 真题 20 句 本篇1 次 · 真题 20 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\nconflict B2 phenomenon B2\nn. 冲突 n. 现象\n本篇1 次 · 真题 19 句 本篇1 次 · 真题 19 句\ncreation B2 crucial B2\nn. 创造 adj. 至关重要的\n本篇1 次 · 真题 18 句 本篇1 次 · 真题 17 句\nformal B1 centre A2\nadj. 正式的 n. 中心;中央\n本篇1 次 · 真题 17 句 本篇1 次 · 真题 16 句\ncuriosity B2 native B1\nn. 好奇心 adj. 本国的\n本篇1 次 · 真题 16 句 本篇1 次 · 真题 16 句\notherwise B2 upgrade B2\nadv. 否则，不然 v. 升级\n本篇1 次 · 真题 16 句 本篇1 次 · 真题 16 句\npursue B2 guide A2\nv. 追求 n. 指南;手册\n本篇1 次 · 真题 14 句 本篇1 次 · 真题 13 句\nnecessity B2 preference B2\nn. 必需品 n. 偏爱\n本篇1 次 · 真题 13 句 本篇1 次 · 真题 13 句\ntrait B2 effectively B2\nn. 特征 adv. 有效地\n本篇1 次 · 真题 13 句 本篇1 次 · 真题 12 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\nintegrate C1 assumption B2\nv. 使融入 n. 假定;假设(未经证实就认为是真的事)\n本篇1 次 · 真题 12 句 本篇1 次 · 真题 11 句\nembrace B2 interpret B2\nv. 拥抱 v. 解释\n本篇1 次 · 真题 11 句 本篇1 次 · 真题 11 句\nprimarily B2 recognition B2\nadv. 主要地 n. 认可\n本篇1 次 · 真题 11 句 本篇1 次 · 真题 10 句\nspark B1 tendency B2\nn. 火花 n. 倾向\n本篇1 次 · 真题 10 句 本篇1 次 · 真题 10 句\nvirtual B2 wellbeing B2\nadj. 虚拟的（计算机生成的） n. 幸福;安康\n本篇1 次 · 真题 10 句 本篇1 次 · 真题 10 句\ncapability B2 inherent C1\nn. 能力 adj. 内在的;固有的\n本篇1 次 · 真题 8 句 本篇1 次 · 真题 8 句\ninsight B2\nn. 洞察力\n本篇1 次 · 真题 8 句\nVOCABULARY · 词汇难度分布\n全文 词按 难度累积覆盖\n242 CEFR\n全文去重后共 242 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」的累积\n占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 12 个 · 约 5%。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\n27% 46% 69% 95% 100% 100%\nA1 A2 B1 B2 C1 C2\n及以下 及以下 及以下 及以下 及以下 及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 242 个 · 末柱为 100%\n去重总词数 B2 以上难词 B1 及以下覆盖\n242 5 69\n% %\n考研英语二\n2025年 · 全卷构成\nSection I 完形填空（四选一） 题目解析 →\nSection II Part A (1) 阅读理解（四选一） 题目解析 →\nSection II Part A (2) 阅读理解（四选一） 题目解析 →\nSection II Part A (3) 阅读理解（四选一） 题目解析 →\nSection II Part A (4) 阅读理解（四选一） 本题\nSection II Part B 段落小标题（7选5） 题目解析 →\nSection III 英译汉（段落翻译） 题目解析 →\nSection IV Part A 写作 题目解析 →\nSection IV Part B 写作 题目解析 →\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-a-4/?f=p · 在线使⽤效果更好\n2025年 考研英语二段落小标题（7选5） Section II Part B · 41–45 题\n答案与解析\nHEADINGS & ANALYSIS · 小标题匹配题和解析\n小标题匹配题和解析 题\n· 41–45\n本页 41–45 题的小标题匹配答案与逐空解析由懒笔记基于2025年 考研英语二段落小标题\n（7选5）原卷逐题核对整理。与试卷排版同一卷面：Directions、11 段带空原文（逐段附\n中文翻译）与 A~G 共 7 个候选小标题连续排印；卷面下方逐空紧跟解析——正确候选及\n其中译、区间主旨与主旨句位置、同义匹配钩子，以及最具迷惑性竞争项的逐个辨析与代\n入验证。\n英语二真题(2025)\nSection II Part B\nDirections:\nRead the following text and answer the questions by choosing the most suitable subheading from the list\nA-G for each of the numbered paragraphs (41-45). There are two extra subheadings which you do not\nneed to use. Mark your answers on the ANSWER SHEET. (10 points)\nEveryone wants to be that person—the one who looks at the same information as everyone else, but\nwho sees a fresh, innovative solution. However, it takes more than simply having a good idea. How you\nshare it is as important as the suggestion itself. Why? Because writing a new script—literally or\nfiguratively—means that other team members will have to adapt to something new. Not to mention, if\nthe process you're scrapping is one someone else suggested, there's the possibility of hurt feelings. To\ngain buy-in on an innovative, new idea, follow these steps:\n每个人都想成为那样的人——能够看到与其他人相同的信息，却能看出新颖创新的解决方案。然而，这不\n仅仅需要有一个好主意。你如何分享它与建议本身同样重要。为什么？因为编写新脚本——无论是字面意\n义上还是比喻意义上——意味着其他团队成员将不得不适应新事物。更不用说，如果你要废弃的流程是别\n人提出的，就有可能伤害感情。要让人们认可一个创新的新想法，请遵循以下步骤：\n(41)____________________\n做一名推销员。\nGreat ideas don't stand alone. In other words, you can't mention your suggestion once and expect it\nto be adopted. To see a change, you'll need to champion your plan and sell its merits. In addition, you\nneed to be willing to stand up to scrutiny and criticism and be prepared to explain your innovation in\ndifferent ways for various audiences.\n好主意不会独立存在。换句话说，你不能只提一次建议就期望它被采纳。要看到改变，你需要为你的计划\n摇旗呐喊并推销其优点。此外，你需要愿意经受审查和批评，并准备好以不同方式向不同受众解释你的\n创新。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-b/?f=p · 在线使⽤效果更好\n(42)____________________\n利用渠道。\nSometimes it makes sense to go to your boss first. But other times, it's useful to build a coalition\namong your co-workers or other stakeholders. When it works, it works great—because you're ready for\nyour stubborn supervisor's pushback with answers like, \"Actually, I connected with a few people in our\ntech department to discuss how much time these kinds of website updates would take, and they\nsuggested they have the bandwidth.\"\n有时先去找老板是有道理的。但在其他时候，在同事或其他利益相关者中建立联盟是有用的。当这种方法\n奏效时，效果会很好——因为你已经准备好应对固执上司的反对,可以这样回答：\"事实上,我联系了技术部\n门的几个人,讨论了这类网站更新需要多少时间,他们表示有时间处理。\"\n(43)____________________\n保持谦逊。\nOne of the biggest barriers to gaining buy-in occurs when the owner of an idea is viewed as\nargumentative, defensive, or close-minded. Because, let's be honest: No one likes a know-it-all. So, if\npeople disagree with you, don't be indignant. Instead, listen to their concerns fully, try to understand\ntheir perspective, and include their concerns (and possible remedies) in future discussions. So, instead of\nsaying, \"Martha, our current slogan is confusing and should be updated,\" you could try, \"Martha raises a\ngreat point that our current slogan has a long history for our stakeholders, but I wonder if we might be\nable to brainstorm a tagline that could build on that—and be clearer for new customers.\"\n获得认可的最大障碍之一是当想法的提出者被视为好争辩、防御性强或思想封闭时。因为,说实话:没有人\n喜欢万事通。所以,如果人们不同意你的观点,不要愤愤不平。相反,充分倾听他们的担忧,试着理解他们的观\n点,并在未来的讨论中纳入他们的担忧(以及可能的补救措施)。因此,与其说\"Martha,我们目前的口号令人\n困惑,应该更新\",你可以尝试说\"Martha提出了一个很好的观点,我们目前的口号对利益相关者来说有着悠\n久的历史,但我想知道我们是否可以集思广益,想出一个能在此基础上发展的标语——并且对新客户来说更\n清晰。\"\n(44)____________________\n尊重过去。\nNew ideas are the grandchildren of old ones. In other words, don't throw old solutions under the\nbus to make your improvement stand out. Remember that in light of whatever the problem the old\nsystem solved—or, maybe, has failed to solve in recent memory—it was a great idea at the time.\nAppreciating the older contributions as you suggest future innovations helps bolster the credibility of\nyour idea.\n新想法是旧想法的孙辈。换句话说,不要为了让你的改进脱颖而出而贬低旧的解决方案。请记住,鉴于旧系\n统解决的任何问题——或者也许是近期未能解决的问题——它在当时是一个好主意。在你提出未来创新\n时赞赏以往的贡献有助于增强你想法的可信度。\n(45)____________________\n保持积极。\nWhen pitching a new idea, it's important to use the language of abundance instead of the language\nof deficit. Instead of saying what is wrong, broken, or suboptimal, talk about what is right, fixable, or\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-b/?f=p · 在线使⽤效果更好\nideal. For example, try, \"I can see lots of applications for this new approach\" rather than, \"This\ninnovation is the only way.\" Be optimistic but realistic, and you will stand out.\n在提出新想法时,使用富足的语言而不是缺陷的语言很重要。与其说什么是错误的、破碎的或不理想的,不\n如谈论什么是正确的、可修复的或理想的。例如,试着说\"我能看到这种新方法有很多应用\",而不是\"这个创\n新是唯一的方法\"。保持乐观但现实,你就会脱颖而出。\n[ A ]Stay positive.\n[ B ]Respect the past.\n[ C ]Use channels.\n[ D ]Give it time.\n[ E ]Invite resistance.\n[ F ]Be a salesman.\n[ G ]Be humble.\n41. (41)____\n【答案】[ F ]\n通篇归纳\n【小标题】Be a salesman.\n做一个推销员。\n【主旨】要反复宣传、为主意争取认同\n本段说好主意不会自己立住——Great ideas don't stand alone，提了一次不等于被采纳\nyou can't mention your suggestion once and expect it to be adopted，要主动为方案\n造势、兜售它的好处 you'll need to champion your plan and sell its merits，还要经得起\n质疑、面对不同听众反复解释。整段主旨就是\"像推销一样持续争取认同\"。\n【依据】sell merits = 推销员\n本段核心动作 champion your plan and sell its merits 正是\"推销\"，与 Be a salesman\n的\"salesman（推销员）\"是同义概括——推销员就是反复宣传、为产品争取买单的人，恰\n好概括了\"反复讲、经得起质疑、换方式解释\"这一整段。\n【竞争】[ E ] 误读为\"招反对\"\n段中有 stand up to scrutiny and criticism（经受质疑批评），容易让人联想到 Invite\nresistance。但本段说的是\"被质疑时顶得住\"，是推销过程中的一环，并非\"主动去招来反\n对\"；E 把\"承受批评\"偷换成\"主动邀请反对\"，概括不了\"sell its merits\"这条主线。\n【验证】把 Be a salesman 放回本段：整段从 champion your plan and sell its merits 到反复解\n释，讲的都是\"像推销员一样持续争取认同\"，覆盖全段而非某一句，与全文\"五步法各讲一\n招\"的组织自洽。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-b/?f=p · 在线使⽤效果更好\n42. (42)____\n【答案】[ C ]\n通篇归纳\n【小标题】Use channels.\n利用渠道。\n【主旨】经由同事、部门等渠道去推进\n本段说有时先找老板，有时则要在同事或利益相关者中建立联盟 it's useful to build a\ncoalition among your co-workers or other stakeholders；举的例子是\"我已经联系了技\n术部门的几个人讨论\" I connected with a few people in our tech department to\ndiscuss。主旨是\"通过组织内的人和部门这些渠道去铺路、争取支持\"。\n【依据】co-workers/department = channels\n本段反复在讲经由\"哪些人、哪些路径\"推进——build a coalition among your co-\nworkers or other stakeholders 与 I connected with a few people in our tech\ndepartment，这些\"同事、利益相关者、技术部门\"正是 Use channels 里的\"channels（渠\n道）\"。标题是对全段\"用渠道铺路\"的同义概括。\n【竞争】[ F ] 已被 41 选走且非本段主旨\n本段也涉及为建议争取支持，乍看像 Be a salesman。但本段重点不在\"反复宣传内容\"，而\n在\"经由哪些人/部门这些渠道\"去推进；且 F 已是 41 段答案，每条候选只用一次。本段独有\n的\"co-workers、stakeholders、tech department\"才是题眼，指向 C。\n【验证】把 Use channels 放回本段：从 build a coalition among your co-workers or other\nstakeholders 到联系技术部门的例子，全段都在讲\"走渠道、借人脉推进\"，概括的是整段而\n非个别例子，与五步法并列结构一致。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-b/?f=p · 在线使⽤效果更好\n43. (43)____\n【答案】[ G ]\n段首\n【小标题】Be humble.\n保持谦逊。\n【主旨】别自以为是，要谦逊倾听\n段首点出最大障碍是被人看成爱争辩、好防卫、不接受意见 the owner of an idea is\nviewed as argumentative, defensive, or close-minded，并直说\"没人喜欢万事通\" No\none likes a know-it-all；接着给做法：别气恼，要充分倾听、理解对方角度 listen to their\nconcerns fully, try to understand their perspective。主旨是\"放低姿态、不自负、虚心听\n取他人\"。\n【依据】not know-it-all = humble\n本段反对当 know-it-all（万事通），主张 listen to their concerns fully, try to\nunderstand their perspective，这正是 Be humble（谦逊）的内涵：不自负、肯听别人。\n标题是对全段\"放低姿态\"主旨的同义概括。\n【竞争】[ E ] 倾听≠主动招反对\n段中 if people disagree with you, don't be indignant 谈到面对反对的态度，易让人联想\nInvite resistance。但本段讲的是\"别人反对时要谦虚倾听\"，落点是\"谦逊\"这种自我姿态，\n不是\"主动去邀请反对\"；E 把\"虚心对待异议\"偷换为\"主动招来异议\"，错在概括对象。\n【验证】把 Be humble 放回本段：从批评 argumentative, defensive, or close-minded 到主张\nlisten to their concerns fully，整段都在讲\"谦逊待人\"，覆盖全段主旨，与五步法各占一招\n的结构吻合。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-b/?f=p · 在线使⽤效果更好\n44. (44)____\n【答案】[ B ]\n通篇归纳\n【小标题】Respect the past.\n尊重过去。\n【主旨】肯定旧方案、尊重过去\n本段说新主意是旧主意的后代 New ideas are the grandchildren of old ones，劝你别贬\n低旧方案 don't throw old solutions under the bus to make your improvement stand\nout，要记得旧方案当年也是好主意，肯定先前的贡献能增强你新主意的可信度\nAppreciating the older contributions。主旨是\"尊重并肯定过去的做法\"。\n【依据】appreciate old = respect the past\n本段核心是 Appreciating the older contributions 和不要 throw old solutions under\nthe bus，即珍视过往做法，正是 Respect the past（尊重过去）的同义概括\n——\"old/older contributions\"对应\"past\"，\"appreciate/不贬低\"对应\"respect\"。\n【竞争】[ D ] 无\"时间/等待\"之意\nGive it time 的\"time\"会让人盯上段中 has failed to solve in recent memory 里的时间字\n眼。但本段没有\"耐心等待\"之意，那句只是说旧方案近来没解决问题；D 与\"尊重旧方案\"的\n主旨不搭，属话题对不上。\n【验证】把 Respect the past 放回本段：从 New ideas are the grandchildren of old ones 到\nAppreciating the older contributions，整段讲的都是\"尊重过去的方案\"，恰好概括全段、\n不偏窄不偏宽，与并列五步结构自洽。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-b/?f=p · 在线使⽤效果更好\n45. (45)____\n【答案】[ A ]\n段首\n【小标题】Stay positive.\n保持积极。\n【主旨】用正面语言而非负面语言\n段首立论：推介新主意要用\"丰盈的语言\"而非\"匮乏的语言\" use the language of\nabundance instead of the language of deficit；不说哪里坏，要说哪里对、可改、理想\ntalk about what is right, fixable, or ideal，最后落到 Be optimistic but realistic。主旨\n是\"用积极正面的措辞\"。\n【依据】abundance/optimistic = positive\n本段主张 the language of abundance、Be optimistic but realistic，强调正面乐观的\n措辞，正是 Stay positive（保持积极）的同义概括——\"abundance/optimistic/right\"都\n归到\"positive\"。\n【竞争】[ D ] 积极≠耐心等待\nGive it time 谈的是\"耐心、给时间\"，与本段毫无关联——本段从头到尾讲措辞要\noptimistic、正面，没有任何\"等待\"之意。D 是被剩下的冗余项，话题完全对不上。\n【验证】把 Stay positive 放回本段：从 use the language of abundance instead of the\nlanguage of deficit 到 Be optimistic but realistic，整段都在讲\"保持积极正面\"，覆盖全\n段主旨，与全文五步并列收尾一致。\nSYNOPSIS · 全文导图\n全文在讲什么、怎么组织的\n小标题匹配（7选5）先通读全文，把握话题与组织方式（ 总起 + 分点罗列 ），这是逐空\n判断「概括得对不对」的全局底图。\n如何让职场新建议被认真采纳的五步法\n全文是一篇\"总起 + 五个分点\"的指南。首段点题——光有好主意不够，How you share it is\nas important as the suggestion itself，并明确给出框架 follow these steps；其后每个空位\n段各讲让建议被采纳的一个具体做法，五个空各自承担一条独立步骤。\nCHOICES · 候选库画像\n共 个候选小标题各自在说什么\nA~G 7\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-b/?f=p · 在线使⽤效果更好\n小标题匹配的候选比空位多 2 个。下面逐条给出小标题全文、中译与「这条自身的关键\n词」，并标注它填入哪个空——始终填不进任何空的就是干扰项。\n[ A ] Stay positive.\n保持积极。\n关键词 积极、正面表达\n填入第 45 空\n[ B ] Respect the past.\n尊重过去。\n关键词 尊重过往、旧方案\n填入第 44 空\n[ C ] Use channels.\n善用渠道。\n关键词 走渠道、找人/找部门\n填入第 42 空\n[ D ] Give it time.\n给它时间。\n关键词 耐心、等待时间\n干扰项 · 未选用\n[ E ] Invite resistance.\n主动邀请反对意见。\n关键词 主动招来反对\n干扰项 · 未选用\n[ F ] Be a salesman.\n做个推销员。\n关键词 推销、反复兜售主意\n填入第 41 空\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-b/?f=p · 在线使⽤效果更好\n[ G ] Be humble.\n保持谦逊。\n关键词 谦逊、不自负\n填入第 43 空\nDISTRACTORS · 干扰项复盘\n这 个候选小标题始终没被任何空选用\n2\n7选5 必有 2 条话题相关、看着像，却概括不了任何 区间主旨 。下面逐条剖析它们「像在\n哪、为何放哪个空都不对」，读透干扰项才算读透全局。\n[ D ] Give it time.\n全文无\"耐心等待\"一段\nGive it time 谈\"给时间、要耐心\"，最易被误塞进第 5 段——因那段有 has failed to solve in\nrecent memory 这样的时间字眼。但该段主旨是\"尊重旧方案\"，全文五段没有任何一段在\n讲\"等待\"，D 概括不了任何一段，是冗余干扰项。\n[ E ] Invite resistance.\n\"承受批评\"被偷换成\"主动招反对\"\nInvite resistance（主动邀请反对）很诱人，因第 2 段有 stand up to scrutiny and criticism、\n第 4 段有 if people disagree with you，都涉及\"反对\"。但这两段分别讲\"推销时顶住质\n疑\"和\"谦虚听取异议\"，没有一段在\"主动去招来反对\"；E 把\"承受/虚心对待反对\"偷换为\"主动\n邀请反对\"，对不上任何一段主旨。\nSENTENCE INSIGHTS · 句子精讲\n句真题句逐层精讲\n18\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-b/?f=p · 在线使⽤效果更好\nEveryone wants to be that person—the one who looks at the same information as\neveryone else, but who sees a fresh, innovative solution.\n第1段，第1句\n破折号同位语加定语从句的组合在真题阅读中极其常见，具有很强的迁移学习价值。\nHowever, it takes more than simply having a good idea.\n第1段，第2句\n\"it takes\" 句型和 \"more than\" 比较结构都是四六级、考研阅读中的高频句式;动名词短语作宾语也\n是常考点;虽为简单句,但句式实用性强,掌握后可大量迁移到类似表达中。\nHow you share it is as important as the suggestion itself.\n第1段，第3句\n主语从句在四六级和考研阅读中频繁出现，尤其是由 How、What、Whether 等引导的主语从句常\n见于说理和论证文本；\"as...as\" 比较结构也是高频考点。本句结构简洁但典型，掌握后可迁移至大\n量类似句式，具有较高的学习复用价值。\nNot to mention, if the process you're scrapping is one someone else suggested,\nthere's the possibility of hurt feelings.\n第1段，第6句\n这种“If..., there is...”配合从句嵌套的结构在学术和职场写作中极其常见，具有很强的迁移价值。\nIn other words, you can't mention your suggestion once and expect it to be\nadopted.\n第3段，第2句\n情态动词加并列谓语的结构，以及\"expect + 宾语 + to do\"的复合宾语句型，都是四六级和考研英\n语中的高频句式。掌握本句结构后可迁移到大量类似表达，典型性较高。\nTo see a change, you'll need to champion your plan and sell its merits.\n第3段，第3句\n\"不定式作目的状语 + 主句\" 以及 \"need to do\" 结构都是四六级和考研阅读中的常见句式，具有一\n定代表性。不定式的并列用法也值得掌握。但本句缺少从句等更复杂的典型考点，迁移价值中等。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-b/?f=p · 在线使⽤效果更好\nIn addition, you need to be willing to stand up to scrutiny and criticism and be\nprepared to explain your innovation in different ways for various audiences.\n第3段，第4句\n主语 + 谓语 + 不定式宾语的结构是四六级和考研阅读中的高频句式；宾语部分的并列不定式、介\n词短语后置修饰等也是常考结构，学习后可迁移到大量类似句子\nSometimes it makes sense to go to your boss first.\n第5段，第1句\n形式主语 it + 谓语 + 不定式短语作真正主语是四六级和考研阅读中的高频句式,如 It is important\nto..., It seems necessary to... 等,掌握本句结构后可直接迁移至大量类似句子,典型性较高。\nBut other times, it's useful to build a coalition among your co-workers or other\nstakeholders.\n第5段，第2句\n\"it is + 形容词 + to do\" 是四六级和考研阅读中的高频句型，形式主语结构在学术和正式表达中大\n量出现，掌握后迁移性强。\nWhen it works, it works great—because you're ready for your stubborn\nsupervisor's pushback with answers like, \"Actually, I connected with a few people\nin our tech department to discuss how much time these kinds of website updates\nwould take, and they suggested they have the bandwidth.\"\n第5段，第3句\n本句成分丰富，涵盖主语、谓语、状语、宾语等核心成分，还包括介词短语作状语、宾语从句、不\n定式短语作目的状语等多种结构。特别是原因状语从句内部嵌套的多个宾语从句和并列谓语，能够\n训练学生识别复杂句中的成分层级和从属关系，具有较高的练习价值。\nOne of the biggest barriers to gaining buy-in occurs when the owner of an idea is\nviewed as argumentative, defensive, or close-minded.\n第7段，第1句\n\"when\" 引导的时间/条件状语从句和 \"be viewed as\" 被动结构都是四六级和考研阅读中的高频句\n式。主句的 \"One of + 名词复数\" 作主语也是典型用法。整体结构代表性强，掌握后可迁移到大量\n类似句子。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-b/?f=p · 在线使⽤效果更好\nInstead, listen to their concerns fully, try to understand their perspective, and\ninclude their concerns (and possible remedies) in future discussions.\n第7段，第4句\n成分划分训练价值中等偏上。本句覆盖主语省略、并列谓语、不定式作宾语、介词短语作宾语和状\n语、程度状语等多种成分，且并列结构中嵌套了不定式，需要学生区分哪些是并列谓语、哪些是非\n谓语。适合练习祈使句和并列结构的成分划分。\nSo, instead of saying, \"Martha, our current slogan is confusing and should be\nupdated,\" you could try, \"Martha raises a great point that our current slogan has a\nlong history for our stakeholders, but I wonder if we might be able to brainstorm a\ntagline that could build on that—and be clearer for new customers.\"\n第7段，第5句\n涵盖了状语、宾语从句、限制性定语从句（含同位语性质）、并列结构以及情态动词等多种核心语\n法点，是非常优质的综合分析练习句。\nIn other words, don't throw old solutions under the bus to make your\nimprovement stand out.\n第9段，第2句\n包含祈使句省略主语、习语状语\"under the bus\"、不定式目的状语、宾补结构\"make sth do\"等多种\n成分,有一定训练价值,但成分搭配相对常规,挑战性不强\nRemember that in light of whatever the problem the old system solved—or,\nmaybe, has failed to solve in recent memory—it was a great idea at the time.\n第9段，第3句\n四层嵌套:主句宾语从句内嵌 whatever 引导的从句,该从句又包含两个并列的定语从句(关系代词省\n略),且定语从句之间用破折号和插入语 maybe 分隔,层层咬合,归属关系需反复回读才能理清。\nWhen pitching a new idea, it's important to use the language of abundance instead\nof the language of deficit.\n第11段，第1句\n\"it is + 形容词 + to do\" 结构和 \"When + 分词\" 引导的时间状语从句都是四六级和考研阅读中的高\n频句式，具有较强的代表性。掌握这类结构后可以迁移到大量类似句型的理解中，实用价值高。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-b/?f=p · 在线使⽤效果更好\nInstead of saying what is wrong, broken, or suboptimal, talk about what is right,\nfixable, or ideal.\n第11段，第2句\n“Instead of ... , 动词原形 ...”和“动词或介词后接由‘what’引出的内容结构”都很常见，迁移性强。掌握\n这种读法后，遇到同类建议句、对照句和抽象表达句都能复用。\nFor example, try, \"I can see lots of applications for this new approach\" rather than,\n\"This innovation is the only way.\"\n第11段，第3句\n覆盖祈使句、宾语从句、情态动词、主系表结构等多种成分,且 try 后接完整句子作宾语的用法和\nrather than 引出对比宾语的结构具有一定练习价值,适合训练宾语从句和对比结构的识别\nHIGH-FREQUENCY · 真题高频词\n本篇出现的 个考研英语二真题高频词\n37\n下列单词既在本篇短文中出现，又是 考研英语二 历年真题的高频词（在该考试真题中出\n现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查看该\n词的释义、音标、词形与真题例句。\ninnovation B2 concern B1\nn. 创新;革新(指行为或过程) v. 涉及\n本篇3 次 · 真题 33 句 本篇2 次 · 真题 60 句\ngain B1 actually A2\nv. 获得;赢得 adv. 实际上，事实上（用于纠正或补充信息）\n本篇2 次 · 真题 43 句 本篇2 次 · 真题 42 句\ncurrent B1 solution B1\nadj. 现在的 n. 解决办法\n本篇2 次 · 真题 41 句 本篇2 次 · 真题 26 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-b/?f=p · 在线使⽤效果更好\nsolve A2 innovative B2\nv. 解决（问题、困难） adj. 创新的\n本篇2 次 · 真题 16 句 本篇2 次 · 真题 10 句\nsystem A2 view A2\nn. 系统 n. 观点，看法\n本篇1 次 · 真题 107 句 本篇1 次 · 真题 91 句\nprocess B1 customer A2\nn. 过程 n. 顾客，客户\n本篇1 次 · 真题 80 句 本篇1 次 · 真题 79 句\napproach B1 simply B1\nv. 靠近，接近（在空间或时间上） adv. 仅仅，只不过\n本篇1 次 · 真题 51 句 本篇1 次 · 真题 43 句\ntech B1 department A2\nn. 技术 n. 部门\n本篇1 次 · 真题 38 句 本篇1 次 · 真题 35 句\ncriticism B2 possibility B1\nn. 批评 n. 可能性\n本篇1 次 · 真题 27 句 本篇1 次 · 真题 25 句\nwilling B1 application B1\nadj. 愿意的，乐意的 n. 申请\n本篇1 次 · 真题 23 句 本篇1 次 · 真题 22 句\nideal B2 improvement B1\nadj. 理想的 n. 改进\n本篇1 次 · 真题 20 句 本篇1 次 · 真题 20 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-b/?f=p · 在线使⽤效果更好\nvarious B1 wrong A2\nadj. 各种各样的 adj. 错误的\n本篇1 次 · 真题 20 句 本篇1 次 · 真题 20 句\nfully B1 occur B1\nadv. 完全地 v. 发生，出现\n本篇1 次 · 真题 18 句 本篇1 次 · 真题 18 句\naudience A2 optimistic B2\nn. 观众 adj. 乐观的;抱乐观态度的\n本篇1 次 · 真题 16 句 本篇1 次 · 真题 16 句\ncontribution B2 perspective B2\nn. 贡献 n. 观点\n本篇1 次 · 真题 15 句 本篇1 次 · 真题 15 句\nadopt B1 disagree A2\nv. 采纳 v. 不同意\n本篇1 次 · 真题 14 句 本篇1 次 · 真题 14 句\nadapt B2 credibility C1\nv. 适应，适合（新环境、新情况） n. 可信度\n本篇1 次 · 真题 12 句 本篇1 次 · 真题 12 句\nseriously B1 addition A2\nadv. 严肃地 n. 增加\n本篇1 次 · 真题 10 句 本篇1 次 · 真题 9 句\nrealistic B2\nadj. 现实的\n本篇1 次 · 真题 8 句\nVOCABULARY · 词汇难度分布\n全文 词按 难度累积覆盖\n195 CEFR\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-b/?f=p · 在线使⽤效果更好\n带空原文去重后共 195 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」\n的累积占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 9 个 ·\n约 5%。\n48% 68% 87% 95% 100% 100%\nA1 A2 B1 B2 C1 C2\n及以下 及以下 及以下 及以下 及以下 及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为全文去重词 195 个 · 末柱为 100%\n去重总词数 B2 以上难词 B1 及以下覆盖\n195 5 87\n% %\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-b/?f=p · 在线使⽤效果更好\n考研英语二\n2025年 · 全卷构成\nSection I 完形填空（四选一） 题目解析 →\nSection II Part A (1) 阅读理解（四选一） 题目解析 →\nSection II Part A (2) 阅读理解（四选一） 题目解析 →\nSection II Part A (3) 阅读理解（四选一） 题目解析 →\nSection II Part A (4) 阅读理解（四选一） 题目解析 →\nSection II Part B 段落小标题（7选5） 本题\nSection III 英译汉（段落翻译） 题目解析 →\nSection IV Part A 写作 题目解析 →\nSection IV Part B 写作 题目解析 →\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section2-part-b/?f=p · 在线使⽤效果更好\n2025年考研英语二 英译汉（段落翻译） Section III · 参考译文与逐\n句解析\nPASSAGE & TRANSLATION · 题和解析\n英译汉真题、参考译文与逐句解析\n本页整篇参考译文与逐句解析由懒笔记基于2025年 考研英语二英译汉（段落翻译）原卷\n逐句译审整理。与试卷排版同一卷面：Directions 与整段英文原文连续排印——整段连\n排、无题号无划线，把它切成一句句翻译单元本身就是解题动作。卷面之后先给按段定稿\n的整篇参考译文，再按自切句序逐句拆分：意群直译、难点点破、语序调整、句内定稿中\n译，答案直显。\n英语二真题(2025)\nSection III\nDirections:\nTranslate the following text into Chinese. Write your translation on the ANSWER SHEET. (15 points)\nP1 You know the moment—the conversation slows, then there's a pause. It's awkward, and so\nawkward that some people will panic and say anything. Do we all find such silences so stressful?\nP2 Researchers analysed the frequency and impact of gaps greater than 2 seconds during\nconversations, including an overview of previous studies which indicate that the fear of awkward silences\ncan be so extreme that people avoid talking to strangers, even though doing so is likely to be an\nenjoyable experience.\nP3 During conversations with short gaps, people feel more connected to their conversation partners.\nBut such feelings of connection markedly dip when entering a long gap. Long gaps between strangers\nare likely to be followed by a change in topic.\nP4 But the opposite seems to be true for conversations between friends. Long gaps there saw\nincreased connection. Between friends, longer gaps seem to provide natural moments for reflection and\nexpression.\n参考译文\n按段定稿的整篇参考译文是复盘资产，考卷上只印英文原文——英语二英译汉满分 15 分，按「理解准确、表达通\n顺连贯、无错译漏译」整篇四档评分。\nP1 你一定遇到过这种情况——对话渐渐冷场，接着出现一阵停顿。这种停顿让人很尴尬，尴尬得\n有人会一下慌了神，随口乱说点什么。可是，我们真的都觉得这种沉默那么让人难受吗？\nP2 围绕这一问题，研究者分析了对话中超过 2 秒的停顿出现的频率和造成的影响，其中还包括对\n此前研究的综述：这些研究表明，人们对尴尬沉默的害怕可能极端到让他们干脆回避和陌生人交谈，\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section3/?f=p · 在线使⽤效果更好\n尽管和陌生人聊聊往往会是一段愉快的体验。\nP3 研究发现，在停顿较短的对话中，人们会觉得自己与对话对方更亲近。但是，一旦对话进入较\n长的停顿，这种亲近感就会明显减弱。陌生人之间一旦出现较长的停顿，接下来往往就会换个话题。\nP4 但在朋友之间的对话里，情况似乎正好相反——长停顿反而带来了更强的亲近感。在朋友之\n间，较长的停顿反而成了一种自然的契机，让彼此沉下来思考，也把想说的话表达出来。\n【衔接】P1 段末设问与 P2 研究介绍之间补「围绕这个问题」过渡\nDo we all find such silences so stressful? 是 P1 段尾的设问，Researchers analysed the\nfrequency and impact of gaps greater than 2 seconds during conversations 直接给出研究。\n两段之间是「问题—研究」逻辑，单纯按原顺序拼会显得突兀。建议把第 4 句开头处理成「围绕这\n个问题 / 对此，研究者……」之类的小过渡，让段间逻辑显化。\nP2 句末让步从句末尾承接 P3 转折\neven though doing so is likely to be an enjoyable experience 与 During conversations with\nshort gaps, people feel more connected to their conversation partners. 之间没有显性连接\n词。处理时在 P3 开头点出「研究结果显示 / 研究发现」之类的承上，让读者明白下面三句是研究\n的具体结论。\nP3 内部第 5、6 句之间靠「但是」对比\nDuring conversations with short gaps, people feel more connected to their conversation\npartners. 与 But such feelings of connection markedly dip when entering a long gap. 是\n「短停顿→更亲近」与「长停顿→骤减」对比，But 翻成「但是 / 然而」即可显化。同时 such\nfeelings of connection 要回指上句的「亲近感」，避免重复名词，用「这种亲近感」承接。\nP3→P4 用「但 / 反过来」承接 the opposite\nBut the opposite seems to be true for conversations between friends. 中的 the opposite 跨\n段回指 P3 的整段结论。汉译时建议在段首点出「但在朋友之间 / 反过来，朋友之间……」让对比关\n系一眼可见。\nP4 内部第 8、9 句承接 there\nLong gaps there saw increased connection. 的 there 指代上一句 conversations between\nfriends。中文里去掉 there 直译，把第 9 句的主语换成「这种长停顿」或并入上一句作为补充：\n「但在朋友之间的对话里，情况似乎正好相反——长停顿反而让人感觉更亲近」，避免「那里 / 这\n里」让读者困惑。\nP4 第 9、10 句之间补「具体来说 / 因为」\nLong gaps there saw increased connection. Between friends, longer gaps seem to provide\nnatural moments for reflection and expression. 第 9 句是结论、第 10 句是解释。汉语可在第\n10 句前补「具体来说 / 这是因为」之类，把因果关系显化，比纯并列罗列流畅。\n逐句解析\n整段连排、无题号无划线——把原文切成一句句翻译单元本身就是解题动作，句前 N. 为逐句解析自切的句序号\n（非考卷题号），与卷面原文逐字对应。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section3/?f=p · 在线使⽤效果更好\n【来源】本文选自 Science Illustrated 澳大利亚版（《科学画刊》）2023年4月6日刊一篇标题为\n“Why do we panic in silences during conversations?”（《为什么对话冷场时我们会慌\n张？》）的文章（杂志问答体，未署名）。\n【主旨】对话中长时间沉默的影响因人而异\n全文围绕对话中超过 2 秒的「尴尬沉默」展开：开篇用 the conversation slows, then there's a\npause. It's awkward 把读者拉进熟悉场景并抛出问题 Do we all find such silences so\nstressful?；随后 P2 介绍研究背景，P3 与 P4 给出对比性结论——陌生人之间的长沉默会削弱连\n接感，而朋友之间的长沉默 seems to provide natural moments for reflection and\nexpression。基调中立偏研究性，作者并不一味贬低沉默。\n【术语】silence / gap / pause 统一译作「沉默 / 停顿」\n原文交替使用 silences、gaps greater than 2 seconds、a pause、short gaps、Long gaps 指\n同一现象。为避免一会儿「空隙」、一会儿「停顿」、一会儿「沉默」，全文统一：\npause/silence 译「停顿/沉默」，gap 译「停顿」，并按上下文判断长短。\nsuch silences 回指开篇场景\nDo we all find such silences so stressful? 中的 such silences 不是泛指任何沉默，而是回指上一\n句描述的「对话变慢→停顿→尴尬」那种沉默，翻译时要把这层「上文那种」翻出来，不能简单译\n作「这种沉默」。\ndoing so 回指 talking to strangers\npeople avoid talking to strangers, even though doing so is likely to be an enjoyable\nexperience 中的 doing so 指代前面的 talking to strangers，译时要把它还原为「与陌生人交\n谈」或「这样做」，否则中文读者搞不清「so」指啥。\nsuch feelings of connection 回指上句\nBut such feelings of connection markedly dip when entering a long gap 中的 such feelings\nof connection 指上一句 people feel more connected to their conversation partners 所说的\n那种连接感，译时需明确为「这种连接感」。\nthe opposite / Long gaps there 跨段回指\nBut the opposite seems to be true for conversations between friends 的 the opposite 指上\n一段陌生人之间「沉默会让连接感骤降」这一结论；紧接的 Long gaps there saw increased\nconnection 中的 there 指 in conversations between friends。这两处都要回到 P3 才能译准。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section3/?f=p · 在线使⽤效果更好\n1. You know the moment—the conversation slows, then there's a pause.\n【意群】You know the moment—the conversation slows,（主干「主谓宾」+ 破折号后同位语前半）★采分\n→你知道那个时刻——对话慢下来，\n难点：the moment 不是「时刻」而是「那种情境」\nYou know the moment 在口语化开篇中等同于「你懂的，就是那种情况」，moment 在这里\n指「场景/瞬间」。若硬译成「你知道这个时刻」会显得机械。可处理为「你一定遇到过这种情\n况」「你懂的，就是那种场景」。破折号在 the moment—the conversation slows 中相当于\n冒号，引出对前一名词的解释，译时可保留破折号或换成「——也就是」。\nthen there's a pause.（破折号后同位语后半（then 引导的并列分句））★采分→然后出现一阵\n停顿。\n难点：there's a pause 译「出现停顿 / 冷场」\nthen there's a pause 的 there's 是「存现句」，不译「那里有」。结合上文「对话慢下来」，\n可译「接着冷场了 / 接着出现一阵停顿」。a pause 这里就是后文 silences / gaps 的同义替\n换，统一译「停顿」即可。\n【调序】破折号保留 + 两个并列分句顺译\n英文 You know the moment—the conversation slows, then there's a pause. 用破折号引出说\n明，汉语可以原样保留破折号，也可以换成「：也就是」让逻辑更显。后面 the conversation\nslows 和 then there's a pause 是两个连续动作，按原顺序顺译即可：「对话渐渐冷场，接着出现\n一阵停顿」。\n【译文】你一定遇到过这种情况——对话渐渐冷场，接着出现一阵停顿。\n2. It's awkward, and so awkward that some people will panic and say anything.\n【意群】It's awkward,（主干 1：主系表）→它很尴尬，\nand so awkward that some people will panic and say anything.（主干 2 + so...that 结果状语从\n句）★采分→并且如此尴尬以至于一些人会惊慌然后说出任何话。\n难点：so...that 不是「如此……以至于」生硬照搬\nso awkward that some people will panic and say anything 是典型 so + 形容词 + that 结果\n状语从句。汉语里直接说「如此尴尬以至于」很翻译腔，可以拆成两句：「尴尬到让人慌、随口\n乱说」「尴尬得有人会一慌，什么话都往外蹦」。此外 say anything 不是「说任何话」，而是\n「随便说点什么、想到什么说什么」。\n【调序】so...that 拆成两小句，用「……得 + 结果」\n把 It's awkward, and so awkward that some people will panic and say anything. 重组为「这\n种停顿让人很尴尬，尴尬得有人会一下慌了神，随口乱说点什么」——「尴尬」前递进、「尴尬\n得」引出后果，比照搬「如此……以至于」自然得多。\n【译文】这种停顿让人很尴尬，尴尬得有人会一下慌了神，随口乱说点什么。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section3/?f=p · 在线使⽤效果更好\n3. Do we all find such silences so stressful?\n【意群】Do we all find（一般疑问句主干「主谓」）→我们所有人都觉得\nsuch silences（find 的宾语）★采分→这种沉默\n难点：such silences = 上文那种尴尬沉默\nsuch silences 的 such 指代前两句描述的「对话冷场→停顿→尴尬」的那种沉默，不是泛泛的\n「这种沉默」。译时建议写「这种沉默」或「这样的沉默」，并依托上下文让读者自然明白指的\n是哪一种。\nso stressful?（宾语补足语 + 程度副词）★采分→如此有压力？\n难点：stressful 译「让人紧张 / 难受」更地道\nstressful 直译「有压力的」过于书面。本句语境是日常对话尴尬，译「让人紧张」「让人难受」\n「让人不自在」更贴合口语开篇。\n【调序】保留疑问句、把宾补 stressful 直接归位\nDo we all find such silences so stressful? 是一般疑问句，汉语直接译成「我们真的都觉得这种\n沉默如此让人难受吗？」即可，find...so stressful 在汉语里译成「觉得……让人难受」，宾补\nstressful 自然落到宾语后。\n【译文】可是，我们真的都觉得这种沉默那么让人难受吗？\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section3/?f=p · 在线使⽤效果更好\n4. Researchers analysed the frequency and impact of gaps greater than 2 seconds during\nconversations, including an overview of previous studies which indicate that the fear of awkward\nsilences can be so extreme that people avoid talking to strangers, even though doing so is likely to\nbe an enjoyable experience.\n【意群】Researchers analysed the frequency and impact of gaps greater than 2 seconds during\nconversations,（主句：主谓宾）★采分→研究者分析了对话中超过 2 秒的停顿的频率和影响，\n难点：gaps greater than 2 seconds 是后置定语\ngreater than 2 seconds 是形容词短语作 gaps 的后置定语，等于 gaps that are greater than\n2 seconds。汉语里要前置成「超过 2 秒的停顿」。同样 during conversations 是介词短语作\n状语，要提到「停顿」前译成「对话中（的）」。\nincluding an overview of previous studies（现在分词短语作伴随状语）★采分→包括对此前研究\n的综述\n难点：including 表「并且包括」而非另起一句\nincluding an overview of previous studies 的 including 是分词短语，承接主句继续补充「这\n项分析里还包括什么」。可译成「其中还包括 / 并对……做了综述」，让它顺着主句往下读，而\n不是另起一句翻成「包括……」。\nwhich indicate that the fear of awkward silences can be so extreme（which 引导的定语从句修饰\nprevious studies + so...that 结果从句前半）★采分→这些研究表明对尴尬沉默的恐惧可以如此\n极端\n难点：which 指代 previous studies，不是 overview\nprevious studies which indicate that… 中 which 的先行词是 previous studies（动词\nindicate 用复数形可佐证），不是 overview。翻译时要把「这些此前的研究表明……」交代清\n楚，避免误为「综述表明」。另外，the fear of awkward silences 是「名词+of+名词」结构，\n可处理成动宾「害怕尴尬沉默」，比硬译「对尴尬沉默的恐惧」自然。\nthat people avoid talking to strangers,（so...that 结果从句的后半（that 引导））★采分→以至于\n人们避免和陌生人交谈，\n难点：嵌套：so extreme that = 极端到……以至于\nso extreme that people avoid talking to strangers 是嵌在 which 从句里的 so...that 结果状\n语从句。要把「程度」和「后果」分开译：先说「这种害怕极端到……」，再接「以至于人们不\n愿和陌生人说话」。\neven though doing so is likely to be an enjoyable experience.（even though 让步状语从句）★采\n分→尽管这样做很可能是一种愉快的经历。\n难点：doing so 回指 talking to strangers\neven though doing so is likely to be an enjoyable experience 中 doing so 指上一分句的\ntalking to strangers。建议在中文里直接还原成「与陌生人交谈」，或写「事实上这样做」，避\n免读者搞不懂「这样」指什么。an enjoyable experience 是抽象名词短语，可具体化成「一段\n愉快的体验 / 一件愉快的事」。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section3/?f=p · 在线使⽤效果更好\n【调序】三处后置成分都前移：定语前置、状语前置、让步从句各自成段\n本句需要四处调序：① gaps greater than 2 seconds during conversations：把「超过 2 秒」与\n「对话中」都提到「停顿」前 →「对话中超过 2 秒的停顿」；② previous studies which\nindicate that…：which 从句较长，不前置硬塞成「……的研究」，改为「这些研究表明……」另起\n一句；③ so extreme that…：用「……极端到……以至于……」分两小句；④ even though doing\nso is likely to be an enjoyable experience：even though 让步从句放到主句后，用「尽管 / 其\n实」连接。\n【译文】研究者分析了对话中超过 2 秒的停顿出现的频率和造成的影响，其中还包括对此前研\n究的综述：这些研究表明，人们对尴尬沉默的害怕可能极端到让他们干脆回避和陌生\n人交谈，尽管和陌生人聊聊往往会是一段愉快的体验。\n5. During conversations with short gaps, people feel more connected to their conversation partners.\n【意群】During conversations with short gaps,（时间状语 + 介词短语作定语）★采分→在停顿较短的对\n话中，\n难点：with short gaps 是 conversations 的后置定语\nconversations with short gaps 中 with short gaps 修饰 conversations，等于\nconversations that have short gaps。译时要把它前置成「停顿较短的对话」或「停顿短的那\n种对话」，不能译成「与短停顿一起的对话」。\npeople feel more connected to their conversation partners.（主干「主+系+表」）★采分→人们\n感到与他们的对话伙伴更连接。\n难点：feel connected to 的地道译法\nfeel connected to 不能字字对应翻成「感觉与……连接」。本处指「与对话对象更亲近 / 更有共\n鸣 / 更有连接感」。more 是与「停顿长的对话」相比的比较级，要把「更」译出来。\n【调序】状语已在句首，按汉语习惯直接保留\n汉语本就习惯「时间/条件状语在前，主句在后」，所以 During conversations with short gaps,\npeople feel more connected 不需调序，原样译成「在停顿较短的对话中，人们感觉与对话对方\n更亲近」。\n【译文】在停顿较短的对话中，人们会觉得自己与对话对方更亲近。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section3/?f=p · 在线使⽤效果更好\n6. But such feelings of connection markedly dip when entering a long gap.\n【意群】But such feelings of connection（主语 + 回指限定）★采分→但是这种连接的感觉\n难点：such feelings of connection 回指上一句\nsuch feelings of connection 的 such 回指上一句的 people feel more connected to their\nconversation partners，即「上面那种亲近感 / 连接感」。译时建议译「这种亲近感」「这种\n连接感」，并依托上下文让读者明白是上句那种。\nmarkedly dip（状语 + 谓语）★采分→明显地下降\n难点：dip 是熟词僻义「下降、下跌」\ndip 常见义是「浸 / 蘸」，本句 markedly dip 取「下降、下跌」义，是熟词僻义。考研英语二\n经常考这种熟词僻义，看到直译「浸」讲不通时，要立刻怀疑是否有另一层意思——本处译「明\n显下降 / 骤减 / 明显减弱」皆可。markedly 是副词，译「明显地」。\nwhen entering a long gap.（when 引导的时间状语从句（省略主语，分词形式））★采分→当进入一\n个长停顿时。\n难点：when + 分词省略，主语承前\nwhen entering a long gap 是 when (they are) entering a long gap 的省略，主语 they 承前\n指 people 或对话双方。译时不必硬翻「当进入……时」，可活译为「一旦出现长停顿时 / 进入\n长沉默时」，把抽象的 entering a long gap 还原成「对话中出现长停顿」更清楚。\n【调序】时间状语提前，主谓后置\nBut such feelings of connection markedly dip when entering a long gap. 汉语习惯先讲条件 /\n时间，再讲结果，所以把 when 状语提到主句前，译成「但是，一旦对话进入长时间停顿，这种连\n接感就会明显减弱」。\n【译文】但是，一旦对话进入较长的停顿，这种亲近感就会明显减弱。\n7. Long gaps between strangers are likely to be followed by a change in topic.\n【意群】Long gaps between strangers（主语 + 介词短语作后置定语）★采分→陌生人之间的长停顿\n难点：between strangers 是后置定语\nLong gaps between strangers 中 between strangers 修饰 Long gaps。译时把它前置成「陌\n生人之间的长停顿」或「陌生人对话中的长停顿」。\nare likely to be followed by a change in topic.（系表 + 被动结构 + 介词短语）★采分→很可能被\n一个话题的改变所跟随。\n难点：被动 + be followed by 须转主动\nare likely to be followed by a change in topic 是被动语态。汉语很少说「被……跟随」，应转\n主动：「往往会引出 / 之后通常就会出现话题的转变 / 紧接着便是换话题」。a change in topic\n是抽象名词短语，建议具体化为「换话题 / 话题转变」。\n【调序】被动转主动 + 后置定语前置\nLong gaps between strangers are likely to be followed by a change in topic. 中：①\nbetween strangers 前置成「陌生人之间的」；② are followed by 由被动转主动「之后往往\n会出现」「紧接着便是」。组合译文：「陌生人之间一旦出现长时间停顿，接下来往往就会换个\n话题」。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section3/?f=p · 在线使⽤效果更好\n【译文】陌生人之间一旦出现较长的停顿，接下来往往就会换个话题。\n8. But the opposite seems to be true for conversations between friends.\n【意群】But the opposite seems to be true（主谓系表）★采分→但是相反的情况似乎是真的\n难点：the opposite 回指上段的结论\nthe opposite 指 P3 段的结论——「长停顿会让陌生人之间的连接感骤减 / 引出换话题」。译时\n要把「相反」对接到上段内容，可写「相反的情况 / 情况则正好相反」，再依托下文自然衔接。\nfor conversations between friends.（介词短语作状语 + between 后置定语）★采分→对于朋友之\n间的对话来说。\n难点：between friends 后置定语前置\nconversations between friends 中 between friends 是 conversations 的后置定语，要前置成\n「朋友之间的对话」。介词短语 for... 整体作状语，汉译可前置成「就……来说 / 对……而言」。\n【调序】状语前置：先讲「朋友之间」，再讲「相反」\n把 for conversations between friends 提前，译成「但在朋友之间的对话里，情况似乎正好相\n反」。这样既符合汉语「先背景后结论」语序，也让上下段对比关系更明显。\n【译文】但在朋友之间的对话里，情况似乎正好相反。\n9. Long gaps there saw increased connection.\n【意群】Long gaps there（主语 + 副词作后置定语）★采分→那里的长停顿\n难点：there 指代「朋友之间的对话」\nLong gaps there 中 there 不是「那里 / 那边」，而是回指上一句 conversations between\nfriends，可还原成「朋友间对话中的长停顿」。考研英语二里 there / here 常作回指副词，必\n须先看清它指什么。\nsaw increased connection.（谓语 + 宾语）★采分→看到了增强的连接。\n难点：saw 是拟人化「见证 / 伴随」用法\nsaw increased connection 中 saw 直译「看见」不通——这里 see 是「（某一时期/某种情\n境）见证、伴随、出现」的拟人化用法，常见搭配如 the year saw rapid growth = 那一年出现\n了快速增长。本句应译为「反而带来了 / 伴随的是 / 反倒让……更强」。increased connection\n是「过去分词作定语 + 抽象名词」，可具体化为「连接感反而增强了 / 反而更亲近了」。\n【调序】「saw + 名词」改写成主动动词短语\n把 Long gaps there saw increased connection. 重组为「朋友间对话中的长停顿，反而让人感觉\n更亲近 / 反而带来了更强的连接感」。saw 转主动「带来 / 让……」，increased 由形容词转动词\n「增强」。\n【译文】在朋友之间，长停顿反而带来了更强的亲近感。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section3/?f=p · 在线使⽤效果更好\n10. Between friends, longer gaps seem to provide natural moments for reflection and expression.\n【意群】Between friends,（介词短语作状语）→在朋友之间，\nlonger gaps seem to provide natural moments（主谓宾）★采分→较长的停顿似乎提供自然的\n时刻\n难点：provide natural moments 抽象短语具体化\nprovide natural moments for reflection and expression 直译「提供自然的时刻」非常生硬。\n可把 natural moments 还原成「自然契机 / 自然窗口 / 自然空档」，把 provide 改成「成为 /\n留出 / 创造」，让译文更地道。\nfor reflection and expression.（介词短语作定语，修饰 moments）★采分→用于反思和表达。\n难点：for + 抽象名词 → 用「让人……」分句\nfor reflection and expression 是 moments 的后置定语，介词 for 表「用途」。reflection 和\nexpression 都是抽象动作名词，建议动化译成「让人沉下来思考、把想说的话说出来 / 让彼此\n反思和表达」。\n【调序】后置定语 for... 拆成「让人……」分句\n把 longer gaps seem to provide natural moments for reflection and expression 中的 for\nreflection and expression 由后置定语改写为汉语后半分句：「（较长的）停顿反而成了让彼此沉\n下来思考、自然表达想法的契机」，比硬译「提供用于反思和表达的自然时刻」自然得多。\n【译文】在朋友之间，较长的停顿反而成了一种自然的契机，让彼此沉下来思考，也把想说的\n话表达出来。\nSENTENCE INSIGHTS · 句子精讲\n句真题句逐层精讲\n4\n下列真题句各有独立的句子解析页——中文翻译、结构树逐层拆解、成分与时态、考点讲\n解与真题高频词。点击句子进入完整解析。\nYou know the moment—the conversation slows, then there's a pause.\n第1段，第1句\n涵盖主谓宾基本成分、\"there be\"存在句主语后置、同位语分句与破折号的配合使用，成分种类较\n丰富；同位语分句对\"the moment\"的解释方式（无连词、直接用破折号引出）是易混淆点，有一\n定练习价值，但整体难度不高。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section3/?f=p · 在线使⽤效果更好\nIt's awkward, and so awkward that some people will panic and say anything.\n第1段，第2句\n\"so...that...\" 结果状语从句是四六级和考研阅读、写作中的高频句式，并列谓语和将来时表达也常\n见；掌握后可迁移到大量类似句子，代表性较强。\nResearchers analysed the frequency and impact of gaps greater than 2 seconds\nduring conversations, including an overview of previous studies which indicate\nthat the fear of awkward silences can be so extreme that people avoid talking to\nstrangers, even though doing so is likely to be an enjoyable experience.\n第2段，第1句\n这句话主干不算最难，但从句层级清楚、连接标志典型，且同时覆盖结果和让步两种重要状语结\n构。作为结构和时态综合训练材料，投入产出比较高，值得优先练习。\nLong gaps between strangers are likely to be followed by a change in topic.\n第3段，第3句\n\"be likely to be done\" 这一\"系动词 + 形容词 + 不定式被动\"结构在四六级、考研阅读中频繁出现，\n常用于表达可能性或趋势。主语包含介词短语作后置定语也是常见句式。掌握本句结构后，可迁移\n到大量类似表达（如 be unlikely to、be certain to、be expected to 等）。结构典型性较高。\nHIGH-FREQUENCY · 真题高频词\n本篇出现的 个考研英语二真题高频词\n11\n下列单词既在本篇英文原文中出现，又是 考研英语二 历年真题的高频词（在该考试真题\n中出现的句子数均不少于 8）。每个词标注本篇 出现次数与该考试真题句频，点击可查\n看该词的释义、音标、词形与真题例句。\ngap B1 likely A2\nn. 间隙 adj. 很可能的\n本篇6 次 · 真题 45 句 本篇2 次 · 真题 89 句\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section3/?f=p · 在线使⽤效果更好\nconnection B1 researcher B2\nn. 联系 n. 研究人员\n本篇2 次 · 真题 24 句 本篇1 次 · 真题 112 句\nimpact B2 previous B1\nn. 影响 adj. 先前的\n本篇1 次 · 真题 53 句 本篇1 次 · 真题 24 句\nindicate B2 expression B1\nv. 表明 n. 表达\n本篇1 次 · 真题 23 句 本篇1 次 · 真题 22 句\npartner B1 extreme B2\nn. 伴侣 adj. 极度的\n本篇1 次 · 真题 12 句 本篇1 次 · 真题 11 句\nincreased A2\nv. 增加了\n本篇1 次 · 真题 11 句\nVOCABULARY · 词汇难度分布\n英文原文 词按 难度累积覆盖\n67 CEFR\n英文原文去重后共 67 个单词，按欧框 CEFR 等级统计。每根柱表示「该等级及以下」\n的累积占比（CDF），最右一柱为 100%。B2 以上（C1/C2）为高阶词，本篇共 0 个 ·\n约 0%。\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section3/?f=p · 在线使⽤效果更好\n45% 75% 90% 100% 100% 100%\nA1 A2 B1 B2 C1 C2\n及以下 及以下 及以下 及以下 及以下 及以下\n每柱为「按 CEFR 等级及以下」的累积覆盖率（CDF）· 数据为英文原文去重词 67 个 · 末柱为 100%\n去重总词数 B2 以上难词 B1 及以下覆盖\n67 0 90\n% %\n考研英语二\n2025年 · 全卷构成\nSection I 完形填空（四选一） 题目解析 →\nSection II Part A (1) 阅读理解（四选一） 题目解析 →\nSection II Part A (2) 阅读理解（四选一） 题目解析 →\nSection II Part A (3) 阅读理解（四选一） 题目解析 →\nSection II Part A (4) 阅读理解（四选一） 题目解析 →\nSection II Part B 段落小标题（7选5） 题目解析 →\nSection III 英译汉（段落翻译） 本题\nSection IV Part A 写作 题目解析 →\nSection IV Part B 写作 题目解析 →\n懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2025-english-two/section3/?f=p · 在线使⽤效果更好\n2025年考研英语二写作（小作文） · 题目、范文与解析\nPROMPT & MODEL ESSAY · 写作题和范文\n写作题和范文\n本页写作题面、参考范文与逐段解析由懒笔记基于2025年 考研英语二写作原卷整理。与\n试卷排版同一卷面：完整写作要求（Directions，含主题、文体、词数与署名约束）连续\n排印。写作是生产性任务、无 ABCD 标准答案——题面即整道题；卷面下方直接给出满\n足全部硬约束的参考范文、整篇中译与逐段拆解。\n英语二真题(2025)\nSection IV Part A\nDirections:\nSuppose you are planning a short play based on a classic Chinese novel. Write your friend John an\nemail to\n1) introduce the play, and\n2) invite him to take part in it.\nWrite your answer in about 100 words on the ANSWER SHEET.\nDo not use your own name in your email; Use “Li Ming” instead. (10 points)",
+      "sample": "写作无唯一标准答案，以下为达标示范\nDear John,\nI hope this email finds you well. I am now planning a short play based on the classic Chinese novel Journey to\nthe West, and I want to tell you about it. The play retells how the Monkey King protects his master on the\njourney west, showing courage and loyalty.\nI am writing to invite you to take part in it. With your rich stage experience, you would be perfect for the role\nof the Monkey King. We will start rehearsing next week. Could you please reply and let me know whether you\ncan join us?\nLooking forward to your reply. Yours, Li Ming"
+    }
+  }
 }

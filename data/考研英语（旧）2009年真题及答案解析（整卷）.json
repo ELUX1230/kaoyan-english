@@ -2,14 +2,13 @@
   "title": "考研英语（旧）2009年真题及答案解析（整卷）",
   "paragraphs": [
     {
-      "paragraph_id": "p1",
-      "label": "Paragraph 1",
+      "paragraph_id": "p_1",
+      "label": "Paragraph 1 (P1)",
       "sentences": [
         {
-          "id": "s1_1",
+          "id": "s_1",
           "text": "Habits are a funny thing.",
           "translation": "习惯是一种有趣的东西。我们不假思索地依赖习惯,让大脑进入自动驾驶模式,放松地沉浸在熟悉惯例带来的无意识舒适中。19世纪William Wordsworth说过:\"支配不加思考的群体的不是选择,而是习惯。\"在瞬息万变的21世纪,即使\"习惯\"这个词本身也带有负面含义。",
-          "analysis": {},
           "tokens": [
             {
               "word": "Habits",
@@ -56,10 +55,9 @@
           ]
         },
         {
-          "id": "s1_2",
+          "id": "s_2",
           "text": "We reach for them mindlessly, setting our brains on auto-pilot and relaxing into the unconscious comfort of familiar routine.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "We",
@@ -225,10 +223,9 @@
           ]
         },
         {
-          "id": "s1_3",
+          "id": "s_3",
           "text": "\"Not choice, but habit rules the unreflecting herd,\" William Wordsworth said in the 19th century.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "\"",
@@ -373,10 +370,9 @@
           ]
         },
         {
-          "id": "s1_4",
+          "id": "s_4",
           "text": "In the ever-changing 21st century, even the word \"habit\" carries a negative implication.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "In",
@@ -516,14 +512,13 @@
       ]
     },
     {
-      "paragraph_id": "p2",
-      "label": "Paragraph 2",
+      "paragraph_id": "p_2",
+      "label": "Paragraph 2 (P2)",
       "sentences": [
         {
-          "id": "s2_1",
+          "id": "s_1",
           "text": "So it seems paradoxical to talk about habits in the same context as creativity and innovation.",
           "translation": "因此,在创造力和创新的语境下谈论习惯似乎自相矛盾。但大脑研究人员发现,当我们有意识地培养新习惯时,我们创造了平行路径,甚至创造了全新的脑细胞,这些可以让我们的思维列车跳上新的、创新的轨道。",
-          "analysis": {},
           "tokens": [
             {
               "word": "So",
@@ -647,10 +642,9 @@
           ]
         },
         {
-          "id": "s2_2",
+          "id": "s_2",
           "text": "But brain researchers have discovered that when we consciously develop new habits, we create parallel paths, and even entirely new brain cells, that can jump our trains of thought onto new, innovative tracks.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "But",
@@ -923,14 +917,446 @@
       ]
     },
     {
-      "paragraph_id": "p4",
-      "label": "Paragraph 4",
+      "paragraph_id": "p_3",
+      "label": "Paragraph 3 (P3)",
       "sentences": [
         {
-          "id": "s4_1",
+          "id": "s_1",
+          "text": "Rather than dismissing ourselves as unchangeable creatures of habit, we can instead direct our own change by consciously developing new habits.",
+          "translation": "我们可以通过有意识地培养新习惯来主动引导自身改变,而不是将自己视为无法改变的习惯性生物。事实上,我们尝试的新事物越多——我们越多地走出舒适区——我们在工作场所和个人生活中就会变得越具有内在创造力。懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2009/section2-part-a-1/?f=p · 在线使⽤效果更好",
+          "tokens": [
+            {
+              "word": "Rather",
+              "lemma": "rather",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "than",
+              "lemma": "than",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "dismissing",
+              "lemma": "dismiss",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "ourselves",
+              "lemma": "ourselves",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "as",
+              "lemma": "as",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "unchangeable",
+              "lemma": "unchangeable",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "creatures",
+              "lemma": "creature",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "habit",
+              "lemma": "habit",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "we",
+              "lemma": "we",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "can",
+              "lemma": "can",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "instead",
+              "lemma": "instead",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "direct",
+              "lemma": "direct",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "our",
+              "lemma": "our",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "own",
+              "lemma": "own",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "change",
+              "lemma": "change",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "by",
+              "lemma": "by",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "consciously",
+              "lemma": "consciously",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "developing",
+              "lemma": "develop",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "new",
+              "lemma": "new",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "habits",
+              "lemma": "habit",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_2",
+          "text": "In fact, the more new things we try – the more we step outside our comfort zone – the more inherently creative we become, both in the workplace and in our personal lives.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "In",
+              "lemma": "in",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "fact",
+              "lemma": "fact",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "more",
+              "lemma": "more",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "new",
+              "lemma": "new",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "things",
+              "lemma": "thing",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "we",
+              "lemma": "we",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "try",
+              "lemma": "try",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "more",
+              "lemma": "more",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "we",
+              "lemma": "we",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "step",
+              "lemma": "step",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "outside",
+              "lemma": "outside",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "our",
+              "lemma": "our",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "comfort",
+              "lemma": "comfort",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "zone",
+              "lemma": "zone",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "more",
+              "lemma": "more",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "inherently",
+              "lemma": "inherently",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "creative",
+              "lemma": "creative",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "we",
+              "lemma": "we",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "become",
+              "lemma": "become",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "both",
+              "lemma": "both",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "in",
+              "lemma": "in",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "workplace",
+              "lemma": "workplace",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "and",
+              "lemma": "and",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "in",
+              "lemma": "in",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "our",
+              "lemma": "our",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "personal",
+              "lemma": "personal",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "lives",
+              "lemma": "life",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p_4",
+      "label": "Paragraph 4 (P4)",
+      "sentences": [
+        {
+          "id": "s_1",
           "text": "But don't bother trying to kill off old habits; once those ruts of procedure are worn into the brain, they're there to stay.",
           "translation": "但不要费力去消除旧习惯;一旦那些程序化的惯性轨迹在大脑中形成,它们就会一直存在。相反,我们刻意植入自身的新习惯会创造出可以绕过那些旧路径的平行通道。",
-          "analysis": {},
           "tokens": [
             {
               "word": "But",
@@ -1131,10 +1557,9 @@
           ]
         },
         {
-          "id": "s4_2",
+          "id": "s_2",
           "text": "Instead, the new habits we deliberately press into ourselves create parallel pathways that can bypass those old roads.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Instead",
@@ -1281,14 +1706,921 @@
       ]
     },
     {
-      "paragraph_id": "p4",
-      "label": "Paragraph 4",
+      "paragraph_id": "p_5",
+      "label": "Paragraph 5 (P2)",
       "sentences": [
         {
-          "id": "s4_1",
+          "id": "s_1",
+          "text": "More than 60,000 people have purchased the PTKs since they first became available without prescriptions last year, according to Doug Fogg, chief operating officer of Identigene, which makes the over-the-counter kits.",
+          "translation": "据生产这种非处方检测包的Identigene公司首席运营官Doug Fogg称，自去年这些PTK首次无需处方即可购买以来，已有超过6万人购买。超过二十多家公司直接向公众销售DNA检测，价格从几百美元到超过2500美元不等。",
+          "tokens": [
+            {
+              "word": "More",
+              "lemma": "More",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "than",
+              "lemma": "than",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "60,000",
+              "lemma": "60,000",
+              "pos": "NUM",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "people",
+              "lemma": "people",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "have",
+              "lemma": "have",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "purchased",
+              "lemma": "purchase",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "PTKs",
+              "lemma": "ptk",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "since",
+              "lemma": "since",
+              "pos": "SCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "they",
+              "lemma": "they",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "first",
+              "lemma": "first",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "became",
+              "lemma": "become",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "available",
+              "lemma": "available",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "without",
+              "lemma": "without",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "prescriptions",
+              "lemma": "prescription",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "last",
+              "lemma": "last",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "year",
+              "lemma": "year",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "according",
+              "lemma": "accord",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "to",
+              "lemma": "to",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "Doug",
+              "lemma": "Doug",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "Fogg",
+              "lemma": "Fogg",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "chief",
+              "lemma": "chief",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "operating",
+              "lemma": "operate",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "officer",
+              "lemma": "officer",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "Identigene",
+              "lemma": "Identigene",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "which",
+              "lemma": "which",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "makes",
+              "lemma": "make",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "over",
+              "lemma": "over",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "-",
+              "lemma": "-",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "-",
+              "lemma": "-",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            },
+            {
+              "word": "counter",
+              "lemma": "counter",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "kits",
+              "lemma": "kit",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_2",
+          "text": "More than two dozen companies sell DNA tests directly to the public, ranging in price from a few hundred dollars to more than $2,500.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "More",
+              "lemma": "More",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "than",
+              "lemma": "than",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "two",
+              "lemma": "two",
+              "pos": "NUM",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "dozen",
+              "lemma": "dozen",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "companies",
+              "lemma": "company",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "sell",
+              "lemma": "sell",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "DNA",
+              "lemma": "dna",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "tests",
+              "lemma": "test",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "directly",
+              "lemma": "directly",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "to",
+              "lemma": "to",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "public",
+              "lemma": "public",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "ranging",
+              "lemma": "range",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "in",
+              "lemma": "in",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "price",
+              "lemma": "price",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "from",
+              "lemma": "from",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "a",
+              "lemma": "a",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "few",
+              "lemma": "few",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "hundred",
+              "lemma": "hundred",
+              "pos": "NUM",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "dollars",
+              "lemma": "dollar",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "to",
+              "lemma": "to",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "more",
+              "lemma": "more",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "than",
+              "lemma": "than",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "$",
+              "lemma": "$",
+              "pos": "SYM",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "2,500",
+              "lemma": "2,500",
+              "pos": "NUM",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p_6",
+      "label": "Paragraph 6 (P3)",
+      "sentences": [
+        {
+          "id": "s_1",
+          "text": "Among the most popular: paternity and kinship testing, which adopted children can use to find their biological relatives and families can use to track down kids put up for adoption.",
+          "translation": "最受欢迎的包括：亲子关系和血缘关系检测，被收养的儿童可以用它来寻找自己的生物学亲属，家庭可以用它来追踪被送去收养的孩子。DNA检测也是热衷于家谱研究者中的最新热潮——并支持那些提供搜寻懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2009/section2-part-a-2/?f=p · 在线使⽤效果更好家族地理根源服务的企业。",
+          "tokens": [
+            {
+              "word": "Among",
+              "lemma": "among",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "most",
+              "lemma": "most",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "popular",
+              "lemma": "popular",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ":",
+              "lemma": ":",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "paternity",
+              "lemma": "paternity",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "and",
+              "lemma": "and",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "kinship",
+              "lemma": "kinship",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "testing",
+              "lemma": "testing",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "which",
+              "lemma": "which",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "adopted",
+              "lemma": "adopt",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "children",
+              "lemma": "child",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "can",
+              "lemma": "can",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "use",
+              "lemma": "use",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "to",
+              "lemma": "to",
+              "pos": "PART",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "find",
+              "lemma": "find",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "their",
+              "lemma": "their",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "biological",
+              "lemma": "biological",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "relatives",
+              "lemma": "relative",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "and",
+              "lemma": "and",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "families",
+              "lemma": "family",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "can",
+              "lemma": "can",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "use",
+              "lemma": "use",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "to",
+              "lemma": "to",
+              "pos": "PART",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "track",
+              "lemma": "track",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "down",
+              "lemma": "down",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "kids",
+              "lemma": "kid",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "put",
+              "lemma": "put",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "up",
+              "lemma": "up",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "for",
+              "lemma": "for",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "adoption",
+              "lemma": "adoption",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_2",
+          "text": "DNA testing is also the latest rage among passionate genealogists – and supports businesses that offer to search for a family's geographic roots.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "DNA",
+              "lemma": "dna",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "testing",
+              "lemma": "testing",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "is",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "also",
+              "lemma": "also",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "latest",
+              "lemma": "late",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "rage",
+              "lemma": "rage",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "among",
+              "lemma": "among",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "passionate",
+              "lemma": "passionate",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "genealogists",
+              "lemma": "genealogist",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "and",
+              "lemma": "and",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "supports",
+              "lemma": "support",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "businesses",
+              "lemma": "business",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "that",
+              "lemma": "that",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "offer",
+              "lemma": "offer",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "to",
+              "lemma": "to",
+              "pos": "PART",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "search",
+              "lemma": "search",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "for",
+              "lemma": "for",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "a",
+              "lemma": "a",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "family",
+              "lemma": "family",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "'s",
+              "lemma": "'s",
+              "pos": "PART",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "geographic",
+              "lemma": "geographic",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "roots",
+              "lemma": "root",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p_7",
+      "label": "Paragraph 7 (P4)",
+      "sentences": [
+        {
+          "id": "s_1",
           "text": "Most tests require collecting cells by swabbing saliva in the mouth and sending it to the company for testing.",
           "translation": "大多数检测需要通过在口腔中擦拭唾液来采集细胞，并将其送到公司进行检测。所有检测都需要一个潜在的候选人来进行DNA比对。",
-          "analysis": {},
           "tokens": [
             {
               "word": "Most",
@@ -1433,10 +2765,9 @@
           ]
         },
         {
-          "id": "s4_2",
+          "id": "s_2",
           "text": "All tests require a potential candidate with whom to compare DNA.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "All",
@@ -1527,14 +2858,985 @@
       ]
     },
     {
-      "paragraph_id": "p6",
-      "label": "Paragraph 6",
+      "paragraph_id": "p_8",
+      "label": "Paragraph 8 (P5)",
       "sentences": [
         {
-          "id": "s6_1",
+          "id": "s_1",
+          "text": "But some observers are skeptical.",
+          "translation": "但一些观察者持怀疑态度。纽约大学社会学家Troy Duster说：\"那些声称自己在做祖源检测的人在兜售一种虚假的精确性。\"他指出，每个人都有许多祖先——仅在几个世纪前就有数百位。然而大多数祖源检测只考虑单一血统，要么是通过父系男性遗传的Y染色体，要么是仅从母亲传递下来的线粒体DNA。这种DNA只能揭示一两位祖先的遗传信息，尽管例如，仅追溯三代人们还有其他六位曾祖父母，或者追溯四代还有其他十四位高曾祖父母。",
+          "tokens": [
+            {
+              "word": "But",
+              "lemma": "but",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "some",
+              "lemma": "some",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "observers",
+              "lemma": "observer",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "are",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "skeptical",
+              "lemma": "skeptical",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_2",
+          "text": "\"There's a kind of false precision being hawked by people claiming they are doing ancestry testing,\" says Troy Duster, a New York University sociologist.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "\"",
+              "lemma": "\"",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            },
+            {
+              "word": "There",
+              "lemma": "there",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "'s",
+              "lemma": "be",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "a",
+              "lemma": "a",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "kind",
+              "lemma": "kind",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "false",
+              "lemma": "false",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "precision",
+              "lemma": "precision",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "being",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "hawked",
+              "lemma": "hawk",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "by",
+              "lemma": "by",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "people",
+              "lemma": "people",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "claiming",
+              "lemma": "claim",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "they",
+              "lemma": "they",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "are",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "doing",
+              "lemma": "do",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "ancestry",
+              "lemma": "ancestry",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "testing",
+              "lemma": "testing",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            },
+            {
+              "word": "\"",
+              "lemma": "\"",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "says",
+              "lemma": "say",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "Troy",
+              "lemma": "Troy",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "Duster",
+              "lemma": "Duster",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "a",
+              "lemma": "a",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "New",
+              "lemma": "New",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "York",
+              "lemma": "York",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "University",
+              "lemma": "University",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "sociologist",
+              "lemma": "sociologist",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_3",
+          "text": "He notes that each individual has many ancestors – numbering in the hundreds just a few centuries back.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "He",
+              "lemma": "he",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "notes",
+              "lemma": "note",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "that",
+              "lemma": "that",
+              "pos": "SCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "each",
+              "lemma": "each",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "individual",
+              "lemma": "individual",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "has",
+              "lemma": "have",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "many",
+              "lemma": "many",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "ancestors",
+              "lemma": "ancestor",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "numbering",
+              "lemma": "number",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "in",
+              "lemma": "in",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "hundreds",
+              "lemma": "hundred",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "just",
+              "lemma": "just",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "a",
+              "lemma": "a",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "few",
+              "lemma": "few",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "centuries",
+              "lemma": "century",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "back",
+              "lemma": "back",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_4",
+          "text": "Yet most ancestry testing only considers a single lineage, either the Y chromosome inherited through men in a father's line or mitochondrial DNA, which is passed down only from mothers.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "Yet",
+              "lemma": "yet",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "most",
+              "lemma": "most",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "ancestry",
+              "lemma": "ancestry",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "testing",
+              "lemma": "testing",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "only",
+              "lemma": "only",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "considers",
+              "lemma": "consider",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "a",
+              "lemma": "a",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "single",
+              "lemma": "single",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "lineage",
+              "lemma": "lineage",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "either",
+              "lemma": "either",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "Y",
+              "lemma": "Y",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "chromosome",
+              "lemma": "chromosome",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "inherited",
+              "lemma": "inherit",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "through",
+              "lemma": "through",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "men",
+              "lemma": "man",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "in",
+              "lemma": "in",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "a",
+              "lemma": "a",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "father",
+              "lemma": "father",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "'s",
+              "lemma": "'s",
+              "pos": "PART",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "line",
+              "lemma": "line",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "or",
+              "lemma": "or",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "mitochondrial",
+              "lemma": "mitochondrial",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "DNA",
+              "lemma": "dna",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "which",
+              "lemma": "which",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "is",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "passed",
+              "lemma": "pass",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "down",
+              "lemma": "down",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "only",
+              "lemma": "only",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "from",
+              "lemma": "from",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "mothers",
+              "lemma": "mother",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_5",
+          "text": "This DNA can reveal genetic information about only one or two ancestors, even though, for example, just three generations back people also have six other great-grandparents or, four generations back, 14 other great-great- grandparents.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "This",
+              "lemma": "this",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "DNA",
+              "lemma": "dna",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "can",
+              "lemma": "can",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "reveal",
+              "lemma": "reveal",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "genetic",
+              "lemma": "genetic",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "information",
+              "lemma": "information",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "about",
+              "lemma": "about",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "only",
+              "lemma": "only",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "one",
+              "lemma": "one",
+              "pos": "NUM",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "or",
+              "lemma": "or",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "two",
+              "lemma": "two",
+              "pos": "NUM",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "ancestors",
+              "lemma": "ancestor",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "even",
+              "lemma": "even",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "though",
+              "lemma": "though",
+              "pos": "SCONJ",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "for",
+              "lemma": "for",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "example",
+              "lemma": "example",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "just",
+              "lemma": "just",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "three",
+              "lemma": "three",
+              "pos": "NUM",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "generations",
+              "lemma": "generation",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "back",
+              "lemma": "back",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "people",
+              "lemma": "people",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "also",
+              "lemma": "also",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "have",
+              "lemma": "have",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "six",
+              "lemma": "six",
+              "pos": "NUM",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "other",
+              "lemma": "other",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "great",
+              "lemma": "great",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "-",
+              "lemma": "-",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            },
+            {
+              "word": "grandparents",
+              "lemma": "grandparent",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "or",
+              "lemma": "or",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "four",
+              "lemma": "four",
+              "pos": "NUM",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "generations",
+              "lemma": "generation",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "back",
+              "lemma": "back",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "14",
+              "lemma": "14",
+              "pos": "NUM",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "other",
+              "lemma": "other",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "great",
+              "lemma": "great",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "-",
+              "lemma": "-",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            },
+            {
+              "word": "great-",
+              "lemma": "great-",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "grandparents",
+              "lemma": "grandparent",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p_9",
+      "label": "Paragraph 9 (P6)",
+      "sentences": [
+        {
+          "id": "s_1",
           "text": "Critics also argue that commercial genetic testing is only as good as the reference collections to which a sample is compared.",
           "translation": "批评者还认为，商业基因检测的质量取决于用于比对样本的参考数据库的质量。一些公司使用的数据库并不依赖于系统收集的数据，而是将来自不同研究项目的信息混杂在一起。这意味着DNA数据库可能有来自某些地区的大量数据而缺少其他地区的数据，因此一个人的检测结果可能因处理结果的公司不同而有所差异。此外，公司用于估计关系的计算机程序可能已获得专利，不接受同行评审或外部评估。",
-          "analysis": {},
           "tokens": [
             {
               "word": "Critics",
@@ -1693,10 +3995,9 @@
           ]
         },
         {
-          "id": "s6_2",
+          "id": "s_2",
           "text": "Databases used by some companies don't rely on data collected systematically but rather lump together information from different research projects.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Databases",
@@ -1855,10 +4156,9 @@
           ]
         },
         {
-          "id": "s6_3",
+          "id": "s_3",
           "text": "This means that a DNA database may have a lot of data from some regions and not others, so a person's test results may differ depending on the company that processes the results.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "This",
@@ -2115,10 +4415,9 @@
           ]
         },
         {
-          "id": "s6_4",
+          "id": "s_4",
           "text": "In addition, the computer programs a company uses to estimate relationships may be patented and not subject to peer review or outside evaluation.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "In",
@@ -2300,14 +4599,13 @@
       ]
     },
     {
-      "paragraph_id": "p1",
-      "label": "Paragraph 1",
+      "paragraph_id": "p_10",
+      "label": "Paragraph 10 (P1)",
       "sentences": [
         {
-          "id": "s1_1",
+          "id": "s_1",
           "text": "The relationship between formal education and economic growth in poor countries is widely misunderstood by economists and politicians alike.",
           "translation": "经济学家和政治家都普遍误解了贫穷国家正规教育与经济增长之间的关系。这两个领域的进步对于这些国家以及所有其他社会的社会、政治和智力发展无疑都是必要的;然而,教育应当成为促进贫穷国家经济快速发展的最优先事项之一这一传统观点是错误的。我们很幸运事实如此,因为在那里建立新的教育体系并让足够多的人接受教育以改善经济表现需要两到三代人的时间。一家研究机构的研究结果一直表明,所有国家的工人都可以通过在职培训实现生产率的大幅提高,从而实现生活水平的大幅提高。",
-          "analysis": {},
           "tokens": [
             {
               "word": "The",
@@ -2452,10 +4750,9 @@
           ]
         },
         {
-          "id": "s1_2",
+          "id": "s_2",
           "text": "Progress in both areas is undoubtedly necessary for the social, political, and intellectual development of these and all other societies; however, the conventional view that education should be one of the very highest priorities for promoting rapid economic development in poor countries is wrong.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Progress",
@@ -2803,10 +5100,9 @@
           ]
         },
         {
-          "id": "s1_3",
+          "id": "s_3",
           "text": "We are fortunate that it is, because building new educational systems there and putting enough people through them to improve economic performance would require two or three generations.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "We",
@@ -3021,10 +5317,9 @@
           ]
         },
         {
-          "id": "s1_4",
+          "id": "s_4",
           "text": "The findings of a research institution have consistently shown that workers in all countries can be trained on the job to achieve radically higher productivity and, as a result, radically higher standards of living.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "The",
@@ -3290,14 +5585,13 @@
       ]
     },
     {
-      "paragraph_id": "p2",
-      "label": "Paragraph 2",
+      "paragraph_id": "p_11",
+      "label": "Paragraph 11 (P2)",
       "sentences": [
         {
-          "id": "s2_1",
+          "id": "s_1",
           "text": "Ironically, the first evidence for this idea appeared in the United States.",
           "translation": "懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2009/section2-part-a-3/?f=p · 在线使⽤效果更好Honda, Nissan, and Toyota achieved about 95 percent of the productivity of their Japanese counterparts –a result of the training that U.S. workers received on the job.具有讽刺意味的是,这一观点的第一个证据出现在美国。不久前,当美国进入经济衰退而日本处于泡沫前的巅峰时期时,美国劳动力被嘲笑为教育水平低下,并被认为是美国经济表现不佳的主要原因之一。日本过去是、现在仍然是全球汽车装配生产率的领导者。然而研究显示,Honda、Nissan和Toyota在美国的工厂达到了其日本同行生产率的约95%——这是美国工人接受在职培训的结果。",
-          "analysis": {},
           "tokens": [
             {
               "word": "Ironically",
@@ -3400,10 +5694,9 @@
           ]
         },
         {
-          "id": "s2_2",
+          "id": "s_2",
           "text": "Not long ago, with the country entering a recession and Japan at its pre-bubble peak, the U.S. workforce was derided as poorly educated and one of the primary causes of the poor U.S. economic performance.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Not",
@@ -3688,10 +5981,9 @@
           ]
         },
         {
-          "id": "s2_3",
+          "id": "s_3",
           "text": "Japan was, and remains, the global leader in automotive-assembly productivity.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Japan",
@@ -3801,10 +6093,9 @@
           ]
         },
         {
-          "id": "s2_4",
+          "id": "s_4",
           "text": "Yet the research revealed that the U.S. factories of",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Yet",
@@ -3874,14 +6165,13 @@
       ]
     },
     {
-      "paragraph_id": "p3",
-      "label": "Paragraph 3",
+      "paragraph_id": "p_12",
+      "label": "Paragraph 12 (P3)",
       "sentences": [
         {
-          "id": "s3_1",
+          "id": "s_1",
           "text": "More recently, while examining housing construction, the researchers discovered that illiterate, non-English-speaking Mexican workers in Houston, Texas, consistently met best-practice labor productivity standards despite the complexity of the building industry's work.",
           "translation": "最近,在考察住宅建设时,研究人员发现,尽管建筑行业工作的复杂性,德克萨斯州休斯顿的不识字、不会说英语的墨西哥工人始终达到了最佳实践劳动生产率标准。",
-          "analysis": {},
           "tokens": [
             {
               "word": "More",
@@ -4196,14 +6486,13 @@
       ]
     },
     {
-      "paragraph_id": "p5",
-      "label": "Paragraph 5",
+      "paragraph_id": "p_13",
+      "label": "Paragraph 13 (P5)",
       "sentences": [
         {
-          "id": "s5_1",
+          "id": "s_1",
           "text": "As education improved, humanity's productivity potential increased as well.",
           "translation": "随着教育的改善,人类的生产潜力也随之增加。当竞争环境促使我们的祖先实现这一潜力时,他们反过来又能负担得起更多的教育。这种日益提高的教育水平可能是先进经济表现所需的复杂政治体系的必要条件,但不是充分条件。因此,如果没有政治变革,贫穷国家可能无法摆脱贫困陷阱,而这种政治变革可能只有通过更广泛的正规教育才能实现。然而,缺乏正规教育并不会限制发展中国家劳动力在可预见的未来大幅提高生产率的能力。相反,提高生产率方面的限制因素解释了为什么那里的教育发展速度没有更快。",
-          "analysis": {},
           "tokens": [
             {
               "word": "As",
@@ -4292,10 +6581,9 @@
           ]
         },
         {
-          "id": "s5_2",
+          "id": "s_2",
           "text": "When the competitive environment pushed our ancestors to achieve that potential, they could in turn afford more education.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "When",
@@ -4440,10 +6728,9 @@
           ]
         },
         {
-          "id": "s5_3",
+          "id": "s_3",
           "text": "This increasingly high level of education is probably a necessary, but not a sufficient, condition for the complex political systems required by advanced economic performance.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "This",
@@ -4644,10 +6931,9 @@
           ]
         },
         {
-          "id": "s5_4",
+          "id": "s_4",
           "text": "Thus poor countries might not be able to escape their poverty traps without political changes that may be possible only with broader formal education.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Thus",
@@ -4827,10 +7113,9 @@
           ]
         },
         {
-          "id": "s5_5",
+          "id": "s_5",
           "text": "A lack of formal education, however, doesn't constrain the ability of the developing world's workforce to substantially improve productivity for the foreseeable future.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "A",
@@ -5031,10 +7316,9 @@
           ]
         },
         {
-          "id": "s5_6",
+          "id": "s_6",
           "text": "On the contrary, constraints on improving productivity explain why education isn't developing more quickly there than it is.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "On",
@@ -5188,14 +7472,13 @@
       ]
     },
     {
-      "paragraph_id": "p1",
-      "label": "Paragraph 1",
+      "paragraph_id": "p_14",
+      "label": "Paragraph 14 (P1)",
       "sentences": [
         {
-          "id": "s1_1",
+          "id": "s_1",
           "text": "The most thoroughly studied intellectuals in the history of the New World are the ministers and political leaders of seventeenth-century New England.",
           "translation": "新大陆历史上研究最为透彻的知识分子群体是十七世纪新英格兰的牧师和政治领袖。根据美国哲学标准史的记载，在殖民地时期的美国,没有任何其他地方\"对智力追求给予如此重视\"。根据许多书籍和文章的说法,新英格兰的领袖们确立了美国知识生活中一个不断展开的、占主导地位的清教传统的基本主题和关注重点。",
-          "analysis": {},
           "tokens": [
             {
               "word": "The",
@@ -5375,10 +7658,9 @@
           ]
         },
         {
-          "id": "s1_2",
+          "id": "s_2",
           "text": "According to the standard history of American philosophy, nowhere else in colonial America was \"so much importance attached to intellectual pursuits.\"",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "According",
@@ -5558,10 +7840,9 @@
           ]
         },
         {
-          "id": "s1_3",
+          "id": "s_3",
           "text": "According to many books and articles, New England's leaders established the basic themes and preoccupations of an unfolding, dominant Puritan tradition in American intellectual life.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "According",
@@ -5771,14 +8052,635 @@
       ]
     },
     {
-      "paragraph_id": "p3",
-      "label": "Paragraph 3",
+      "paragraph_id": "p_15",
+      "label": "Paragraph 15 (P2)",
       "sentences": [
         {
-          "id": "s3_1",
+          "id": "s_1",
+          "text": "To take this approach to the New Englanders normally means to start with the Puritans' theological innovations and their distinctive ideas about the church – important subjects that we may not neglect.",
+          "translation": "以这种方式看待新英格兰人通常意味着要从清教徒的神学革新及其关于教会的独特观念入手——这些都是我们不可忽视的重要主题。但与我们对南部知识生活的考察保持一致,我们可以将最初的清教徒视为欧洲文化的传播者,他们在适应新大陆的环境。新英格兰殖民地是追求文明和美德这些被广泛认同的理想过程中的重要场景。懒笔记 · https://english-exam.lazynote.cn/kaoyan/sections/2009/section2-part-a-4/?f=p · 在线使⽤效果更好",
+          "tokens": [
+            {
+              "word": "To",
+              "lemma": "to",
+              "pos": "PART",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "take",
+              "lemma": "take",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "this",
+              "lemma": "this",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "approach",
+              "lemma": "approach",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "to",
+              "lemma": "to",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "New",
+              "lemma": "New",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "Englanders",
+              "lemma": "Englanders",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "normally",
+              "lemma": "normally",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "means",
+              "lemma": "mean",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "to",
+              "lemma": "to",
+              "pos": "PART",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "start",
+              "lemma": "start",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "with",
+              "lemma": "with",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "Puritans",
+              "lemma": "Puritans",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": "'",
+              "lemma": "'",
+              "pos": "PART",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "theological",
+              "lemma": "theological",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "innovations",
+              "lemma": "innovation",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "and",
+              "lemma": "and",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "their",
+              "lemma": "their",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "distinctive",
+              "lemma": "distinctive",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "ideas",
+              "lemma": "idea",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "about",
+              "lemma": "about",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "church",
+              "lemma": "church",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "important",
+              "lemma": "important",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "subjects",
+              "lemma": "subject",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "that",
+              "lemma": "that",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "we",
+              "lemma": "we",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "may",
+              "lemma": "may",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "not",
+              "lemma": "not",
+              "pos": "PART",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "neglect",
+              "lemma": "neglect",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_2",
+          "text": "But in keeping with our examination of southern intellectual life, we may consider the original Puritans as carriers of European culture, adjusting to New World circumstances.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "But",
+              "lemma": "but",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "in",
+              "lemma": "in",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "keeping",
+              "lemma": "keep",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "with",
+              "lemma": "with",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "our",
+              "lemma": "our",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "examination",
+              "lemma": "examination",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "southern",
+              "lemma": "southern",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "intellectual",
+              "lemma": "intellectual",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "life",
+              "lemma": "life",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "we",
+              "lemma": "we",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "may",
+              "lemma": "may",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "consider",
+              "lemma": "consider",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "original",
+              "lemma": "original",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "Puritans",
+              "lemma": "Puritans",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "as",
+              "lemma": "as",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "carriers",
+              "lemma": "carrier",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "European",
+              "lemma": "european",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "culture",
+              "lemma": "culture",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "adjusting",
+              "lemma": "adjust",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "to",
+              "lemma": "to",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "New",
+              "lemma": "New",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "World",
+              "lemma": "World",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "circumstances",
+              "lemma": "circumstance",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_3",
+          "text": "The New England colonies were the scenes of important episodes in the pursuit of widely understood ideals of civility and virtuosity.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "The",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "New",
+              "lemma": "New",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "England",
+              "lemma": "England",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "colonies",
+              "lemma": "colony",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "were",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "scenes",
+              "lemma": "scene",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "important",
+              "lemma": "important",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "episodes",
+              "lemma": "episode",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "in",
+              "lemma": "in",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "pursuit",
+              "lemma": "pursuit",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "widely",
+              "lemma": "widely",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "understood",
+              "lemma": "understand",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "ideals",
+              "lemma": "ideal",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "civility",
+              "lemma": "civility",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "and",
+              "lemma": "and",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "virtuosity",
+              "lemma": "virtuosity",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p_16",
+      "label": "Paragraph 16 (P3)",
+      "sentences": [
+        {
+          "id": "s_1",
           "text": "The early settlers of Massachusetts Bay included men of impressive education and influence in England.",
           "translation": "马萨诸塞湾的早期定居者中包括在英格兰受过良好教育且颇具影响力的人士。除了1629年之后十年间来到马萨诸塞教会的约九十位博学的牧师外,还有像约翰·温思罗普这样的政治领袖,他在前往波士顿之前是一位受过教育的绅士、律师和王室官员。这些人著述颇丰并广泛出版,影响了新大陆和旧大陆的读者,使新英格兰充满了认真治学的氛围。",
-          "analysis": {},
           "tokens": [
             {
               "word": "The",
@@ -5895,10 +8797,9 @@
           ]
         },
         {
-          "id": "s3_2",
+          "id": "s_2",
           "text": "Besides the ninety or so learned ministers who came to Massachusetts churches in the decade after 1629, there were political leaders like John Winthrop, an educated gentleman, lawyer, and official of the Crown before he journeyed to Boston.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "Besides",
@@ -6204,10 +9105,9 @@
           ]
         },
         {
-          "id": "s3_3",
+          "id": "s_3",
           "text": "These men wrote and published extensively, reaching both New World and Old World audiences, and giving New England an atmosphere of intellectual earnestness.",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "These",
@@ -6396,14 +9296,1258 @@
       ]
     },
     {
-      "paragraph_id": "p5",
-      "label": "Paragraph 5",
+      "paragraph_id": "p_17",
+      "label": "Paragraph 17 (P4)",
       "sentences": [
         {
-          "id": "s5_1",
+          "id": "s_1",
+          "text": "We should not forget, however, that most New Englanders were less well educated.",
+          "translation": "然而,我们不应忘记大多数新英格兰人受教育程度较低。虽然很少有工匠或农民,更不用说仆役和佣人,留下可供分析的文学作品,但显然他们的观点缺乏充分的理性化。他们的思想往往带有传统的迷信色彩。一位名叫约翰·戴恩的裁缝在1630年代后期移民,他留下了一份说明离开英格兰原因的记录,其中充满了征兆。性困惑、经济挫折和宗教希望——所有这些在一个决定性时刻汇聚在一起,当时他打开圣经,告诉父亲他看到的第一行字将决定他的命运,然后读到了这些神奇的话语:\"从他们中间出来,不要沾不洁之物,我将作你们的神,你们将作我的子民。\"人们不禁想知道,戴恩对他在清教教会听到的那些仔细阐释圣经的布道作何感想。",
+          "tokens": [
+            {
+              "word": "We",
+              "lemma": "we",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "should",
+              "lemma": "should",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "not",
+              "lemma": "not",
+              "pos": "PART",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "forget",
+              "lemma": "forget",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "however",
+              "lemma": "however",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "that",
+              "lemma": "that",
+              "pos": "SCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "most",
+              "lemma": "most",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "New",
+              "lemma": "New",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "Englanders",
+              "lemma": "Englanders",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "were",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "less",
+              "lemma": "less",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "well",
+              "lemma": "well",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "educated",
+              "lemma": "educate",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_2",
+          "text": "While few craftsmen or farmers, let alone dependents and servants, left literary compositions to be analyzed, it is obvious that their views were less fully intellectualized.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "While",
+              "lemma": "while",
+              "pos": "SCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "few",
+              "lemma": "few",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "craftsmen",
+              "lemma": "craftsman",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "or",
+              "lemma": "or",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "farmers",
+              "lemma": "farmer",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "let",
+              "lemma": "let",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "alone",
+              "lemma": "alone",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "dependents",
+              "lemma": "dependent",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "and",
+              "lemma": "and",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "servants",
+              "lemma": "servant",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "left",
+              "lemma": "leave",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "literary",
+              "lemma": "literary",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "compositions",
+              "lemma": "composition",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "to",
+              "lemma": "to",
+              "pos": "PART",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "be",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "analyzed",
+              "lemma": "analyze",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "it",
+              "lemma": "it",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "is",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "obvious",
+              "lemma": "obvious",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "that",
+              "lemma": "that",
+              "pos": "SCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "their",
+              "lemma": "their",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "views",
+              "lemma": "view",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "were",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "less",
+              "lemma": "less",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "fully",
+              "lemma": "fully",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "intellectualized",
+              "lemma": "intellectualize",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_3",
+          "text": "Their thinking often had a traditional superstitious quality.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "Their",
+              "lemma": "their",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "thinking",
+              "lemma": "thinking",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "often",
+              "lemma": "often",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "had",
+              "lemma": "have",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "a",
+              "lemma": "a",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "traditional",
+              "lemma": "traditional",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "superstitious",
+              "lemma": "superstitious",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "quality",
+              "lemma": "quality",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_4",
+          "text": "A tailor named John Dane, who emigrated in the late 1630s, left an account of his reasons for leaving England that is filled with signs.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "A",
+              "lemma": "a",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "tailor",
+              "lemma": "tailor",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "named",
+              "lemma": "name",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "John",
+              "lemma": "John",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "Dane",
+              "lemma": "Dane",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "who",
+              "lemma": "who",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "emigrated",
+              "lemma": "emigrate",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "in",
+              "lemma": "in",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "late",
+              "lemma": "late",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "1630s",
+              "lemma": "1630",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "left",
+              "lemma": "leave",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "an",
+              "lemma": "an",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "account",
+              "lemma": "account",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "his",
+              "lemma": "his",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "reasons",
+              "lemma": "reason",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "for",
+              "lemma": "for",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "leaving",
+              "lemma": "leave",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "England",
+              "lemma": "England",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "that",
+              "lemma": "that",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "is",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "filled",
+              "lemma": "fill",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "with",
+              "lemma": "with",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "signs",
+              "lemma": "sign",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_5",
+          "text": "Sexual confusion, economic frustrations, and religious hope – all came together in a decisive moment when he opened the Bible, told his father that the first line he saw would settle his fate, and read the magical words: \"Come out from among them, touch no unclean thing, and I will be your God and you shall be my people.\"",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "Sexual",
+              "lemma": "sexual",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "confusion",
+              "lemma": "confusion",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "economic",
+              "lemma": "economic",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "frustrations",
+              "lemma": "frustration",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "and",
+              "lemma": "and",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "religious",
+              "lemma": "religious",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "hope",
+              "lemma": "hope",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "–",
+              "lemma": "–",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "all",
+              "lemma": "all",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "came",
+              "lemma": "come",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "together",
+              "lemma": "together",
+              "pos": "ADV",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "in",
+              "lemma": "in",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "a",
+              "lemma": "a",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "decisive",
+              "lemma": "decisive",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "moment",
+              "lemma": "moment",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "when",
+              "lemma": "when",
+              "pos": "SCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "he",
+              "lemma": "he",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "opened",
+              "lemma": "open",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "Bible",
+              "lemma": "Bible",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "told",
+              "lemma": "tell",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "his",
+              "lemma": "his",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "father",
+              "lemma": "father",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "that",
+              "lemma": "that",
+              "pos": "SCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "first",
+              "lemma": "first",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "line",
+              "lemma": "line",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "he",
+              "lemma": "he",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "saw",
+              "lemma": "see",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "would",
+              "lemma": "would",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "settle",
+              "lemma": "settle",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "his",
+              "lemma": "his",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "fate",
+              "lemma": "fate",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "and",
+              "lemma": "and",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "read",
+              "lemma": "read",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "magical",
+              "lemma": "magical",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "words",
+              "lemma": "word",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ":",
+              "lemma": ":",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "\"",
+              "lemma": "\"",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            },
+            {
+              "word": "Come",
+              "lemma": "come",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "out",
+              "lemma": "out",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "from",
+              "lemma": "from",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "among",
+              "lemma": "among",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "them",
+              "lemma": "they",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "touch",
+              "lemma": "touch",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "no",
+              "lemma": "no",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "unclean",
+              "lemma": "unclean",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "thing",
+              "lemma": "thing",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ",",
+              "lemma": ",",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            },
+            {
+              "word": "and",
+              "lemma": "and",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "I",
+              "lemma": "I",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "will",
+              "lemma": "will",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "be",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "your",
+              "lemma": "your",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "God",
+              "lemma": "God",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "and",
+              "lemma": "and",
+              "pos": "CCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "you",
+              "lemma": "you",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "shall",
+              "lemma": "shall",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "be",
+              "lemma": "be",
+              "pos": "AUX",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "my",
+              "lemma": "my",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "people",
+              "lemma": "people",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            },
+            {
+              "word": "\"",
+              "lemma": "\"",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": " "
+            }
+          ]
+        },
+        {
+          "id": "s_6",
+          "text": "One wonders what Dane thought of the careful sermons explaining the Bible that he heard in Puritan churches.",
+          "translation": "",
+          "tokens": [
+            {
+              "word": "One",
+              "lemma": "one",
+              "pos": "NUM",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "wonders",
+              "lemma": "wonder",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "what",
+              "lemma": "what",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "Dane",
+              "lemma": "Dane",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "thought",
+              "lemma": "think",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "of",
+              "lemma": "of",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "careful",
+              "lemma": "careful",
+              "pos": "ADJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "sermons",
+              "lemma": "sermon",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "explaining",
+              "lemma": "explain",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "the",
+              "lemma": "the",
+              "pos": "DET",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "Bible",
+              "lemma": "Bible",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "that",
+              "lemma": "that",
+              "pos": "SCONJ",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "he",
+              "lemma": "he",
+              "pos": "PRON",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "heard",
+              "lemma": "hear",
+              "pos": "VERB",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "in",
+              "lemma": "in",
+              "pos": "ADP",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "Puritan",
+              "lemma": "Puritan",
+              "pos": "PROPN",
+              "is_punct": false,
+              "space_after": " "
+            },
+            {
+              "word": "churches",
+              "lemma": "church",
+              "pos": "NOUN",
+              "is_punct": false,
+              "space_after": ""
+            },
+            {
+              "word": ".",
+              "lemma": ".",
+              "pos": "PUNCT",
+              "is_punct": true,
+              "space_after": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph_id": "p_18",
+      "label": "Paragraph 18 (P5)",
+      "sentences": [
+        {
+          "id": "s_1",
           "text": "Meanwhile, many settlers had slighter religious commitments than Dane's, as one clergyman learned in confronting folk along the coast who mocked that they had not come to the New World for religion.",
           "translation": "与此同时,许多定居者的宗教信仰不如戴恩那样虔诚,正如一位牧师在面对沿海地区的民众时所了解到的,这些人嘲笑说他们来新大陆不是为了宗教。\"我们的主要目的是捕鱼。\"",
-          "analysis": {},
           "tokens": [
             {
               "word": "Meanwhile",
@@ -6660,10 +10804,9 @@
           ]
         },
         {
-          "id": "s5_2",
+          "id": "s_2",
           "text": "\"Our main end was to catch fish.\"",
           "translation": "",
-          "analysis": {},
           "tokens": [
             {
               "word": "\"",
@@ -6739,5 +10882,8 @@
         }
       ]
     }
-  ]
+  ],
+  "all_questions": [],
+  "translation": {},
+  "writing": {}
 }
