@@ -29,291 +29,166 @@
             --radius-sm: 6px;
             --radius-md: 10px;
             --radius-lg: 16px;
-            --radius-xl: 20px;
         }
 
         * { margin: 0; padding: 0; box-sizing: border-box; }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
             background: var(--bg);
             color: var(--text);
             line-height: 1.6;
             min-height: 100vh;
         }
 
-        /* NavBar Styles */
         .navbar { background: var(--card-bg); border-bottom: 1px solid var(--border); padding: 0 24px; height: 64px; display: flex; align-items: center; justify-content: space-between; position: sticky; top: 0; z-index: 100; box-shadow: var(--shadow-sm); }
-        .navbar-brand { display: flex; align-items: center; gap: 12px; font-size: 22px; font-weight: 700; color: var(--primary); letter-spacing: -0.5px; cursor: pointer; }
-        .navbar-brand .logo-icon { width: 36px; height: 36px; background: var(--primary); border-radius: var(--radius-sm); display: flex; align-items: center; justify-content: center; color: #fff; font-size: 18px; font-weight: 800; }
+        .navbar-brand { display: flex; align-items: center; gap: 12px; font-size: 20px; font-weight: 700; color: var(--primary); cursor: pointer; }
+        .navbar-brand .logo-icon { width: 34px; height: 34px; background: var(--primary); border-radius: var(--radius-sm); display: flex; align-items: center; justify-content: center; color: #fff; font-size: 16px; font-weight: 800; }
         .navbar-tabs { display: flex; gap: 4px; background: var(--bg); padding: 4px; border-radius: var(--radius-md); }
-        .navbar-tab { padding: 8px 18px; border-radius: var(--radius-sm); font-size: 14px; font-weight: 600; cursor: pointer; color: var(--text-secondary); transition: all 0.2s; border: none; background: transparent; white-space: nowrap; }
-        .navbar-tab:hover { color: var(--text); background: var(--card-bg); }
+        .navbar-tab { padding: 6px 14px; border-radius: var(--radius-sm); font-size: 13px; font-weight: 600; cursor: pointer; color: var(--text-secondary); border: none; background: transparent; transition: all 0.2s; white-space: nowrap; }
+        .navbar-tab:hover { color: var(--text); }
         .navbar-tab.active { background: var(--card-bg); color: var(--primary); box-shadow: var(--shadow-sm); }
-        .navbar-right { display: flex; align-items: center; gap: 12px; }
-        .nav-btn { padding: 8px 14px; border-radius: var(--radius-sm); border: 1px solid var(--border); background: var(--card-bg); cursor: pointer; font-size: 14px; font-weight: 500; color: var(--text-secondary); display: flex; align-items: center; gap: 6px; transition: all 0.2s; }
+        .navbar-right { display: flex; align-items: center; gap: 10px; }
+        .nav-btn { padding: 6px 12px; border-radius: var(--radius-sm); border: 1px solid var(--border); background: var(--card-bg); cursor: pointer; font-size: 13px; font-weight: 500; color: var(--text-secondary); display: flex; align-items: center; gap: 6px; transition: all 0.2s; }
         .nav-btn:hover { border-color: var(--primary); color: var(--primary); background: var(--primary-light); }
-        .nav-btn .badge { background: var(--danger); color: #fff; border-radius: 50%; width: 20px; height: 20px; font-size: 11px; display: flex; align-items: center; justify-content: center; font-weight: 700; }
-        .theme-toggle { cursor: pointer; font-size: 20px; padding: 6px; border-radius: 50%; transition: all 0.2s; border: none; background: none; }
-        .theme-toggle:hover { background: var(--bg); }
+        .nav-btn .badge { background: var(--danger); color: #fff; border-radius: 50%; width: 18px; height: 18px; font-size: 11px; display: flex; align-items: center; justify-content: center; font-weight: 700; }
 
-        /* Main Container */
         .main-container { display: flex; max-width: 1400px; margin: 0 auto; padding: 20px; gap: 20px; min-height: calc(100vh - 64px); }
-
-        /* Sidebar */
+        
         .sidebar { width: 280px; flex-shrink: 0; display: flex; flex-direction: column; gap: 16px; position: sticky; top: 84px; height: fit-content; }
         .sidebar-card { background: var(--card-bg); border-radius: var(--radius-lg); border: 1px solid var(--border); padding: 16px; box-shadow: var(--shadow-sm); }
-        .sidebar-card h3 { font-size: 15px; font-weight: 700; margin-bottom: 12px; color: var(--text); display: flex; align-items: center; gap: 8px; }
-        .year-selector { display: flex; flex-wrap: wrap; gap: 6px; }
-        .year-btn { padding: 6px 12px; border-radius: var(--radius-sm); border: 1px solid var(--border); background: var(--card-bg); cursor: pointer; font-size: 12px; font-weight: 600; color: var(--text-secondary); transition: all 0.2s; }
+        .sidebar-card h3 { font-size: 14px; font-weight: 700; margin-bottom: 12px; color: var(--text); display: flex; align-items: center; gap: 8px; }
+        .year-selector { display: flex; flex-wrap: wrap; gap: 6px; max-height: 180px; overflow-y: auto; padding-bottom: 4px; }
+        .year-btn { padding: 5px 10px; border-radius: var(--radius-sm); border: 1px solid var(--border); background: var(--card-bg); cursor: pointer; font-size: 12px; font-weight: 600; color: var(--text-secondary); transition: all 0.15s; }
         .year-btn:hover { border-color: var(--primary); color: var(--primary); }
         .year-btn.active { background: var(--primary); color: #fff; border-color: var(--primary); }
-        .filter-select { width: 100%; padding: 8px 12px; border-radius: var(--radius-sm); border: 1px solid var(--border); font-size: 13px; font-weight: 500; color: var(--text); background: var(--card-bg); cursor: pointer; outline: none; }
-        .filter-select:focus { border-color: var(--primary); }
         .article-list { list-style: none; display: flex; flex-direction: column; gap: 6px; }
-        .article-item { padding: 10px 14px; border-radius: var(--radius-sm); cursor: pointer; font-size: 13px; font-weight: 500; color: var(--text-secondary); transition: all 0.2s; border-left: 3px solid transparent; display: flex; align-items: center; gap: 8px; }
+        .article-item { padding: 9px 12px; border-radius: var(--radius-sm); cursor: pointer; font-size: 13px; font-weight: 500; color: var(--text-secondary); transition: all 0.2s; border-left: 3px solid transparent; }
         .article-item:hover { background: var(--primary-light); color: var(--primary); }
         .article-item.active { background: var(--primary-light); color: var(--primary); border-left-color: var(--primary); font-weight: 600; }
-        .article-item .status-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--text-muted); flex-shrink: 0; }
-        .article-item .status-dot.completed { background: var(--success); }
-        .article-item .status-dot.in-progress { background: var(--warning); }
 
-        /* Content Area */
         .content-area { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 16px; }
-        .reading-panel { background: var(--card-bg); border-radius: var(--radius-lg); border: 1px solid var(--border); padding: 28px 32px; box-shadow: var(--shadow-sm); position: relative; }
-        .reading-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px; flex-wrap: wrap; gap: 12px; }
-        .reading-title { font-size: 20px; font-weight: 700; color: var(--text); letter-spacing: -0.3px; }
-        .reading-meta { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 8px; }
-        .meta-tag { padding: 4px 10px; border-radius: 20px; font-size: 12px; font-weight: 600; background: var(--bg); color: var(--text-secondary); }
-        .meta-tag.difficulty { background: #fef3c7; color: #92400e; }
-        .meta-tag.type { background: #dbeafe; color: #1e40af; }
+        .reading-panel { background: var(--card-bg); border-radius: var(--radius-lg); border: 1px solid var(--border); padding: 24px 28px; box-shadow: var(--shadow-sm); }
+        .reading-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px; flex-wrap: wrap; gap: 12px; }
+        .reading-title { font-size: 18px; font-weight: 700; color: var(--text); }
+        .reading-meta { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 6px; }
+        .meta-tag { padding: 3px 8px; border-radius: 12px; font-size: 11px; font-weight: 600; background: var(--bg); color: var(--text-secondary); }
+        
         .mode-switch { display: flex; gap: 4px; background: var(--bg); padding: 4px; border-radius: var(--radius-md); margin-bottom: 16px; }
-        .mode-btn { padding: 7px 16px; border-radius: var(--radius-sm); font-size: 13px; font-weight: 600; cursor: pointer; border: none; background: transparent; color: var(--text-secondary); transition: all 0.2s; display: flex; align-items: center; gap: 6px; }
-        .mode-btn:hover { color: var(--text); }
+        .mode-btn { padding: 6px 12px; border-radius: var(--radius-sm); font-size: 12px; font-weight: 600; cursor: pointer; border: none; background: transparent; color: var(--text-secondary); transition: all 0.2s; }
         .mode-btn.active { background: var(--card-bg); color: var(--primary); box-shadow: var(--shadow-sm); }
-
+        
         .paragraph { margin-bottom: 20px; }
-        .paragraph-label { font-size: 12px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; cursor: pointer; display: flex; align-items: center; gap: 6px; }
-        .paragraph-label:hover { color: var(--primary); }
-        .sentence-block { padding: 10px 14px; border-radius: var(--radius-sm); cursor: pointer; transition: all 0.2s; border-left: 2px solid transparent; position: relative; margin-bottom: 6px; }
+        .paragraph-label { font-size: 11px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; margin-bottom: 6px; }
+        .sentence-block { padding: 8px 12px; border-radius: var(--radius-sm); cursor: pointer; transition: all 0.15s; border-left: 2px solid transparent; margin-bottom: 6px; }
         .sentence-block:hover { background: var(--sentence-hover); border-left-color: var(--primary); }
         .sentence-block.active { background: var(--primary-light); border-left-color: var(--primary); }
-        .sentence-text { font-size: 16px; font-weight: 400; color: var(--text); line-height: 1.8; letter-spacing: 0.2px; }
-        .sentence-translation { font-size: 14px; color: var(--text-secondary); line-height: 1.7; margin-top: 4px; padding-left: 8px; border-left: 2px dashed var(--border); }
-        .sentence-actions { display: flex; gap: 6px; margin-top: 6px; opacity: 0; transition: opacity 0.2s; }
-        .sentence-block:hover .sentence-actions { opacity: 1; }
-        .sentence-action-btn { font-size: 11px; padding: 3px 8px; border-radius: 12px; border: 1px solid var(--border); background: var(--card-bg); cursor: pointer; color: var(--text-secondary); font-weight: 500; transition: all 0.2s; }
-        .sentence-action-btn:hover { border-color: var(--primary); color: var(--primary); background: var(--primary-light); }
-
-        /* Highlight and Popover */
-        .clickable-word { cursor: pointer; border-bottom: 2px solid transparent; transition: all 0.15s; border-radius: 2px; padding: 0 1px; position: relative; display: inline; }
+        .sentence-text { font-size: 15px; color: var(--text); line-height: 1.8; }
+        .sentence-translation { font-size: 13px; color: var(--text-secondary); line-height: 1.6; margin-top: 4px; padding-left: 8px; border-left: 2px dashed var(--border); }
+        
+        .clickable-word { cursor: pointer; border-bottom: 1.5px solid transparent; transition: all 0.15s; border-radius: 2px; }
         .clickable-word:hover { background: var(--highlight); border-bottom-color: var(--warning); }
         .clickable-word.highlighted { background: var(--highlight); border-bottom-color: var(--warning); font-weight: 600; }
-        .word-popover { position: fixed; z-index: 1000; background: var(--popover-bg); color: var(--popover-text); border-radius: var(--radius-md); padding: 16px 20px; box-shadow: var(--shadow-xl); min-width: 280px; max-width: 360px; font-size: 14px; animation: popoverIn 0.2s ease-out; pointer-events: auto; }
-        @keyframes popoverIn { from { opacity: 0; transform: translateY(8px) scale(0.97); } to { opacity: 1; transform: translateY(0) scale(1); } }
-        .word-popover .word-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px; }
-        .word-popover .word-title { font-size: 20px; font-weight: 700; color: #fff; letter-spacing: -0.3px; }
-        .word-popover .word-phonetic { font-size: 13px; color: #cbd5e1; font-weight: 400; }
-        .word-popover .word-pos { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 700; background: var(--primary); color: #fff; margin-right: 6px; margin-bottom: 4px; }
-        .word-popover .word-meaning { font-size: 14px; color: #e2e8f0; line-height: 1.7; margin-bottom: 4px; }
-        .word-popover .word-example { font-size: 12px; color: #94a3b8; font-style: italic; margin-top: 8px; padding-top: 8px; border-top: 1px solid rgba(255, 255, 255, 0.1); }
-        .word-popover .popover-actions { display: flex; gap: 8px; margin-top: 12px; }
-        .popover-btn { padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: 600; cursor: pointer; border: none; transition: all 0.2s; }
-        .popover-btn.add-word { background: var(--success); color: #fff; }
-        .popover-btn.add-word:hover { background: #059669; }
-        .popover-btn.close-pop { background: rgba(255, 255, 255, 0.15); color: #cbd5e1; }
-        .popover-btn.close-pop:hover { background: rgba(255, 255, 255, 0.25); }
+        
+        .word-popover { position: fixed; z-index: 1000; background: var(--popover-bg); color: var(--popover-text); border-radius: var(--radius-md); padding: 14px 16px; box-shadow: var(--shadow-xl); width: 300px; font-size: 13px; }
+        .word-popover .word-head { display: flex; align-items: baseline; gap: 8px; margin-bottom: 8px; }
+        .word-popover .word-title { font-size: 18px; font-weight: 700; color: #fff; }
+        .word-popover .word-phonetic { font-size: 12px; color: #cbd5e1; }
+        .word-popover .word-pos { display: inline-block; padding: 1px 6px; border-radius: 4px; font-size: 10px; font-weight: 700; background: var(--primary); color: #fff; margin-right: 4px; }
+        .word-popover .word-meaning { font-size: 13px; color: #e2e8f0; line-height: 1.5; margin-bottom: 6px; }
+        .popover-btn { padding: 4px 10px; border-radius: 12px; font-size: 11px; font-weight: 600; cursor: pointer; border: none; }
+        .popover-btn.add-word { background: var(--success); color: #fff; margin-right: 6px; }
+        .popover-btn.close-pop { background: rgba(255,255,255,0.2); color: #fff; }
 
-        /* Analysis Panel */
         .analysis-panel { background: var(--card-bg); border-radius: var(--radius-lg); border: 1px solid var(--border); padding: 20px 24px; box-shadow: var(--shadow-sm); }
-        .analysis-panel h3 { font-size: 16px; font-weight: 700; margin-bottom: 14px; display: flex; align-items: center; gap: 8px; color: var(--text); }
-        .sentence-tree { display: flex; flex-direction: column; gap: 8px; padding: 12px; background: var(--bg); border-radius: var(--radius-md); }
-        .tree-level { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
-        .tree-label { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-muted); min-width: 56px; flex-shrink: 0; }
-        .tree-token { padding: 5px 10px; border-radius: var(--radius-sm); font-size: 13px; font-weight: 600; cursor: pointer; transition: all 0.2s; border: 1px solid transparent; display: inline-flex; align-items: center; gap: 4px; }
-        .tree-token:hover { transform: translateY(-1px); box-shadow: var(--shadow-sm); }
-        .tree-token.subject { background: #dbeafe; color: #1e40af; border-color: #93c5fd; }
-        .tree-token.verb { background: #fee2e2; color: #991b1b; border-color: #fca5a5; }
-        .tree-token.object { background: #d1fae5; color: #065f46; border-color: #6ee7b7; }
-        .tree-token.clause { background: #fef3c7; color: #92400e; border-color: #fcd34d; }
-        .tree-token.modifier { background: #ede9fe; color: #5b21b6; border-color: #c4b5fd; }
-        .analysis-note { margin-top: 12px; padding: 12px 16px; background: #fffbeb; border-radius: var(--radius-sm); border-left: 3px solid var(--warning); font-size: 13px; color: #78350f; line-height: 1.7; }
-        .grammar-tip { margin-top: 8px; padding: 10px 14px; background: #f0fdf4; border-radius: var(--radius-sm); border-left: 3px solid var(--success); font-size: 13px; color: #14532d; line-height: 1.7; }
+        .analysis-panel h3 { font-size: 15px; font-weight: 700; margin-bottom: 12px; }
+        .sentence-tree { display: flex; flex-direction: column; gap: 6px; padding: 10px; background: var(--bg); border-radius: var(--radius-md); }
+        .tree-level { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+        .tree-label { font-size: 11px; font-weight: 700; color: var(--text-muted); min-width: 45px; }
+        .tree-token { padding: 3px 8px; border-radius: var(--radius-sm); font-size: 12px; font-weight: 600; }
+        .tree-token.subject { background: #dbeafe; color: #1e40af; }
+        .tree-token.verb { background: #fee2e2; color: #991b1b; }
+        .tree-token.object { background: #d1fae5; color: #065f46; }
+        .tree-token.modifier { background: #ede9fe; color: #5b21b6; }
 
-        /* Questions Section */
-        .questions-section { background: var(--card-bg); border-radius: var(--radius-lg); border: 1px solid var(--border); padding: 24px 28px; box-shadow: var(--shadow-sm); }
-        .questions-section h3 { font-size: 16px; font-weight: 700; margin-bottom: 16px; color: var(--text); }
-        .question-item { padding: 16px; border: 1px solid var(--border); border-radius: var(--radius-md); margin-bottom: 12px; transition: all 0.2s; }
-        .question-item:hover { border-color: var(--primary); box-shadow: var(--shadow-sm); }
-        .question-text { font-size: 15px; font-weight: 600; margin-bottom: 10px; color: var(--text); }
-        .question-options { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 10px; }
-        .option-item { padding: 8px 12px; border-radius: var(--radius-sm); background: var(--bg); font-size: 13px; cursor: pointer; transition: all 0.2s; border: 1px solid transparent; }
-        .option-item:hover { border-color: var(--primary); background: var(--primary-light); }
-        .option-item.correct { background: #d1fae5; border-color: var(--success); color: #065f46; font-weight: 600; }
-        .option-item.wrong { background: #fee2e2; border-color: var(--danger); color: #991b1b; font-weight: 600; }
-        .question-analysis { font-size: 13px; color: var(--text-secondary); line-height: 1.7; padding: 10px 14px; background: var(--bg); border-radius: var(--radius-sm); margin-top: 8px; }
-        .question-analysis strong { color: var(--primary); }
-        .toggle-analysis-btn { font-size: 12px; font-weight: 600; color: var(--primary); background: none; border: none; cursor: pointer; padding: 4px 0; }
-        .toggle-analysis-btn:hover { text-decoration: underline; }
-
-        /* Right Panel */
         .right-panel { width: 240px; flex-shrink: 0; display: flex; flex-direction: column; gap: 16px; position: sticky; top: 84px; height: fit-content; }
-        .right-card { background: var(--card-bg); border-radius: var(--radius-lg); border: 1px solid var(--border); padding: 16px; box-shadow: var(--shadow-sm); }
-        .right-card h4 { font-size: 14px; font-weight: 700; margin-bottom: 10px; color: var(--text); }
-        .progress-ring { display: flex; align-items: center; justify-content: center; padding: 12px 0; }
-        .progress-ring svg { transform: rotate(-90deg); }
-        .progress-ring .ring-bg { fill: none; stroke: var(--bg); stroke-width: 6; }
-        .progress-ring .ring-fg { fill: none; stroke: var(--primary); stroke-width: 6; stroke-linecap: round; transition: stroke-dashoffset 0.5s ease; }
-        .progress-ring .ring-text { font-size: 20px; font-weight: 700; fill: var(--primary); text-anchor: middle; dominant-baseline: central; transform: rotate(90deg); transform-origin: center; }
+        .right-card { background: var(--card-bg); border-radius: var(--radius-lg); border: 1px solid var(--border); padding: 14px; box-shadow: var(--shadow-sm); }
+        .right-card h4 { font-size: 13px; font-weight: 700; margin-bottom: 8px; }
         .wordbook-list { list-style: none; display: flex; flex-direction: column; gap: 4px; max-height: 200px; overflow-y: auto; }
-        .wordbook-item { display: flex; align-items: center; justify-content: space-between; padding: 6px 8px; border-radius: var(--radius-sm); font-size: 13px; cursor: pointer; transition: all 0.2s; }
+        .wordbook-item { display: flex; align-items: center; justify-content: space-between; padding: 5px 6px; border-radius: var(--radius-sm); font-size: 12px; }
         .wordbook-item:hover { background: var(--bg); }
-        .wordbook-item .wb-word { font-weight: 600; color: var(--text); }
-        .wordbook-item .wb-meaning { font-size: 11px; color: var(--text-muted); max-width: 100px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-        .remove-word-btn { background: none; border: none; color: var(--text-muted); cursor: pointer; font-size: 14px; padding: 2px 4px; border-radius: 4px; transition: all 0.2s; }
-        .remove-word-btn:hover { color: var(--danger); background: #fee2e2; }
-        .stats-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
-        .stat-item { text-align: center; padding: 10px; background: var(--bg); border-radius: var(--radius-sm); }
-        .stat-number { font-size: 22px; font-weight: 700; color: var(--primary); }
-        .stat-label { font-size: 11px; color: var(--text-muted); font-weight: 500; }
+        .remove-word-btn { background: none; border: none; color: var(--text-muted); cursor: pointer; font-size: 14px; }
+        .remove-word-btn:hover { color: var(--danger); }
 
-        /* AI Chat & Toasts */
-        .toast-container { position: fixed; bottom: 24px; right: 24px; z-index: 2000; display: flex; flex-direction: column; gap: 8px; }
-        .toast { padding: 12px 18px; border-radius: var(--radius-md); font-size: 14px; font-weight: 500; animation: toastIn 0.3s ease-out; box-shadow: var(--shadow-lg); display: flex; align-items: center; gap: 8px; }
-        .toast.success { background: #065f46; color: #d1fae5; }
-        .toast.info { background: #1e40af; color: #dbeafe; }
-        .toast.warning { background: #92400e; color: #fef3c7; }
-        .toast.danger { background: #991b1b; color: #fee2e2; }
-
-        .ai-assistant-btn { position: fixed; bottom: 24px; left: 24px; z-index: 500; width: 52px; height: 52px; border-radius: 50%; background: var(--primary); color: #fff; border: none; cursor: pointer; font-size: 24px; box-shadow: var(--shadow-lg); transition: all 0.2s; display: flex; align-items: center; justify-content: center; }
-        .ai-assistant-btn:hover { transform: scale(1.1); background: var(--primary-dark); }
-        .ai-chat-panel { position: fixed; bottom: 84px; left: 24px; z-index: 600; width: 340px; max-height: 420px; background: var(--card-bg); border-radius: var(--radius-lg); border: 1px solid var(--border); box-shadow: var(--shadow-xl); display: none; flex-direction: column; overflow: hidden; }
-        .ai-chat-panel.open { display: flex; animation: popoverIn 0.25s ease-out; }
-        .ai-chat-header { padding: 12px 16px; background: var(--primary); color: #fff; font-weight: 600; font-size: 14px; display: flex; justify-content: space-between; align-items: center; }
-        .ai-chat-body { padding: 12px; overflow-y: auto; flex: 1; display: flex; flex-direction: column; gap: 8px; }
-        .ai-message { padding: 8px 12px; border-radius: var(--radius-sm); font-size: 13px; max-width: 85%; line-height: 1.6; }
-        .ai-message.user { background: var(--primary-light); color: var(--text); align-self: flex-end; }
-        .ai-message.bot { background: var(--bg); color: var(--text); align-self: flex-start; }
-        .ai-chat-input { display: flex; gap: 8px; padding: 8px 12px; border-top: 1px solid var(--border); }
-        .ai-chat-input input { flex: 1; padding: 8px 12px; border-radius: 20px; border: 1px solid var(--border); font-size: 13px; outline: none; }
-        .ai-chat-input input:focus { border-color: var(--primary); }
-        .ai-chat-input button { padding: 8px 14px; border-radius: 20px; background: var(--primary); color: #fff; border: none; font-size: 13px; font-weight: 600; cursor: pointer; }
-        .ai-close-btn { background: none; border: none; color: #fff; cursor: pointer; font-size: 18px; padding: 0 4px; }
-
-        @media (max-width: 1200px) { .right-panel { display: none; } }
-        @media (max-width: 900px) { .sidebar { display: none; } .main-container { padding: 12px; } }
-        @media (max-width: 600px) { .reading-panel { padding: 16px; } .question-options { grid-template-columns: 1fr; } .navbar-tabs { overflow-x: auto; } }
-        ::-webkit-scrollbar { width: 6px; height: 6px; }
-        ::-webkit-scrollbar-track { background: transparent; }
-        ::-webkit-scrollbar-thumb { background: var(--text-muted); border-radius: 3px; }
-        ::-webkit-scrollbar-thumb:hover { background: var(--text-secondary); }
+        .toast-container { position: fixed; bottom: 20px; right: 20px; z-index: 2000; display: flex; flex-direction: column; gap: 6px; }
+        .toast { padding: 10px 14px; border-radius: var(--radius-md); font-size: 13px; font-weight: 500; box-shadow: var(--shadow-lg); color: #fff; }
+        .toast.success { background: #065f46; }
+        .toast.info { background: #1e40af; }
+        .toast.warning { background: #92400e; }
+        .toast.danger { background: #991b1b; }
+        
+        @media (max-width: 1100px) { .right-panel { display: none; } }
+        @media (max-width: 800px) { .sidebar { display: none; } .main-container { padding: 10px; } }
     </style>
 </head>
 <body>
     <nav class="navbar">
-        <div class="navbar-brand" onclick="showToast('info', '欢迎使用研英通！')">
-            <div class="logo-icon">英</div>
+        <div class="navbar-brand" onclick="showToast('info', '研英通已就绪！')">
+            <div class="logo-icon">研</div>
             <span>研英通</span>
         </div>
         <div class="navbar-tabs">
-            <button class="navbar-tab active" onclick="switchTab(this, 'reading')">📖 真题精读</button>
-            <button class="navbar-tab" onclick="switchTab(this, 'practice')">📝 刷题模式</button>
-            <button class="navbar-tab" onclick="switchTab(this, 'grammar')">📚 语法库</button>
-            <button class="navbar-tab" onclick="switchTab(this, 'wordbook')">🔖 生词本</button>
-            <button class="navbar-tab" onclick="switchTab(this, 'stats')">📊 学习统计</button>
+            <button class="navbar-tab active">📖 真题精读</button>
+            <button class="navbar-tab" onclick="showToast('info', '写作与试题库迭代中')">📝 试题分析</button>
         </div>
         <div class="navbar-right">
-            <button class="nav-btn" onclick="showToast('info', '学习打卡成功！已连续学习 7 天')">📅 打卡</button>
-            <button class="nav-btn" onclick="showToast('info', '生词本已打开')">🔖 生词本 <span class="badge" id="wordbook-badge">0</span></button>
-            <button class="theme-toggle" onclick="showToast('info', '夜间模式开发中')" title="切换主题">🌙</button>
+            <button class="nav-btn">🔖 生词本 <span class="badge" id="wordbook-badge">0</span></button>
         </div>
     </nav>
 
     <div class="main-container">
         <aside class="sidebar">
             <div class="sidebar-card">
-                <h3>📅 年份筛选</h3>
+                <h3>📅 年份选择</h3>
                 <div class="year-selector" id="year-selector"></div>
             </div>
             <div class="sidebar-card">
-                <h3>📄 文章列表</h3>
-                <select class="filter-select" id="article-filter" onchange="filterArticles(this.value)">
-                    <option value="all">全部文章</option>
-                    <option value="reading">阅读理解</option>
-                    <option value="cloze">完形填空</option>
-                    <option value="translation">翻译</option>
-                    <option value="writing">写作</option>
-                </select>
-                <ul class="article-list" id="article-list" style="margin-top: 10px;"></ul>
+                <h3>📄 真题篇目</h3>
+                <ul class="article-list" id="article-list"></ul>
             </div>
         </aside>
 
-        <main class="content-area" id="main-content">
-            <div class="reading-panel" id="reading-panel">
+        <main class="content-area">
+            <div class="reading-panel">
                 <div class="reading-header">
                     <div>
                         <div class="reading-title" id="reading-title">真题加载中...</div>
-                        <div class="reading-meta" style="margin-top: 8px;">
-                            <span class="meta-tag type">📄 阅读理解</span>
-                            <span class="meta-tag" id="word-count">📊 字数统计中</span>
+                        <div class="reading-meta">
+                            <span class="meta-tag" id="word-count">📊 统计中</span>
                         </div>
                     </div>
-                    <button class="nav-btn" onclick="toggleTranslation()">🔤 翻译：开</button>
+                    <button class="nav-btn" onclick="toggleTranslation()">🔤 译文开关</button>
                 </div>
                 <div class="mode-switch">
-                    <button class="mode-btn active" onclick="switchMode(this, 'bilingual')">🔤 双语对照</button>
-                    <button class="mode-btn" onclick="switchMode(this, 'original')">📄 纯原文</button>
-                    <button class="mode-btn" onclick="switchMode(this, 'translation')">🇨🇳 纯译文</button>
-                    <button class="mode-btn" onclick="switchMode(this, 'sentence')">✍️ 逐句精析</button>
+                    <button class="mode-btn active" onclick="switchMode(this, 'bilingual')">中英对照</button>
+                    <button class="mode-btn" onclick="switchMode(this, 'original')">纯英文</button>
+                    <button class="mode-btn" onclick="switchMode(this, 'translation')">纯译文</button>
                 </div>
-                <div id="article-content">
-                    <div style="text-align: center; color: var(--text-muted); padding: 40px;">
-                        数据加载中，请稍候...
-                    </div>
-                </div>
+                <div id="article-content"></div>
             </div>
 
-            <div class="analysis-panel" id="analysis-panel">
-                <h3>🔬 长难句深度分析</h3>
+            <div class="analysis-panel">
+                <h3>🔬 长难句成分拆解</h3>
                 <div id="sentence-analysis"></div>
-            </div>
-
-            <div class="questions-section" id="questions-section">
-                <h3>📋 题目与详细解析</h3>
-                <div id="questions-container">
-                    <div style="text-align: center; color: var(--text-muted); padding: 20px;">题目数据开发中...</div>
-                </div>
             </div>
         </main>
 
         <aside class="right-panel">
             <div class="right-card">
-                <h4>📈 学习进度</h4>
-                <div class="progress-ring" id="progress-ring">
-                    <svg width="100" height="100" viewBox="0 0 100 100">
-                        <circle class="ring-bg" cx="50" cy="50" r="40"/>
-                        <circle class="ring-fg" id="ring-fg" cx="50" cy="50" r="40" stroke-dasharray="251.2" stroke-dashoffset="100"/>
-                        <text class="ring-text" x="50" y="50" id="ring-percent">0%</text>
-                    </svg>
-                </div>
-                <div style="text-align: center; font-size: 13px; color: var(--text-secondary);" id="progress-text">
-                    已完成 0 篇文章
-                </div>
-            </div>
-            <div class="right-card">
                 <h4>🔖 我的生词本</h4>
                 <ul class="wordbook-list" id="wordbook-list">
-                    <li style="text-align:center; color:var(--text-muted); font-size:13px; padding:16px;">暂无生词，点击文章中的单词添加</li>
+                    <li style="text-align:center; color:var(--text-muted); font-size:12px; padding:12px;">点击文章单词添加生词</li>
                 </ul>
-            </div>
-            <div class="right-card">
-                <h4>📊 数据概览</h4>
-                <div class="stats-grid">
-                    <div class="stat-item"><div class="stat-number">47</div><div class="stat-label">累计天数</div></div>
-                    <div class="stat-item"><div class="stat-number" id="stats-words">0</div><div class="stat-label">已学生词</div></div>
-                    <div class="stat-item"><div class="stat-number">0</div><div class="stat-label">已做题目</div></div>
-                    <div class="stat-item"><div class="stat-number">0%</div><div class="stat-label">正确率</div></div>
-                </div>
             </div>
         </aside>
     </div>
@@ -324,153 +199,112 @@
             <span class="word-phonetic" id="pop-phonetic"></span>
         </div>
         <div id="pop-meanings"></div>
-        <div class="word-example" id="pop-example"></div>
-        <div class="popover-actions">
-            <button class="popover-btn add-word" onclick="addToWordbook()">+ 加入生词本</button>
+        <div style="margin-top: 10px;">
+            <button class="popover-btn add-word" onclick="addToWordbook()">+ 生词本</button>
             <button class="popover-btn close-pop" onclick="closePopover()">关闭</button>
-        </div>
-    </div>
-
-    <button class="ai-assistant-btn" onclick="toggleAIChat()" title="AI 语法助手">🤖</button>
-    <div class="ai-chat-panel" id="ai-chat-panel">
-        <div class="ai-chat-header">
-            <span>🤖 AI 语法助手</span>
-            <button class="ai-close-btn" onclick="toggleAIChat()">×</button>
-        </div>
-        <div class="ai-chat-body" id="ai-chat-body">
-            <div class="ai-message bot">你好！我是AI语法助手。对任何句子有疑问？可以选中后问我！</div>
-        </div>
-        <div class="ai-chat-input">
-            <input type="text" id="ai-input" placeholder="输入你的语法问题..." onkeypress="if(event.key==='Enter')sendAIMessage()">
-            <button onclick="sendAIMessage()">发送</button>
         </div>
     </div>
 
     <div class="toast-container" id="toast-container"></div>
 
     <script>
-        // ==========================================
-        // 1. 真实数据配置区：请在这里填入你生成的所有 JSON 文件名
-        // ==========================================
+        // 1. 全部真题文件名列表 (自动按年份关联，不含 .json 后缀)
+        const fileNames = [
+            "考研英语（旧）2006年真题及答案解析（整卷）",
+            "考研英语（旧）2007年真题及答案解析（整卷）",
+            "考研英语（旧）2008年真题及答案解析（整卷）",
+            "考研英语（旧）2009年真题及答案解析（整卷）",
+            "考研英语二2010年真题及答案解析（整卷）",
+            "考研英语二2011年真题及答案解析（整卷）",
+            "考研英语二2012年真题及答案解析（整卷）",
+            "考研英语二2013年真题及答案解析（整卷）",
+            "考研英语二2014年真题及答案解析（整卷）",
+            "考研英语二2015年真题及答案解析（整卷）",
+            "考研英语二2016年真题及答案解析（整卷）",
+            "考研英语二2017年真题及答案解析（整卷）",
+            "考研英语二2018年真题及答案解析（整卷）",
+            "考研英语二2019年真题及答案解析（整卷）",
+            "考研英语二2020年真题及答案解析（整卷）",
+            "考研英语二2021年真题及答案解析（整卷）",
+            "考研英语二2022年真题及答案解析（整卷）",
+            "考研英语二2023年真题及答案解析（整卷）",
+            "考研英语二2024年真题及答案解析（整卷）",
+            "考研英语二2025年真题及答案解析（整卷）",
+            "考研英语二2026年真题及答案解析（整卷）"
+        ];
 
-            const fileNames = [
-  "考研英语（旧）2006年真题及答案解析（整卷）",
-  "考研英语（旧）2007年真题及答案解析（整卷）",
-  "考研英语（旧）2008年真题及答案解析（整卷）",
-  "考研英语（旧）2009年真题及答案解析（整卷）",
-  "考研英语二2010年真题及答案解析（整卷）",
-  "考研英语二2011年真题及答案解析（整卷）",
-  "考研英语二2012年真题及答案解析（整卷）",
-  "考研英语二2013年真题及答案解析（整卷）",
-  "考研英语二2014年真题及答案解析（整卷）",
-  "考研英语二2015年真题及答案解析（整卷）",
-  "考研英语二2016年真题及答案解析（整卷）",
-  "考研英语二2017年真题及答案解析（整卷）",
-  "考研英语二2018年真题及答案解析（整卷）",
-  "考研英语二2019年真题及答案解析（整卷）",
-  "考研英语二2020年真题及答案解析（整卷）",
-  "考研英语二2021年真题及答案解析（整卷）",
-  "考研英语二2022年真题及答案解析（整卷）",
-  "考研英语二2023年真题及答案解析（整卷）",
-  "考研英语二2024年真题及答案解析（整卷）",
-  "考研英语二2025年真题及答案解析（整卷）",
-  "考研英语二2026年真题及答案解析（整卷）",
-];
-        // 自动提取年份并生成侧边栏所需结构
         const mockArticles = fileNames.map((filename, index) => {
             const yearMatch = filename.match(/\d{4}/);
-            const year = yearMatch ? parseInt(yearMatch[0]) : 2000;
-            return {
-                id: index + 1,
-                year: year,
-                title: filename,
-                filename: filename,
-                type: 'reading'
-            };
+            const year = yearMatch ? parseInt(yearMatch[0]) : 2010;
+            return { id: index + 1, year: year, title: filename, filename: filename };
         });
 
-        // ==========================================
-        // 2. 全局状态
-        // ==========================================
         const state = {
-            currentArticleId: mockArticles.length > 0 ? mockArticles[0].id : 1,
-            currentYear: mockArticles.length > 0 ? mockArticles[0].year : 2024,
+            currentArticleId: 1,
+            currentYear: mockArticles[0].year,
             translationOn: true,
             mode: 'bilingual',
             wordbook: [],
             selectedSentenceId: null,
             selectedWord: null,
             popoverVisible: false,
-            answeredQuestions: {},
-            articleFilter: 'all',
-            completedArticles: new Set(),
-            studyStats: { days: 47, wordsLearned: 0, questionsDone: 0, accuracy: 0 },
         };
 
-        let currentArticleData = null; // 存储当前正在阅读的真实 JSON 数据
+        let currentArticleData = null;
 
-        // 本地简易词典回退方案（当单词太偏僻时使用）
-        const fallbackDictionary = {
-            'artificial': { phonetic: '/ˌɑːrtɪˈfɪʃl/', meanings: [{ pos: 'adj.', def: '人工的；人造的' }] },
-            'intelligence': { phonetic: '/ɪnˈtelɪdʒəns/', meanings: [{ pos: 'n.', def: '智力；智慧' }] }
-        };
-
-        function getDictionaryEntry(word) {
-            const lower = word.toLowerCase().replace(/[^a-z]/g, '');
-            // 在实际项目中，这里可以替换为请求真实的查词 API
-            return fallbackDictionary[lower] || fallbackDictionary[word] || null;
-        }
-
-        function showToast(type, message) {
+        function showToast(type, msg) {
             const container = document.getElementById('toast-container');
             const toast = document.createElement('div');
             toast.className = `toast ${type}`;
-            toast.textContent = message;
+            toast.textContent = msg;
             container.appendChild(toast);
-            setTimeout(() => {
-                toast.style.opacity = '0';
-                toast.style.transition = 'opacity 0.3s';
-                setTimeout(() => toast.remove(), 300);
-            }, 2500);
+            setTimeout(() => toast.remove(), 2500);
         }
 
-        // ==========================================
-        // 3. 核心功能：数据加载与渲染
-        // ==========================================
-
-        // 动态加载对应年份的 JSON 文件
+        // 2. 动态健壮加载 JSON
         async function selectArticle(id) {
             state.currentArticleId = id;
             state.selectedSentenceId = null;
-            state.answeredQuestions = {};
-
             const article = mockArticles.find(a => a.id === id);
             if (!article) return;
 
-            try {
-                showToast('info', `正在加载真题数据...`);
-                // 动态向 data 文件夹请求 JSON
-                const response = await fetch(`data/${article.filename}.json`);
-                if (!response.ok) throw new Error("Network response was not ok");
+            showToast('info', `加载 ${article.year} 真题...`);
 
-                currentArticleData = await response.json();
+            // 自动兼容两种路径与 URL 编码
+            const pathsToTry = [
+                `data/${encodeURIComponent(article.filename)}.json`,
+                `./data/${encodeURIComponent(article.filename)}.json`,
+                `${encodeURIComponent(article.filename)}.json`,
+                `data/${article.filename}.json`
+            ];
 
-                // 记录为已完成
-                state.completedArticles.add(id);
+            let loaded = false;
+            for (let path of pathsToTry) {
+                try {
+                    const res = await fetch(path);
+                    if (res.ok) {
+                        currentArticleData = await res.json();
+                        loaded = true;
+                        break;
+                    }
+                } catch (e) {}
+            }
 
+            if (loaded) {
                 renderArticleList();
                 renderArticle();
                 renderAnalysis();
-                renderProgress();
                 closePopover();
-            } catch (error) {
-                console.error("Fetch error: ", error);
-                showToast('danger', '加载失败！请确保你已经将 JSON 放入了 data 文件夹并推送到 GitHub。');
-                document.getElementById('article-content').innerHTML = '<div style="text-align:center; padding: 20px; color: var(--danger);">数据加载失败，请检查文件路径或网络。</div>';
+            } else {
+                showToast('danger', '读取失败：请确认 GitHub 仓库已创建 data 文件夹并放入 JSON');
+                document.getElementById('article-content').innerHTML = `
+                    <div style="text-align:center; padding: 40px; color: var(--danger);">
+                        <p style="font-weight:700;">真题文件读取失败</p>
+                        <p style="font-size:12px; color:var(--text-muted); margin-top:8px;">请确认仓库已存在 data/${article.filename}.json</p>
+                    </div>`;
             }
         }
 
-        // 渲染侧边栏年份
         function renderYearSelector() {
             const years = [...new Set(mockArticles.map(a => a.year))].sort((a, b) => b - a);
             const container = document.getElementById('year-selector');
@@ -483,46 +317,28 @@
             state.currentYear = year;
             renderYearSelector();
             renderArticleList();
+            const firstOfCurrentYear = mockArticles.find(a => a.year === year);
+            if (firstOfCurrentYear) selectArticle(firstOfCurrentYear.id);
         }
 
-        function filterArticles(type) {
-            state.articleFilter = type;
-            renderArticleList();
-        }
-
-        // 渲染侧边栏文章列表
         function renderArticleList() {
-            const filtered = mockArticles.filter(a =>
-                a.year === state.currentYear && (state.articleFilter === 'all' || a.type === state.articleFilter)
-            );
+            const filtered = mockArticles.filter(a => a.year === state.currentYear);
             const container = document.getElementById('article-list');
-            if (filtered.length === 0) {
-                container.innerHTML = '<li style="text-align:center;color:var(--text-muted);font-size:13px;padding:16px;">暂无文章</li>';
-                return;
-            }
-            container.innerHTML = filtered.map(a => {
-                const isCompleted = state.completedArticles.has(a.id);
-                const statusClass = isCompleted ? 'completed' : (a.id === state.currentArticleId ? 'in-progress' : '');
-                const isActive = a.id === state.currentArticleId;
-                return `<li class="article-item ${isActive ? 'active' : ''}" onclick="selectArticle(${a.id})">
-                            <span class="status-dot ${statusClass}"></span>
-                            ${a.title.substring(0, 18)}...
-                        </li>`;
-            }).join('');
+            container.innerHTML = filtered.map(a => 
+                `<li class="article-item ${a.id === state.currentArticleId ? 'active' : ''}" onclick="selectArticle(${a.id})">
+                    ${a.title}
+                </li>`
+            ).join('');
         }
 
-        // 核心渲染：利用 NLP 真实数据渲染长难句与查词高亮
+        // 3. 渲染文章与分词
         function renderArticle() {
             if (!currentArticleData) return;
-
             document.getElementById('reading-title').textContent = currentArticleData.title;
-
-            // 简单统计单词量
+            
             let totalWords = 0;
-            currentArticleData.paragraphs.forEach(p => p.sentences.forEach(s => totalWords += s.tokens.length));
+            currentArticleData.paragraphs.forEach(p => p.sentences.forEach(s => totalWords += (s.tokens || []).length));
             document.getElementById('word-count').textContent = `📊 约 ${totalWords} 词`;
-
-            document.getElementById('reading-panel').style.display = 'block';
 
             const contentDiv = document.getElementById('article-content');
             contentDiv.innerHTML = '';
@@ -530,23 +346,20 @@
             currentArticleData.paragraphs.forEach((para) => {
                 const paraDiv = document.createElement('div');
                 paraDiv.className = 'paragraph';
-                paraDiv.id = `para-${para.paragraph_id}`;
 
                 const label = document.createElement('div');
                 label.className = 'paragraph-label';
                 label.textContent = `📑 ${para.label || para.paragraph_id}`;
-                label.onclick = () => {
-                    paraDiv.querySelectorAll('.sentence-block').forEach((el, i) => {
-                        el.classList.toggle('active', i === 0);
-                    });
-                };
                 paraDiv.appendChild(label);
+
+                // 获取该段落的首句翻译作为段落备用译文
+                const fallbackParaTrans = (para.sentences[0] && para.sentences[0].translation) ? para.sentences[0].translation : '';
 
                 para.sentences.forEach((sent) => {
                     const sentDiv = document.createElement('div');
                     sentDiv.className = `sentence-block ${sent.id === state.selectedSentenceId ? 'active' : ''}`;
                     sentDiv.id = `sentence-${sent.id}`;
-
+                    
                     sentDiv.onclick = (e) => {
                         if (e.target.classList.contains('clickable-word')) return;
                         state.selectedSentenceId = sent.id;
@@ -557,39 +370,27 @@
 
                     const textDiv = document.createElement('div');
                     textDiv.className = 'sentence-text';
-
-                    // 将 spaCy 拆解的 token 渲染成可点击的单词，词根绑定到点击事件
-                    if (state.mode === 'original' || state.mode === 'bilingual' || state.mode === 'sentence') {
+                    
+                    if (state.mode === 'original' || state.mode === 'bilingual') {
                         let tokensHtml = '';
-                        sent.tokens.forEach(token => {
+                        (sent.tokens || []).forEach(token => {
                             if (!token.is_punct) {
-                                // 传 token.lemma 给字典
-                                tokensHtml += `<span class="clickable-word" data-word="${token.lemma}" data-sentence="${sent.id}" onclick="wordClick(event, '${token.lemma}', '${sent.id}')">${token.word}</span>${token.space_after}`;
+                                tokensHtml += `<span class="clickable-word" onclick="wordClick(event, '${token.lemma || token.word}')">${token.word}</span>${token.space_after || ' '}`;
                             } else {
-                                tokensHtml += `${token.word}${token.space_after}`;
+                                tokensHtml += `${token.word}${token.space_after || ''}`;
                             }
                         });
                         textDiv.innerHTML = tokensHtml;
                     }
                     sentDiv.appendChild(textDiv);
 
-                    // 渲染中文翻译
-                    if (state.translationOn && sent.translation && (state.mode === 'bilingual' || state.mode === 'translation' || state.mode === 'sentence')) {
+                    // 翻译显示逻辑：有单句译文显示单句，无单句译文在段落首句展示完整译文
+                    const transText = sent.translation || (sent.id.endsWith('_1') ? fallbackParaTrans : '');
+                    if (state.translationOn && transText && (state.mode === 'bilingual' || state.mode === 'translation')) {
                         const transDiv = document.createElement('div');
                         transDiv.className = 'sentence-translation';
-                        transDiv.textContent = '💡 ' + sent.translation;
+                        transDiv.textContent = '💡 ' + transText;
                         sentDiv.appendChild(transDiv);
-                    }
-
-                    if (state.mode === 'sentence') {
-                        const actionsDiv = document.createElement('div');
-                        actionsDiv.className = 'sentence-actions';
-                        actionsDiv.innerHTML = `
-                            <button class="sentence-action-btn" onclick="event.stopPropagation();analyzeSentence('${sent.id}')">🔬 分析结构</button>
-                            <button class="sentence-action-btn" onclick="event.stopPropagation();showToast('info', '已复制原文')">📋 复制</button>
-                            <button class="sentence-action-btn" onclick="event.stopPropagation();askAI('${sent.id}')">🤖 问AI</button>
-                        `;
-                        sentDiv.appendChild(actionsDiv);
                     }
 
                     paraDiv.appendChild(sentDiv);
@@ -598,115 +399,115 @@
             });
         }
 
-        function findSentence(id) {
-            if (!currentArticleData) return null;
-            for (const para of currentArticleData.paragraphs) {
-                for (const sent of para.sentences) {
-                    if (sent.id === id) return sent;
-                }
-            }
-            return null;
-        }
-
+        // 4. 自动基于 NLP Token 提取主谓宾语法树
         function renderAnalysis() {
             const container = document.getElementById('sentence-analysis');
-            const analysisPanel = document.getElementById('analysis-panel');
             if (!state.selectedSentenceId) {
-                container.innerHTML = '<div style="text-align:center;color:var(--text-muted);padding:20px;">👆 点击上方句子查看长难句分析</div>';
-                analysisPanel.style.display = 'block';
+                container.innerHTML = '<div style="text-align:center;color:var(--text-muted);padding:14px;">👆 点击上方句子即可查看语法结构拆解</div>';
                 return;
             }
-            const sentence = findSentence(state.selectedSentenceId);
-            if (!sentence) return;
 
-            // 这里的 analysis 提取后续可以根据 PDF 格式进一步完善
-            const a = sentence.analysis || {};
-            let html = '';
-            html += `<div style="font-size:15px;font-weight:600;margin-bottom:12px;color:var(--text);">📝 原句：${sentence.text}</div>`;
-
-            // 如果 JSON 中存在被解析出来的结构
-            if (Object.keys(a).length > 0) {
-                html += '<div class="sentence-tree">';
-                if (a.subject && a.subject.length) html += `<div class="tree-level"><span class="tree-label">主语</span>${a.subject.map(s => `<span class="tree-token subject">${s}</span>`).join('')}</div>`;
-                if (a.verb && a.verb.length) html += `<div class="tree-level"><span class="tree-label">谓语</span>${a.verb.map(s => `<span class="tree-token verb">${s}</span>`).join('')}</div>`;
-                if (a.object && a.object.length) html += `<div class="tree-level"><span class="tree-label">宾语</span>${a.object.map(s => `<span class="tree-token object">${s}</span>`).join('')}</div>`;
-                if (a.clause && a.clause.length) html += `<div class="tree-level"><span class="tree-label">从句</span>${a.clause.map(s => `<span class="tree-token clause">${s}</span>`).join('')}</div>`;
-                if (a.modifier && a.modifier.length) html += `<div class="tree-level"><span class="tree-label">修饰</span>${a.modifier.map(s => `<span class="tree-token modifier">${s}</span>`).join('')}</div>`;
-                html += '</div>';
-                if (a.note) html += `<div class="analysis-note">📖 <strong>结构分析：</strong>${a.note}</div>`;
-                if (a.grammarTip) html += `<div class="grammar-tip">💡 <strong>语法要点：</strong>${a.grammarTip}</div>`;
-            } else {
-                html += '<div style="color:var(--text-muted); margin-top: 10px;">暂无该句的深度解析树，您可点击【问AI】进行智能解析。</div>';
+            let foundSent = null;
+            if (currentArticleData) {
+                for (let p of currentArticleData.paragraphs) {
+                    for (let s of p.sentences) {
+                        if (s.id === state.selectedSentenceId) { foundSent = s; break; }
+                    }
+                }
             }
+            if (!foundSent) return;
+
+            // 基于 POS 词性自动分类
+            const subjects = [], verbs = [], objects = [], modifiers = [];
+            (foundSent.tokens || []).forEach(t => {
+                if (['NOUN', 'PROPN', 'PRON'].includes(t.pos)) {
+                    if (verbs.length === 0) subjects.push(t.word);
+                    else objects.push(t.word);
+                } else if (['VERB', 'AUX'].includes(t.pos)) {
+                    verbs.push(t.word);
+                } else if (['ADJ', 'ADV'].includes(t.pos)) {
+                    modifiers.push(t.word);
+                }
+            });
+
+            let html = `<div style="font-size:14px;font-weight:600;margin-bottom:8px;">原句：${foundSent.text}</div><div class="sentence-tree">`;
+            if (subjects.length) html += `<div class="tree-level"><span class="tree-label">主语核心</span>${subjects.slice(0, 3).map(s => `<span class="tree-token subject">${s}</span>`).join('')}</div>`;
+            if (verbs.length) html += `<div class="tree-level"><span class="tree-label">谓语动词</span>${verbs.slice(0, 3).map(s => `<span class="tree-token verb">${s}</span>`).join('')}</div>`;
+            if (objects.length) html += `<div class="tree-level"><span class="tree-label">宾语/表语</span>${objects.slice(0, 3).map(s => `<span class="tree-token object">${s}</span>`).join('')}</div>`;
+            if (modifiers.length) html += `<div class="tree-level"><span class="tree-label">修饰词</span>${modifiers.slice(0, 5).map(s => `<span class="tree-token modifier">${s}</span>`).join('')}</div>`;
+            html += `</div>`;
 
             container.innerHTML = html;
-            analysisPanel.style.display = 'block';
         }
 
-        // ==========================================
-        // 4. 其他 UI 逻辑与事件
-        // ==========================================
-        function renderQuestions() {
-            // 后续接入真实的题目 JSON 数据
-            const container = document.getElementById('questions-container');
-            container.innerHTML = '<div style="text-align: center; color: var(--text-muted); padding: 20px;">试题数据模块正在接入中...</div>';
+        // 5. 实时在线词典 API
+        async function wordClick(event, word) {
+            event.stopPropagation();
+            state.selectedWord = word;
+            
+            const pop = document.getElementById('word-popover');
+            document.getElementById('pop-word').textContent = word;
+            document.getElementById('pop-phonetic').textContent = '查询中...';
+            document.getElementById('pop-meanings').innerHTML = '<div style="color:#cbd5e1;">正在检索词义...</div>';
+            
+            pop.style.left = `${Math.min(event.clientX + 10, window.innerWidth - 320)}px`;
+            pop.style.top = `${Math.min(event.clientY + 10, window.innerHeight - 200)}px`;
+            pop.style.display = 'block';
+            state.popoverVisible = true;
+
+            try {
+                const res = await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(word)}`);
+                if (!res.ok) throw new Error();
+                const data = await res.json();
+                const entry = data[0];
+                
+                document.getElementById('pop-phonetic').textContent = entry.phonetic || (entry.phonetics[0] ? entry.phonetics[0].text : '') || '';
+                let meaningsHtml = '';
+                entry.meanings.slice(0, 2).forEach(m => {
+                    const def = m.definitions[0] ? m.definitions[0].definition : '';
+                    meaningsHtml += `<div style="margin-bottom:4px;"><span class="word-pos">${m.partOfSpeech}</span><span>${def}</span></div>`;
+                });
+                document.getElementById('pop-meanings').innerHTML = meaningsHtml;
+            } catch (err) {
+                document.getElementById('pop-phonetic').textContent = '';
+                document.getElementById('pop-meanings').innerHTML = '<div style="color:#cbd5e1;">未在在线词典检索到该词详细释义</div>';
+            }
+        }
+
+        function closePopover() {
+            document.getElementById('word-popover').style.display = 'none';
+            state.popoverVisible = false;
+        }
+
+        function addToWordbook() {
+            if (!state.selectedWord) return;
+            if (!state.wordbook.includes(state.selectedWord)) {
+                state.wordbook.push(state.selectedWord);
+                document.getElementById('wordbook-badge').textContent = state.wordbook.length;
+                renderWordbook();
+                showToast('success', `已添加 "${state.selectedWord}"`);
+            }
+            closePopover();
         }
 
         function renderWordbook() {
             const list = document.getElementById('wordbook-list');
-            const badge = document.getElementById('wordbook-badge');
-            badge.textContent = state.wordbook.length;
-            document.getElementById('stats-words').textContent = state.wordbook.length;
-
-            if (state.wordbook.length === 0) {
-                list.innerHTML = '<li style="text-align:center;color:var(--text-muted);font-size:13px;padding:16px;">暂无生词，点击文章中的单词添加</li>';
+            if (!state.wordbook.length) {
+                list.innerHTML = '<li style="text-align:center; color:var(--text-muted); font-size:12px; padding:12px;">点击文章单词添加生词</li>';
                 return;
             }
             list.innerHTML = state.wordbook.map((w, i) => `
-                <li class="wordbook-item" onclick="showWordDetail('${w.word}')">
-                    <span class="wb-word">${w.word}</span>
-                    <span class="wb-meaning">${w.meaning}</span>
-                    <button class="remove-word-btn" onclick="event.stopPropagation();removeWord(${i})" title="移除">×</button>
+                <li class="wordbook-item">
+                    <span>${w}</span>
+                    <button class="remove-word-btn" onclick="removeWord(${i})">×</button>
                 </li>
             `).join('');
         }
 
-        function renderProgress() {
-            if (mockArticles.length === 0) return;
-            const progress = Math.round((state.completedArticles.size / mockArticles.length) * 100);
-            const ringFg = document.getElementById('ring-fg');
-            const ringPercent = document.getElementById('ring-percent');
-            const circumference = 2 * Math.PI * 40;
-            const offset = circumference - (progress / 100) * circumference;
-            ringFg.style.strokeDashoffset = offset;
-            ringPercent.textContent = progress + '%';
-            document.getElementById('progress-text').textContent = `已完成 ${state.completedArticles.size} / ${mockArticles.length} 篇文章`;
-        }
-
-        function switchTab(btn, tab) {
-            document.querySelectorAll('.navbar-tab').forEach(t => t.classList.remove('active'));
-            btn.classList.add('active');
-            if (tab === 'reading') {
-                document.getElementById('reading-panel').style.display = 'block';
-                document.getElementById('questions-section').style.display = 'block';
-                document.getElementById('analysis-panel').style.display = 'block';
-                showToast('info', '已切换到真题精读模式');
-            } else if (tab === 'practice') {
-                document.getElementById('reading-panel').style.display = 'none';
-                document.getElementById('analysis-panel').style.display = 'none';
-                document.getElementById('questions-section').style.display = 'block';
-                showToast('info', '已切换到刷题模式');
-            } else if (tab === 'grammar') {
-                document.getElementById('reading-panel').style.display = 'block';
-                document.getElementById('analysis-panel').style.display = 'block';
-                document.getElementById('questions-section').style.display = 'none';
-                showToast('info', '已切换到语法学习模式');
-            } else if (tab === 'wordbook') {
-                showToast('info', `生词本中有 ${state.wordbook.length} 个单词`);
-                renderWordbook();
-            } else if (tab === 'stats') {
-                showToast('info', `学习统计更新中...`);
-            }
+        function removeWord(i) {
+            state.wordbook.splice(i, 1);
+            document.getElementById('wordbook-badge').textContent = state.wordbook.length;
+            renderWordbook();
         }
 
         function switchMode(btn, mode) {
@@ -718,161 +519,19 @@
 
         function toggleTranslation() {
             state.translationOn = !state.translationOn;
-            const btn = document.querySelector('.nav-btn');
-            btn.textContent = state.translationOn ? '🔤 翻译：开' : '🔤 翻译：关';
             renderArticle();
         }
 
-        function wordClick(event, word, sentenceId) {
-            event.stopPropagation();
-            state.selectedWord = word;
-            state.selectedSentenceId = sentenceId;
-            showPopover(event.clientX, event.clientY, word);
-        }
-
-        function showPopover(x, y, word) {
-            const popover = document.getElementById('word-popover');
-            const entry = getDictionaryEntry(word);
-            document.getElementById('pop-word').textContent = word;
-            document.getElementById('pop-phonetic').textContent = entry ? entry.phonetic : '';
-            const meaningsDiv = document.getElementById('pop-meanings');
-            if (entry) {
-                meaningsDiv.innerHTML = entry.meanings.map(m => `<div style="margin-bottom:4px;"><span class="word-pos">${m.pos}</span><span class="word-meaning">${m.def}</span></div>`).join('');
-                document.getElementById('pop-example').textContent = '📖 ' + (entry.example || '');
-            } else {
-                meaningsDiv.innerHTML = '<div class="word-meaning" style="color:var(--warning);">词典库接入中... 💡 建议接入有道或扇贝 API</div>';
-                document.getElementById('pop-example').textContent = '';
-            }
-            const popWidth = 320;
-            const popHeight = 250;
-            let px = x + 12;
-            let py = y - popHeight / 2;
-            if (px + popWidth > window.innerWidth - 10) px = x - popWidth - 12;
-            if (py < 10) py = 10;
-            if (py + popHeight > window.innerHeight - 10) py = window.innerHeight - popHeight - 10;
-            popover.style.left = px + 'px';
-            popover.style.top = py + 'px';
-            popover.style.display = 'block';
-            state.popoverVisible = true;
-            document.querySelectorAll('.clickable-word').forEach(el => el.classList.remove('highlighted'));
-            document.querySelectorAll(`.clickable-word[data-word="${word}"]`).forEach(el => el.classList.add('highlighted'));
-        }
-
-        function closePopover() {
-            document.getElementById('word-popover').style.display = 'none';
-            state.popoverVisible = false;
-            document.querySelectorAll('.clickable-word').forEach(el => el.classList.remove('highlighted'));
-        }
-
-        function addToWordbook() {
-            if (!state.selectedWord) return;
-            const entry = getDictionaryEntry(state.selectedWord);
-            const wordData = {
-                word: state.selectedWord,
-                meaning: entry ? entry.meanings[0]?.def || '词义待更新' : '词义待更新',
-                phonetic: entry?.phonetic || '',
-                addedAt: new Date().toISOString(),
-            };
-            if (!state.wordbook.find(w => w.word === wordData.word)) {
-                state.wordbook.push(wordData);
-                renderWordbook();
-                showToast('success', `✅ "${wordData.word}" 已加入生词本`);
-            } else {
-                showToast('warning', `"${wordData.word}" 已在生词本中`);
-            }
-            closePopover();
-        }
-
-        function removeWord(index) {
-            const word = state.wordbook[index].word;
-            state.wordbook.splice(index, 1);
-            renderWordbook();
-            showToast('info', `已移除 "${word}"`);
-        }
-
-        function showWordDetail(word) {
-            const entry = getDictionaryEntry(word);
-            if (entry) showToast('info', `${word}: ${entry.meanings[0]?.def || ''}`);
-        }
-
-        function analyzeSentence(sentenceId) {
-            state.selectedSentenceId = sentenceId;
-            document.querySelectorAll('.sentence-block').forEach(el => {
-                if (el.id === `sentence-${sentenceId}`) {
-                    el.classList.add('active');
-                    el.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                } else {
-                    el.classList.remove('active');
-                }
-            });
-            renderAnalysis();
-            document.getElementById('analysis-panel').scrollIntoView({ behavior: 'smooth', block: 'start' });
-        }
-
-        function toggleAIChat() {
-            document.getElementById('ai-chat-panel').classList.toggle('open');
-        }
-
-        function sendAIMessage() {
-            const input = document.getElementById('ai-input');
-            const message = input.value.trim();
-            if (!message) return;
-            const body = document.getElementById('ai-chat-body');
-            body.innerHTML += `<div class="ai-message user">${message}</div>`;
-            setTimeout(() => {
-                const response = `关于"${message}"，你可以考虑接入 DeepSeek 接口来实现智能解答。`;
-                body.innerHTML += `<div class="ai-message bot">${response}</div>`;
-                body.scrollTop = body.scrollHeight;
-            }, 600);
-            input.value = '';
-            body.scrollTop = body.scrollHeight;
-        }
-
-        function askAI(sentenceId) {
-            const sentence = findSentence(sentenceId);
-            if (!sentence) return;
-            toggleAIChat();
-            const body = document.getElementById('ai-chat-body');
-            body.innerHTML += `<div class="ai-message user">请分析这句话的结构：${sentence.text}</div>`;
-            setTimeout(() => {
-                const response = '这里可以调用大模型 API (如 DeepSeek/文心一言) 返回该句的完整语法树与词汇讲解。';
-                body.innerHTML += `<div class="ai-message bot">${response}</div>`;
-                body.scrollTop = body.scrollHeight;
-            }, 800);
-        }
-
-        // ==========================================
-        // 5. 初始化入口
-        // ==========================================
         function init() {
             renderYearSelector();
             renderArticleList();
-
-            // 如果数组里有文件名，就去加载第一篇
-            if (mockArticles.length > 0) {
-                selectArticle(mockArticles[0].id);
-            }
-
-            renderQuestions();
-            renderWordbook();
-            renderProgress();
+            if (mockArticles.length > 0) selectArticle(mockArticles[0].id);
 
             document.addEventListener('click', (e) => {
                 if (state.popoverVisible && !e.target.closest('.word-popover') && !e.target.closest('.clickable-word')) {
                     closePopover();
                 }
             });
-            document.addEventListener('keydown', (e) => {
-                if (e.key === 'Escape') {
-                    closePopover();
-                    document.getElementById('ai-chat-panel').classList.remove('open');
-                }
-                if (e.key === 't' && e.ctrlKey) {
-                    e.preventDefault();
-                    toggleTranslation();
-                }
-            });
-            showToast('success', '🎓 研英通初始化完成！');
         }
 
         init();
