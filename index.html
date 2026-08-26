@@ -32,11 +32,7 @@
             --radius-xl: 20px;
         }
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
 
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif;
@@ -46,938 +42,171 @@
             min-height: 100vh;
         }
 
-        .navbar {
-            background: var(--card-bg);
-            border-bottom: 1px solid var(--border);
-            padding: 0 24px;
-            height: 64px;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            position: sticky;
-            top: 0;
-            z-index: 100;
-            box-shadow: var(--shadow-sm);
-        }
-        .navbar-brand {
-            display: flex;
-            align-items: center;
-            gap: 12px;
-            font-size: 22px;
-            font-weight: 700;
-            color: var(--primary);
-            letter-spacing: -0.5px;
-            cursor: pointer;
-        }
-        .navbar-brand .logo-icon {
-            width: 36px;
-            height: 36px;
-            background: var(--primary);
-            border-radius: var(--radius-sm);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: #fff;
-            font-size: 18px;
-            font-weight: 800;
-        }
-        .navbar-tabs {
-            display: flex;
-            gap: 4px;
-            background: var(--bg);
-            padding: 4px;
-            border-radius: var(--radius-md);
-        }
-        .navbar-tab {
-            padding: 8px 18px;
-            border-radius: var(--radius-sm);
-            font-size: 14px;
-            font-weight: 600;
-            cursor: pointer;
-            color: var(--text-secondary);
-            transition: all 0.2s;
-            border: none;
-            background: transparent;
-            white-space: nowrap;
-        }
-        .navbar-tab:hover {
-            color: var(--text);
-            background: var(--card-bg);
-        }
-        .navbar-tab.active {
-            background: var(--card-bg);
-            color: var(--primary);
-            box-shadow: var(--shadow-sm);
-        }
-        .navbar-right {
-            display: flex;
-            align-items: center;
-            gap: 12px;
-        }
-        .nav-btn {
-            padding: 8px 14px;
-            border-radius: var(--radius-sm);
-            border: 1px solid var(--border);
-            background: var(--card-bg);
-            cursor: pointer;
-            font-size: 14px;
-            font-weight: 500;
-            color: var(--text-secondary);
-            display: flex;
-            align-items: center;
-            gap: 6px;
-            transition: all 0.2s;
-        }
-        .nav-btn:hover {
-            border-color: var(--primary);
-            color: var(--primary);
-            background: var(--primary-light);
-        }
-        .nav-btn .badge {
-            background: var(--danger);
-            color: #fff;
-            border-radius: 50%;
-            width: 20px;
-            height: 20px;
-            font-size: 11px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-weight: 700;
-        }
-        .main-container {
-            display: flex;
-            max-width: 1400px;
-            margin: 0 auto;
-            padding: 20px;
-            gap: 20px;
-            min-height: calc(100vh - 64px);
-        }
-        .sidebar {
-            width: 280px;
-            flex-shrink: 0;
-            display: flex;
-            flex-direction: column;
-            gap: 16px;
-            position: sticky;
-            top: 84px;
-            height: fit-content;
-        }
-        .sidebar-card {
-            background: var(--card-bg);
-            border-radius: var(--radius-lg);
-            border: 1px solid var(--border);
-            padding: 16px;
-            box-shadow: var(--shadow-sm);
-        }
-        .sidebar-card h3 {
-            font-size: 15px;
-            font-weight: 700;
-            margin-bottom: 12px;
-            color: var(--text);
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-        .year-selector {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 6px;
-        }
-        .year-btn {
-            padding: 6px 12px;
-            border-radius: var(--radius-sm);
-            border: 1px solid var(--border);
-            background: var(--card-bg);
-            cursor: pointer;
-            font-size: 12px;
-            font-weight: 600;
-            color: var(--text-secondary);
-            transition: all 0.2s;
-        }
-        .year-btn:hover {
-            border-color: var(--primary);
-            color: var(--primary);
-        }
-        .year-btn.active {
-            background: var(--primary);
-            color: #fff;
-            border-color: var(--primary);
-        }
-        .article-list {
-            list-style: none;
-            display: flex;
-            flex-direction: column;
-            gap: 6px;
-        }
-        .article-item {
-            padding: 10px 14px;
-            border-radius: var(--radius-sm);
-            cursor: pointer;
-            font-size: 13px;
-            font-weight: 500;
-            color: var(--text-secondary);
-            transition: all 0.2s;
-            border-left: 3px solid transparent;
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-        .article-item:hover {
-            background: var(--primary-light);
-            color: var(--primary);
-        }
-        .article-item.active {
-            background: var(--primary-light);
-            color: var(--primary);
-            border-left-color: var(--primary);
-            font-weight: 600;
-        }
-        .article-item .status-dot {
-            width: 8px;
-            height: 8px;
-            border-radius: 50%;
-            background: var(--text-muted);
-            flex-shrink: 0;
-        }
-        .article-item .status-dot.completed {
-            background: var(--success);
-        }
-        .article-item .status-dot.in-progress {
-            background: var(--warning);
-        }
-        .filter-select {
-            width: 100%;
-            padding: 8px 12px;
-            border-radius: var(--radius-sm);
-            border: 1px solid var(--border);
-            font-size: 13px;
-            font-weight: 500;
-            color: var(--text);
-            background: var(--card-bg);
-            cursor: pointer;
-            outline: none;
-        }
-        .filter-select:focus {
-            border-color: var(--primary);
-        }
-        .content-area {
-            flex: 1;
-            min-width: 0;
-            display: flex;
-            flex-direction: column;
-            gap: 16px;
-        }
-        .reading-panel {
-            background: var(--card-bg);
-            border-radius: var(--radius-lg);
-            border: 1px solid var(--border);
-            padding: 28px 32px;
-            box-shadow: var(--shadow-sm);
-            position: relative;
-        }
-        .reading-header {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            margin-bottom: 20px;
-            flex-wrap: wrap;
-            gap: 12px;
-        }
-        .reading-title {
-            font-size: 20px;
-            font-weight: 700;
-            color: var(--text);
-            letter-spacing: -0.3px;
-        }
-        .reading-meta {
-            display: flex;
-            gap: 8px;
-            flex-wrap: wrap;
-        }
-        .meta-tag {
-            padding: 4px 10px;
-            border-radius: 20px;
-            font-size: 12px;
-            font-weight: 600;
-            background: var(--bg);
-            color: var(--text-secondary);
-        }
-        .meta-tag.difficulty {
-            background: #fef3c7;
-            color: #92400e;
-        }
-        .meta-tag.type {
-            background: #dbeafe;
-            color: #1e40af;
-        }
-        .mode-switch {
-            display: flex;
-            gap: 4px;
-            background: var(--bg);
-            padding: 4px;
-            border-radius: var(--radius-md);
-            margin-bottom: 16px;
-        }
-        .mode-btn {
-            padding: 7px 16px;
-            border-radius: var(--radius-sm);
-            font-size: 13px;
-            font-weight: 600;
-            cursor: pointer;
-            border: none;
-            background: transparent;
-            color: var(--text-secondary);
-            transition: all 0.2s;
-            display: flex;
-            align-items: center;
-            gap: 6px;
-        }
-        .mode-btn:hover {
-            color: var(--text);
-        }
-        .mode-btn.active {
-            background: var(--card-bg);
-            color: var(--primary);
-            box-shadow: var(--shadow-sm);
-        }
-        .paragraph {
-            margin-bottom: 20px;
-        }
-        .paragraph-label {
-            font-size: 12px;
-            font-weight: 700;
-            color: var(--text-muted);
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            margin-bottom: 8px;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            gap: 6px;
-        }
-        .paragraph-label:hover {
-            color: var(--primary);
-        }
-        .sentence-block {
-            padding: 10px 14px;
-            border-radius: var(--radius-sm);
-            cursor: pointer;
-            transition: all 0.2s;
-            border-left: 2px solid transparent;
-            position: relative;
-            margin-bottom: 6px;
-        }
-        .sentence-block:hover {
-            background: var(--sentence-hover);
-            border-left-color: var(--primary);
-        }
-        .sentence-block.active {
-            background: var(--primary-light);
-            border-left-color: var(--primary);
-        }
-        .sentence-text {
-            font-size: 16px;
-            font-weight: 400;
-            color: var(--text);
-            line-height: 1.8;
-            letter-spacing: 0.2px;
-        }
-        .sentence-translation {
-            font-size: 14px;
-            color: var(--text-secondary);
-            line-height: 1.7;
-            margin-top: 4px;
-            padding-left: 8px;
-            border-left: 2px dashed var(--border);
-        }
-        .sentence-actions {
-            display: flex;
-            gap: 6px;
-            margin-top: 6px;
-            opacity: 0;
-            transition: opacity 0.2s;
-        }
-        .sentence-block:hover .sentence-actions {
-            opacity: 1;
-        }
-        .sentence-action-btn {
-            font-size: 11px;
-            padding: 3px 8px;
-            border-radius: 12px;
-            border: 1px solid var(--border);
-            background: var(--card-bg);
-            cursor: pointer;
-            color: var(--text-secondary);
-            font-weight: 500;
-            transition: all 0.2s;
-        }
-        .sentence-action-btn:hover {
-            border-color: var(--primary);
-            color: var(--primary);
-            background: var(--primary-light);
-        }
-        .clickable-word {
-            cursor: pointer;
-            border-bottom: 2px solid transparent;
-            transition: all 0.15s;
-            border-radius: 2px;
-            padding: 0 1px;
-            position: relative;
-            display: inline;
-        }
-        .clickable-word:hover {
-            background: var(--highlight);
-            border-bottom-color: var(--warning);
-        }
-        .clickable-word.highlighted {
-            background: var(--highlight);
-            border-bottom-color: var(--warning);
-            font-weight: 600;
-        }
-        .word-popover {
-            position: fixed;
-            z-index: 1000;
-            background: var(--popover-bg);
-            color: var(--popover-text);
-            border-radius: var(--radius-md);
-            padding: 16px 20px;
-            box-shadow: var(--shadow-xl);
-            min-width: 280px;
-            max-width: 360px;
-            font-size: 14px;
-            animation: popoverIn 0.2s ease-out;
-            pointer-events: auto;
-        }
-        @keyframes popoverIn {
-            from { opacity: 0; transform: translateY(8px) scale(0.97); }
-            to { opacity: 1; transform: translateY(0) scale(1); }
-        }
-        .word-popover .word-head {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            margin-bottom: 10px;
-        }
-        .word-popover .word-title {
-            font-size: 20px;
-            font-weight: 700;
-            color: #fff;
-            letter-spacing: -0.3px;
-        }
-        .word-popover .word-phonetic {
-            font-size: 13px;
-            color: #cbd5e1;
-            font-weight: 400;
-        }
-        .word-popover .word-pos {
-            display: inline-block;
-            padding: 2px 8px;
-            border-radius: 4px;
-            font-size: 11px;
-            font-weight: 700;
-            background: var(--primary);
-            color: #fff;
-            margin-right: 6px;
-            margin-bottom: 4px;
-        }
-        .word-popover .word-meaning {
-            font-size: 14px;
-            color: #e2e8f0;
-            line-height: 1.7;
-            margin-bottom: 4px;
-        }
-        .word-popover .word-example {
-            font-size: 12px;
-            color: #94a3b8;
-            font-style: italic;
-            margin-top: 8px;
-            padding-top: 8px;
-            border-top: 1px solid rgba(255, 255, 255, 0.1);
-        }
-        .word-popover .popover-actions {
-            display: flex;
-            gap: 8px;
-            margin-top: 12px;
-        }
-        .popover-btn {
-            padding: 5px 12px;
-            border-radius: 20px;
-            font-size: 12px;
-            font-weight: 600;
-            cursor: pointer;
-            border: none;
-            transition: all 0.2s;
-        }
-        .popover-btn.add-word {
-            background: var(--success);
-            color: #fff;
-        }
-        .popover-btn.add-word:hover {
-            background: #059669;
-        }
-        .popover-btn.close-pop {
-            background: rgba(255, 255, 255, 0.15);
-            color: #cbd5e1;
-        }
-        .popover-btn.close-pop:hover {
-            background: rgba(255, 255, 255, 0.25);
-        }
-        .analysis-panel {
-            background: var(--card-bg);
-            border-radius: var(--radius-lg);
-            border: 1px solid var(--border);
-            padding: 20px 24px;
-            box-shadow: var(--shadow-sm);
-        }
-        .analysis-panel h3 {
-            font-size: 16px;
-            font-weight: 700;
-            margin-bottom: 14px;
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            color: var(--text);
-        }
-        .sentence-tree {
-            display: flex;
-            flex-direction: column;
-            gap: 8px;
-            padding: 12px;
-            background: var(--bg);
-            border-radius: var(--radius-md);
-        }
-        .tree-level {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-            align-items: center;
-        }
-        .tree-label {
-            font-size: 11px;
-            font-weight: 700;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            color: var(--text-muted);
-            min-width: 56px;
-            flex-shrink: 0;
-        }
-        .tree-token {
-            padding: 5px 10px;
-            border-radius: var(--radius-sm);
-            font-size: 13px;
-            font-weight: 600;
-            cursor: pointer;
-            transition: all 0.2s;
-            border: 1px solid transparent;
-            display: inline-flex;
-            align-items: center;
-            gap: 4px;
-        }
-        .tree-token:hover {
-            transform: translateY(-1px);
-            box-shadow: var(--shadow-sm);
-        }
+        /* NavBar Styles */
+        .navbar { background: var(--card-bg); border-bottom: 1px solid var(--border); padding: 0 24px; height: 64px; display: flex; align-items: center; justify-content: space-between; position: sticky; top: 0; z-index: 100; box-shadow: var(--shadow-sm); }
+        .navbar-brand { display: flex; align-items: center; gap: 12px; font-size: 22px; font-weight: 700; color: var(--primary); letter-spacing: -0.5px; cursor: pointer; }
+        .navbar-brand .logo-icon { width: 36px; height: 36px; background: var(--primary); border-radius: var(--radius-sm); display: flex; align-items: center; justify-content: center; color: #fff; font-size: 18px; font-weight: 800; }
+        .navbar-tabs { display: flex; gap: 4px; background: var(--bg); padding: 4px; border-radius: var(--radius-md); }
+        .navbar-tab { padding: 8px 18px; border-radius: var(--radius-sm); font-size: 14px; font-weight: 600; cursor: pointer; color: var(--text-secondary); transition: all 0.2s; border: none; background: transparent; white-space: nowrap; }
+        .navbar-tab:hover { color: var(--text); background: var(--card-bg); }
+        .navbar-tab.active { background: var(--card-bg); color: var(--primary); box-shadow: var(--shadow-sm); }
+        .navbar-right { display: flex; align-items: center; gap: 12px; }
+        .nav-btn { padding: 8px 14px; border-radius: var(--radius-sm); border: 1px solid var(--border); background: var(--card-bg); cursor: pointer; font-size: 14px; font-weight: 500; color: var(--text-secondary); display: flex; align-items: center; gap: 6px; transition: all 0.2s; }
+        .nav-btn:hover { border-color: var(--primary); color: var(--primary); background: var(--primary-light); }
+        .nav-btn .badge { background: var(--danger); color: #fff; border-radius: 50%; width: 20px; height: 20px; font-size: 11px; display: flex; align-items: center; justify-content: center; font-weight: 700; }
+        .theme-toggle { cursor: pointer; font-size: 20px; padding: 6px; border-radius: 50%; transition: all 0.2s; border: none; background: none; }
+        .theme-toggle:hover { background: var(--bg); }
+
+        /* Main Container */
+        .main-container { display: flex; max-width: 1400px; margin: 0 auto; padding: 20px; gap: 20px; min-height: calc(100vh - 64px); }
+
+        /* Sidebar */
+        .sidebar { width: 280px; flex-shrink: 0; display: flex; flex-direction: column; gap: 16px; position: sticky; top: 84px; height: fit-content; }
+        .sidebar-card { background: var(--card-bg); border-radius: var(--radius-lg); border: 1px solid var(--border); padding: 16px; box-shadow: var(--shadow-sm); }
+        .sidebar-card h3 { font-size: 15px; font-weight: 700; margin-bottom: 12px; color: var(--text); display: flex; align-items: center; gap: 8px; }
+        .year-selector { display: flex; flex-wrap: wrap; gap: 6px; }
+        .year-btn { padding: 6px 12px; border-radius: var(--radius-sm); border: 1px solid var(--border); background: var(--card-bg); cursor: pointer; font-size: 12px; font-weight: 600; color: var(--text-secondary); transition: all 0.2s; }
+        .year-btn:hover { border-color: var(--primary); color: var(--primary); }
+        .year-btn.active { background: var(--primary); color: #fff; border-color: var(--primary); }
+        .filter-select { width: 100%; padding: 8px 12px; border-radius: var(--radius-sm); border: 1px solid var(--border); font-size: 13px; font-weight: 500; color: var(--text); background: var(--card-bg); cursor: pointer; outline: none; }
+        .filter-select:focus { border-color: var(--primary); }
+        .article-list { list-style: none; display: flex; flex-direction: column; gap: 6px; }
+        .article-item { padding: 10px 14px; border-radius: var(--radius-sm); cursor: pointer; font-size: 13px; font-weight: 500; color: var(--text-secondary); transition: all 0.2s; border-left: 3px solid transparent; display: flex; align-items: center; gap: 8px; }
+        .article-item:hover { background: var(--primary-light); color: var(--primary); }
+        .article-item.active { background: var(--primary-light); color: var(--primary); border-left-color: var(--primary); font-weight: 600; }
+        .article-item .status-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--text-muted); flex-shrink: 0; }
+        .article-item .status-dot.completed { background: var(--success); }
+        .article-item .status-dot.in-progress { background: var(--warning); }
+
+        /* Content Area */
+        .content-area { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 16px; }
+        .reading-panel { background: var(--card-bg); border-radius: var(--radius-lg); border: 1px solid var(--border); padding: 28px 32px; box-shadow: var(--shadow-sm); position: relative; }
+        .reading-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px; flex-wrap: wrap; gap: 12px; }
+        .reading-title { font-size: 20px; font-weight: 700; color: var(--text); letter-spacing: -0.3px; }
+        .reading-meta { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 8px; }
+        .meta-tag { padding: 4px 10px; border-radius: 20px; font-size: 12px; font-weight: 600; background: var(--bg); color: var(--text-secondary); }
+        .meta-tag.difficulty { background: #fef3c7; color: #92400e; }
+        .meta-tag.type { background: #dbeafe; color: #1e40af; }
+        .mode-switch { display: flex; gap: 4px; background: var(--bg); padding: 4px; border-radius: var(--radius-md); margin-bottom: 16px; }
+        .mode-btn { padding: 7px 16px; border-radius: var(--radius-sm); font-size: 13px; font-weight: 600; cursor: pointer; border: none; background: transparent; color: var(--text-secondary); transition: all 0.2s; display: flex; align-items: center; gap: 6px; }
+        .mode-btn:hover { color: var(--text); }
+        .mode-btn.active { background: var(--card-bg); color: var(--primary); box-shadow: var(--shadow-sm); }
+
+        .paragraph { margin-bottom: 20px; }
+        .paragraph-label { font-size: 12px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; cursor: pointer; display: flex; align-items: center; gap: 6px; }
+        .paragraph-label:hover { color: var(--primary); }
+        .sentence-block { padding: 10px 14px; border-radius: var(--radius-sm); cursor: pointer; transition: all 0.2s; border-left: 2px solid transparent; position: relative; margin-bottom: 6px; }
+        .sentence-block:hover { background: var(--sentence-hover); border-left-color: var(--primary); }
+        .sentence-block.active { background: var(--primary-light); border-left-color: var(--primary); }
+        .sentence-text { font-size: 16px; font-weight: 400; color: var(--text); line-height: 1.8; letter-spacing: 0.2px; }
+        .sentence-translation { font-size: 14px; color: var(--text-secondary); line-height: 1.7; margin-top: 4px; padding-left: 8px; border-left: 2px dashed var(--border); }
+        .sentence-actions { display: flex; gap: 6px; margin-top: 6px; opacity: 0; transition: opacity 0.2s; }
+        .sentence-block:hover .sentence-actions { opacity: 1; }
+        .sentence-action-btn { font-size: 11px; padding: 3px 8px; border-radius: 12px; border: 1px solid var(--border); background: var(--card-bg); cursor: pointer; color: var(--text-secondary); font-weight: 500; transition: all 0.2s; }
+        .sentence-action-btn:hover { border-color: var(--primary); color: var(--primary); background: var(--primary-light); }
+
+        /* Highlight and Popover */
+        .clickable-word { cursor: pointer; border-bottom: 2px solid transparent; transition: all 0.15s; border-radius: 2px; padding: 0 1px; position: relative; display: inline; }
+        .clickable-word:hover { background: var(--highlight); border-bottom-color: var(--warning); }
+        .clickable-word.highlighted { background: var(--highlight); border-bottom-color: var(--warning); font-weight: 600; }
+        .word-popover { position: fixed; z-index: 1000; background: var(--popover-bg); color: var(--popover-text); border-radius: var(--radius-md); padding: 16px 20px; box-shadow: var(--shadow-xl); min-width: 280px; max-width: 360px; font-size: 14px; animation: popoverIn 0.2s ease-out; pointer-events: auto; }
+        @keyframes popoverIn { from { opacity: 0; transform: translateY(8px) scale(0.97); } to { opacity: 1; transform: translateY(0) scale(1); } }
+        .word-popover .word-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px; }
+        .word-popover .word-title { font-size: 20px; font-weight: 700; color: #fff; letter-spacing: -0.3px; }
+        .word-popover .word-phonetic { font-size: 13px; color: #cbd5e1; font-weight: 400; }
+        .word-popover .word-pos { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 700; background: var(--primary); color: #fff; margin-right: 6px; margin-bottom: 4px; }
+        .word-popover .word-meaning { font-size: 14px; color: #e2e8f0; line-height: 1.7; margin-bottom: 4px; }
+        .word-popover .word-example { font-size: 12px; color: #94a3b8; font-style: italic; margin-top: 8px; padding-top: 8px; border-top: 1px solid rgba(255, 255, 255, 0.1); }
+        .word-popover .popover-actions { display: flex; gap: 8px; margin-top: 12px; }
+        .popover-btn { padding: 5px 12px; border-radius: 20px; font-size: 12px; font-weight: 600; cursor: pointer; border: none; transition: all 0.2s; }
+        .popover-btn.add-word { background: var(--success); color: #fff; }
+        .popover-btn.add-word:hover { background: #059669; }
+        .popover-btn.close-pop { background: rgba(255, 255, 255, 0.15); color: #cbd5e1; }
+        .popover-btn.close-pop:hover { background: rgba(255, 255, 255, 0.25); }
+
+        /* Analysis Panel */
+        .analysis-panel { background: var(--card-bg); border-radius: var(--radius-lg); border: 1px solid var(--border); padding: 20px 24px; box-shadow: var(--shadow-sm); }
+        .analysis-panel h3 { font-size: 16px; font-weight: 700; margin-bottom: 14px; display: flex; align-items: center; gap: 8px; color: var(--text); }
+        .sentence-tree { display: flex; flex-direction: column; gap: 8px; padding: 12px; background: var(--bg); border-radius: var(--radius-md); }
+        .tree-level { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+        .tree-label { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-muted); min-width: 56px; flex-shrink: 0; }
+        .tree-token { padding: 5px 10px; border-radius: var(--radius-sm); font-size: 13px; font-weight: 600; cursor: pointer; transition: all 0.2s; border: 1px solid transparent; display: inline-flex; align-items: center; gap: 4px; }
+        .tree-token:hover { transform: translateY(-1px); box-shadow: var(--shadow-sm); }
         .tree-token.subject { background: #dbeafe; color: #1e40af; border-color: #93c5fd; }
         .tree-token.verb { background: #fee2e2; color: #991b1b; border-color: #fca5a5; }
         .tree-token.object { background: #d1fae5; color: #065f46; border-color: #6ee7b7; }
         .tree-token.clause { background: #fef3c7; color: #92400e; border-color: #fcd34d; }
         .tree-token.modifier { background: #ede9fe; color: #5b21b6; border-color: #c4b5fd; }
-        .tree-arrow {
-            color: var(--text-muted);
-            font-size: 16px;
-            font-weight: 700;
-            margin: 0 4px;
-        }
-        .analysis-note {
-            margin-top: 12px;
-            padding: 12px 16px;
-            background: #fffbeb;
-            border-radius: var(--radius-sm);
-            border-left: 3px solid var(--warning);
-            font-size: 13px;
-            color: #78350f;
-            line-height: 1.7;
-        }
-        .grammar-tip {
-            margin-top: 8px;
-            padding: 10px 14px;
-            background: #f0fdf4;
-            border-radius: var(--radius-sm);
-            border-left: 3px solid var(--success);
-            font-size: 13px;
-            color: #14532d;
-            line-height: 1.7;
-        }
-        .questions-section {
-            background: var(--card-bg);
-            border-radius: var(--radius-lg);
-            border: 1px solid var(--border);
-            padding: 24px 28px;
-            box-shadow: var(--shadow-sm);
-        }
-        .questions-section h3 {
-            font-size: 16px;
-            font-weight: 700;
-            margin-bottom: 16px;
-            color: var(--text);
-        }
-        .question-item {
-            padding: 16px;
-            border: 1px solid var(--border);
-            border-radius: var(--radius-md);
-            margin-bottom: 12px;
-            transition: all 0.2s;
-        }
-        .question-item:hover {
-            border-color: var(--primary);
-            box-shadow: var(--shadow-sm);
-        }
-        .question-text {
-            font-size: 15px;
-            font-weight: 600;
-            margin-bottom: 10px;
-            color: var(--text);
-        }
-        .question-options {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 8px;
-            margin-bottom: 10px;
-        }
-        .option-item {
-            padding: 8px 12px;
-            border-radius: var(--radius-sm);
-            background: var(--bg);
-            font-size: 13px;
-            cursor: pointer;
-            transition: all 0.2s;
-            border: 1px solid transparent;
-        }
-        .option-item:hover {
-            border-color: var(--primary);
-            background: var(--primary-light);
-        }
-        .option-item.correct {
-            background: #d1fae5;
-            border-color: var(--success);
-            color: #065f46;
-            font-weight: 600;
-        }
-        .option-item.wrong {
-            background: #fee2e2;
-            border-color: var(--danger);
-            color: #991b1b;
-            font-weight: 600;
-        }
-        .question-analysis {
-            font-size: 13px;
-            color: var(--text-secondary);
-            line-height: 1.7;
-            padding: 10px 14px;
-            background: var(--bg);
-            border-radius: var(--radius-sm);
-            margin-top: 8px;
-        }
-        .question-analysis strong {
-            color: var(--primary);
-        }
-        .toggle-analysis-btn {
-            font-size: 12px;
-            font-weight: 600;
-            color: var(--primary);
-            background: none;
-            border: none;
-            cursor: pointer;
-            padding: 4px 0;
-        }
-        .toggle-analysis-btn:hover {
-            text-decoration: underline;
-        }
-        .right-panel {
-            width: 240px;
-            flex-shrink: 0;
-            display: flex;
-            flex-direction: column;
-            gap: 16px;
-            position: sticky;
-            top: 84px;
-            height: fit-content;
-        }
-        .right-card {
-            background: var(--card-bg);
-            border-radius: var(--radius-lg);
-            border: 1px solid var(--border);
-            padding: 16px;
-            box-shadow: var(--shadow-sm);
-        }
-        .right-card h4 {
-            font-size: 14px;
-            font-weight: 700;
-            margin-bottom: 10px;
-            color: var(--text);
-        }
-        .progress-ring {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            padding: 12px 0;
-        }
-        .progress-ring svg {
-            transform: rotate(-90deg);
-        }
-        .progress-ring .ring-bg {
-            fill: none;
-            stroke: var(--bg);
-            stroke-width: 6;
-        }
-        .progress-ring .ring-fg {
-            fill: none;
-            stroke: var(--primary);
-            stroke-width: 6;
-            stroke-linecap: round;
-            transition: stroke-dashoffset 0.5s ease;
-        }
-        .progress-ring .ring-text {
-            font-size: 20px;
-            font-weight: 700;
-            fill: var(--primary);
-            text-anchor: middle;
-            dominant-baseline: central;
-            transform: rotate(90deg);
-            transform-origin: center;
-        }
-        .wordbook-list {
-            list-style: none;
-            display: flex;
-            flex-direction: column;
-            gap: 4px;
-            max-height: 200px;
-            overflow-y: auto;
-        }
-        .wordbook-item {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            padding: 6px 8px;
-            border-radius: var(--radius-sm);
-            font-size: 13px;
-            cursor: pointer;
-            transition: all 0.2s;
-        }
-        .wordbook-item:hover {
-            background: var(--bg);
-        }
-        .wordbook-item .wb-word {
-            font-weight: 600;
-            color: var(--text);
-        }
-        .wordbook-item .wb-meaning {
-            font-size: 11px;
-            color: var(--text-muted);
-            max-width: 100px;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            white-space: nowrap;
-        }
-        .remove-word-btn {
-            background: none;
-            border: none;
-            color: var(--text-muted);
-            cursor: pointer;
-            font-size: 14px;
-            padding: 2px 4px;
-            border-radius: 4px;
-            transition: all 0.2s;
-        }
-        .remove-word-btn:hover {
-            color: var(--danger);
-            background: #fee2e2;
-        }
-        .stats-grid {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 8px;
-        }
-        .stat-item {
-            text-align: center;
-            padding: 10px;
-            background: var(--bg);
-            border-radius: var(--radius-sm);
-        }
-        .stat-number {
-            font-size: 22px;
-            font-weight: 700;
-            color: var(--primary);
-        }
-        .stat-label {
-            font-size: 11px;
-            color: var(--text-muted);
-            font-weight: 500;
-        }
-        .toast-container {
-            position: fixed;
-            bottom: 24px;
-            right: 24px;
-            z-index: 2000;
-            display: flex;
-            flex-direction: column;
-            gap: 8px;
-        }
-        .toast {
-            padding: 12px 18px;
-            border-radius: var(--radius-md);
-            font-size: 14px;
-            font-weight: 500;
-            animation: toastIn 0.3s ease-out;
-            box-shadow: var(--shadow-lg);
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
+        .analysis-note { margin-top: 12px; padding: 12px 16px; background: #fffbeb; border-radius: var(--radius-sm); border-left: 3px solid var(--warning); font-size: 13px; color: #78350f; line-height: 1.7; }
+        .grammar-tip { margin-top: 8px; padding: 10px 14px; background: #f0fdf4; border-radius: var(--radius-sm); border-left: 3px solid var(--success); font-size: 13px; color: #14532d; line-height: 1.7; }
+
+        /* Questions Section */
+        .questions-section { background: var(--card-bg); border-radius: var(--radius-lg); border: 1px solid var(--border); padding: 24px 28px; box-shadow: var(--shadow-sm); }
+        .questions-section h3 { font-size: 16px; font-weight: 700; margin-bottom: 16px; color: var(--text); }
+        .question-item { padding: 16px; border: 1px solid var(--border); border-radius: var(--radius-md); margin-bottom: 12px; transition: all 0.2s; }
+        .question-item:hover { border-color: var(--primary); box-shadow: var(--shadow-sm); }
+        .question-text { font-size: 15px; font-weight: 600; margin-bottom: 10px; color: var(--text); }
+        .question-options { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 10px; }
+        .option-item { padding: 8px 12px; border-radius: var(--radius-sm); background: var(--bg); font-size: 13px; cursor: pointer; transition: all 0.2s; border: 1px solid transparent; }
+        .option-item:hover { border-color: var(--primary); background: var(--primary-light); }
+        .option-item.correct { background: #d1fae5; border-color: var(--success); color: #065f46; font-weight: 600; }
+        .option-item.wrong { background: #fee2e2; border-color: var(--danger); color: #991b1b; font-weight: 600; }
+        .question-analysis { font-size: 13px; color: var(--text-secondary); line-height: 1.7; padding: 10px 14px; background: var(--bg); border-radius: var(--radius-sm); margin-top: 8px; }
+        .question-analysis strong { color: var(--primary); }
+        .toggle-analysis-btn { font-size: 12px; font-weight: 600; color: var(--primary); background: none; border: none; cursor: pointer; padding: 4px 0; }
+        .toggle-analysis-btn:hover { text-decoration: underline; }
+
+        /* Right Panel */
+        .right-panel { width: 240px; flex-shrink: 0; display: flex; flex-direction: column; gap: 16px; position: sticky; top: 84px; height: fit-content; }
+        .right-card { background: var(--card-bg); border-radius: var(--radius-lg); border: 1px solid var(--border); padding: 16px; box-shadow: var(--shadow-sm); }
+        .right-card h4 { font-size: 14px; font-weight: 700; margin-bottom: 10px; color: var(--text); }
+        .progress-ring { display: flex; align-items: center; justify-content: center; padding: 12px 0; }
+        .progress-ring svg { transform: rotate(-90deg); }
+        .progress-ring .ring-bg { fill: none; stroke: var(--bg); stroke-width: 6; }
+        .progress-ring .ring-fg { fill: none; stroke: var(--primary); stroke-width: 6; stroke-linecap: round; transition: stroke-dashoffset 0.5s ease; }
+        .progress-ring .ring-text { font-size: 20px; font-weight: 700; fill: var(--primary); text-anchor: middle; dominant-baseline: central; transform: rotate(90deg); transform-origin: center; }
+        .wordbook-list { list-style: none; display: flex; flex-direction: column; gap: 4px; max-height: 200px; overflow-y: auto; }
+        .wordbook-item { display: flex; align-items: center; justify-content: space-between; padding: 6px 8px; border-radius: var(--radius-sm); font-size: 13px; cursor: pointer; transition: all 0.2s; }
+        .wordbook-item:hover { background: var(--bg); }
+        .wordbook-item .wb-word { font-weight: 600; color: var(--text); }
+        .wordbook-item .wb-meaning { font-size: 11px; color: var(--text-muted); max-width: 100px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+        .remove-word-btn { background: none; border: none; color: var(--text-muted); cursor: pointer; font-size: 14px; padding: 2px 4px; border-radius: 4px; transition: all 0.2s; }
+        .remove-word-btn:hover { color: var(--danger); background: #fee2e2; }
+        .stats-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+        .stat-item { text-align: center; padding: 10px; background: var(--bg); border-radius: var(--radius-sm); }
+        .stat-number { font-size: 22px; font-weight: 700; color: var(--primary); }
+        .stat-label { font-size: 11px; color: var(--text-muted); font-weight: 500; }
+
+        /* AI Chat & Toasts */
+        .toast-container { position: fixed; bottom: 24px; right: 24px; z-index: 2000; display: flex; flex-direction: column; gap: 8px; }
+        .toast { padding: 12px 18px; border-radius: var(--radius-md); font-size: 14px; font-weight: 500; animation: toastIn 0.3s ease-out; box-shadow: var(--shadow-lg); display: flex; align-items: center; gap: 8px; }
         .toast.success { background: #065f46; color: #d1fae5; }
         .toast.info { background: #1e40af; color: #dbeafe; }
         .toast.warning { background: #92400e; color: #fef3c7; }
-        @keyframes toastIn {
-            from { opacity: 0; transform: translateX(30px); }
-            to { opacity: 1; transform: translateX(0); }
-        }
-        @media (max-width: 1200px) {
-            .right-panel { display: none; }
-        }
-        @media (max-width: 900px) {
-            .sidebar { display: none; }
-            .main-container { padding: 12px; }
-        }
-        @media (max-width: 600px) {
-            .reading-panel { padding: 16px; }
-            .question-options { grid-template-columns: 1fr; }
-            .navbar-tabs { overflow-x: auto; }
-        }
+        .toast.danger { background: #991b1b; color: #fee2e2; }
+
+        .ai-assistant-btn { position: fixed; bottom: 24px; left: 24px; z-index: 500; width: 52px; height: 52px; border-radius: 50%; background: var(--primary); color: #fff; border: none; cursor: pointer; font-size: 24px; box-shadow: var(--shadow-lg); transition: all 0.2s; display: flex; align-items: center; justify-content: center; }
+        .ai-assistant-btn:hover { transform: scale(1.1); background: var(--primary-dark); }
+        .ai-chat-panel { position: fixed; bottom: 84px; left: 24px; z-index: 600; width: 340px; max-height: 420px; background: var(--card-bg); border-radius: var(--radius-lg); border: 1px solid var(--border); box-shadow: var(--shadow-xl); display: none; flex-direction: column; overflow: hidden; }
+        .ai-chat-panel.open { display: flex; animation: popoverIn 0.25s ease-out; }
+        .ai-chat-header { padding: 12px 16px; background: var(--primary); color: #fff; font-weight: 600; font-size: 14px; display: flex; justify-content: space-between; align-items: center; }
+        .ai-chat-body { padding: 12px; overflow-y: auto; flex: 1; display: flex; flex-direction: column; gap: 8px; }
+        .ai-message { padding: 8px 12px; border-radius: var(--radius-sm); font-size: 13px; max-width: 85%; line-height: 1.6; }
+        .ai-message.user { background: var(--primary-light); color: var(--text); align-self: flex-end; }
+        .ai-message.bot { background: var(--bg); color: var(--text); align-self: flex-start; }
+        .ai-chat-input { display: flex; gap: 8px; padding: 8px 12px; border-top: 1px solid var(--border); }
+        .ai-chat-input input { flex: 1; padding: 8px 12px; border-radius: 20px; border: 1px solid var(--border); font-size: 13px; outline: none; }
+        .ai-chat-input input:focus { border-color: var(--primary); }
+        .ai-chat-input button { padding: 8px 14px; border-radius: 20px; background: var(--primary); color: #fff; border: none; font-size: 13px; font-weight: 600; cursor: pointer; }
+        .ai-close-btn { background: none; border: none; color: #fff; cursor: pointer; font-size: 18px; padding: 0 4px; }
+
+        @media (max-width: 1200px) { .right-panel { display: none; } }
+        @media (max-width: 900px) { .sidebar { display: none; } .main-container { padding: 12px; } }
+        @media (max-width: 600px) { .reading-panel { padding: 16px; } .question-options { grid-template-columns: 1fr; } .navbar-tabs { overflow-x: auto; } }
         ::-webkit-scrollbar { width: 6px; height: 6px; }
         ::-webkit-scrollbar-track { background: transparent; }
         ::-webkit-scrollbar-thumb { background: var(--text-muted); border-radius: 3px; }
         ::-webkit-scrollbar-thumb:hover { background: var(--text-secondary); }
-        .theme-toggle {
-            cursor: pointer;
-            font-size: 20px;
-            padding: 6px;
-            border-radius: 50%;
-            transition: all 0.2s;
-            border: none;
-            background: none;
-        }
-        .theme-toggle:hover { background: var(--bg); }
-        .ai-assistant-btn {
-            position: fixed;
-            bottom: 24px;
-            left: 24px;
-            z-index: 500;
-            width: 52px;
-            height: 52px;
-            border-radius: 50%;
-            background: var(--primary);
-            color: #fff;
-            border: none;
-            cursor: pointer;
-            font-size: 24px;
-            box-shadow: var(--shadow-lg);
-            transition: all 0.2s;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-        .ai-assistant-btn:hover {
-            transform: scale(1.1);
-            background: var(--primary-dark);
-        }
-        .ai-chat-panel {
-            position: fixed;
-            bottom: 84px;
-            left: 24px;
-            z-index: 600;
-            width: 340px;
-            max-height: 420px;
-            background: var(--card-bg);
-            border-radius: var(--radius-lg);
-            border: 1px solid var(--border);
-            box-shadow: var(--shadow-xl);
-            display: none;
-            flex-direction: column;
-            overflow: hidden;
-        }
-        .ai-chat-panel.open {
-            display: flex;
-            animation: popoverIn 0.25s ease-out;
-        }
-        .ai-chat-header {
-            padding: 12px 16px;
-            background: var(--primary);
-            color: #fff;
-            font-weight: 600;
-            font-size: 14px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-        .ai-chat-body {
-            padding: 12px;
-            overflow-y: auto;
-            flex: 1;
-            display: flex;
-            flex-direction: column;
-            gap: 8px;
-        }
-        .ai-message {
-            padding: 8px 12px;
-            border-radius: var(--radius-sm);
-            font-size: 13px;
-            max-width: 85%;
-            line-height: 1.6;
-        }
-        .ai-message.user {
-            background: var(--primary-light);
-            color: var(--text);
-            align-self: flex-end;
-        }
-        .ai-message.bot {
-            background: var(--bg);
-            color: var(--text);
-            align-self: flex-start;
-        }
-        .ai-chat-input {
-            display: flex;
-            gap: 8px;
-            padding: 8px 12px;
-            border-top: 1px solid var(--border);
-        }
-        .ai-chat-input input {
-            flex: 1;
-            padding: 8px 12px;
-            border-radius: 20px;
-            border: 1px solid var(--border);
-            font-size: 13px;
-            outline: none;
-        }
-        .ai-chat-input input:focus { border-color: var(--primary); }
-        .ai-chat-input button {
-            padding: 8px 14px;
-            border-radius: 20px;
-            background: var(--primary);
-            color: #fff;
-            border: none;
-            font-size: 13px;
-            font-weight: 600;
-            cursor: pointer;
-        }
-        .ai-close-btn {
-            background: none;
-            border: none;
-            color: #fff;
-            cursor: pointer;
-            font-size: 18px;
-            padding: 0 4px;
-        }
     </style>
 </head>
 <body>
@@ -1023,11 +252,10 @@
             <div class="reading-panel" id="reading-panel">
                 <div class="reading-header">
                     <div>
-                        <div class="reading-title" id="reading-title">2024年考研英语二真题 - Text 1</div>
+                        <div class="reading-title" id="reading-title">真题加载中...</div>
                         <div class="reading-meta" style="margin-top: 8px;">
-                            <span class="meta-tag difficulty">⭐ 难度：中等</span>
                             <span class="meta-tag type">📄 阅读理解</span>
-                            <span class="meta-tag" id="word-count">📊 约480词</span>
+                            <span class="meta-tag" id="word-count">📊 字数统计中</span>
                         </div>
                     </div>
                     <button class="nav-btn" onclick="toggleTranslation()">🔤 翻译：开</button>
@@ -1038,7 +266,11 @@
                     <button class="mode-btn" onclick="switchMode(this, 'translation')">🇨🇳 纯译文</button>
                     <button class="mode-btn" onclick="switchMode(this, 'sentence')">✍️ 逐句精析</button>
                 </div>
-                <div id="article-content"></div>
+                <div id="article-content">
+                    <div style="text-align: center; color: var(--text-muted); padding: 40px;">
+                        数据加载中，请稍候...
+                    </div>
+                </div>
             </div>
 
             <div class="analysis-panel" id="analysis-panel">
@@ -1048,7 +280,9 @@
 
             <div class="questions-section" id="questions-section">
                 <h3>📋 题目与详细解析</h3>
-                <div id="questions-container"></div>
+                <div id="questions-container">
+                    <div style="text-align: center; color: var(--text-muted); padding: 20px;">题目数据开发中...</div>
+                </div>
             </div>
         </main>
 
@@ -1058,13 +292,12 @@
                 <div class="progress-ring" id="progress-ring">
                     <svg width="100" height="100" viewBox="0 0 100 100">
                         <circle class="ring-bg" cx="50" cy="50" r="40"/>
-                        <circle class="ring-fg" id="ring-fg" cx="50" cy="50" r="40"
-                        stroke-dasharray="251.2" stroke-dashoffset="100"/>
-                        <text class="ring-text" x="50" y="50" id="ring-percent">60%</text>
+                        <circle class="ring-fg" id="ring-fg" cx="50" cy="50" r="40" stroke-dasharray="251.2" stroke-dashoffset="100"/>
+                        <text class="ring-text" x="50" y="50" id="ring-percent">0%</text>
                     </svg>
                 </div>
-                <div style="text-align: center; font-size: 13px; color: var(--text-secondary);">
-                    已完成 12 / 20 篇文章
+                <div style="text-align: center; font-size: 13px; color: var(--text-secondary);" id="progress-text">
+                    已完成 0 篇文章
                 </div>
             </div>
             <div class="right-card">
@@ -1076,22 +309,10 @@
             <div class="right-card">
                 <h4>📊 数据概览</h4>
                 <div class="stats-grid">
-                    <div class="stat-item">
-                        <div class="stat-number">47</div>
-                        <div class="stat-label">累计学习天数</div>
-                    </div>
-                    <div class="stat-item">
-                        <div class="stat-number">186</div>
-                        <div class="stat-label">已学生词</div>
-                    </div>
-                    <div class="stat-item">
-                        <div class="stat-number">23</div>
-                        <div class="stat-label">已做题目</div>
-                    </div>
-                    <div class="stat-item">
-                        <div class="stat-number">82%</div>
-                        <div class="stat-label">正确率</div>
-                    </div>
+                    <div class="stat-item"><div class="stat-number">47</div><div class="stat-label">累计天数</div></div>
+                    <div class="stat-item"><div class="stat-number" id="stats-words">0</div><div class="stat-label">已学生词</div></div>
+                    <div class="stat-item"><div class="stat-number">0</div><div class="stat-label">已做题目</div></div>
+                    <div class="stat-item"><div class="stat-number">0%</div><div class="stat-label">正确率</div></div>
                 </div>
             </div>
         </aside>
@@ -1100,7 +321,7 @@
     <div class="word-popover" id="word-popover" style="display: none;" onclick="event.stopPropagation();">
         <div class="word-head">
             <span class="word-title" id="pop-word">word</span>
-            <span class="word-phonetic" id="pop-phonetic">/wɜːrd/</span>
+            <span class="word-phonetic" id="pop-phonetic"></span>
         </div>
         <div id="pop-meanings"></div>
         <div class="word-example" id="pop-example"></div>
@@ -1128,133 +349,52 @@
     <div class="toast-container" id="toast-container"></div>
 
     <script>
-        // 模拟文章列表
-        const mockArticles = [
-            { id: 1, year: 2024, title: 'Text 1: The Rise of Green Manufacturing', type: 'reading', difficulty: 'medium', wordCount: 480 },
-            { id: 2, year: 2024, title: 'Text 2: Digital Privacy in the Modern Era', type: 'reading', difficulty: 'hard', wordCount: 520 },
-            { id: 3, year: 2024, title: 'Text 3: The Future of Remote Work', type: 'reading', difficulty: 'medium', wordCount: 465 },
-            { id: 4, year: 2024, title: '完形填空: Urban Planning and Community', type: 'cloze', difficulty: 'medium', wordCount: 350 },
-            { id: 5, year: 2023, title: 'Text 1: Artificial Intelligence in Healthcare', type: 'reading', difficulty: 'hard', wordCount: 510 },
-            { id: 6, year: 2023, title: 'Text 2: Sustainable Agriculture', type: 'reading', difficulty: 'easy', wordCount: 440 },
-            { id: 7, year: 2023, title: '翻译: 科技创新与人才培养', type: 'translation', difficulty: 'medium', wordCount: 280 },
-            { id: 8, year: 2022, title: 'Text 1: The Gig Economy', type: 'reading', difficulty: 'medium', wordCount: 495 },
-            { id: 9, year: 2022, title: 'Text 2: Climate Change Adaptation', type: 'reading', difficulty: 'hard', wordCount: 530 },
-            { id: 10, year: 2021, title: 'Text 1: Consumer Behavior Shifts', type: 'reading', difficulty: 'easy', wordCount: 420 },
-            { id: 11, year: 2021, title: 'Text 2: Education Reform', type: 'reading', difficulty: 'medium', wordCount: 475 },
-            { id: 12, year: 2020, title: 'Text 1: Automation and Employment', type: 'reading', difficulty: 'hard', wordCount: 500 },
-        ];
+        // ==========================================
+        // 1. 真实数据配置区：请在这里填入你生成的所有 JSON 文件名
+        // ==========================================
 
-        // 模拟文章段落内容
-        const mockParagraphs = [
-            { id: 'p1', label: 'Paragraph 1', sentences: [
-                    { id: 's1', text: 'The rapid advancement of artificial intelligence has fundamentally transformed the landscape of modern manufacturing, creating unprecedented opportunities for efficiency gains while simultaneously raising concerns about workforce displacement.',
-                      translation: '人工智能的快速发展从根本上改变了现代制造业的格局，在创造前所未有的效率提升机会的同时，也引发了人们对劳动力被取代的担忧。',
-                      analysis: {
-                          mainClause: 'The rapid advancement has transformed the landscape',
-                          subject: ['The rapid advancement of artificial intelligence'],
-                          verb: ['has fundamentally transformed'],
-                          object: ['the landscape of modern manufacturing'],
-                          clause: ['creating unprecedented opportunities', 'raising concerns about workforce displacement'],
-                          modifier: ['while simultaneously'],
-                          note: '本句为复合句，主句为"主语+谓语+宾语"结构。现在分词短语"creating..."和"raising..."作伴随状语，由连词"while"连接，表达同时发生的两种结果。',
-                          grammarTip: '现在分词作伴随状语：creating 和 raising 的逻辑主语与主句主语一致，表示与主句动作同时发生的伴随情况。'
-                      } },
-                    { id: 's2', text: 'Manufacturers who embrace these technological innovations stand to gain a significant competitive advantage in the global marketplace.',
-                      translation: '拥抱这些技术创新的制造商有望在全球市场中获得显著的竞争优势。',
-                      analysis: {
-                          mainClause: 'Manufacturers stand to gain an advantage',
-                          subject: ['Manufacturers'],
-                          verb: ['stand to gain'],
-                          object: ['a significant competitive advantage'],
-                          clause: ['who embrace these technological innovations'],
-                          modifier: ['in the global marketplace'],
-                          note: '本句包含一个定语从句"who embrace these technological innovations"修饰主语Manufacturers。主句谓语为"stand to gain"（有望获得）。',
-                          grammarTip: '定语从句：关系代词who引导的从句修饰先行词Manufacturers，起到限定作用。'
-                      } },
-                ] },
-            { id: 'p2', label: 'Paragraph 2', sentences: [
-                    { id: 's3', text: 'Despite the initial investment costs being substantial, long-term operational savings through automation and predictive maintenance often outweigh the upfront expenditures by a considerable margin.',
-                      translation: '尽管初始投资成本相当可观，但通过自动化和预测性维护实现的长期运营节省往往以相当大的幅度超过前期支出。',
-                      analysis: {
-                          mainClause: 'savings outweigh the expenditures',
-                          subject: ['long-term operational savings'],
-                          verb: ['often outweigh'],
-                          object: ['the upfront expenditures'],
-                          clause: ['Despite the initial investment costs being substantial'],
-                          modifier: ['through automation and predictive maintenance', 'by a considerable margin'],
-                          note: '本句以"Despite"引导让步状语，主句为主谓宾结构。介词短语"through..."作方式状语，"by a considerable margin"作程度状语。',
-                          grammarTip: 'Despite引导让步状语，后可接名词或动名词短语，不能直接接句子。'
-                      } },
-                ] },
-            { id: 'p3', label: 'Paragraph 3', sentences: [
-                    { id: 's4', text: 'The skills gap that currently exists between traditional factory workers and the requirements of highly automated production lines represents one of the most pressing challenges facing industrial policymakers today.',
-                      translation: '目前传统工厂工人与高度自动化生产线要求之间存在的技能差距，是当今工业政策制定者面临的最紧迫的挑战之一。',
-                      analysis: {
-                          mainClause: 'The skills gap represents one of the challenges',
-                          subject: ['The skills gap'],
-                          verb: ['represents'],
-                          object: ['one of the most pressing challenges'],
-                          clause: ['that currently exists between traditional factory workers and the requirements of highly automated production lines', 'facing industrial policymakers today'],
-                          modifier: [],
-                          note: '本句主语"skills gap"后接定语从句修饰，主句谓语为"represents"。动名词短语"facing..."作后置定语修饰challenges。',
-                          grammarTip: '定语从句较长时，需要先找到主句的主谓宾，再分析从句结构。'
-                      } },
-                ] },
-        ];
+            const fileNames = [
+  "考研英语（旧）2006年真题及答案解析（整卷）",
+  "考研英语（旧）2007年真题及答案解析（整卷）",
+  "考研英语（旧）2008年真题及答案解析（整卷）",
+  "考研英语（旧）2009年真题及答案解析（整卷）",
+  "考研英语二2010年真题及答案解析（整卷）",
+  "考研英语二2011年真题及答案解析（整卷）",
+  "考研英语二2012年真题及答案解析（整卷）",
+  "考研英语二2013年真题及答案解析（整卷）",
+  "考研英语二2014年真题及答案解析（整卷）",
+  "考研英语二2015年真题及答案解析（整卷）",
+  "考研英语二2016年真题及答案解析（整卷）",
+  "考研英语二2017年真题及答案解析（整卷）",
+  "考研英语二2018年真题及答案解析（整卷）",
+  "考研英语二2019年真题及答案解析（整卷）",
+  "考研英语二2020年真题及答案解析（整卷）",
+  "考研英语二2021年真题及答案解析（整卷）",
+  "考研英语二2022年真题及答案解析（整卷）",
+  "考研英语二2023年真题及答案解析（整卷）",
+  "考研英语二2024年真题及答案解析（整卷）",
+  "考研英语二2025年真题及答案解析（整卷）",
+  "考研英语二2026年真题及答案解析（整卷）",
+];
+        // 自动提取年份并生成侧边栏所需结构
+        const mockArticles = fileNames.map((filename, index) => {
+            const yearMatch = filename.match(/\d{4}/);
+            const year = yearMatch ? parseInt(yearMatch[0]) : 2000;
+            return {
+                id: index + 1,
+                year: year,
+                title: filename,
+                filename: filename,
+                type: 'reading'
+            };
+        });
 
-        const mockQuestions = [
-            { id: 'q1', text: 'According to the passage, what is the main concern about AI in manufacturing?', options: ['A. It will completely eliminate all jobs', 'B. It may displace workers while improving efficiency', 'C. It is too expensive to implement', 'D. It has no practical applications'], correct: 1, analysis: '文章第一段明确提到"creating unprecedented opportunities for efficiency gains while simultaneously raising concerns about workforce displacement"，说明AI在提升效率的同时引发了劳动力被取代的担忧，选项B最准确地概括了这一观点。选项A过于绝对，选项C和D与原文不符。', location: 'Paragraph 1, Sentence 1' },
-            { id: 'q2', text: 'What does the author suggest about companies that adopt new technologies?', options: ['A. They will face significant risks', 'B. They will gain a competitive edge', 'C. They will struggle with implementation', 'D. They will lose market share'], correct: 1, analysis: '文章第二句提到"Manufacturers who embrace these technological innovations stand to gain a significant competitive advantage"，直接表明采用新技术的制造商将获得竞争优势。', location: 'Paragraph 1, Sentence 2' },
-            { id: 'q3', text: 'The phrase "upfront expenditures" in Paragraph 2 most likely means:', options: ['A. Ongoing maintenance costs', 'B. Initial investment costs', 'C. Employee salaries', 'D. Marketing expenses'], correct: 1, analysis: '"upfront"意为"预先的、前期的"，与"initial"（初始的）意思相近。文章对比了"初始投资成本"与"长期运营节省"，选项B最准确。', location: 'Paragraph 2, Sentence 3' },
-            { id: 'q4', text: 'What is the primary challenge mentioned in Paragraph 3?', options: ['A. The high cost of training programs', 'B. The skills gap between workers and automation requirements', 'C. The lack of government support', 'D. The slow pace of technological advancement'], correct: 1, analysis: '第三段明确指出"The skills gap that currently exists between traditional factory workers and the requirements of highly automated production lines represents one of the most pressing challenges"，技能差距是最紧迫的挑战。', location: 'Paragraph 3, Sentence 4' },
-            { id: 'q5', text: 'The author\'s tone in discussing AI in manufacturing can best be described as:', options: ['A. Highly critical and negative', 'B. Entirely optimistic', 'C. Balanced and analytical', 'D. Emotionally charged'], correct: 2, analysis: '作者在肯定AI带来的效率提升的同时，也客观分析了技能差距等挑战，整体态度是平衡和分析性的。选项C最准确。', location: 'Overall passage' },
-        ];
-
-        const mockDictionary = {
-            'artificial': { phonetic: '/ˌɑːrtɪˈfɪʃl/', meanings: [{ pos: 'adj.', def: '人工的；人造的；非自然的' }, { pos: 'adj.', def: '虚假的；矫揉造作的' }], example: 'artificial intelligence 人工智能' },
-            'intelligence': { phonetic: '/ɪnˈtelɪdʒəns/', meanings: [{ pos: 'n.', def: '智力；智慧；理解力' }, { pos: 'n.', def: '情报；情报机构' }], example: 'artificial intelligence 人工智能；military intelligence 军事情报' },
-            'fundamentally': { phonetic: '/ˌfʌndəˈmentəli/', meanings: [{ pos: 'adv.', def: '根本地；基础地；完全地' }], example: 'The approach is fundamentally different.' },
-            'transformed': { phonetic: '/trænsˈfɔːrmd/', meanings: [{ pos: 'v.', def: '改变；转变；改造（transform的过去式）' }], example: 'Technology has transformed our lives.' },
-            'landscape': { phonetic: '/ˈlændskeɪp/', meanings: [{ pos: 'n.', def: '风景；景观；格局' }, { pos: 'n.', def: '局面；形势' }], example: 'the political landscape' },
-            'manufacturing': { phonetic: '/ˌmænjuˈfæktʃərɪŋ/', meanings: [{ pos: 'n.', def: '制造业；生产' }, { pos: 'adj.', def: '制造的；生产的' }], example: 'manufacturing industry' },
-            'unprecedented': { phonetic: '/ʌnˈpresɪdentɪd/', meanings: [{ pos: 'adj.', def: '前所未有的；史无前例的' }], example: 'unprecedented growth' },
-            'efficiency': { phonetic: '/ɪˈfɪʃənsi/', meanings: [{ pos: 'n.', def: '效率；效能；功效' }], example: 'improve efficiency' },
-            'simultaneously': { phonetic: '/ˌsaɪmlˈteɪniəsli/', meanings: [{ pos: 'adv.', def: '同时地；同步地' }], example: 'The two events happened simultaneously.' },
-            'displacement': { phonetic: '/dɪsˈpleɪsmənt/', meanings: [{ pos: 'n.', def: '取代；替代；移位' }, { pos: 'n.', def: '排水量' }], example: 'job displacement' },
-            'manufacturers': { phonetic: '/ˌmænjuˈfæktʃərəz/', meanings: [{ pos: 'n.', def: '制造商；生产商（复数）' }], example: 'car manufacturers' },
-            'embrace': { phonetic: '/ɪmˈbreɪs/', meanings: [{ pos: 'v.', def: '拥抱；欣然接受；采纳' }, { pos: 'n.', def: '拥抱' }], example: 'embrace new technology' },
-            'innovations': { phonetic: '/ˌɪnəˈveɪʃənz/', meanings: [{ pos: 'n.', def: '创新；革新（复数）' }], example: 'technological innovations' },
-            'competitive': { phonetic: '/kəmˈpetətɪv/', meanings: [{ pos: 'adj.', def: '竞争的；有竞争力的' }], example: 'competitive advantage' },
-            'advantage': { phonetic: '/ədˈvæntɪdʒ/', meanings: [{ pos: 'n.', def: '优势；有利条件' }, { pos: 'n.', def: '好处；利益' }], example: 'take advantage of' },
-            'substantial': { phonetic: '/səbˈstænʃl/', meanings: [{ pos: 'adj.', def: '大量的；可观的；实质性的' }], example: 'substantial investment' },
-            'automation': { phonetic: '/ˌɔːtəˈmeɪʃn/', meanings: [{ pos: 'n.', def: '自动化；自动控制' }], example: 'industrial automation' },
-            'predictive': { phonetic: '/prɪˈdɪktɪv/', meanings: [{ pos: 'adj.', def: '预测的；预言的' }], example: 'predictive maintenance' },
-            'maintenance': { phonetic: '/ˈmeɪntənəns/', meanings: [{ pos: 'n.', def: '维护；保养；维修' }], example: 'regular maintenance' },
-            'outweigh': { phonetic: '/ˌaʊtˈweɪ/', meanings: [{ pos: 'v.', def: '超过；比...更重要；胜过' }], example: 'The benefits outweigh the risks.' },
-            'expenditures': { phonetic: '/ɪkˈspendɪtʃərz/', meanings: [{ pos: 'n.', def: '支出；花费（复数）' }], example: 'government expenditures' },
-            'considerable': { phonetic: '/kənˈsɪdərəbl/', meanings: [{ pos: 'adj.', def: '相当大的；重要的；可观的' }], example: 'a considerable amount of' },
-            'currently': { phonetic: '/ˈkɜːrəntli/', meanings: [{ pos: 'adv.', def: '目前；当前；现在' }], example: 'currently available' },
-            'requirements': { phonetic: '/rɪˈkwaɪərmənts/', meanings: [{ pos: 'n.', def: '要求；需求；必要条件（复数）' }], example: 'meet the requirements' },
-            'represents': { phonetic: '/ˌreprɪˈzents/', meanings: [{ pos: 'v.', def: '代表；象征；体现（第三人称单数）' }], example: 'represents a challenge' },
-            'pressing': { phonetic: '/ˈpresɪŋ/', meanings: [{ pos: 'adj.', def: '紧迫的；紧急的；迫切的' }], example: 'a pressing issue' },
-            'policymakers': { phonetic: '/ˈpɒləsɪmeɪkəz/', meanings: [{ pos: 'n.', def: '政策制定者；决策者（复数）' }], example: 'government policymakers' },
-            'challenges': { phonetic: '/ˈtʃælɪndʒɪz/', meanings: [{ pos: 'n.', def: '挑战；难题（复数）' }, { pos: 'v.', def: '向...挑战（第三人称单数）' }], example: 'face challenges' },
-            'technological': { phonetic: '/ˌteknəˈlɒdʒɪkl/', meanings: [{ pos: 'adj.', def: '技术的；科技的' }], example: 'technological advancement' },
-            'advancement': { phonetic: '/ədˈvænsmənt/', meanings: [{ pos: 'n.', def: '进步；发展；前进' }], example: 'career advancement' },
-            'global': { phonetic: '/ˈɡloʊbl/', meanings: [{ pos: 'adj.', def: '全球的；全世界的；全面的' }], example: 'global market' },
-            'marketplace': { phonetic: '/ˈmɑːrkɪtpleɪs/', meanings: [{ pos: 'n.', def: '市场；商业界' }], example: 'online marketplace' },
-            'operational': { phonetic: '/ˌɑːpəˈreɪʃənl/', meanings: [{ pos: 'adj.', def: '运营的；操作的；业务的' }], example: 'operational costs' },
-            'savings': { phonetic: '/ˈseɪvɪŋz/', meanings: [{ pos: 'n.', def: '节省；存款；储蓄（复数）' }], example: 'long-term savings' },
-            'margin': { phonetic: '/ˈmɑːrdʒən/', meanings: [{ pos: 'n.', def: '幅度；差额；边缘' }], example: 'by a wide margin' },
-            'traditional': { phonetic: '/trəˈdɪʃənl/', meanings: [{ pos: 'adj.', def: '传统的；惯例的' }], example: 'traditional factory' },
-            'automated': { phonetic: '/ˈɔːtəmeɪtɪd/', meanings: [{ pos: 'adj.', def: '自动化的；自动操作的' }], example: 'automated production' },
-            'industrial': { phonetic: '/ɪnˈdʌstriəl/', meanings: [{ pos: 'adj.', def: '工业的；产业的' }], example: 'industrial policy' },
-            'gap': { phonetic: '/ɡæp/', meanings: [{ pos: 'n.', def: '差距；缺口；缝隙' }], example: 'skills gap' },
-        };
-
+        // ==========================================
+        // 2. 全局状态
+        // ==========================================
         const state = {
-            currentArticleId: 1,
-            currentYear: 2024,
+            currentArticleId: mockArticles.length > 0 ? mockArticles[0].id : 1,
+            currentYear: mockArticles.length > 0 ? mockArticles[0].year : 2024,
             translationOn: true,
             mode: 'bilingual',
             wordbook: [],
@@ -1263,13 +403,22 @@
             popoverVisible: false,
             answeredQuestions: {},
             articleFilter: 'all',
-            completedArticles: new Set([1, 2, 5, 8]),
-            studyStats: { days: 47, wordsLearned: 186, questionsDone: 23, accuracy: 82 },
+            completedArticles: new Set(),
+            studyStats: { days: 47, wordsLearned: 0, questionsDone: 0, accuracy: 0 },
+        };
+
+        let currentArticleData = null; // 存储当前正在阅读的真实 JSON 数据
+
+        // 本地简易词典回退方案（当单词太偏僻时使用）
+        const fallbackDictionary = {
+            'artificial': { phonetic: '/ˌɑːrtɪˈfɪʃl/', meanings: [{ pos: 'adj.', def: '人工的；人造的' }] },
+            'intelligence': { phonetic: '/ɪnˈtelɪdʒəns/', meanings: [{ pos: 'n.', def: '智力；智慧' }] }
         };
 
         function getDictionaryEntry(word) {
             const lower = word.toLowerCase().replace(/[^a-z]/g, '');
-            return mockDictionary[lower] || mockDictionary[word] || null;
+            // 在实际项目中，这里可以替换为请求真实的查词 API
+            return fallbackDictionary[lower] || fallbackDictionary[word] || null;
         }
 
         function showToast(type, message) {
@@ -1285,6 +434,43 @@
             }, 2500);
         }
 
+        // ==========================================
+        // 3. 核心功能：数据加载与渲染
+        // ==========================================
+
+        // 动态加载对应年份的 JSON 文件
+        async function selectArticle(id) {
+            state.currentArticleId = id;
+            state.selectedSentenceId = null;
+            state.answeredQuestions = {};
+
+            const article = mockArticles.find(a => a.id === id);
+            if (!article) return;
+
+            try {
+                showToast('info', `正在加载真题数据...`);
+                // 动态向 data 文件夹请求 JSON
+                const response = await fetch(`data/${article.filename}.json`);
+                if (!response.ok) throw new Error("Network response was not ok");
+
+                currentArticleData = await response.json();
+
+                // 记录为已完成
+                state.completedArticles.add(id);
+
+                renderArticleList();
+                renderArticle();
+                renderAnalysis();
+                renderProgress();
+                closePopover();
+            } catch (error) {
+                console.error("Fetch error: ", error);
+                showToast('danger', '加载失败！请确保你已经将 JSON 放入了 data 文件夹并推送到 GitHub。');
+                document.getElementById('article-content').innerHTML = '<div style="text-align:center; padding: 20px; color: var(--danger);">数据加载失败，请检查文件路径或网络。</div>';
+            }
+        }
+
+        // 渲染侧边栏年份
         function renderYearSelector() {
             const years = [...new Set(mockArticles.map(a => a.year))].sort((a, b) => b - a);
             const container = document.getElementById('year-selector');
@@ -1304,6 +490,7 @@
             renderArticleList();
         }
 
+        // 渲染侧边栏文章列表
         function renderArticleList() {
             const filtered = mockArticles.filter(a =>
                 a.year === state.currentYear && (state.articleFilter === 'all' || a.type === state.articleFilter)
@@ -1319,51 +506,47 @@
                 const isActive = a.id === state.currentArticleId;
                 return `<li class="article-item ${isActive ? 'active' : ''}" onclick="selectArticle(${a.id})">
                             <span class="status-dot ${statusClass}"></span>
-                            ${a.title}
+                            ${a.title.substring(0, 18)}...
                         </li>`;
             }).join('');
         }
 
-        function selectArticle(id) {
-            state.currentArticleId = id;
-            state.selectedSentenceId = null;
-            state.answeredQuestions = {};
-            renderArticleList();
-            renderArticle();
-            renderQuestions();
-            renderAnalysis();
-            closePopover();
-        }
-
+        // 核心渲染：利用 NLP 真实数据渲染长难句与查词高亮
         function renderArticle() {
-            const article = mockArticles.find(a => a.id === state.currentArticleId);
-            document.getElementById('reading-title').textContent = `${article.year}年考研英语二真题 - ${article.title}`;
-            document.getElementById('word-count').textContent = `📊 约${article.wordCount}词`;
+            if (!currentArticleData) return;
+
+            document.getElementById('reading-title').textContent = currentArticleData.title;
+
+            // 简单统计单词量
+            let totalWords = 0;
+            currentArticleData.paragraphs.forEach(p => p.sentences.forEach(s => totalWords += s.tokens.length));
+            document.getElementById('word-count').textContent = `📊 约 ${totalWords} 词`;
+
             document.getElementById('reading-panel').style.display = 'block';
 
             const contentDiv = document.getElementById('article-content');
             contentDiv.innerHTML = '';
 
-            mockParagraphs.forEach((para, pIndex) => {
+            currentArticleData.paragraphs.forEach((para) => {
                 const paraDiv = document.createElement('div');
                 paraDiv.className = 'paragraph';
-                paraDiv.id = `para-${para.id}`;
+                paraDiv.id = `para-${para.paragraph_id}`;
 
                 const label = document.createElement('div');
                 label.className = 'paragraph-label';
-                label.textContent = `📑 ${para.label}`;
+                label.textContent = `📑 ${para.label || para.paragraph_id}`;
                 label.onclick = () => {
                     paraDiv.querySelectorAll('.sentence-block').forEach((el, i) => {
                         el.classList.toggle('active', i === 0);
                     });
-                    showToast('info', `已定位到${para.label}`);
                 };
                 paraDiv.appendChild(label);
 
-                para.sentences.forEach((sent, sIndex) => {
+                para.sentences.forEach((sent) => {
                     const sentDiv = document.createElement('div');
                     sentDiv.className = `sentence-block ${sent.id === state.selectedSentenceId ? 'active' : ''}`;
                     sentDiv.id = `sentence-${sent.id}`;
+
                     sentDiv.onclick = (e) => {
                         if (e.target.classList.contains('clickable-word')) return;
                         state.selectedSentenceId = sent.id;
@@ -1374,23 +557,24 @@
 
                     const textDiv = document.createElement('div');
                     textDiv.className = 'sentence-text';
+
+                    // 将 spaCy 拆解的 token 渲染成可点击的单词，词根绑定到点击事件
                     if (state.mode === 'original' || state.mode === 'bilingual' || state.mode === 'sentence') {
-                        const words = sent.text.split(/\s+/);
-                        const tokens = [];
-                        words.forEach((w) => {
-                            const clean = w.replace(/[^a-zA-Z'-]/g, '');
-                            const punct = w.replace(/[a-zA-Z'-]/g, '');
-                            if (clean) {
-                                tokens.push(`<span class="clickable-word" data-word="${clean}" data-sentence="${sent.id}" onclick="wordClick(event, '${clean}', '${sent.id}')">${clean}</span>${punct} `);
+                        let tokensHtml = '';
+                        sent.tokens.forEach(token => {
+                            if (!token.is_punct) {
+                                // 传 token.lemma 给字典
+                                tokensHtml += `<span class="clickable-word" data-word="${token.lemma}" data-sentence="${sent.id}" onclick="wordClick(event, '${token.lemma}', '${sent.id}')">${token.word}</span>${token.space_after}`;
                             } else {
-                                tokens.push(w + ' ');
+                                tokensHtml += `${token.word}${token.space_after}`;
                             }
                         });
-                        textDiv.innerHTML = tokens.join('');
+                        textDiv.innerHTML = tokensHtml;
                     }
                     sentDiv.appendChild(textDiv);
 
-                    if (state.translationOn && (state.mode === 'bilingual' || state.mode === 'translation' || state.mode === 'sentence')) {
+                    // 渲染中文翻译
+                    if (state.translationOn && sent.translation && (state.mode === 'bilingual' || state.mode === 'translation' || state.mode === 'sentence')) {
                         const transDiv = document.createElement('div');
                         transDiv.className = 'sentence-translation';
                         transDiv.textContent = '💡 ' + sent.translation;
@@ -1410,9 +594,18 @@
 
                     paraDiv.appendChild(sentDiv);
                 });
-
                 contentDiv.appendChild(paraDiv);
             });
+        }
+
+        function findSentence(id) {
+            if (!currentArticleData) return null;
+            for (const para of currentArticleData.paragraphs) {
+                for (const sent of para.sentences) {
+                    if (sent.id === id) return sent;
+                }
+            }
+            return null;
         }
 
         function renderAnalysis() {
@@ -1424,85 +617,47 @@
                 return;
             }
             const sentence = findSentence(state.selectedSentenceId);
-            if (!sentence || !sentence.analysis) {
-                container.innerHTML = '<div style="text-align:center;color:var(--text-muted);">暂无分析数据</div>';
-                return;
-            }
-            const a = sentence.analysis;
+            if (!sentence) return;
+
+            // 这里的 analysis 提取后续可以根据 PDF 格式进一步完善
+            const a = sentence.analysis || {};
             let html = '';
             html += `<div style="font-size:15px;font-weight:600;margin-bottom:12px;color:var(--text);">📝 原句：${sentence.text}</div>`;
-            html += '<div class="sentence-tree">';
-            if (a.subject && a.subject.length) html += `<div class="tree-level"><span class="tree-label">主语</span>${a.subject.map(s => `<span class="tree-token subject">${s}</span>`).join('')}</div>`;
-            if (a.verb && a.verb.length) html += `<div class="tree-level"><span class="tree-label">谓语</span>${a.verb.map(s => `<span class="tree-token verb">${s}</span>`).join('')}</div>`;
-            if (a.object && a.object.length) html += `<div class="tree-level"><span class="tree-label">宾语</span>${a.object.map(s => `<span class="tree-token object">${s}</span>`).join('')}</div>`;
-            if (a.clause && a.clause.length) html += `<div class="tree-level"><span class="tree-label">从句</span>${a.clause.map(s => `<span class="tree-token clause">${s}</span>`).join('')}</div>`;
-            if (a.modifier && a.modifier.length) html += `<div class="tree-level"><span class="tree-label">修饰</span>${a.modifier.map(s => `<span class="tree-token modifier">${s}</span>`).join('')}</div>`;
-            html += '</div>';
-            if (a.note) html += `<div class="analysis-note">📖 <strong>结构分析：</strong>${a.note}</div>`;
-            if (a.grammarTip) html += `<div class="grammar-tip">💡 <strong>语法要点：</strong>${a.grammarTip}</div>`;
+
+            // 如果 JSON 中存在被解析出来的结构
+            if (Object.keys(a).length > 0) {
+                html += '<div class="sentence-tree">';
+                if (a.subject && a.subject.length) html += `<div class="tree-level"><span class="tree-label">主语</span>${a.subject.map(s => `<span class="tree-token subject">${s}</span>`).join('')}</div>`;
+                if (a.verb && a.verb.length) html += `<div class="tree-level"><span class="tree-label">谓语</span>${a.verb.map(s => `<span class="tree-token verb">${s}</span>`).join('')}</div>`;
+                if (a.object && a.object.length) html += `<div class="tree-level"><span class="tree-label">宾语</span>${a.object.map(s => `<span class="tree-token object">${s}</span>`).join('')}</div>`;
+                if (a.clause && a.clause.length) html += `<div class="tree-level"><span class="tree-label">从句</span>${a.clause.map(s => `<span class="tree-token clause">${s}</span>`).join('')}</div>`;
+                if (a.modifier && a.modifier.length) html += `<div class="tree-level"><span class="tree-label">修饰</span>${a.modifier.map(s => `<span class="tree-token modifier">${s}</span>`).join('')}</div>`;
+                html += '</div>';
+                if (a.note) html += `<div class="analysis-note">📖 <strong>结构分析：</strong>${a.note}</div>`;
+                if (a.grammarTip) html += `<div class="grammar-tip">💡 <strong>语法要点：</strong>${a.grammarTip}</div>`;
+            } else {
+                html += '<div style="color:var(--text-muted); margin-top: 10px;">暂无该句的深度解析树，您可点击【问AI】进行智能解析。</div>';
+            }
+
             container.innerHTML = html;
             analysisPanel.style.display = 'block';
         }
 
-        function findSentence(id) {
-            for (const para of mockParagraphs) {
-                for (const sent of para.sentences) {
-                    if (sent.id === id) return sent;
-                }
-            }
-            return null;
-        }
-
+        // ==========================================
+        // 4. 其他 UI 逻辑与事件
+        // ==========================================
         function renderQuestions() {
+            // 后续接入真实的题目 JSON 数据
             const container = document.getElementById('questions-container');
-            container.innerHTML = '';
-            mockQuestions.forEach((q, qi) => {
-                const qDiv = document.createElement('div');
-                qDiv.className = 'question-item';
-                const userAnswer = state.answeredQuestions[q.id];
-                const isAnswered = userAnswer !== undefined;
-                const isCorrect = userAnswer === q.correct;
-                let optionsHtml = q.options.map((opt, oi) => {
-                    let cls = '';
-                    if (isAnswered) {
-                        if (oi === q.correct) cls = 'correct';
-                        if (oi === userAnswer && oi !== q.correct) cls = 'wrong';
-                    }
-                    const letter = String.fromCharCode(65 + oi);
-                    return `<div class="option-item ${cls}" onclick="answerQuestion('${q.id}', ${oi})">${letter}. ${opt.slice(2)}</div>`;
-                }).join('');
-                const showAnalysis = isAnswered;
-                qDiv.innerHTML = `
-                    <div class="question-text">${qi + 1}. ${q.text}</div>
-                    <div class="question-options">${optionsHtml}</div>
-                    <button class="toggle-analysis-btn" onclick="toggleQuestionAnalysis('${q.id}')">${showAnalysis ? '📖 收起解析' : '📖 查看解析'}</button>
-                    <div class="question-analysis" id="analysis-${q.id}" style="${showAnalysis ? 'display:block;' : 'display:none;'}">
-                        <strong>✅ 正确答案：</strong>${String.fromCharCode(65 + q.correct)}<br>
-                        <strong>📌 定位：</strong>${q.location}<br>
-                        <strong>📖 解析：</strong>${q.analysis}
-                    </div>
-                `;
-                container.appendChild(qDiv);
-            });
-        }
-
-        function answerQuestion(qid, oi) {
-            state.answeredQuestions[qid] = oi;
-            const q = mockQuestions.find(q => q.id === qid);
-            const isCorrect = oi === q.correct;
-            renderQuestions();
-            showToast(isCorrect ? 'success' : 'warning', isCorrect ? '✅ 回答正确！' : '❌ 回答错误，查看解析学习吧');
-        }
-
-        function toggleQuestionAnalysis(qid) {
-            const el = document.getElementById(`analysis-${qid}`);
-            if (el) el.style.display = el.style.display === 'none' ? 'block' : 'none';
+            container.innerHTML = '<div style="text-align: center; color: var(--text-muted); padding: 20px;">试题数据模块正在接入中...</div>';
         }
 
         function renderWordbook() {
             const list = document.getElementById('wordbook-list');
             const badge = document.getElementById('wordbook-badge');
             badge.textContent = state.wordbook.length;
+            document.getElementById('stats-words').textContent = state.wordbook.length;
+
             if (state.wordbook.length === 0) {
                 list.innerHTML = '<li style="text-align:center;color:var(--text-muted);font-size:13px;padding:16px;">暂无生词，点击文章中的单词添加</li>';
                 return;
@@ -1517,6 +672,7 @@
         }
 
         function renderProgress() {
+            if (mockArticles.length === 0) return;
             const progress = Math.round((state.completedArticles.size / mockArticles.length) * 100);
             const ringFg = document.getElementById('ring-fg');
             const ringPercent = document.getElementById('ring-percent');
@@ -1524,6 +680,7 @@
             const offset = circumference - (progress / 100) * circumference;
             ringFg.style.strokeDashoffset = offset;
             ringPercent.textContent = progress + '%';
+            document.getElementById('progress-text').textContent = `已完成 ${state.completedArticles.size} / ${mockArticles.length} 篇文章`;
         }
 
         function switchTab(btn, tab) {
@@ -1548,7 +705,7 @@
                 showToast('info', `生词本中有 ${state.wordbook.length} 个单词`);
                 renderWordbook();
             } else if (tab === 'stats') {
-                showToast('info', `学习统计：${state.studyStats.days}天 | ${state.studyStats.wordsLearned}个生词 | 正确率${state.studyStats.accuracy}%`);
+                showToast('info', `学习统计更新中...`);
             }
         }
 
@@ -1583,7 +740,7 @@
                 meaningsDiv.innerHTML = entry.meanings.map(m => `<div style="margin-bottom:4px;"><span class="word-pos">${m.pos}</span><span class="word-meaning">${m.def}</span></div>`).join('');
                 document.getElementById('pop-example').textContent = '📖 ' + (entry.example || '');
             } else {
-                meaningsDiv.innerHTML = '<div class="word-meaning">未找到该词释义，点击"问AI"获取帮助</div>';
+                meaningsDiv.innerHTML = '<div class="word-meaning" style="color:var(--warning);">词典库接入中... 💡 建议接入有道或扇贝 API</div>';
                 document.getElementById('pop-example').textContent = '';
             }
             const popWidth = 320;
@@ -1612,7 +769,7 @@
             const entry = getDictionaryEntry(state.selectedWord);
             const wordData = {
                 word: state.selectedWord,
-                meaning: entry ? entry.meanings[0]?.def || '未找到释义' : '未找到释义',
+                meaning: entry ? entry.meanings[0]?.def || '词义待更新' : '词义待更新',
                 phonetic: entry?.phonetic || '',
                 addedAt: new Date().toISOString(),
             };
@@ -1663,18 +820,7 @@
             const body = document.getElementById('ai-chat-body');
             body.innerHTML += `<div class="ai-message user">${message}</div>`;
             setTimeout(() => {
-                let response = '';
-                if (message.includes('定语从句') || message.includes('which') || message.includes('who')) {
-                    response = '定语从句（Attributive Clause）用于修饰名词或代词。常见引导词有：who（人）、which（物）、that（通用）、whose（所属）、when（时间）、where（地点）。例如："Manufacturers who embrace technology"中，who引导定语从句修饰Manufacturers。';
-                } else if (message.includes('状语') || message.includes('while') || message.includes('despite')) {
-                    response = '状语从句用于修饰主句中的动词、形容词或副词，表示时间、原因、条件、让步等。让步状语从句常用despite、although、while等引导。注意：despite后接名词或动名词，而although后接完整句子。';
-                } else if (message.includes('分词') || message.includes('ing')) {
-                    response = '现在分词（-ing形式）可作状语、定语或补语。作伴随状语时，其逻辑主语与主句主语一致。例如："creating opportunities while raising concerns"中，creating和raising都修饰主句主语。';
-                } else if (message.includes('主谓') || message.includes('句子结构')) {
-                    response = '英语基本句型：1) 主+谓(SV) 2) 主+谓+宾(SVO) 3) 主+谓+宾+宾(SVOO) 4) 主+谓+宾+宾补(SVOC) 5) 主+系+表(SVP)。长难句分析时，先找主谓宾，再分析从句和修饰成分。';
-                } else {
-                    response = `关于"${message}"的问题，建议从句子结构入手：先找主谓宾（SV O），再识别从句类型（定语从句、状语从句、名词性从句），最后分析修饰成分。需要具体分析某句话吗？点击句子后的"问AI"按钮即可。`;
-                }
+                const response = `关于"${message}"，你可以考虑接入 DeepSeek 接口来实现智能解答。`;
                 body.innerHTML += `<div class="ai-message bot">${response}</div>`;
                 body.scrollTop = body.scrollHeight;
             }, 600);
@@ -1689,30 +835,28 @@
             const body = document.getElementById('ai-chat-body');
             body.innerHTML += `<div class="ai-message user">请分析这句话的结构：${sentence.text}</div>`;
             setTimeout(() => {
-                let response = `这句话的结构分析如下：\n`;
-                if (sentence.analysis) {
-                    response += `• 主语：${sentence.analysis.subject?.join(', ') || '未标注'}\n`;
-                    response += `• 谓语：${sentence.analysis.verb?.join(', ') || '未标注'}\n`;
-                    response += `• 宾语：${sentence.analysis.object?.join(', ') || '未标注'}\n`;
-                    response += `• 从句：${sentence.analysis.clause?.join(', ') || '无'}\n`;
-                    response += `• 修饰语：${sentence.analysis.modifier?.join(', ') || '无'}\n`;
-                    response += `• 语法要点：${sentence.analysis.grammarTip || '无'}`;
-                } else {
-                    response = '暂无该句的详细分析数据。';
-                }
+                const response = '这里可以调用大模型 API (如 DeepSeek/文心一言) 返回该句的完整语法树与词汇讲解。';
                 body.innerHTML += `<div class="ai-message bot">${response}</div>`;
                 body.scrollTop = body.scrollHeight;
             }, 800);
         }
 
+        // ==========================================
+        // 5. 初始化入口
+        // ==========================================
         function init() {
             renderYearSelector();
             renderArticleList();
-            renderArticle();
+
+            // 如果数组里有文件名，就去加载第一篇
+            if (mockArticles.length > 0) {
+                selectArticle(mockArticles[0].id);
+            }
+
             renderQuestions();
-            renderAnalysis();
             renderWordbook();
             renderProgress();
+
             document.addEventListener('click', (e) => {
                 if (state.popoverVisible && !e.target.closest('.word-popover') && !e.target.closest('.clickable-word')) {
                     closePopover();
@@ -1728,7 +872,7 @@
                     toggleTranslation();
                 }
             });
-            showToast('success', '🎓 欢迎来到研英通！开始你的考研英语学习之旅吧');
+            showToast('success', '🎓 研英通初始化完成！');
         }
 
         init();
